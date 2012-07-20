@@ -1,0 +1,954 @@
+02-23 12:25:00.488   145 13249 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 12:25:02.445   145 13249 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 13:55:00.468   145 13720 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 13:55:02.382   145 13720 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 14:25:01.797   145 13815 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 14:25:03.703   145 13815 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+07-04 10:37:27.668   141 23565 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-04 11:36:54.421   141  7601 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4146b840com.google.android.music.MusicPlaybackService$8@4134ad70
+
+07-04 12:17:18.019   141   360 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-04 12:17:23.187   141   386 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-04 12:17:46.750   141   386 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-08 15:45:00.463   145 25205 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-08 15:45:02.404   145 25205 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+06-06 13:25:00.387  1908  7542 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4158db98
+
+06-06 13:25:02.332  1908  7542 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4158db98
+
+06-06 15:32:53.453  1908  8122 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4158db98
+
+07-06 08:55:00.675   141 10616 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-06 08:55:02.589   141 10616 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-06 09:10:16.566   141 10745 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+04-24 17:35:37.775   145   291 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-24 17:35:50.240   145   470 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-24 17:36:36.966   145   365 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-24 17:36:51.204   145   471 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-05 16:39:36.617   145  3206 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+05-30 10:25:00.341   144 24544 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415d22b8
+
+05-30 10:25:02.251   144 24544 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+05-30 10:25:11.899   144 24559 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+04-18 14:40:00.727   145  5525 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-18 14:40:02.641   145  5525 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-26 17:35:50.104   144  1041 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@413632d8
+
+04-26 17:35:55.952   144   356 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@413632d8
+
+04-26 17:36:03.089   144  1042 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@413632d8
+
+04-26 17:36:18.069   144  1041 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@413632d8
+
+04-26 17:37:12.065   144  1042 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@413632d8
+
+04-05 10:33:46.932   145 26532 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+02-21 17:40:18.312   145   157 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+02-21 17:40:24.207   145   145 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+02-21 18:07:14.597   145  3585 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-21 18:07:16.578   145  3585 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-21 18:07:23.632   145  3615 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-21 18:07:25.694   145  3615 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-21 18:07:28.089   145  3654 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+04-24 12:12:09.897   144  1389 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41578c40
+
+04-24 12:12:11.862   144  1389 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41578c40
+
+04-24 12:14:27.893   144  1409 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41578c40
+
+02-21 20:55:00.218   145  4718 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-21 20:55:02.121   145  4718 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+05-26 11:13:14.048   144  1137 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+05-26 11:13:25.466   144   144 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+03-12 16:28:44.678   144  1129 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4157e1c8
+
+03-12 16:28:46.592   144  1129 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4157e1c8
+
+06-01 12:55:00.572   144  7350 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415d22b8
+
+06-01 12:55:02.537   144  7350 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+06-01 13:52:38.326   144  7619 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+07-05 14:55:01.515   141  5169 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 14:55:03.429   141  5169 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 14:55:12.164   141  5179 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 15:55:01.105   141  5684 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 15:55:03.019   141  5684 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-04 08:55:01.777   141 23243 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-04 08:55:03.691   141 23243 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+03-12 16:38:06.237   144  1374 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4157e1c8
+
+05-23 11:27:26.599   144  1141 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+05-23 11:27:33.138   144   963 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-03 09:55:00.343   145  1292 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-03 09:55:02.254   145  1292 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-03 10:05:00.277   145  1392 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-03 10:05:00.589   145   145 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-03 10:05:10.972   145   157 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-03 11:06:41.418   145   383 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-03 11:07:06.121   145   157 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-03 11:07:25.089   145  1518 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-03 11:07:27.019   145  1518 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-03 11:29:27.326   145  1630 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+05-30 12:55:00.701   144 25945 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415d22b8
+
+05-30 12:55:02.658   144 25945 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+06-05 09:22:11.144   144   144 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+06-05 09:22:24.879   144   372 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+06-01 15:17:40.345   144  8538 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415d22b8
+
+06-01 15:17:42.256   144  8538 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+06-01 15:17:47.986   144  8549 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+04-18 15:55:01.506   145  5834 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-18 15:55:03.420   145  5834 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+07-03 08:55:00.453   141 10684 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 08:55:02.359   141 10684 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 09:16:39.988   141 10769 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+04-04 14:40:02.109   145 14748 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-04 14:40:03.918   145 14773 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-04 15:55:00.599   145 15695 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-04 15:55:02.533   145 15695 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+02-23 07:55:00.500   145 12035 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 07:55:02.425   145 12035 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 09:55:00.281   145 12577 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 09:55:02.214   145 12577 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 10:25:01.015   145 12695 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 10:25:02.945   145 12695 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 12:25:00.488   145 13249 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 12:25:02.445   145 13249 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 13:55:00.468   145 13720 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 13:55:02.382   145 13720 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 14:25:01.797   145 13815 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 14:25:03.703   145 13815 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+04-16 16:47:10.825   145 24737 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-03 15:25:00.502   145  4382 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-03 15:25:02.428   145  4382 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-03 16:14:44.367   145  4644 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+02-22 07:55:02.789   145  6225 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 07:55:04.718   145  6225 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 09:09:35.175   145  6334 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+04-10 09:55:00.739   145  7207 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-10 09:55:02.673   145  7207 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-09 15:55:00.341   145  1074 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-09 15:55:02.255   145  1074 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-05 13:25:00.831   145 29789 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-05 13:25:02.784   145 29789 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+07-05 11:21:30.005   141   153 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-05 11:22:10.570   141   546 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-05 11:33:22.203   141   386 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41438c58com.google.android.music.MusicPlaybackService$8@413363b8
+
+07-05 13:55:00.543   141  2160 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 13:55:02.461   141  2160 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 13:55:15.625   141  2166 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+03-31 13:16:47.320   144   328 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+03-31 13:17:10.823   144   483 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+05-30 18:44:38.220   144 28351 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415d22b8
+
+05-30 18:44:40.142   144 28351 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+07-05 11:10:40.109   141 32472 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 11:10:42.023   141 32472 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 11:10:47.683   141 32501 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 11:21:00.457   141   152 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-05 11:21:10.336   141   546 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-19 18:36:53.642   145   377 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-19 18:37:18.415   145  8981 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-09 14:40:00.624   145   884 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-09 14:40:02.550   145   884 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-05 14:25:00.356   145 30745 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-05 14:25:02.290   145 30745 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-05 15:24:11.632   145 31522 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+07-03 11:05:40.109   141 12577 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 11:05:42.019   141 12577 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 11:05:48.347   141 12588 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 11:07:30.765   141 12827 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 11:07:32.695   141 12827 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 11:34:05.332   141  6836 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4142ed88com.google.android.music.MusicPlaybackService$8@4139a608
+
+07-03 11:36:03.191   141 13504 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 11:36:05.058   141   785 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41639ea8com.google.android.music.MusicPlaybackService$8@41325d28
+
+04-02 15:55:00.494   144  6569 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41585610
+
+04-02 15:55:02.432   144  6569 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41585610
+
+04-02 16:04:26.596   144  6718 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41585610
+
+04-02 16:09:27.033   144  6843 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41585610
+
+04-02 16:09:28.955   144  6843 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41585610
+
+04-02 16:09:45.166   144  6856 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41585610
+
+04-18 11:55:01.049   145  4760 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-18 11:55:03.072   145  4760 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-18 13:14:31.446   145  5161 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-03 13:47:04.589   145  3539 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-03 13:47:06.504   145  3539 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-03 13:47:13.636   145  3572 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-27 11:40:01.025   144  6354 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4159d398
+
+04-27 11:40:02.963   144  6354 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4159d398
+
+04-27 13:55:00.632   144  6866 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4159d398
+
+04-27 13:55:00.714   144  6871 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4159d398
+
+04-27 13:55:02.636   144  6871 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4159d398
+
+07-03 16:56:54.019   141   363 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 16:58:27.965   141  1663 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 16:58:38.726   141   547 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 16:59:17.367   141  6836 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 17:00:11.465   141  7601 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-12 14:25:01.093   145 27440 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-12 14:25:02.999   145 27440 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+07-02 11:22:16.335   141   157 I AudioService:   Remote Control   registerMediaButtonIntent() for PendingIntent{415490e0: PendingIntentRecord{41582e68 android broadcastIntent}}
+
+04-04 11:55:01.405   145 11321 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-04 11:55:03.335   145 11321 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+02-21 15:29:05.839   163  1685 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4165bc00
+
+02-21 15:29:07.765   163  1685 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4165bc00
+
+02-21 15:29:54.804   163  1713 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4165bc00
+
+05-20 20:48:14.474   144  1591 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+05-20 20:48:14.877   144   400 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+05-20 20:48:17.978   144   964 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 13:55:01.586   141 15690 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 13:55:03.507   141 15690 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 14:02:18.022   141 15788 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 14:55:01.371   141 16828 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 14:55:03.336   141 16828 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 15:36:05.148   141 17043 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 08:55:01.777   141 29193 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 08:55:03.730   141 29193 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 08:57:08.332   141 29238 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 10:09:07.140   141 29886 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 10:09:09.089   141 29886 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 10:09:15.066   141 29916 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+04-16 14:40:00.448   145 24118 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-16 14:40:02.358   145 24118 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-16 15:55:00.484   145 24374 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-16 15:55:02.391   145 24374 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-12 20:38:58.577   145   301 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-12 23:55:00.210   145  3590 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-12 23:55:02.136   145  3590 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+07-02 16:41:04.300   141  6264 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-02 16:55:00.664   141  6526 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-02 16:55:02.589   141  6526 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-02 17:03:19.461   141  6564 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-02 21:26:05.961   141  7774 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-02 21:26:07.882   141  7774 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-02 21:33:30.011   141  7832 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+05-29 15:25:00.625   144 19861 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415d22b8
+
+05-29 15:25:02.567   144 19861 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+04-13 15:55:00.462   145  7527 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-13 15:55:02.387   145  7527 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-13 20:56:37.466   145  8925 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-13 20:56:37.716   145   156 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-13 20:56:49.563   145   528 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-23 13:19:03.059   145  4751 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-23 14:40:01.476   145  5616 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-23 14:40:03.406   145  5616 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+02-22 13:55:00.373   145  7686 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 13:55:02.276   145  7686 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 14:05:02.156   145  7803 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 14:40:00.445   145  7909 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 14:40:02.363   145  7909 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 15:55:00.304   145  8073 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 15:55:02.203   145  8073 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+04-20 15:55:01.398   145 19677 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-20 15:55:03.355   145 19677 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-20 16:05:05.037   145 19868 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-20 16:05:05.412   145   301 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-20 16:05:09.963   145   157 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-20 17:27:23.117   145 30949 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-20 17:27:30.304   145   377 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-17 09:55:00.483   145 28949 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-17 09:55:02.421   145 28949 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-27 16:39:58.723   144  7203 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4159d398
+
+04-27 16:40:00.645   144  7203 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4159d398
+
+07-04 22:30:26.976   141   786 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-04 22:30:48.523   141  9685 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 10:32:22.215   141   546 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 10:32:33.445   141  6836 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 10:33:07.555   141   363 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 10:33:29.953   141  6836 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 10:34:08.609   141 12150 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 10:34:10.550   141 12150 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 10:34:18.546   141 12182 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+04-19 15:07:10.037   145 11285 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-19 15:53:04.034   145  8981 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-19 15:53:09.705   145 30951 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-19 15:53:11.139   145 30949 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+05-31 12:55:01.818   144   854 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415d22b8
+
+05-31 12:55:03.790   144   854 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+07-04 21:52:53.226   141   498 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-04 21:52:59.125   141   386 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-04 21:53:22.886   141   153 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-04 21:53:46.810   141   386 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-04 21:55:16.695   141   152 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-04 21:57:13.918   141   546 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-04 21:57:48.070   141  7601 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-20 14:40:00.445   145 17839 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-20 14:40:02.375   145 17839 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-12 19:36:50.025   145   157 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-12 19:36:56.244   145   347 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-12 20:38:45.694   145   377 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-11 11:55:00.800   145 17510 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-11 11:55:02.890   145 17510 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-11 14:40:00.695   145 18407 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-11 14:40:02.625   145 18407 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-12 11:55:02.275   145 26200 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-12 11:55:04.228   145 26200 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-12 12:25:00.595   145 26434 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-12 12:25:02.521   145 26434 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-12 12:57:51.884   145 26666 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-12 13:25:00.601   145 27306 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-12 13:25:02.531   145 27306 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-15 15:45:00.514   145 18837 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-15 15:45:02.428   145 18837 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-24 12:21:09.644   144   338 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@416911d0
+
+04-24 12:21:12.261   144   155 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@416911d0
+
+04-24 12:21:14.023   144   293 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41639688
+
+04-24 12:21:29.191   144   155 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41639688
+
+04-24 12:21:50.082   144   430 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41639688
+
+04-24 12:21:54.445   144   293 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41639688
+
+04-24 12:21:56.195   144   338 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41639688
+
+04-24 12:22:23.332   144  1079 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41639688
+
+04-24 12:22:27.566   144   415 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41639688
+
+04-24 12:22:54.156   144   430 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41639688
+
+04-24 12:22:55.804   144   144 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41639688
+
+04-24 12:22:58.511   144  1081 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41639688
+
+02-22 09:55:00.218   145  6562 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 09:55:02.136   145  6562 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 10:25:00.257   145  6668 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 10:25:02.175   145  6668 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-21 17:28:10.071   145  1570 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-21 17:28:12.001   145  1570 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-21 17:28:31.571   145  1701 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+05-15 11:18:04.417   144  1669 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415d22b8
+
+05-15 11:18:06.577   144  1669 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+04-11 15:35:39.918   145 18655 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-11 15:35:40.992   145  1380 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-11 15:36:04.773   145  3206 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-11 15:55:02.066   145 18729 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-11 15:55:03.976   145 18729 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-11 16:03:19.652   145 18818 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-11 16:03:21.660   145 18818 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-11 16:03:26.601   145 18873 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-02 14:40:00.565   144  6276 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41585610
+
+04-02 14:40:02.514   144  6276 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41585610
+
+04-17 15:55:00.820   145 31350 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-17 15:55:02.754   145 31350 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+07-02 14:55:00.820   141  4814 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-02 14:55:02.738   141  4814 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-02 15:17:09.625   141  5090 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-02 15:35:45.265   141   360 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@413cb0f0com.google.android.music.MusicPlaybackService$8@413c6ec8
+
+07-02 15:55:00.875   141  5810 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-02 15:55:02.785   141  5810 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+04-19 09:55:00.692   145  9862 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-19 09:55:02.634   145  9862 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-19 12:25:00.586   145 10502 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-19 12:25:02.532   145 10502 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+05-02 14:38:34.550   144   144 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+05-02 14:38:46.573   144   156 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-05 16:24:58.320   141  6402 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 16:24:58.976   141   287 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-05 16:25:04.875   141  7601 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-05 16:25:24.718   141   287 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-05 16:25:49.285   141  6836 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-05 16:25:50.183   141   141 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-05 16:26:14.972   141  1663 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-05 16:26:39.871   141  8421 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-05 16:27:05.422   141  9685 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-05 16:27:29.183   141   363 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-05 16:55:00.648   141  7127 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 16:55:02.558   141  7127 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-05 17:25:43.168   141  7342 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+04-25 08:49:37.788   145   854 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-25 08:49:53.163   145   157 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-25 08:55:00.276   145  2593 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4159d3f0
+
+04-25 08:55:02.201   145  2593 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4159d3f0
+
+04-25 09:01:49.819   145  2649 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4159d3f0
+
+04-25 11:40:00.577   145  3094 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4159d3f0
+
+04-25 11:40:02.487   145  3094 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4159d3f0
+
+04-25 14:33:18.934   145  3695 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4159d3f0
+
+06-07 12:55:02.054   144  6242 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41397fb0
+
+06-07 12:55:03.999   144  6242 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41397fb0
+
+06-07 13:55:00.284   144  6533 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41397fb0
+
+06-07 13:55:02.214   144  6533 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41397fb0
+
+06-07 14:55:00.308   144  6851 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41397fb0
+
+06-07 14:55:02.233   144  6851 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41397fb0
+
+06-07 16:22:40.897   144  7226 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41397fb0
+
+06-07 16:22:41.174   144   531 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+06-07 16:22:55.370   144   533 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+05-26 14:16:07.190   144  1137 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+05-26 14:16:11.206   144 23698 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-22 15:45:00.520   145 31406 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-22 15:45:02.441   145 31406 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-19 13:25:00.434   145 10767 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-19 13:25:02.344   145 10767 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-19 14:25:00.407   145 11146 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-19 14:25:02.513   145 11146 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+05-15 11:55:00.527   144  2323 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415d22b8
+
+05-15 11:55:02.472   144  2323 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+05-15 12:25:00.339   144  2553 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415d22b8
+
+05-15 12:25:02.269   144  2553 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+05-15 12:55:00.543   144  2711 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415d22b8
+
+05-15 12:55:02.464   144  2711 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+05-15 14:55:00.444   144  3343 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415d22b8
+
+05-15 14:55:02.370   144  3343 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+04-06 14:40:49.850   145  8097 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-06 14:40:51.780   145  8097 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-06 15:55:00.340   145  8354 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-06 15:55:02.258   145  8354 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-27 18:34:58.696   144  7810 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4159d398
+
+02-22 16:47:03.226   145  8360 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 16:47:03.488   145   145 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+02-22 16:47:27.918   145  3250 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+02-22 16:48:18.336   145  8377 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 16:48:20.246   145  8377 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 18:37:18.078   145  8933 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 20:55:00.320   145  9461 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 20:55:02.226   145  9461 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 20:55:01.738   145 15708 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 20:55:03.664   145 15708 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+04-24 09:55:01.801   145 11032 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-24 09:55:03.781   145 11032 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-24 10:14:58.063   145 11089 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+02-21 15:29:05.839   163  1685 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4165bc00
+
+02-21 15:29:07.765   163  1685 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4165bc00
+
+02-21 15:29:54.804   163  1713 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4165bc00
+
+06-08 09:53:48.333   144   397 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+06-08 09:53:57.782   144   531 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+02-21 18:22:31.443   145  4209 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-21 18:22:33.384   145  4209 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-21 18:26:14.240   145  4269 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-21 18:28:54.582   145  4382 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-21 18:28:56.496   145  4382 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-21 18:55:42.394   145  4466 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 16:47:03.226   145  8360 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 16:47:03.488   145   145 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+02-22 16:47:27.918   145  3250 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+02-22 16:48:18.336   145  8377 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 16:48:20.246   145  8377 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 18:37:18.078   145  8933 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 20:55:00.320   145  9461 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 20:55:02.226   145  9461 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+07-03 15:55:01.445   141 17976 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 15:55:03.402   141 17976 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 16:20:05.846   141 18104 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 16:20:06.674   141   785 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 16:20:18.260   141   547 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 16:21:26.515   141 18162 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 16:21:28.422   141 18162 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 16:53:15.750   141 18891 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 16:53:29.058   141   141 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 16:54:02.664   141   153 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 16:54:08.523   141   498 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 16:54:19.117   141   547 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 16:54:49.203   141   363 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 16:54:59.847   141   153 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 16:55:00.461   141 19028 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 16:55:02.402   141 19028 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 16:55:02.543   141 19034 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-03 16:55:09.609   141  7601 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-03 16:55:14.964   141   386 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-02 11:33:07.476   141   498 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4145c580com.google.android.music.MusicPlaybackService$8@4135c8d8
+
+07-02 13:55:01.390   141  3059 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-02 13:55:03.308   141  3059 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-02 13:55:13.207   141  3085 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+04-02 10:55:00.652   144  4009 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41585610
+
+04-02 10:55:00.711   144  4008 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41585610
+
+04-02 11:02:20.877   144   317 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-02 11:02:59.053   144  1174 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-05 20:53:05.906   141   153 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@413ef528
+
+07-05 20:53:23.621   141  9685 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@413ef528
+
+07-05 20:53:27.859   141  9685 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41488200
+
+07-05 20:53:39.742   141   546 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41488200
+
+06-01 09:25:00.615   144  6352 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415d22b8
+
+06-01 09:25:02.572   144  6352 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+04-17 14:55:00.272   145 30494 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-17 14:55:02.194   145 30494 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-17 15:15:12.169   145 30589 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-13 14:40:00.297   145  7073 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-13 14:40:02.211   145  7073 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-05 15:25:00.632   145 31879 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593480
+
+04-05 15:25:02.742   145 31879 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-05 15:25:03.507   145 31894 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593480
+
+04-05 16:38:38.257   145   299 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+04-05 16:38:41.085   145   157 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+02-22 13:55:00.373   145  7686 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 13:55:02.276   145  7686 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 14:05:02.156   145  7803 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 14:40:00.445   145  7909 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 14:40:02.363   145  7909 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 15:55:00.304   145  8073 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-22 15:55:02.203   145  8073 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+04-23 15:55:00.355   145  5983 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@41584b68
+
+04-23 15:55:02.285   145  5983 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+04-23 16:24:48.117   145  6117 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41584b68
+
+07-04 12:33:19.285   141   287 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-04 12:33:29.711   141   360 I AudioService:  AudioFocus  requestAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-04 12:33:36.300   141  7601 I AudioService:  AudioFocus  abandonAudioFocus() from AudioFocus_For_Phone_Ring_And_Calls
+
+07-04 13:55:00.535   141 25241 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-04 13:55:02.445   141 25241 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-04 13:55:24.773   141 25247 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-04 14:55:00.394   141 25413 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-04 14:55:02.316   141 25413 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-04 16:55:00.718   141 25887 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415dc318
+
+07-04 16:55:02.699   141 25887 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+07-04 16:55:09.683   141 25893 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415dc318
+
+02-23 07:55:00.500   145 12035 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 07:55:02.425   145 12035 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 09:55:00.281   145 12577 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 09:55:02.214   145 12577 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 10:25:01.015   145 12695 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 10:25:02.945   145 12695 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+05-30 13:57:25.885   144 26467 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415d22b8
+
+02-23 12:25:00.488   145 13249 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 12:25:02.445   145 13249 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 13:55:00.468   145 13720 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 13:55:02.382   145 13720 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 14:25:01.797   145 13815 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@4153df68
+
+02-23 14:25:03.703   145 13815 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4153df68
+

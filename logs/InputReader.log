@@ -1,0 +1,1274 @@
+02-23 15:16:53.050   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-23 15:16:53.050   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+02-23 15:17:54.644   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-23 15:17:54.644   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+07-04 12:17:21.035   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 245.150ms.  keyCode=84, scanCode=217
+
+07-04 12:17:21.445   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 239.044ms.  keyCode=3, scanCode=102
+
+07-04 12:17:21.445   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=84, scanCode=217
+
+07-04 12:17:24.199   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+02-21 17:17:10.097   145   181 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+02-21 17:17:10.097   145   181 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+02-21 17:17:10.097   145   181 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+02-21 17:17:10.097   145   181 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+02-21 17:17:10.128   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-21 17:17:10.128   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+07-06 08:20:44.312   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-06 08:20:44.312   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-06 08:20:46.109   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-06 08:20:46.109   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-06 09:20:20.511   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-06 09:20:20.511   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-06 09:20:25.281   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-06 09:20:25.281   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 10:25:41.535   141   177 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 10:25:41.535   141   177 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 10:25:43.305   141   177 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 10:25:43.305   141   177 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 10:26:25.383   141   177 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 10:26:25.383   141   177 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 10:26:27.156   141   177 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 10:26:27.156   141   177 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 10:26:54.406   141   177 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 10:26:54.406   141   177 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 10:26:56.762   141   177 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 10:26:56.762   141   177 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 10:27:13.777   141   177 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 235.376ms.  keyCode=3, scanCode=102
+
+07-02 10:27:13.910   141   177 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+07-02 10:27:59.305   141   177 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 10:27:59.305   141   177 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 10:28:02.301   141   177 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 10:28:02.301   141   177 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+04-24 19:18:46.640   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 123.576ms.  keyCode=82, scanCode=139
+
+04-24 19:18:46.773   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+04-18 14:43:12.985   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 232.797ms.  keyCode=3, scanCode=102
+
+04-18 14:43:13.294   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-18 14:43:13.438   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 240.292ms.  keyCode=3, scanCode=102
+
+04-18 14:43:13.524   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-18 14:43:13.903   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 116.153ms.  keyCode=4, scanCode=158
+
+04-18 14:43:14.067   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+01-04 05:17:35.765   144   181 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+01-04 05:17:35.765   144   181 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+01-04 05:17:35.765   144   181 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+01-04 05:17:35.765   144   181 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+01-04 05:17:35.835   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+01-04 05:17:35.835   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+01-01 21:25:23.523   144   182 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+01-01 21:25:23.523   144   182 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+01-01 21:25:23.523   144   182 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+01-01 21:25:23.523   144   182 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+01-01 21:25:23.601   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+01-01 21:25:23.601   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-26 17:31:56.253   144   182 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 244.878ms.  keyCode=82, scanCode=139
+
+04-26 17:31:56.300   144   182 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+04-05 10:32:33.311   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-05 10:32:33.311   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-05 10:32:35.651   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-05 10:32:35.651   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-24 11:43:10.010   144   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 149.782ms.  keyCode=84, scanCode=217
+
+04-24 11:43:10.057   144   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=84, scanCode=217
+
+04-24 11:43:28.475   144   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 218.589ms.  keyCode=4, scanCode=158
+
+04-24 11:43:29.037   144   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+04-24 12:08:47.746   144   181 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+04-24 12:08:47.746   144   181 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+04-24 12:08:47.746   144   181 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+04-24 12:08:47.746   144   181 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+04-24 12:08:47.816   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-24 12:08:47.816   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-24 12:10:17.128   144   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 239.332ms.  keyCode=3, scanCode=102
+
+04-24 12:10:17.194   144   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+06-06 17:11:44.050   144   181 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+06-06 17:11:44.050   144   181 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+06-06 17:11:44.050   144   181 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+06-06 17:11:44.050   144   181 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+06-06 17:11:44.128   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+06-06 17:11:44.128   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+03-11 23:44:36.011   144   180 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+03-11 23:44:36.011   144   180 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+03-11 23:44:36.011   144   180 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+03-11 23:44:36.011   144   180 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+03-11 23:44:36.074   144   180 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+03-11 23:44:36.074   144   180 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+03-12 16:28:11.199   144   181 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+03-12 16:28:11.199   144   181 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+03-12 16:28:11.199   144   181 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+03-12 16:28:11.199   144   181 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+03-12 16:28:11.292   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+03-12 16:28:11.292   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-26 17:47:30.164   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-26 17:47:30.168   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-26 17:47:31.801   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-26 17:47:31.801   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-26 19:47:57.562   144   182 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 237.911ms.  keyCode=3, scanCode=102
+
+04-26 19:47:57.738   144   182 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+06-01 13:53:36.221   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+06-01 13:53:36.221   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+06-01 13:53:40.603   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+06-01 13:53:40.603   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+07-05 14:24:26.570   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-05 14:24:26.570   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-05 14:24:28.281   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-05 14:24:28.281   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-05 14:26:35.832   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-05 14:26:35.832   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-05 14:26:37.582   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-05 14:26:37.582   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+03-12 16:33:45.960   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+03-12 16:33:45.960   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+03-12 16:34:03.788   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+03-12 16:34:03.788   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+03-12 16:34:04.706   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+03-12 16:34:04.706   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+03-12 16:40:13.018   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+03-12 16:40:13.018   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+03-12 16:40:25.370   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+03-12 16:40:25.370   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-02 18:19:44.721   144   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 250.115ms.  keyCode=3, scanCode=102
+
+04-02 18:19:44.839   144   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-03 10:01:00.320   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 242.339ms.  keyCode=4, scanCode=158
+
+04-03 10:01:00.671   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+04-03 10:02:30.112   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-03 10:02:30.112   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-03 10:02:52.457   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-03 10:02:52.457   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-03 11:17:29.011   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-03 11:17:29.011   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-03 11:18:30.937   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-03 11:18:30.937   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+06-01 14:13:07.466   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+06-01 14:13:07.466   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+06-01 14:13:10.884   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+06-01 14:13:10.884   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+07-03 08:20:24.886   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 163.674ms.  keyCode=3, scanCode=102
+
+07-03 08:20:24.984   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+07-03 08:20:35.523   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 08:20:35.523   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 08:20:38.632   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 08:20:38.632   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 08:20:59.839   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 08:20:59.839   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 08:21:02.156   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 08:21:02.156   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 09:10:05.277   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 09:10:05.277   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 09:10:11.015   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 09:10:11.015   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+06-05 19:07:21.840  1908  1945 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+06-05 19:07:21.840  1908  1945 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+06-05 19:07:21.840  1908  1945 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+06-05 19:07:21.840  1908  1945 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+06-05 19:07:21.918  1908  1945 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+06-05 19:07:21.918  1908  1945 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-03 12:21:35.405   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 248.152ms.  keyCode=82, scanCode=139
+
+04-03 12:21:35.452   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+04-03 12:21:36.636   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 239.678ms.  keyCode=4, scanCode=158
+
+04-03 12:21:36.968   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+04-03 12:47:48.609   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 243.061ms.  keyCode=4, scanCode=158
+
+04-03 12:47:48.793   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+04-03 12:47:48.976   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 231.454ms.  keyCode=3, scanCode=102
+
+04-03 12:47:49.734   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-03 12:47:55.472   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-03 12:47:55.472   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-03 12:47:59.086   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-03 12:47:59.086   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-03 12:53:44.197   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 73.587ms.  keyCode=3, scanCode=102
+
+04-03 12:53:44.458   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-03 12:53:45.197   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 109.048ms.  keyCode=82, scanCode=139
+
+04-03 12:53:46.005   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+04-03 12:53:46.200   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 235.538ms.  keyCode=3, scanCode=102
+
+04-03 12:53:46.497   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-03 12:53:46.911   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 236.803ms.  keyCode=3, scanCode=102
+
+04-03 12:53:47.767   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-03 12:53:49.736   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 242.265ms.  keyCode=82, scanCode=139
+
+04-03 12:53:49.822   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+04-03 12:55:46.993   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 234.853ms.  keyCode=4, scanCode=158
+
+04-03 12:55:47.255   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+04-03 12:55:47.353   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 207.046ms.  keyCode=82, scanCode=139
+
+04-03 12:55:47.997   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+04-03 12:55:48.411   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 235.402ms.  keyCode=4, scanCode=158
+
+04-03 12:55:48.790   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+04-03 12:55:50.255   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 235.309ms.  keyCode=82, scanCode=139
+
+04-03 12:55:51.822   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+02-23 15:16:53.050   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-23 15:16:53.050   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+02-23 15:17:54.644   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-23 15:17:54.644   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+01-01 05:24:51.484   144   182 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+01-01 05:24:51.484   144   182 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+01-01 05:24:51.484   144   182 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+01-01 05:24:51.484   144   182 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+01-01 05:24:51.558   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+01-01 05:24:51.558   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-05 13:04:00.754   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 204.587ms.  keyCode=3, scanCode=102
+
+04-05 13:04:01.067   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+07-05 11:39:08.582   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 248.855ms.  keyCode=84, scanCode=217
+
+07-05 11:39:09.164   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=84, scanCode=217
+
+07-05 12:43:16.445   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 230.615ms.  keyCode=3, scanCode=102
+
+07-05 12:43:16.640   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+07-02 21:38:26.496   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 21:38:26.496   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 21:38:26.996   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 21:38:26.996   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 22:55:13.660   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 238.883ms.  keyCode=3, scanCode=102
+
+07-02 22:55:14.019   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-24 13:21:56.961   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-24 13:21:56.961   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-24 13:21:57.730   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-24 13:21:57.730   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-24 13:35:34.074   144   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 243.202ms.  keyCode=84, scanCode=217
+
+04-24 13:35:34.191   144   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=84, scanCode=217
+
+04-24 13:36:33.617   144   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 241.504ms.  keyCode=82, scanCode=139
+
+04-24 13:36:33.730   144   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+07-05 11:10:45.636   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 240.962ms.  keyCode=3, scanCode=102
+
+07-05 11:10:45.699   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+07-05 11:21:15.755   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 242.050ms.  keyCode=3, scanCode=102
+
+07-05 11:21:15.888   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-09 13:55:08.218   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 236.612ms.  keyCode=3, scanCode=102
+
+04-09 13:55:08.285   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-05 14:32:31.094   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 245.910ms.  keyCode=82, scanCode=139
+
+04-05 14:32:31.208   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+04-05 14:32:31.454   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 241.979ms.  keyCode=82, scanCode=139
+
+04-05 14:32:31.571   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+07-03 11:06:16.882   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 11:06:16.882   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 11:06:19.281   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 11:06:19.281   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 11:37:19.953   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 11:37:19.953   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 11:37:20.500   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 11:37:20.500   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+05-02 20:46:02.171   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 20:46:02.171   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+05-02 20:46:05.691   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 20:46:05.691   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+05-02 20:46:15.179   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 20:46:15.179   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+05-02 20:46:18.238   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 20:46:18.238   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-12 16:08:11.796   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 242.326ms.  keyCode=3, scanCode=102
+
+04-12 16:08:11.898   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+07-02 11:21:04.340   141   177 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 11:21:04.340   141   177 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 11:21:05.773   141   177 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 11:21:05.773   141   177 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 11:22:15.859   141   178 I InputReader:   Touch device &#39;mxt224_ts_input&#39; could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+07-02 11:22:15.859   141   178 I InputReader: Device added: id=7, name=&#39;mxt224_ts_input&#39;, sources=0x00001002
+
+07-02 11:22:15.859   141   178 I InputReader: Device added: id=5, name=&#39;herring-keypad&#39;, sources=0x00000101
+
+07-02 11:22:15.859   141   178 I InputReader: Device added: id=2, name=&#39;cypress-touchkey&#39;, sources=0x00000101
+
+07-02 11:22:15.914   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 11:22:15.914   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+02-21 15:30:22.023   163   217 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-21 15:30:22.023   163   217 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+02-21 15:30:25.394   163   217 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-21 15:30:25.394   163   217 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+05-02 21:14:43.500   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 21:14:43.500   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+05-02 21:14:58.281   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 21:14:58.281   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+07-03 14:07:09.050   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 14:07:09.050   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 14:07:13.254   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 14:07:13.254   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 15:39:04.984   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 245.037ms.  keyCode=3, scanCode=102
+
+07-03 15:39:05.316   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+07-03 15:40:52.812   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 246.107ms.  keyCode=3, scanCode=102
+
+07-03 15:40:53.367   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+07-03 15:41:00.144   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 227.386ms.  keyCode=4, scanCode=158
+
+07-03 15:41:00.211   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+07-05 08:57:20.746   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-05 08:57:20.746   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-05 08:57:20.765   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-05 08:57:20.765   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-05 09:05:04.316   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-05 09:05:04.316   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-05 09:05:13.898   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-05 09:05:13.898   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-05 09:15:13.906   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-05 09:15:13.906   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-05 09:15:17.629   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-05 09:15:17.629   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-05 09:15:19.277   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 108.710ms.  keyCode=3, scanCode=102
+
+07-05 09:15:19.523   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+07-05 10:02:10.836   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 243.366ms.  keyCode=3, scanCode=102
+
+07-05 10:02:10.949   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+05-02 12:42:34.689   144   182 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 32.346ms.  keyCode=3, scanCode=102
+
+05-02 12:42:34.763   144   182 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+05-02 12:55:28.123   144   182 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 234.148ms.  keyCode=3, scanCode=102
+
+05-02 12:55:28.271   144   182 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+05-02 13:00:50.126   144   182 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 246.496ms.  keyCode=4, scanCode=158
+
+05-02 13:00:50.490   144   182 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+05-02 13:12:24.357   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 13:12:24.357   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+07-02 16:40:55.601   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 235.718ms.  keyCode=3, scanCode=102
+
+07-02 16:40:55.836   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-03 13:30:32.904   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-03 13:30:32.904   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-03 13:31:16.349   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-03 13:31:16.349   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-03 13:35:40.786   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-03 13:35:40.786   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-03 13:35:46.927   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-03 13:35:46.927   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+12-31 19:00:46.347   145   181 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+12-31 19:00:46.347   145   181 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+12-31 19:00:46.347   145   181 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+12-31 19:00:46.347   145   181 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+12-31 19:00:46.453   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+12-31 19:00:46.453   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+12-31 19:00:47.011   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 176.222ms.  keyCode=82, scanCode=139
+
+12-31 19:00:47.058   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+12-31 19:00:47.160   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 27.244ms.  keyCode=82, scanCode=139
+
+12-31 19:00:47.210   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+12-31 19:00:48.160   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 179.689ms.  keyCode=3, scanCode=102
+
+12-31 19:00:48.492   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+12-31 19:00:49.738   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 161.987ms.  keyCode=3, scanCode=102
+
+12-31 19:00:50.167   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+12-31 19:00:51.320   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 129.729ms.  keyCode=84, scanCode=217
+
+12-31 19:00:51.664   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=84, scanCode=217
+
+04-12 16:23:39.390   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 112.905ms.  keyCode=84, scanCode=217
+
+04-12 16:23:39.472   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=84, scanCode=217
+
+04-12 16:24:57.070   145   181 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+04-12 16:24:57.070   145   181 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+04-12 16:24:57.070   145   181 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+04-12 16:24:57.070   145   181 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+04-12 16:24:57.144   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-12 16:24:57.144   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+02-21 16:12:41.315   163   217 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-21 16:12:41.315   163   217 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+02-21 16:12:58.885   163   217 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-21 16:12:58.885   163   217 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+02-21 17:12:10.191   155   210 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+02-21 17:12:10.191   155   210 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+02-21 17:12:10.191   155   210 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+02-21 17:12:10.191   155   210 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+02-21 17:12:10.691   155   210 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-21 17:12:10.691   155   210 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+07-03 21:45:50.507   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 21:45:50.507   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 21:45:59.824   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 21:45:59.824   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 21:49:29.098   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 21:49:29.098   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 21:49:33.911   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 21:49:33.911   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 23:09:15.961   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 23:09:15.961   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 23:09:37.336   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 23:09:37.336   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-04 22:29:32.425   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-04 22:29:32.425   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-04 22:29:32.679   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-04 22:29:32.679   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-04 22:30:31.738   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 245.180ms.  keyCode=82, scanCode=139
+
+07-04 22:30:31.847   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+07-04 22:30:32.570   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 240.691ms.  keyCode=82, scanCode=139
+
+07-04 22:30:35.882   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+07-04 22:30:35.918   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 238.466ms.  keyCode=82, scanCode=139
+
+07-04 22:30:36.000   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+07-04 22:30:38.148   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 207.641ms.  keyCode=4, scanCode=158
+
+07-04 22:30:39.433   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+07-04 22:30:58.308   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 236.555ms.  keyCode=4, scanCode=158
+
+07-04 22:30:59.000   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+07-04 22:31:01.949   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 249.080ms.  keyCode=4, scanCode=158
+
+07-04 22:31:02.742   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+07-04 22:31:02.941   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 66.038ms.  keyCode=4, scanCode=158
+
+07-04 22:31:03.089   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+07-04 22:31:03.679   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 195.956ms.  keyCode=4, scanCode=158
+
+07-04 22:31:05.886   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+07-04 22:31:08.304   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 238.589ms.  keyCode=4, scanCode=158
+
+07-04 22:31:09.066   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+07-04 22:31:09.199   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 205.889ms.  keyCode=4, scanCode=158
+
+07-04 22:31:09.265   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+07-04 22:31:09.789   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 233.453ms.  keyCode=4, scanCode=158
+
+07-04 22:31:11.011   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+07-04 22:31:11.289   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 193.138ms.  keyCode=4, scanCode=158
+
+07-04 22:31:12.015   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+07-04 22:31:12.789   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 240.433ms.  keyCode=4, scanCode=158
+
+07-04 22:31:13.547   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+07-04 22:31:14.531   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 223.098ms.  keyCode=4, scanCode=158
+
+07-04 22:31:15.027   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+07-04 22:31:16.027   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 234.614ms.  keyCode=4, scanCode=158
+
+07-04 22:31:16.488   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+07-04 22:31:16.586   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 10.689ms.  keyCode=82, scanCode=139
+
+07-04 22:31:17.773   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+07-04 22:31:17.906   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 1.678ms.  keyCode=82, scanCode=139
+
+07-04 22:31:17.976   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+05-03 09:57:30.644   144   182 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 225.588ms.  keyCode=82, scanCode=139
+
+05-03 09:57:30.726   144   182 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+07-02 14:12:45.070   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 14:12:45.070   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 14:12:46.500   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 14:12:46.500   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 14:13:06.500   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 14:13:06.500   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 14:13:09.453   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 14:13:09.453   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 14:13:14.640   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 14:13:14.640   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 14:13:26.824   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 14:13:26.824   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 14:13:39.296   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 14:13:39.296   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 14:13:43.519   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 14:13:43.519   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 14:13:49.296   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 14:13:49.296   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 14:14:01.972   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 14:14:01.972   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-02 14:14:16.894   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-02 14:14:16.894   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 10:32:49.759   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 247.266ms.  keyCode=84, scanCode=217
+
+07-03 10:32:49.841   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=84, scanCode=217
+
+07-03 10:32:49.891   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 114.770ms.  keyCode=3, scanCode=102
+
+07-03 10:32:49.938   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+07-03 10:34:16.117   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 245.968ms.  keyCode=3, scanCode=102
+
+07-03 10:34:16.328   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-19 15:11:49.419   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-19 15:11:49.419   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-19 15:11:53.540   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-19 15:11:53.540   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-19 15:53:06.721   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 235.055ms.  keyCode=3, scanCode=102
+
+04-19 15:53:06.912   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-19 15:53:07.061   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 242.337ms.  keyCode=84, scanCode=217
+
+04-19 15:53:07.342   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=84, scanCode=217
+
+07-04 18:33:30.589   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 230.416ms.  keyCode=4, scanCode=158
+
+07-04 18:33:30.882   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+07-04 18:33:31.000   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 236.385ms.  keyCode=4, scanCode=158
+
+07-04 18:33:31.179   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+07-04 18:33:33.492   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 211.303ms.  keyCode=82, scanCode=139
+
+07-04 18:33:34.976   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+07-04 21:52:57.027   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 245.525ms.  keyCode=3, scanCode=102
+
+07-04 21:52:57.090   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+01-01 05:46:13.488   145   181 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+01-01 05:46:13.488   145   181 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+01-01 05:46:13.488   145   181 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+01-01 05:46:13.488   145   181 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+01-01 05:46:13.570   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+01-01 05:46:13.570   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-20 14:56:08.876   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 248.312ms.  keyCode=3, scanCode=102
+
+04-20 14:56:09.204   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-12 12:57:44.509   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 248.965ms.  keyCode=3, scanCode=102
+
+04-12 12:57:44.693   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-12 13:01:48.783   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 242.167ms.  keyCode=3, scanCode=102
+
+04-12 13:01:49.064   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-24 11:27:25.385   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-24 11:27:25.385   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-24 11:27:28.608   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-24 11:27:28.608   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-24 11:36:15.566   145   181 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+04-24 11:36:15.566   145   181 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+04-24 11:36:15.566   145   181 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+04-24 11:36:15.566   145   181 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+04-24 11:36:15.644   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-24 11:36:15.644   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-24 11:36:18.437   145   181 I InputReader: Dropping key up from device herring-keypad because the key was not down.  keyCode=26, scanCode=116
+
+04-24 12:19:24.851   144   181 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+04-24 12:19:24.851   144   181 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+04-24 12:19:24.851   144   181 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+04-24 12:19:24.851   144   181 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+04-24 12:19:24.917   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-24 12:19:24.917   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-24 12:19:55.832   144   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 237.236ms.  keyCode=82, scanCode=139
+
+04-24 12:19:55.964   144   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+02-22 09:46:19.839   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-22 09:46:19.839   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+02-22 09:46:50.437   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-22 09:46:50.437   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+02-22 13:22:58.820   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-22 13:22:58.820   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+02-22 13:23:02.273   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-22 13:23:02.273   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+01-01 19:00:57.957   144   181 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+01-01 19:00:57.957   144   181 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+01-01 19:00:57.957   144   181 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+01-01 19:00:57.957   144   181 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+01-01 19:00:58.031   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+01-01 19:00:58.031   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-17 15:34:49.902   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-17 15:34:49.902   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-17 15:35:15.961   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-17 15:35:15.961   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-17 15:44:08.586   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-17 15:44:08.586   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-17 15:44:11.531   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-17 15:44:11.531   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-17 15:46:06.109   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-17 15:46:06.109   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-17 15:46:08.004   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-17 15:46:08.004   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-17 15:51:02.590   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-17 15:51:02.590   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-17 15:51:10.422   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-17 15:51:10.422   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+05-02 13:24:46.630   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 13:24:46.630   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+05-02 13:25:00.357   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 13:25:00.357   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+05-02 13:25:02.826   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 13:25:02.826   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+05-02 13:25:19.896   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 13:25:19.896   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+05-02 13:25:28.568   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 13:25:28.568   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+05-02 15:04:42.597   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 15:04:42.597   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+05-02 15:04:55.788   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 15:04:55.788   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+05-02 15:05:14.628   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 15:05:14.628   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+05-02 15:08:49.773   144   182 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 232.407ms.  keyCode=84, scanCode=217
+
+05-02 15:08:49.815   144   182 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=84, scanCode=217
+
+05-02 15:08:50.769   144   182 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 248.269ms.  keyCode=4, scanCode=158
+
+05-02 15:08:50.835   144   182 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+05-02 15:08:52.190   144   182 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 231.838ms.  keyCode=3, scanCode=102
+
+05-02 15:08:52.355   144   182 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+05-02 15:08:52.405   144   182 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 240.708ms.  keyCode=3, scanCode=102
+
+05-02 15:08:54.714   144   182 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+05-02 15:09:23.030   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+05-02 15:09:23.030   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-24 17:52:19.695   144   181 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+04-24 17:52:19.695   144   181 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+04-24 17:52:19.695   144   181 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+04-24 17:52:19.695   144   181 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+04-24 17:52:19.769   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-24 17:52:19.769   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-24 19:18:34.804   145   181 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+04-24 19:18:34.804   145   181 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+04-24 19:18:34.804   145   181 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+04-24 19:18:34.804   145   181 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+04-24 19:18:34.890   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-24 19:18:34.890   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+07-05 16:25:53.949   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 234.994ms.  keyCode=84, scanCode=217
+
+07-05 16:25:54.144   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=84, scanCode=217
+
+07-05 16:26:17.738   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 238.279ms.  keyCode=3, scanCode=102
+
+07-05 16:26:17.804   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+07-05 16:27:10.316   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 233.273ms.  keyCode=3, scanCode=102
+
+07-05 16:27:10.578   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+07-05 16:27:10.629   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 243.083ms.  keyCode=3, scanCode=102
+
+07-05 16:27:10.679   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-25 14:33:35.117   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-25 14:33:35.117   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-25 14:33:36.782   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-25 14:33:36.782   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+07-05 10:22:12.371   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 181.522ms.  keyCode=3, scanCode=102
+
+07-05 10:22:12.558   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+07-05 10:24:53.296   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-05 10:24:53.296   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-05 10:24:55.589   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-05 10:24:55.593   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+04-27 18:38:27.005   144   182 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 205.209ms.  keyCode=4, scanCode=158
+
+04-27 18:38:27.083   144   182 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+04-27 18:51:50.442   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-27 18:51:50.442   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-27 18:51:52.282   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-27 18:51:52.282   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-27 18:52:01.548   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-27 18:52:01.548   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-27 18:52:03.212   144   182 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-27 18:52:03.212   144   182 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+02-21 15:30:22.023   163   217 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-21 15:30:22.023   163   217 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+02-21 15:30:25.394   163   217 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-21 15:30:25.394   163   217 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+12-31 16:02:21.921   145   181 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+12-31 16:02:21.921   145   181 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+12-31 16:02:21.921   145   181 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+12-31 16:02:21.921   145   181 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+12-31 16:02:22.000   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+12-31 16:02:22.000   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+07-03 15:41:21.176   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 15:41:21.176   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 15:41:24.804   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 15:41:24.804   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 15:41:29.785   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 15:41:29.785   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 15:41:59.277   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-03 15:41:59.277   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-03 16:55:12.347   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 248.219ms.  keyCode=84, scanCode=217
+
+07-03 16:55:13.004   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 224.345ms.  keyCode=3, scanCode=102
+
+07-03 16:55:15.968   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+07-03 16:55:15.968   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=84, scanCode=217
+
+07-02 13:24:31.265   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 200.272ms.  keyCode=82, scanCode=139
+
+07-02 13:24:31.910   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=82, scanCode=139
+
+07-02 13:24:35.011   141   178 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 243.781ms.  keyCode=4, scanCode=158
+
+07-02 13:24:35.226   141   178 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+
+01-12 20:46:40.035   144   181 I InputReader:   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+
+01-12 20:46:40.035   144   181 I InputReader: Device added: id=7, name='mxt224_ts_input', sources=0x00001002
+
+01-12 20:46:40.035   144   181 I InputReader: Device added: id=5, name='herring-keypad', sources=0x00000101
+
+01-12 20:46:40.035   144   181 I InputReader: Device added: id=2, name='cypress-touchkey', sources=0x00000101
+
+01-12 20:46:40.101   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+01-12 20:46:40.101   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-02 10:52:18.168   144   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 235.316ms.  keyCode=3, scanCode=102
+
+04-02 10:52:18.215   144   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-02 10:52:19.773   144   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 247.605ms.  keyCode=3, scanCode=102
+
+04-02 10:52:20.039   144   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-02 11:03:44.280   144   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 237.832ms.  keyCode=3, scanCode=102
+
+04-02 11:03:44.362   144   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-17 13:48:43.089   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 245.831ms.  keyCode=3, scanCode=102
+
+04-17 13:48:43.155   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-17 15:15:08.462   145   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 243.662ms.  keyCode=3, scanCode=102
+
+04-17 15:15:08.642   145   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-17 15:17:06.392   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-17 15:17:06.392   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-17 15:17:08.282   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-17 15:17:08.282   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-02 13:41:20.454   144   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 240.302ms.  keyCode=3, scanCode=102
+
+04-02 13:41:20.587   144   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-02 13:52:28.640   144   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 239.602ms.  keyCode=3, scanCode=102
+
+04-02 13:52:28.753   144   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-24 12:35:27.182   144   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 242.090ms.  keyCode=3, scanCode=102
+
+04-24 12:35:27.307   144   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-24 12:35:28.409   144   181 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 247.699ms.  keyCode=3, scanCode=102
+
+04-24 12:35:28.671   144   181 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=3, scanCode=102
+
+04-24 12:44:58.386   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-24 12:44:58.386   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-24 12:45:00.639   144   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-24 12:45:00.639   144   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-05 15:28:46.089   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-05 15:28:46.089   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+04-05 15:28:48.624   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+04-05 15:28:48.624   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+07-04 17:40:29.730   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-04 17:40:29.730   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+07-04 17:40:31.558   141   178 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+07-04 17:40:31.558   141   178 I InputReader: Device reconfigured: id=7, name=&#39;mxt224_ts_input&#39;, surface size is now 480x800, mode is 1
+
+02-23 15:16:53.050   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-23 15:16:53.050   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+
+02-23 15:17:54.644   145   181 I InputReader: Reconfiguring input devices.  changes=0x00000004
+
+02-23 15:17:54.644   145   181 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+

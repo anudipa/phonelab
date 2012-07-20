@@ -1,0 +1,1114 @@
+02-23 12:20:41.148 11245 11265 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler: nonce: "1330017641064"
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler: application_client_id {
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler:   client_type: 1004
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler: }
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+04-26 17:35:33.600  1348  1883 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413c9e28
+
+04-26 17:36:33.632  1348  1883 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413c1820
+
+04-26 17:36:36.772  1348  1883 W ProtocolHandler: [chromesync#1604387069] Ignoring incoming message because no client token: com.google.protos.ipc.invalidation.ClientProtocol$ServerToClientMessage@4141a508
+
+02-21 17:47:09.953  2760  3334 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Startup, client_type: 1004
+
+02-21 17:47:09.953  2760  3334 I ProtocolHandler: nonce: "1329864429953"
+
+02-21 17:47:09.953  2760  3334 I ProtocolHandler: application_client_id {
+
+02-21 17:47:09.953  2760  3334 I ProtocolHandler:   client_type: 1004
+
+02-21 17:47:09.953  2760  3334 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-21 17:47:09.953  2760  3334 I ProtocolHandler: }
+
+02-21 17:47:09.953  2760  3334 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-21 17:51:16.425  2760  3334 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-21 17:51:16.425  2760  3334 I ProtocolHandler: nonce: "1329864676348"
+
+02-21 17:51:16.425  2760  3334 I ProtocolHandler: application_client_id {
+
+02-21 17:51:16.425  2760  3334 I ProtocolHandler:   client_type: 1004
+
+02-21 17:51:16.425  2760  3334 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-21 17:51:16.425  2760  3334 I ProtocolHandler: }
+
+02-21 17:51:16.425  2760  3334 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-21 18:06:54.851  2760  3334 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-21 18:06:54.851  2760  3334 I ProtocolHandler: nonce: "1329865614848"
+
+02-21 18:06:54.851  2760  3334 I ProtocolHandler: application_client_id {
+
+02-21 18:06:54.851  2760  3334 I ProtocolHandler:   client_type: 1004
+
+02-21 18:06:54.851  2760  3334 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-21 18:06:54.851  2760  3334 I ProtocolHandler: }
+
+02-21 18:06:54.851  2760  3334 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+04-24 12:30:18.515  1499  1581 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413ec5e8
+
+04-24 12:36:06.442  1499  1581 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4140c380
+
+04-24 12:11:54.323  1318  1378 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413c4c30
+
+04-24 12:12:54.386  1318  1378 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41403c08
+
+02-21 20:04:11.285  4321  4345 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-21 20:04:11.285  4321  4345 I ProtocolHandler: nonce: "1329872651271"
+
+02-21 20:04:11.285  4321  4345 I ProtocolHandler: application_client_id {
+
+02-21 20:04:11.285  4321  4345 I ProtocolHandler:   client_type: 1004
+
+02-21 20:04:11.285  4321  4345 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-21 20:04:11.285  4321  4345 I ProtocolHandler: }
+
+02-21 20:04:11.285  4321  4345 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 01:03:59.410  4321  4345 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 01:03:59.410  4321  4345 I ProtocolHandler: nonce: "1329890639408"
+
+02-22 01:03:59.410  4321  4345 I ProtocolHandler: application_client_id {
+
+02-22 01:03:59.410  4321  4345 I ProtocolHandler:   client_type: 1004
+
+02-22 01:03:59.410  4321  4345 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 01:03:59.410  4321  4345 I ProtocolHandler: }
+
+02-22 01:03:59.410  4321  4345 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+04-24 00:00:06.570  8478  8500 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4134e998
+
+04-24 00:01:06.601  8478  8500 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413c3b00
+
+04-24 00:03:01.668  8478  8500 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41354220
+
+04-24 00:04:37.152  8478  8500 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4133b028
+
+04-24 00:08:06.250  8478  8500 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413277a8
+
+04-24 00:09:21.683  8478  8500 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4139a4b0
+
+04-24 00:19:06.523  8478  8500 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41380bf8
+
+04-24 00:52:05.711  8478  8500 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413af618
+
+04-24 01:51:53.699  8478  8500 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4139d848
+
+04-24 02:49:18.727  8478  8500 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413b1c00
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler: nonce: "1329974717762"
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler: application_client_id {
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler:   client_type: 1004
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler: }
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler: nonce: "1329986375118"
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler: application_client_id {
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler:   client_type: 1004
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler: }
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 04:20:44.562 11245 11265 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Startup, client_type: 1004
+
+02-23 04:20:44.562 11245 11265 I ProtocolHandler: nonce: "1329988844563"
+
+02-23 04:20:44.562 11245 11265 I ProtocolHandler: application_client_id {
+
+02-23 04:20:44.562 11245 11265 I ProtocolHandler:   client_type: 1004
+
+02-23 04:20:44.562 11245 11265 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 04:20:44.562 11245 11265 I ProtocolHandler: }
+
+02-23 04:20:44.562 11245 11265 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 05:09:39.699 11245 11265 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 05:09:39.699 11245 11265 I ProtocolHandler: nonce: "1329991779686"
+
+02-23 05:09:39.699 11245 11265 I ProtocolHandler: application_client_id {
+
+02-23 05:09:39.699 11245 11265 I ProtocolHandler:   client_type: 1004
+
+02-23 05:09:39.699 11245 11265 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 05:09:39.699 11245 11265 I ProtocolHandler: }
+
+02-23 05:09:39.699 11245 11265 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 06:50:42.851 11245 11265 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 06:50:42.851 11245 11265 I ProtocolHandler: nonce: "1329997842831"
+
+02-23 06:50:42.851 11245 11265 I ProtocolHandler: application_client_id {
+
+02-23 06:50:42.851 11245 11265 I ProtocolHandler:   client_type: 1004
+
+02-23 06:50:42.851 11245 11265 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 06:50:42.851 11245 11265 I ProtocolHandler: }
+
+02-23 06:50:42.851 11245 11265 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 08:03:33.797 11245 11265 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 08:03:33.797 11245 11265 I ProtocolHandler: nonce: "1330002213776"
+
+02-23 08:03:33.797 11245 11265 I ProtocolHandler: application_client_id {
+
+02-23 08:03:33.797 11245 11265 I ProtocolHandler:   client_type: 1004
+
+02-23 08:03:33.797 11245 11265 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 08:03:33.797 11245 11265 I ProtocolHandler: }
+
+02-23 08:03:33.797 11245 11265 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 08:50:44.070 11245 11265 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 08:50:44.070 11245 11265 I ProtocolHandler: nonce: "1330005044069"
+
+02-23 08:50:44.070 11245 11265 I ProtocolHandler: application_client_id {
+
+02-23 08:50:44.070 11245 11265 I ProtocolHandler:   client_type: 1004
+
+02-23 08:50:44.070 11245 11265 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 08:50:44.070 11245 11265 I ProtocolHandler: }
+
+02-23 08:50:44.070 11245 11265 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler: nonce: "1330017641064"
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler: application_client_id {
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler:   client_type: 1004
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler: }
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler: nonce: "1329974717762"
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler: application_client_id {
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler:   client_type: 1004
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler: }
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler: nonce: "1329986375118"
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler: application_client_id {
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler:   client_type: 1004
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler: }
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+04-24 13:17:45.218  1318  1378 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4157a0e0
+
+02-22 06:00:39.718  4321  4345 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 06:00:39.718  4321  4345 I ProtocolHandler: nonce: "1329908439583"
+
+02-22 06:00:39.718  4321  4345 I ProtocolHandler: application_client_id {
+
+02-22 06:00:39.718  4321  4345 I ProtocolHandler:   client_type: 1004
+
+02-22 06:00:39.718  4321  4345 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 06:00:39.718  4321  4345 I ProtocolHandler: }
+
+02-22 06:00:39.718  4321  4345 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 09:44:16.453  4321  4345 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 09:44:16.453  4321  4345 I ProtocolHandler: nonce: "1329921856446"
+
+02-22 09:44:16.453  4321  4345 I ProtocolHandler: application_client_id {
+
+02-22 09:44:16.453  4321  4345 I ProtocolHandler:   client_type: 1004
+
+02-22 09:44:16.453  4321  4345 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 09:44:16.453  4321  4345 I ProtocolHandler: }
+
+02-22 09:44:16.453  4321  4345 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+04-24 13:27:23.296  4087  4111 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4138abd8
+
+04-24 13:28:23.300  4087  4111 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413c70e0
+
+04-24 13:30:20.511  4087  4111 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41331128
+
+04-24 13:32:23.836  4087  4111 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4134e548
+
+04-24 13:35:12.441  4087  4111 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413937c0
+
+04-24 13:39:57.843  4087  4111 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41392968
+
+04-24 13:50:57.296  4087  4111 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4136b658
+
+04-24 14:08:01.754  4087  4111 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4137c820
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler: nonce: "1329974717762"
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler: application_client_id {
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler:   client_type: 1004
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler: }
+
+02-23 00:25:17.785  8528  8552 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler: nonce: "1329986375118"
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler: application_client_id {
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler:   client_type: 1004
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler: }
+
+02-23 03:39:35.187  8528  8552 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+04-23 13:19:27.574  4802  4914 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4146ab18
+
+04-23 13:20:27.617  4802  4914 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@414eb850
+
+04-23 13:21:53.019  4802  4914 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41411ec0
+
+04-23 13:24:46.089  4802  4914 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413c98b0
+
+04-23 13:28:42.031  4802  4914 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413486a0
+
+04-23 13:30:59.152  4802  4914 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@414d0240
+
+04-23 13:44:06.941  4802  4914 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41455820
+
+04-23 14:06:57.375  4802  4914 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@414cd558
+
+04-23 14:32:13.156  4802  4914 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4144c2e0
+
+02-22 13:50:37.336  6846  6873 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 13:50:37.336  6846  6873 I ProtocolHandler: nonce: "1329936637335"
+
+02-22 13:50:37.336  6846  6873 I ProtocolHandler: application_client_id {
+
+02-22 13:50:37.336  6846  6873 I ProtocolHandler:   client_type: 1004
+
+02-22 13:50:37.336  6846  6873 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 13:50:37.336  6846  6873 I ProtocolHandler: }
+
+02-22 13:50:37.336  6846  6873 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 14:05:38.566  6846  6873 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 14:05:38.566  6846  6873 I ProtocolHandler: nonce: "1329937538556"
+
+02-22 14:05:38.566  6846  6873 I ProtocolHandler: application_client_id {
+
+02-22 14:05:38.566  6846  6873 I ProtocolHandler:   client_type: 1004
+
+02-22 14:05:38.566  6846  6873 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 14:05:38.566  6846  6873 I ProtocolHandler: }
+
+02-22 14:05:38.566  6846  6873 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 15:43:31.601  6846  6873 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 15:43:31.601  6846  6873 I ProtocolHandler: nonce: "1329943411592"
+
+02-22 15:43:31.601  6846  6873 I ProtocolHandler: application_client_id {
+
+02-22 15:43:31.601  6846  6873 I ProtocolHandler:   client_type: 1004
+
+02-22 15:43:31.601  6846  6873 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 15:43:31.601  6846  6873 I ProtocolHandler: }
+
+02-22 15:43:31.601  6846  6873 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+04-03 23:44:23.359  7124  7145 W ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Ignoring incoming message because no client token: header {
+
+04-03 23:44:23.359  7124  7145 W ProtocolHandler:   protocol_version {
+
+04-03 23:44:23.359  7124  7145 W ProtocolHandler:     version {
+
+04-03 23:44:23.359  7124  7145 W ProtocolHandler:       major_version: 3
+
+04-03 23:44:23.359  7124  7145 W ProtocolHandler:       minor_version: 2
+
+04-03 23:44:23.359  7124  7145 W ProtocolHandler:     }
+
+04-03 23:44:23.359  7124  7145 W ProtocolHandler:   }
+
+04-03 23:44:23.359  7124  7145 W ProtocolHandler:   client_token: "\n\006\n\004\b\003\020\001\022\022\t\252n\302\227\002\367\221\242\021\231H9\026\265):\311\032\a\b\202,\020\003\030\n"
+
+04-03 23:44:23.359  7124  7145 W ProtocolHandler:   server_time_ms: 1333511062996
+
+04-03 23:44:23.359  7124  7145 W ProtocolHandler:   message_id: "9308426"
+
+04-03 23:44:23.359  7124  7145 W ProtocolHandler: }
+
+04-03 23:44:23.359  7124  7145 W ProtocolHandler: token_control_message {
+
+04-03 23:44:23.359  7124  7145 W ProtocolHandler: }
+
+04-03 23:44:23.367  7124  7145 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Destroy, client_type: 1004
+
+04-03 23:44:23.367  7124  7145 I ProtocolHandler: nonce: "1333511063363"
+
+04-03 23:44:23.367  7124  7145 I ProtocolHandler: application_client_id {
+
+04-03 23:44:23.367  7124  7145 I ProtocolHandler:   client_type: 1004
+
+04-03 23:44:23.367  7124  7145 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+04-03 23:44:23.367  7124  7145 I ProtocolHandler: }
+
+04-03 23:44:23.367  7124  7145 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+04-04 00:07:05.797  7124  7145 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Adding subtree: registered_object {
+
+04-04 00:07:05.797  7124  7145 I ProtocolHandler:   source: 1004
+
+04-04 00:07:05.797  7124  7145 I ProtocolHandler:   name: "BOOKMARK"
+
+04-04 00:07:05.797  7124  7145 I ProtocolHandler: }
+
+04-04 00:07:05.797  7124  7145 I ProtocolHandler: registered_object {
+
+04-04 00:07:05.797  7124  7145 I ProtocolHandler:   source: 1004
+
+04-04 00:07:05.797  7124  7145 I ProtocolHandler:   name: "TYPED_URL"
+
+04-04 00:07:05.797  7124  7145 I ProtocolHandler: }
+
+04-04 00:07:05.797  7124  7145 I ProtocolHandler: registered_object {
+
+04-04 00:07:05.797  7124  7145 I ProtocolHandler:   source: 1004
+
+04-04 00:07:05.797  7124  7145 I ProtocolHandler:   name: "SESSION"
+
+04-04 00:07:05.797  7124  7145 I ProtocolHandler: }
+
+04-04 00:07:06.734  7124  7145 W ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Ignoring incoming message because no client token: header {
+
+04-04 00:07:06.734  7124  7145 W ProtocolHandler:   protocol_version {
+
+04-04 00:07:06.734  7124  7145 W ProtocolHandler:     version {
+
+04-04 00:07:06.734  7124  7145 W ProtocolHandler:       major_version: 3
+
+04-04 00:07:06.734  7124  7145 W ProtocolHandler:       minor_version: 2
+
+04-04 00:07:06.734  7124  7145 W ProtocolHandler:     }
+
+04-04 00:07:06.734  7124  7145 W ProtocolHandler:   }
+
+04-04 00:07:06.734  7124  7145 W ProtocolHandler:   client_token: "\n\006\n\004\b\003\020\001\022\022\tS.\236\304idr\263\0211C\366\350j\000L\261\032\a\b\2102\020\003\030\n"
+
+04-04 00:07:06.734  7124  7145 W ProtocolHandler:   server_time_ms: 1333512426329
+
+04-04 00:07:06.734  7124  7145 W ProtocolHandler:   message_id: "9516331"
+
+04-04 00:07:06.734  7124  7145 W ProtocolHandler: }
+
+04-04 00:07:06.734  7124  7145 W ProtocolHandler: token_control_message {
+
+04-04 00:07:06.734  7124  7145 W ProtocolHandler: }
+
+04-04 00:07:06.734  7124  7145 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Destroy, client_type: 1004
+
+04-04 00:07:06.734  7124  7145 I ProtocolHandler: nonce: "1333512426738"
+
+04-04 00:07:06.734  7124  7145 I ProtocolHandler: application_client_id {
+
+04-04 00:07:06.734  7124  7145 I ProtocolHandler:   client_type: 1004
+
+04-04 00:07:06.734  7124  7145 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+04-04 00:07:06.734  7124  7145 I ProtocolHandler: }
+
+04-04 00:07:06.734  7124  7145 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+04-04 00:07:58.437  7124  7145 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Adding subtree: registered_object {
+
+04-04 00:07:58.437  7124  7145 I ProtocolHandler:   source: 1004
+
+04-04 00:07:58.437  7124  7145 I ProtocolHandler:   name: "BOOKMARK"
+
+04-04 00:07:58.437  7124  7145 I ProtocolHandler: }
+
+04-04 00:07:58.437  7124  7145 I ProtocolHandler: registered_object {
+
+04-04 00:07:58.437  7124  7145 I ProtocolHandler:   source: 1004
+
+04-04 00:07:58.437  7124  7145 I ProtocolHandler:   name: "TYPED_URL"
+
+04-04 00:07:58.437  7124  7145 I ProtocolHandler: }
+
+04-04 00:07:58.437  7124  7145 I ProtocolHandler: registered_object {
+
+04-04 00:07:58.437  7124  7145 I ProtocolHandler:   source: 1004
+
+04-04 00:07:58.437  7124  7145 I ProtocolHandler:   name: "SESSION"
+
+04-04 00:07:58.437  7124  7145 I ProtocolHandler: }
+
+04-04 00:07:58.543  7124  7145 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Adding subtree: registered_object {
+
+04-04 00:07:58.543  7124  7145 I ProtocolHandler:   source: 1004
+
+04-04 00:07:58.543  7124  7145 I ProtocolHandler:   name: "BOOKMARK"
+
+04-04 00:07:58.543  7124  7145 I ProtocolHandler: }
+
+04-04 00:07:58.543  7124  7145 I ProtocolHandler: registered_object {
+
+04-04 00:07:58.543  7124  7145 I ProtocolHandler:   source: 1004
+
+04-04 00:07:58.543  7124  7145 I ProtocolHandler:   name: "TYPED_URL"
+
+04-04 00:07:58.543  7124  7145 I ProtocolHandler: }
+
+04-04 00:07:58.543  7124  7145 I ProtocolHandler: registered_object {
+
+04-04 00:07:58.543  7124  7145 I ProtocolHandler:   source: 1004
+
+04-04 00:07:58.543  7124  7145 I ProtocolHandler:   name: "SESSION"
+
+04-04 00:07:58.543  7124  7145 I ProtocolHandler: }
+
+04-24 10:16:03.742 11094 11115 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4139ae98
+
+04-24 10:17:57.281 11094 11115 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4133d6e8
+
+04-24 10:20:03.320 11094 11115 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4137c3e0
+
+04-24 10:24:54.297 11094 11115 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413cd160
+
+04-24 10:26:45.309 11094 11115 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41378e78
+
+04-24 10:37:08.583 11094 11115 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4135ac70
+
+04-24 10:45:30.150 11094 11115 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413d5018
+
+04-24 10:50:25.210 11094 11115 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413c3248
+
+04-24 10:54:17.554 11497 11518 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413516c8
+
+04-24 10:55:17.659 11497 11518 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413c3280
+
+04-24 10:56:50.452 11497 11518 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413bf160
+
+04-24 10:59:06.417 11497 11518 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41336840
+
+04-24 11:01:49.523 11497 11518 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4132d8d0
+
+04-24 11:08:56.182 11497 11518 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413175f8
+
+04-24 11:20:11.424 11497 11518 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413bb610
+
+04-24 11:27:44.045 11870 11891 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41313738
+
+04-24 11:28:44.007 11870 11891 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413ad740
+
+04-24 11:30:24.824 11870 11891 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41317e58
+
+04-24 11:32:16.164 11870 11891 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41325a98
+
+04-24 12:23:35.109  1499  1581 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4146ac40
+
+04-24 12:24:35.168  1499  1581 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4136c5c8
+
+04-24 12:26:04.398  1499  1581 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413d4380
+
+04-24 12:27:19.051  1499  1581 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41456c50
+
+02-22 11:55:32.254  6846  6873 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Startup, client_type: 1004
+
+02-22 11:55:32.254  6846  6873 I ProtocolHandler: nonce: "1329929732256"
+
+02-22 11:55:32.254  6846  6873 I ProtocolHandler: application_client_id {
+
+02-22 11:55:32.254  6846  6873 I ProtocolHandler:   client_type: 1004
+
+02-22 11:55:32.254  6846  6873 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 11:55:32.254  6846  6873 I ProtocolHandler: }
+
+02-22 11:55:32.254  6846  6873 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 12:35:38.273  6846  6873 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 12:35:38.273  6846  6873 I ProtocolHandler: nonce: "1329932138260"
+
+02-22 12:35:38.273  6846  6873 I ProtocolHandler: application_client_id {
+
+02-22 12:35:38.273  6846  6873 I ProtocolHandler:   client_type: 1004
+
+02-22 12:35:38.273  6846  6873 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 12:35:38.273  6846  6873 I ProtocolHandler: }
+
+02-22 12:35:38.273  6846  6873 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 13:04:50.089  6846  6873 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 13:04:50.089  6846  6873 I ProtocolHandler: nonce: "1329933890077"
+
+02-22 13:04:50.089  6846  6873 I ProtocolHandler: application_client_id {
+
+02-22 13:04:50.089  6846  6873 I ProtocolHandler:   client_type: 1004
+
+02-22 13:04:50.089  6846  6873 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 13:04:50.089  6846  6873 I ProtocolHandler: }
+
+02-22 13:04:50.089  6846  6873 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 13:26:17.828  6846  6873 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 13:26:17.828  6846  6873 I ProtocolHandler: nonce: "1329935177711"
+
+02-22 13:26:17.828  6846  6873 I ProtocolHandler: application_client_id {
+
+02-22 13:26:17.828  6846  6873 I ProtocolHandler:   client_type: 1004
+
+02-22 13:26:17.828  6846  6873 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 13:26:17.828  6846  6873 I ProtocolHandler: }
+
+02-22 13:26:17.828  6846  6873 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+05-15 11:14:29.667  1201  1387 W ProtocolHandler: [chromesync#1604387069] Ignoring incoming message because no client token: com.google.protos.ipc.invalidation.ClientProtocol$ServerToClientMessage@414a1008
+
+05-15 11:14:29.667  1201  1387 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41441d68
+
+05-15 11:15:22.101  1201  1387 I ProtocolHandler: [chromesync#1604387069] Adding subtree: com.google.protos.ipc.invalidation.ClientProtocol$RegistrationSubtree@414f6b08
+
+05-15 11:15:22.222  1201  1387 I ProtocolHandler: [chromesync#1604387069] Adding subtree: com.google.protos.ipc.invalidation.ClientProtocol$RegistrationSubtree@414fa3b0
+
+04-24 14:40:30.285  4087  4111 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413b1350
+
+04-24 14:41:27.527  5182  5249 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41329288
+
+02-22 17:18:29.320  8528  8552 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Startup, client_type: 1004
+
+02-22 17:18:29.320  8528  8552 I ProtocolHandler: nonce: "1329949109317"
+
+02-22 17:18:29.320  8528  8552 I ProtocolHandler: application_client_id {
+
+02-22 17:18:29.320  8528  8552 I ProtocolHandler:   client_type: 1004
+
+02-22 17:18:29.320  8528  8552 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 17:18:29.320  8528  8552 I ProtocolHandler: }
+
+02-22 17:18:29.320  8528  8552 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 17:43:28.281  8528  8552 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 17:43:28.281  8528  8552 I ProtocolHandler: nonce: "1329950608262"
+
+02-22 17:43:28.281  8528  8552 I ProtocolHandler: application_client_id {
+
+02-22 17:43:28.281  8528  8552 I ProtocolHandler:   client_type: 1004
+
+02-22 17:43:28.281  8528  8552 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 17:43:28.281  8528  8552 I ProtocolHandler: }
+
+02-22 17:43:28.281  8528  8552 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 18:17:37.511  8528  8552 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 18:17:37.511  8528  8552 I ProtocolHandler: nonce: "1329952657495"
+
+02-22 18:17:37.511  8528  8552 I ProtocolHandler: application_client_id {
+
+02-22 18:17:37.511  8528  8552 I ProtocolHandler:   client_type: 1004
+
+02-22 18:17:37.511  8528  8552 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 18:17:37.511  8528  8552 I ProtocolHandler: }
+
+02-22 18:17:37.511  8528  8552 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 20:05:20.031  8528  8552 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 20:05:20.031  8528  8552 I ProtocolHandler: nonce: "1329959119869"
+
+02-22 20:05:20.031  8528  8552 I ProtocolHandler: application_client_id {
+
+02-22 20:05:20.031  8528  8552 I ProtocolHandler:   client_type: 1004
+
+02-22 20:05:20.031  8528  8552 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 20:05:20.031  8528  8552 I ProtocolHandler: }
+
+02-22 20:05:20.031  8528  8552 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 20:36:05.425 11245 11265 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 20:36:05.425 11245 11265 I ProtocolHandler: nonce: "1330047365286"
+
+02-23 20:36:05.425 11245 11265 I ProtocolHandler: application_client_id {
+
+02-23 20:36:05.425 11245 11265 I ProtocolHandler:   client_type: 1004
+
+02-23 20:36:05.425 11245 11265 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 20:36:05.425 11245 11265 I ProtocolHandler: }
+
+02-23 20:36:05.425 11245 11265 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+04-24 06:31:41.348  8478  8500 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413bc788
+
+04-24 10:15:03.727 11094 11115 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41313378
+
+04-24 13:17:45.218  1318  1378 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4157a0e0
+
+02-21 18:08:30.112  3684  3708 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Startup, client_type: 1004
+
+02-21 18:08:30.112  3684  3708 I ProtocolHandler: nonce: "1329865710114"
+
+02-21 18:08:30.112  3684  3708 I ProtocolHandler: application_client_id {
+
+02-21 18:08:30.112  3684  3708 I ProtocolHandler:   client_type: 1004
+
+02-21 18:08:30.112  3684  3708 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-21 18:08:30.112  3684  3708 I ProtocolHandler: }
+
+02-21 18:08:30.112  3684  3708 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-21 18:10:12.905  3684  3708 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-21 18:10:12.905  3684  3708 I ProtocolHandler: nonce: "1329865812886"
+
+02-21 18:10:12.905  3684  3708 I ProtocolHandler: application_client_id {
+
+02-21 18:10:12.905  3684  3708 I ProtocolHandler:   client_type: 1004
+
+02-21 18:10:12.905  3684  3708 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-21 18:10:12.905  3684  3708 I ProtocolHandler: }
+
+02-21 18:10:12.905  3684  3708 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-21 18:11:18.983  3684  3708 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-21 18:11:18.983  3684  3708 I ProtocolHandler: nonce: "1329865878905"
+
+02-21 18:11:18.983  3684  3708 I ProtocolHandler: application_client_id {
+
+02-21 18:11:18.983  3684  3708 I ProtocolHandler:   client_type: 1004
+
+02-21 18:11:18.983  3684  3708 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-21 18:11:18.983  3684  3708 I ProtocolHandler: }
+
+02-21 18:11:18.983  3684  3708 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-21 18:14:22.557  3684  3708 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-21 18:14:22.557  3684  3708 I ProtocolHandler: nonce: "1329866062452"
+
+02-21 18:14:22.557  3684  3708 I ProtocolHandler: application_client_id {
+
+02-21 18:14:22.557  3684  3708 I ProtocolHandler:   client_type: 1004
+
+02-21 18:14:22.557  3684  3708 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-21 18:14:22.557  3684  3708 I ProtocolHandler: }
+
+02-21 18:14:22.557  3684  3708 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-21 18:21:59.658  4092  4152 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Startup, client_type: 1004
+
+02-21 18:21:59.658  4092  4152 I ProtocolHandler: nonce: "1329866519660"
+
+02-21 18:21:59.658  4092  4152 I ProtocolHandler: application_client_id {
+
+02-21 18:21:59.658  4092  4152 I ProtocolHandler:   client_type: 1004
+
+02-21 18:21:59.658  4092  4152 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-21 18:21:59.658  4092  4152 I ProtocolHandler: }
+
+02-21 18:21:59.658  4092  4152 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-21 18:23:09.704  4092  4152 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-21 18:23:09.704  4092  4152 I ProtocolHandler: nonce: "1329866589666"
+
+02-21 18:23:09.704  4092  4152 I ProtocolHandler: application_client_id {
+
+02-21 18:23:09.704  4092  4152 I ProtocolHandler:   client_type: 1004
+
+02-21 18:23:09.704  4092  4152 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-21 18:23:09.704  4092  4152 I ProtocolHandler: }
+
+02-21 18:23:09.704  4092  4152 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-21 18:26:06.412  4092  4152 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-21 18:26:06.412  4092  4152 I ProtocolHandler: nonce: "1329866766398"
+
+02-21 18:26:06.412  4092  4152 I ProtocolHandler: application_client_id {
+
+02-21 18:26:06.412  4092  4152 I ProtocolHandler:   client_type: 1004
+
+02-21 18:26:06.412  4092  4152 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-21 18:26:06.412  4092  4152 I ProtocolHandler: }
+
+02-21 18:26:06.412  4092  4152 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-21 18:27:47.355  4321  4345 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Startup, client_type: 1004
+
+02-21 18:27:47.355  4321  4345 I ProtocolHandler: nonce: "1329866867354"
+
+02-21 18:27:47.355  4321  4345 I ProtocolHandler: application_client_id {
+
+02-21 18:27:47.355  4321  4345 I ProtocolHandler:   client_type: 1004
+
+02-21 18:27:47.355  4321  4345 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-21 18:27:47.355  4321  4345 I ProtocolHandler: }
+
+02-21 18:27:47.355  4321  4345 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-21 18:55:46.988  4321  4345 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-21 18:55:46.988  4321  4345 I ProtocolHandler: nonce: "1329868546976"
+
+02-21 18:55:46.988  4321  4345 I ProtocolHandler: application_client_id {
+
+02-21 18:55:46.988  4321  4345 I ProtocolHandler:   client_type: 1004
+
+02-21 18:55:46.988  4321  4345 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-21 18:55:46.988  4321  4345 I ProtocolHandler: }
+
+02-21 18:55:46.988  4321  4345 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-21 19:45:15.316  4321  4345 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-21 19:45:15.316  4321  4345 I ProtocolHandler: nonce: "1329871515299"
+
+02-21 19:45:15.316  4321  4345 I ProtocolHandler: application_client_id {
+
+02-21 19:45:15.316  4321  4345 I ProtocolHandler:   client_type: 1004
+
+02-21 19:45:15.316  4321  4345 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-21 19:45:15.316  4321  4345 I ProtocolHandler: }
+
+02-21 19:45:15.316  4321  4345 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 17:18:29.320  8528  8552 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Startup, client_type: 1004
+
+02-22 17:18:29.320  8528  8552 I ProtocolHandler: nonce: "1329949109317"
+
+02-22 17:18:29.320  8528  8552 I ProtocolHandler: application_client_id {
+
+02-22 17:18:29.320  8528  8552 I ProtocolHandler:   client_type: 1004
+
+02-22 17:18:29.320  8528  8552 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 17:18:29.320  8528  8552 I ProtocolHandler: }
+
+02-22 17:18:29.320  8528  8552 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 17:43:28.281  8528  8552 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 17:43:28.281  8528  8552 I ProtocolHandler: nonce: "1329950608262"
+
+02-22 17:43:28.281  8528  8552 I ProtocolHandler: application_client_id {
+
+02-22 17:43:28.281  8528  8552 I ProtocolHandler:   client_type: 1004
+
+02-22 17:43:28.281  8528  8552 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 17:43:28.281  8528  8552 I ProtocolHandler: }
+
+02-22 17:43:28.281  8528  8552 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 18:17:37.511  8528  8552 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 18:17:37.511  8528  8552 I ProtocolHandler: nonce: "1329952657495"
+
+02-22 18:17:37.511  8528  8552 I ProtocolHandler: application_client_id {
+
+02-22 18:17:37.511  8528  8552 I ProtocolHandler:   client_type: 1004
+
+02-22 18:17:37.511  8528  8552 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 18:17:37.511  8528  8552 I ProtocolHandler: }
+
+02-22 18:17:37.511  8528  8552 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 20:05:20.031  8528  8552 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 20:05:20.031  8528  8552 I ProtocolHandler: nonce: "1329959119869"
+
+02-22 20:05:20.031  8528  8552 I ProtocolHandler: application_client_id {
+
+02-22 20:05:20.031  8528  8552 I ProtocolHandler:   client_type: 1004
+
+02-22 20:05:20.031  8528  8552 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 20:05:20.031  8528  8552 I ProtocolHandler: }
+
+02-22 20:05:20.031  8528  8552 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+04-24 12:14:31.800  1318  1378 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4147e3b0
+
+04-24 12:17:06.905  1318  1378 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4140c370
+
+04-24 12:20:55.124  1318  1378 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41457d10
+
+04-24 12:27:03.444  1318  1378 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413facb8
+
+04-24 12:41:23.764  1318  1378 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4140d918
+
+04-24 12:47:41.393  1318  1378 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@414466d0
+
+02-22 13:50:37.336  6846  6873 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 13:50:37.336  6846  6873 I ProtocolHandler: nonce: "1329936637335"
+
+02-22 13:50:37.336  6846  6873 I ProtocolHandler: application_client_id {
+
+02-22 13:50:37.336  6846  6873 I ProtocolHandler:   client_type: 1004
+
+02-22 13:50:37.336  6846  6873 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 13:50:37.336  6846  6873 I ProtocolHandler: }
+
+02-22 13:50:37.336  6846  6873 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 14:05:38.566  6846  6873 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 14:05:38.566  6846  6873 I ProtocolHandler: nonce: "1329937538556"
+
+02-22 14:05:38.566  6846  6873 I ProtocolHandler: application_client_id {
+
+02-22 14:05:38.566  6846  6873 I ProtocolHandler:   client_type: 1004
+
+02-22 14:05:38.566  6846  6873 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 14:05:38.566  6846  6873 I ProtocolHandler: }
+
+02-22 14:05:38.566  6846  6873 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-22 15:43:31.601  6846  6873 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-22 15:43:31.601  6846  6873 I ProtocolHandler: nonce: "1329943411592"
+
+02-22 15:43:31.601  6846  6873 I ProtocolHandler: application_client_id {
+
+02-22 15:43:31.601  6846  6873 I ProtocolHandler:   client_type: 1004
+
+02-22 15:43:31.601  6846  6873 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-22 15:43:31.601  6846  6873 I ProtocolHandler: }
+
+02-22 15:43:31.601  6846  6873 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+04-23 15:44:00.906  4802  4914 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@414d0be8
+
+04-23 16:27:50.164  6211  6232 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41378a18
+
+04-23 16:28:50.195  6211  6232 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413c4250
+
+04-23 16:30:39.644  6211  6232 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4133fed0
+
+04-23 16:32:53.183  6211  6232 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4133d1f8
+
+04-23 16:35:41.269  6211  6232 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4135fd08
+
+04-23 16:41:45.437  6211  6232 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413bd5f0
+
+04-23 16:45:34.883  6211  6232 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413bb9f0
+
+04-23 16:59:11.898  6211  6232 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4138aaa8
+
+04-23 17:16:59.648  6211  6232 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4138e528
+
+04-23 17:24:21.851  6211  6232 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4137fbc0
+
+04-23 17:42:49.144  6211  6232 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413d0388
+
+04-23 18:49:54.418  7081  7102 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41375290
+
+04-23 18:50:54.429  7081  7102 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413a8e98
+
+04-23 18:52:06.472  7081  7102 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41315ca0
+
+04-23 18:53:09.968  7081  7102 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@41336638
+
+04-23 18:57:50.390  7081  7102 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4139d468
+
+04-23 19:00:09.683  7081  7102 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413a8e98
+
+04-23 19:13:04.777  7081  7102 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4137cd08
+
+04-23 19:31:06.769  7081  7102 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@413bb528
+
+04-23 19:57:41.980  7081  7102 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4138e590
+
+04-23 20:33:24.351  7081  7102 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4137aa50
+
+04-23 21:43:33.250  7081  7102 I ProtocolHandler: [chromesync#1604387069] Batching initialize message for client: AcquireToken, com.google.protos.ipc.invalidation.ClientProtocol$InitializeMessage@4135b328
+
+02-23 04:20:44.562 11245 11265 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Startup, client_type: 1004
+
+02-23 04:20:44.562 11245 11265 I ProtocolHandler: nonce: "1329988844563"
+
+02-23 04:20:44.562 11245 11265 I ProtocolHandler: application_client_id {
+
+02-23 04:20:44.562 11245 11265 I ProtocolHandler:   client_type: 1004
+
+02-23 04:20:44.562 11245 11265 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 04:20:44.562 11245 11265 I ProtocolHandler: }
+
+02-23 04:20:44.562 11245 11265 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 05:09:39.699 11245 11265 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 05:09:39.699 11245 11265 I ProtocolHandler: nonce: "1329991779686"
+
+02-23 05:09:39.699 11245 11265 I ProtocolHandler: application_client_id {
+
+02-23 05:09:39.699 11245 11265 I ProtocolHandler:   client_type: 1004
+
+02-23 05:09:39.699 11245 11265 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 05:09:39.699 11245 11265 I ProtocolHandler: }
+
+02-23 05:09:39.699 11245 11265 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 06:50:42.851 11245 11265 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 06:50:42.851 11245 11265 I ProtocolHandler: nonce: "1329997842831"
+
+02-23 06:50:42.851 11245 11265 I ProtocolHandler: application_client_id {
+
+02-23 06:50:42.851 11245 11265 I ProtocolHandler:   client_type: 1004
+
+02-23 06:50:42.851 11245 11265 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 06:50:42.851 11245 11265 I ProtocolHandler: }
+
+02-23 06:50:42.851 11245 11265 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 08:03:33.797 11245 11265 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 08:03:33.797 11245 11265 I ProtocolHandler: nonce: "1330002213776"
+
+02-23 08:03:33.797 11245 11265 I ProtocolHandler: application_client_id {
+
+02-23 08:03:33.797 11245 11265 I ProtocolHandler:   client_type: 1004
+
+02-23 08:03:33.797 11245 11265 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 08:03:33.797 11245 11265 I ProtocolHandler: }
+
+02-23 08:03:33.797 11245 11265 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 08:50:44.070 11245 11265 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 08:50:44.070 11245 11265 I ProtocolHandler: nonce: "1330005044069"
+
+02-23 08:50:44.070 11245 11265 I ProtocolHandler: application_client_id {
+
+02-23 08:50:44.070 11245 11265 I ProtocolHandler:   client_type: 1004
+
+02-23 08:50:44.070 11245 11265 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 08:50:44.070 11245 11265 I ProtocolHandler: }
+
+02-23 08:50:44.070 11245 11265 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler: [chromesync#steven.y.ko@gmail.com] Batching initialize message for client: Network timeout, client_type: 1004
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler: nonce: "1330017641064"
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler: application_client_id {
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler:   client_type: 1004
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler:   client_name: "chromesync#steven.y.ko@gmail.com"
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler: }
+
+02-23 12:20:41.148 11245 11265 I ProtocolHandler: digest_serialization_type: BYTE_BASED
+

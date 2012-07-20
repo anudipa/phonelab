@@ -1,0 +1,843 @@
+06-29 01:15:07.339 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 01:15:07.343 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 52 len = 12, 12
+06-29 01:15:08.140  5807  5807 I PhoneLab-: 1340891428007.log is deleted
+06-29 01:15:08.140  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:08.187  5807  5810 D dalvikvm: GC_CONCURRENT freed 967K, 15% free 9267K/10823K, paused 2ms+2ms
+06-29 01:15:08.242  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 14% free 9378K/10823K, paused 2ms+2ms
+06-29 01:15:08.257  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 120K, 13% free 9505K/10823K, paused 14ms
+06-29 01:15:08.289  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 11% free 9719K/10823K, paused 2ms+2ms
+06-29 01:15:08.339  5807  8942 D dalvikvm: GC_FOR_ALLOC freed 308K, 11% free 9737K/10823K, paused 16ms
+06-29 01:15:08.355  5807  8942 D dalvikvm: GC_FOR_ALLOC freed 301K, 11% free 9737K/10823K, paused 16ms
+06-29 01:15:08.375  5807  8942 D dalvikvm: GC_FOR_ALLOC freed 301K, 11% free 9738K/10823K, paused 16ms
+06-29 01:15:10.246  5807  5807 I PhoneLab-: 1340899584183.log is deleted
+06-29 01:15:10.246  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:10.285  5807  5810 D dalvikvm: GC_CONCURRENT freed 958K, 15% free 9275K/10823K, paused 2ms+2ms
+06-29 01:15:10.343  5807  5810 D dalvikvm: GC_CONCURRENT freed 305K, 14% free 9379K/10823K, paused 2ms+2ms
+06-29 01:15:10.359  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 120K, 13% free 9506K/10823K, paused 15ms
+06-29 01:15:10.359 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 01:15:10.363 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -67  len = 23, 23
+06-29 01:15:10.363 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 01:15:10.363 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 58 len = 12, 12
+06-29 01:15:10.390  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 11% free 9720K/10823K, paused 1ms+3ms
+06-29 01:15:10.453  5807  8944 D dalvikvm: GC_FOR_ALLOC freed 308K, 11% free 9738K/10823K, paused 16ms
+06-29 01:15:10.472  5807  8944 D dalvikvm: GC_FOR_ALLOC freed 301K, 11% free 9739K/10823K, paused 16ms
+06-29 01:15:10.488  5807  8944 D dalvikvm: GC_FOR_ALLOC freed 301K, 11% free 9740K/10823K, paused 15ms
+06-29 01:15:12.500  5807  5807 I PhoneLab-: 1340901396340.log is deleted
+06-29 01:15:12.504  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:12.578  5807  5810 D dalvikvm: GC_CONCURRENT freed 927K, 15% free 9306K/10823K, paused 2ms+3ms
+06-29 01:15:12.629  5807  5810 D dalvikvm: GC_CONCURRENT freed 335K, 14% free 9379K/10823K, paused 2ms+2ms
+06-29 01:15:12.648  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 120K, 13% free 9507K/10823K, paused 14ms
+06-29 01:15:12.679  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 11% free 9721K/10823K, paused 2ms+2ms
+06-29 01:15:12.757  5807  8946 D dalvikvm: GC_FOR_ALLOC freed 307K, 11% free 9739K/10823K, paused 16ms
+06-29 01:15:12.777  5807  8946 D dalvikvm: GC_FOR_ALLOC freed 301K, 11% free 9740K/10823K, paused 17ms
+06-29 01:15:12.796  5807  8946 D dalvikvm: GC_FOR_ALLOC freed 301K, 11% free 9741K/10823K, paused 16ms
+06-29 01:15:13.367 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 01:15:13.371 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -68  len = 23, 23
+06-29 01:15:13.371 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 01:15:13.379 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 52 len = 12, 12
+06-29 01:15:14.691  5807  5807 I PhoneLab-: 1340914513690.log is deleted
+06-29 01:15:14.691  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:14.750  5807  5810 D dalvikvm: GC_CONCURRENT freed 957K, 15% free 9278K/10823K, paused 2ms+2ms
+06-29 01:15:14.800  5807  5810 D dalvikvm: GC_CONCURRENT freed 305K, 14% free 9380K/10823K, paused 2ms+3ms
+06-29 01:15:14.816  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 120K, 13% free 9508K/10823K, paused 14ms
+06-29 01:15:14.847  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 11% free 9721K/10823K, paused 1ms+3ms
+06-29 01:15:14.925  5807  8948 D dalvikvm: GC_FOR_ALLOC freed 307K, 11% free 9740K/10823K, paused 29ms
+06-29 01:15:14.949  5807  8948 D dalvikvm: GC_FOR_ALLOC freed 301K, 11% free 9741K/10823K, paused 20ms
+06-29 01:15:14.964  5807  8948 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9742K/10823K, paused 13ms
+06-29 01:15:15.214   142   491 I ActivityManager: Process com.android.calendar (pid 7920) has died.
+06-29 01:15:16.394 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 01:15:16.398 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -68  len = 23, 23
+06-29 01:15:16.398 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 01:15:16.402 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 52 len = 12, 12
+06-29 01:15:16.949  5807  5807 I PhoneLab-: 1340914513696.log is deleted
+06-29 01:15:16.949  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:17.031  5807  5810 D dalvikvm: GC_CONCURRENT freed 956K, 15% free 9278K/10823K, paused 2ms+2ms
+06-29 01:15:17.086  5807  5810 D dalvikvm: GC_CONCURRENT freed 305K, 14% free 9381K/10823K, paused 2ms+3ms
+06-29 01:15:17.101  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 120K, 13% free 9509K/10823K, paused 14ms
+06-29 01:15:17.129  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 11% free 9722K/10823K, paused 2ms+3ms
+06-29 01:15:17.183  5807  8950 D dalvikvm: GC_FOR_ALLOC freed 307K, 10% free 9742K/10823K, paused 16ms
+06-29 01:15:17.203  5807  8950 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9742K/10823K, paused 16ms
+06-29 01:15:17.218  5807  8950 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9743K/10823K, paused 15ms
+06-29 01:15:19.125  5807  5807 I PhoneLab-: 1340928197577.log is deleted
+06-29 01:15:19.125  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:19.183  5807  5807 D dalvikvm: GC_EXPLICIT freed 870K, 15% free 9246K/10823K, paused 2ms+3ms
+06-29 01:15:19.238  5807  5810 D dalvikvm: GC_CONCURRENT freed 327K, 14% free 9326K/10823K, paused 2ms+2ms
+06-29 01:15:19.269  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 184K, 13% free 9510K/10823K, paused 15ms
+06-29 01:15:19.304  5807  5810 D dalvikvm: GC_CONCURRENT freed 294K, 11% free 9727K/10823K, paused 3ms+2ms
+06-29 01:15:19.367  5807  8952 D dalvikvm: GC_FOR_ALLOC freed 311K, 10% free 9743K/10823K, paused 17ms
+06-29 01:15:19.386  5807  8952 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9743K/10823K, paused 16ms
+06-29 01:15:19.402  5807  8952 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9744K/10823K, paused 15ms
+06-29 01:15:19.414 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 01:15:19.414 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -68  len = 23, 23
+06-29 01:15:19.414 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 01:15:19.414 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 58 len = 12, 12
+06-29 01:15:21.406  5807  5807 I PhoneLab-: 1340928197744.log is deleted
+06-29 01:15:21.410  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:21.480  5807  5810 D dalvikvm: GC_CONCURRENT freed 956K, 15% free 9280K/10823K, paused 2ms+3ms
+06-29 01:15:21.554  5807  5810 D dalvikvm: GC_CONCURRENT freed 305K, 14% free 9383K/10823K, paused 2ms+2ms
+06-29 01:15:21.570  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 120K, 13% free 9511K/10823K, paused 16ms
+06-29 01:15:21.605  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 11% free 9724K/10823K, paused 2ms+2ms
+06-29 01:15:21.722  5807  8954 D dalvikvm: GC_FOR_ALLOC freed 307K, 10% free 9744K/10823K, paused 49ms
+06-29 01:15:21.738  5807  8954 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9744K/10823K, paused 13ms
+06-29 01:15:21.754  5807  8954 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9745K/10823K, paused 14ms
+06-29 01:15:22.418 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 01:15:22.421 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -68  len = 23, 23
+06-29 01:15:22.421 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 01:15:22.425 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 52 len = 12, 12
+06-29 01:15:23.664  5807  5807 I PhoneLab-Locks: wake lock acquired
+06-29 01:15:23.687  5807  5807 I PhoneLab-StatusMonitor: Status Monitoring is started
+06-29 01:15:23.742  5807  5810 D dalvikvm: GC_CONCURRENT freed 456K, 10% free 9800K/10823K, paused 2ms+3ms
+06-29 01:15:23.793  5807  5807 I PhoneLab-StatusMonitor: Value: 10 - unit: min
+06-29 01:15:23.793  5807  5807 I PhoneLab-StatusMonitor: Running interval: 600000
+06-29 01:15:23.800  5807  5807 I PhoneLab-StatusMonitor: Rescheduling status monitoring...
+06-29 01:15:23.804  5807  5807 I PhoneLab-Locks: wake lock released
+06-29 01:15:24.062  5807  5807 I PhoneLab-: 1340937756634.log is deleted
+06-29 01:15:24.066  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:24.160  5807  5810 D dalvikvm: GC_CONCURRENT freed 1018K, 15% free 9281K/10823K, paused 2ms+2ms
+06-29 01:15:24.214  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 14% free 9391K/10823K, paused 2ms+2ms
+06-29 01:15:24.230  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 120K, 13% free 9519K/10823K, paused 14ms
+06-29 01:15:24.246  5807  5807 I PhoneLab-StatusMonitorLocation: Learning Location
+06-29 01:15:24.246  5807  5807 I PhoneLab-Locks: wake lock acquired
+06-29 01:15:24.257  5807  5810 D dalvikvm: GC_CONCURRENT freed 256K, 10% free 9774K/10823K, paused 2ms+3ms
+06-29 01:15:24.261  5807  5807 I PhoneLab-Locks: wake lock acquired
+06-29 01:15:24.269  5807  5807 I PhoneLab-StatusMonitorLocation: Learning Signal Strgth
+06-29 01:15:24.269  5807  5807 I PhoneLab-Locks: wake lock acquired
+06-29 01:15:24.269 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: WPS: Building WPS IE for Probe Request
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: WPS:  * Version (hardcoded 0x10)
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: WPS:  * Request Type
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: WPS:  * Config Methods (2388)
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: WPS:  * UUID-E
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: WPS:  * Primary Device Type
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: WPS:  * RF Bands (3)
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: WPS:  * Association State
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: WPS:  * Configuration Error (0)
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: WPS:  * Device Password ID (0)
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: WPS:  * Manufacturer
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: WPS:  * Model Name
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: WPS:  * Model Number
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: WPS:  * Device Name
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: WPS:  * Version2 (0x20)
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: wpa_driver_wext_combo_scan: Start
+06-29 01:15:24.281 32520 32520 D wpa_supplicant: For Scan: (null)
+06-29 01:15:24.285 32520 32520 D wpa_supplicant: Scan requested (ret=0) - scan timeout 30 seconds
+06-29 01:15:24.285 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-29 01:15:24.293 32520 32520 D wpa_supplicant: Ongoing scan action - reject new request
+06-29 01:15:24.312  5807  5807 I PhoneLab-StatusMonitorBattery: Battery_level: 48
+06-29 01:15:24.312  5807  5807 I PhoneLab-Locks: wake lock released
+06-29 01:15:24.316  5807  5807 I PhoneLab-StatusMonitorSignal: Signal_Strength: -86 asu: 14
+06-29 01:15:24.316  5807  5807 I PhoneLab-Locks: wake lock released
+06-29 01:15:24.339   342   346 D dalvikvm: GC_CONCURRENT freed 836K, 8% free 12019K/13063K, paused 3ms+3ms
+06-29 01:15:24.394  5807  8956 D dalvikvm: GC_FOR_ALLOC freed 362K, 10% free 9751K/10823K, paused 17ms
+06-29 01:15:24.410  5807  8956 D dalvikvm: GC_FOR_ALLOC freed 302K, 10% free 9750K/10823K, paused 17ms
+06-29 01:15:24.429  5807  8956 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9751K/10823K, paused 16ms
+06-29 01:15:25.437 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 01:15:25.441 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -68  len = 23, 23
+06-29 01:15:25.441 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 01:15:25.468 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 58 len = 12, 12
+06-29 01:15:25.472 32520 32520 D wpa_supplicant: RTM_NEWLINK: operstate=1 ifi_flags=0x11043 ([UP][RUNNING][LOWER_UP])
+06-29 01:15:25.476 32520 32520 D wpa_supplicant: RTM_NEWLINK, IFLA_IFNAME: Interface 'wlan0' added
+06-29 01:15:25.488 32520 32520 D wpa_supplicant: Wireless event: cmd=0x8b19 len=8
+06-29 01:15:25.488 32520 32520 D wpa_supplicant: Received 1980 bytes of scan results (7 BSSes)
+06-29 01:15:25.613 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:15:25.613 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:15:25.617 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:15:25.617 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:15:25.621  5807  5807 I PhoneLab-StatusMonitorLocation: Location_Latitude: 42.9543463 Longitude: -78.8267526 Accuracy: 30.0
+06-29 01:15:25.621 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-29 01:15:25.625  5807  5807 I PhoneLab-Locks: wake lock released
+06-29 01:15:25.629 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:15:25.629 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:15:25.629 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: WPS: Building WPS IE for Probe Request
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: WPS:  * Version (hardcoded 0x10)
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: WPS:  * Request Type
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: WPS:  * Config Methods (2388)
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: WPS:  * UUID-E
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: WPS:  * Primary Device Type
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: WPS:  * RF Bands (3)
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: WPS:  * Association State
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: WPS:  * Configuration Error (0)
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: WPS:  * Device Password ID (0)
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: WPS:  * Manufacturer
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: WPS:  * Model Name
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: WPS:  * Model Number
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: WPS:  * Device Name
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: WPS:  * Version2 (0x20)
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: wpa_driver_wext_combo_scan: Start
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: For Scan: (null)
+06-29 01:15:25.644 32520 32520 D wpa_supplicant: Scan requested (ret=0) - scan timeout 30 seconds
+06-29 01:15:25.879 26576 26578 D dalvikvm: GC_CONCURRENT freed 718K, 11% free 11293K/12615K, paused 6ms+6ms
+06-29 01:15:26.789  5807  5807 I PhoneLab-: 1340937756640.log is deleted
+06-29 01:15:26.793  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:26.820 32520 32520 D wpa_supplicant: RTM_NEWLINK: operstate=1 ifi_flags=0x11043 ([UP][RUNNING][LOWER_UP])
+06-29 01:15:26.820 32520 32520 D wpa_supplicant: RTM_NEWLINK, IFLA_IFNAME: Interface 'wlan0' added
+06-29 01:15:26.820 32520 32520 D wpa_supplicant: Wireless event: cmd=0x8b19 len=8
+06-29 01:15:26.820 32520 32520 D wpa_supplicant: Received 1811 bytes of scan results (6 BSSes)
+06-29 01:15:26.961 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:15:26.961 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:15:26.961 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:15:26.961 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:15:26.968  5807  5810 D dalvikvm: GC_CONCURRENT freed 957K, 15% free 9287K/10823K, paused 1ms+3ms
+06-29 01:15:27.031  5807  5810 D dalvikvm: GC_CONCURRENT freed 306K, 14% free 9389K/10823K, paused 2ms+3ms
+06-29 01:15:27.046  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 120K, 13% free 9517K/10823K, paused 16ms
+06-29 01:15:27.082  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 11% free 9730K/10823K, paused 2ms+2ms
+06-29 01:15:27.156  5807  8961 D dalvikvm: GC_FOR_ALLOC freed 306K, 10% free 9750K/10823K, paused 31ms
+06-29 01:15:27.175  5807  8961 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9750K/10823K, paused 19ms
+06-29 01:15:27.191  5807  8961 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9751K/10823K, paused 16ms
+06-29 01:15:28.476 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 01:15:28.480 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -69  len = 23, 23
+06-29 01:15:28.480 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 01:15:28.484 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 52 len = 12, 12
+06-29 01:15:29.086  5807  5807 I PhoneLab-: 1340938252483.log is deleted
+06-29 01:15:29.086  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:29.148  5807  5810 D dalvikvm: GC_CONCURRENT freed 955K, 15% free 9287K/10823K, paused 2ms+2ms
+06-29 01:15:29.199  5807  5810 D dalvikvm: GC_CONCURRENT freed 305K, 14% free 9390K/10823K, paused 2ms+2ms
+06-29 01:15:29.214  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 120K, 13% free 9518K/10823K, paused 14ms
+06-29 01:15:29.246  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 11% free 9731K/10823K, paused 2ms+2ms
+06-29 01:15:29.328  5807  8963 D dalvikvm: GC_FOR_ALLOC freed 306K, 10% free 9751K/10823K, paused 16ms
+06-29 01:15:29.343  5807  8963 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9751K/10823K, paused 16ms
+06-29 01:15:29.363  5807  8963 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9752K/10823K, paused 16ms
+06-29 01:15:31.289  5807  5807 I PhoneLab-: 1340938252496.log is deleted
+06-29 01:15:31.289  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:31.367  5807  5810 D dalvikvm: GC_CONCURRENT freed 955K, 15% free 9288K/10823K, paused 2ms+3ms
+06-29 01:15:31.429  5807  5810 D dalvikvm: GC_CONCURRENT freed 305K, 14% free 9391K/10823K, paused 2ms+2ms
+06-29 01:15:31.449  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 120K, 13% free 9519K/10823K, paused 17ms
+06-29 01:15:31.480  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 11% free 9732K/10823K, paused 3ms+2ms
+06-29 01:15:31.496 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 01:15:31.500 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -68  len = 23, 23
+06-29 01:15:31.500 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 01:15:31.500 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 52 len = 12, 12
+06-29 01:15:31.543  5807  8965 D dalvikvm: GC_FOR_ALLOC freed 306K, 10% free 9752K/10823K, paused 17ms
+06-29 01:15:31.558  5807  8965 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9752K/10823K, paused 16ms
+06-29 01:15:31.578  5807  8965 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9753K/10823K, paused 17ms
+06-29 01:15:33.429  5807  5807 I PhoneLab-: 1340938372550.log is deleted
+06-29 01:15:33.429  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:33.504  5807  5810 D dalvikvm: GC_CONCURRENT freed 954K, 15% free 9289K/10823K, paused 2ms+2ms
+06-29 01:15:33.554  5807  5810 D dalvikvm: GC_CONCURRENT freed 305K, 14% free 9392K/10823K, paused 2ms+2ms
+06-29 01:15:33.574  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 120K, 13% free 9520K/10823K, paused 15ms
+06-29 01:15:33.605  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 11% free 9733K/10823K, paused 2ms+3ms
+06-29 01:15:33.730  5807  8967 D dalvikvm: GC_FOR_ALLOC freed 306K, 10% free 9753K/10823K, paused 29ms
+06-29 01:15:33.750  5807  8967 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9754K/10823K, paused 19ms
+06-29 01:15:33.765  5807  8967 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9755K/10823K, paused 14ms
+06-29 01:15:34.504 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 01:15:34.507 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -70  len = 23, 23
+06-29 01:15:34.507 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 01:15:34.511 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 58 len = 12, 12
+06-29 01:15:35.656  5807  5807 I PhoneLab-: 1340938372582.log is deleted
+06-29 01:15:35.656  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:35.722  5807  5810 D dalvikvm: GC_CONCURRENT freed 954K, 15% free 9290K/10823K, paused 2ms+2ms
+06-29 01:15:35.773  5807  5810 D dalvikvm: GC_CONCURRENT freed 305K, 14% free 9393K/10823K, paused 2ms+2ms
+06-29 01:15:35.793  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 120K, 13% free 9521K/10823K, paused 15ms
+06-29 01:15:35.820  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 11% free 9734K/10823K, paused 2ms+2ms
+06-29 01:15:35.879  5807  8969 D dalvikvm: GC_FOR_ALLOC freed 306K, 10% free 9754K/10823K, paused 17ms
+06-29 01:15:35.894  5807  8969 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9755K/10823K, paused 17ms
+06-29 01:15:35.914  5807  8969 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9756K/10823K, paused 15ms
+06-29 01:15:36.496   142   170 I power   : *** set_screen_state 0
+06-29 01:15:36.554    78   118 D SurfaceFlinger: About to give-up screen, flinger = 0x153918
+06-29 01:15:36.695   142   144 D dalvikvm: GC_CONCURRENT freed 1397K, 22% free 15865K/20167K, paused 3ms+5ms
+06-29 01:15:36.718   142   174 V TransportControlView: Create TCV com.android.internal.widget.TransportControlView@416dc428
+06-29 01:15:36.754 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:15:36.754 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:15:36.754 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:15:36.765 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:15:38.105  5807  5807 I PhoneLab-: 1340939743232.log is deleted
+06-29 01:15:38.105  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:38.207  5807  5810 D dalvikvm: GC_CONCURRENT freed 954K, 15% free 9291K/10823K, paused 7ms+3ms
+06-29 01:15:38.257  5807  5810 D dalvikvm: GC_CONCURRENT freed 310K, 14% free 9389K/10823K, paused 2ms+3ms
+06-29 01:15:38.273  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 120K, 13% free 9517K/10823K, paused 14ms
+06-29 01:15:38.300  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 11% free 9731K/10823K, paused 2ms+3ms
+06-29 01:15:38.433  5807  8971 D dalvikvm: GC_FOR_ALLOC freed 306K, 10% free 9751K/10823K, paused 29ms
+06-29 01:15:38.453  5807  8971 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9751K/10823K, paused 19ms
+06-29 01:15:38.468  5807  8971 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9752K/10823K, paused 14ms
+06-29 01:15:40.355  5807  5807 I PhoneLab-: 1340939743237.log is deleted
+06-29 01:15:40.355  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:40.484  5807  5810 D dalvikvm: GC_CONCURRENT freed 954K, 15% free 9287K/10823K, paused 13ms+3ms
+06-29 01:15:40.531  5807  5810 D dalvikvm: GC_CONCURRENT freed 306K, 14% free 9389K/10823K, paused 2ms+2ms
+06-29 01:15:40.546  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 120K, 13% free 9517K/10823K, paused 13ms
+06-29 01:15:40.574  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 11% free 9730K/10823K, paused 2ms+3ms
+06-29 01:15:40.652  5807  8973 D dalvikvm: GC_FOR_ALLOC freed 306K, 10% free 9751K/10823K, paused 16ms
+06-29 01:15:40.668  5807  8973 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9751K/10823K, paused 15ms
+06-29 01:15:40.683  5807  8973 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9752K/10823K, paused 15ms
+06-29 01:15:42.648  5807  5807 I PhoneLab-: 1340943455979.log is deleted
+06-29 01:15:42.648  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:42.711  5807  5810 D dalvikvm: GC_CONCURRENT freed 953K, 15% free 9287K/10823K, paused 2ms+2ms
+06-29 01:15:42.761  5807  5810 D dalvikvm: GC_CONCURRENT freed 306K, 14% free 9389K/10823K, paused 2ms+2ms
+06-29 01:15:42.777  5807  5807 D dalvikvm: GC_FOR_ALLOC freed 120K, 13% free 9517K/10823K, paused 13ms
+06-29 01:15:42.804  5807  5810 D dalvikvm: GC_CONCURRENT freed 298K, 11% free 9730K/10823K, paused 2ms+2ms
+06-29 01:15:42.964  5807  8975 D dalvikvm: GC_FOR_ALLOC freed 305K, 10% free 9751K/10823K, paused 42ms
+06-29 01:15:42.976  5807  8975 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9751K/10823K, paused 13ms
+06-29 01:15:42.992  5807  8975 D dalvikvm: GC_FOR_ALLOC freed 301K, 10% free 9752K/10823K, paused 13ms
+06-29 01:15:44.964  5807  5807 I PhoneLab-: 1340943456010.log is deleted
+06-29 01:15:44.968  5807  5807 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-29 01:15:44.972  5807  5807 I PhoneLab-UploadLogs: No log files to transfer
+06-29 01:15:44.972  5807  5807 I PhoneLab-Locks: wake lock released
+06-29 01:15:51.847  8849  8976 D SensorUploader: Directory /data/data/com.google.android.apps.maps/cache/nlp_s/1340938111906-117192 deleted.
+06-29 01:15:51.847  8849  8976 D SensorUploader: Nothing to upload
+06-29 01:15:51.851 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:15:51.851 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:15:51.851 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:15:51.863  8849  8976 D SensorUploader: Error: Trying to delete non-directory/data/data/com.google.android.apps.maps/cache/nlp_s/1340938111906-117192
+06-29 01:15:51.863 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:16:52.390  5807  5820 I PhoneLab-: Service Running
+06-29 01:16:52.461  5807  5820 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-29 01:16:52.461  5807  5820 I PhoneLab-LoggerService: app_38    30500 1     1064   676   c00f181c 400107b4 S logcat
+06-29 01:16:52.461  5807  5820 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-29 01:16:52.461  5807  5820 I PhoneLab-LoggerService: Logcat process found 2630
+06-29 01:16:52.461  5807  5820 I PhoneLab-LoggerService: Checking Threshold
+06-29 01:16:52.461  5807  5820 I PhoneLab-LoggerService: Starting to rename files
+06-29 01:16:52.461  5807  5820 I PhoneLab-LoggerService: Files found .. 3
+06-29 01:16:52.464  5807  5820 I PhoneLab-LoggerService: File 1 log.out.1
+06-29 01:16:52.484  5807  5820 I PhoneLab-LoggerService: Renamed successfully
+06-29 01:16:52.500  5807  5820 I PhoneLab-LoggerService: File 2 log.out.2
+06-29 01:16:52.504  5807  5820 I PhoneLab-LoggerService: Renamed successfully
+06-29 01:16:52.515  5807  5810 D dalvikvm: GC_CONCURRENT freed 910K, 15% free 9228K/10823K, paused 2ms+2ms
+06-29 01:18:29.828   213   216 D dalvikvm: GC_CONCURRENT freed 333K, 62% free 10078K/25991K, paused 3ms+6ms
+06-29 01:18:29.925   213   216 D dalvikvm: GC_CONCURRENT freed 262K, 61% free 10252K/25991K, paused 2ms+3ms
+06-29 01:18:30.058   213   216 D dalvikvm: GC_CONCURRENT freed 559K, 61% free 10170K/25991K, paused 2ms+7ms
+06-29 01:18:30.074  8212  8215 D dalvikvm: JIT code cache reset in 26 ms (1048520 bytes 1/0)
+06-29 01:18:30.097  8212  8215 D dalvikvm: GC_CONCURRENT freed 1626K, 25% free 13844K/18311K, paused 48ms+63ms
+06-29 01:18:30.336   142   166 I ActivityManager: Start proc com.google.android.gm for service com.google.android.gm/.provider.MailSyncAdapterService: pid=8985 uid=10019 gids={3003, 1015}
+06-29 01:18:30.461  8985  8985 I ActivityThread: Pub gmail-ls: com.google.android.gm.provider.MailProvider
+06-29 01:18:30.468   142   513 I ActivityManager: Process com.android.deskclock (pid 7937) has died.
+06-29 01:18:30.527  8985  8985 I ActivityThread: Pub com.google.android.gmail.SuggestionProvider: com.google.android.gm.SuggestionsProvider
+06-29 01:18:30.550  8985  8985 I ActivityThread: Pub com.google.android.gm: com.google.android.gm.provider.PublicContentProvider
+06-29 01:18:31.199  8985  8988 D dalvikvm: GC_CONCURRENT freed 244K, 4% free 9227K/9543K, paused 2ms+2ms
+06-29 01:18:31.355  8985  8988 D dalvikvm: GC_CONCURRENT freed 207K, 4% free 9546K/9863K, paused 1ms+2ms
+06-29 01:18:31.367  8985  9003 I Gmail   : calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+06-29 01:18:31.433  8985  8988 D dalvikvm: GC_CONCURRENT freed 296K, 4% free 9740K/10119K, paused 2ms+2ms
+06-29 01:18:31.437  8985  9003 I Gmail   : calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+06-29 01:18:31.464  8985  9003 I Gmail   : calculateUnknownSyncRationalesAndPurgeInBackground: running
+06-29 01:18:31.468  8985  9003 I Gmail   : calculateUnknownSyncRationalesAndPurgeInBackground: running
+06-29 01:18:31.515  8985  8988 D dalvikvm: GC_CONCURRENT freed 371K, 5% free 9893K/10375K, paused 1ms+2ms
+06-29 01:18:31.586  8985  8988 D dalvikvm: GC_CONCURRENT freed 302K, 5% free 10075K/10503K, paused 2ms+2ms
+06-29 01:18:31.695  8985  8988 D dalvikvm: GC_CONCURRENT freed 810K, 9% free 9695K/10631K, paused 1ms+2ms
+06-29 01:18:32.121  8985  9000 I Gmail   : MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 1035493, normalSync: true
+06-29 01:18:32.230   142  5110 I ActivityManager: Start proc com.google.android.gsf.login for service com.google.android.gsf.login/com.google.android.gsf.loginservice.GoogleLoginService: pid=9007 uid=10009 gids={3003, 1015, 1007, 2001, 3006}
+06-29 01:18:32.269    79    79 D dalvikvm: GC_EXPLICIT freed 38K, 4% free 9031K/9347K, paused 2ms+4ms
+06-29 01:18:32.320    79    79 D dalvikvm: GC_EXPLICIT freed <1K, 4% free 9031K/9347K, paused 1ms+2ms
+06-29 01:18:32.347    79    79 D dalvikvm: GC_EXPLICIT freed <1K, 4% free 9031K/9347K, paused 1ms+3ms
+06-29 01:18:32.453 26576 27338 D dalvikvm: GC_EXPLICIT freed 378K, 11% free 11256K/12615K, paused 2ms+3ms
+06-29 01:18:32.941  8985  8988 D dalvikvm: GC_CONCURRENT freed 662K, 12% free 9421K/10631K, paused 4ms+2ms
+06-29 01:18:33.875  8985  8988 D dalvikvm: GC_CONCURRENT freed 340K, 11% free 9470K/10631K, paused 3ms+4ms
+06-29 01:18:34.054  8985  8988 D dalvikvm: GC_CONCURRENT freed 402K, 11% free 9475K/10631K, paused 2ms+2ms
+06-29 01:18:34.175  8985  8988 D dalvikvm: GC_CONCURRENT freed 389K, 11% free 9481K/10631K, paused 2ms+2ms
+06-29 01:18:34.304  8985  8988 D dalvikvm: GC_CONCURRENT freed 396K, 11% free 9483K/10631K, paused 1ms+2ms
+06-29 01:18:34.433  8985  8988 D dalvikvm: GC_CONCURRENT freed 419K, 11% free 9475K/10631K, paused 1ms+2ms
+06-29 01:18:34.562  8985  9000 D dalvikvm: GC_EXPLICIT freed 236K, 12% free 9460K/10631K, paused 2ms+3ms
+06-29 01:18:34.570  8985  9000 I Gmail   : MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 1035555, normalSync: true
+06-29 01:18:35.035  8985  9000 D dalvikvm: GC_EXPLICIT freed 197K, 11% free 9512K/10631K, paused 4ms+2ms
+06-29 01:18:35.043  8985  9000 I Gmail   : MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 1035555, normalSync: true
+06-29 01:18:35.074  8985  9000 W Gmail   : Scheduling index for 300000 ms from now
+06-29 01:18:35.097  8985  9000 I Gmail   : Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+06-29 01:18:35.140  8985  9000 I Gmail   : Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^iim (has extras) }
+06-29 01:18:35.179  8985  9026 W Gmail   : Showing notification with unreadCount of 1 and unseenCount of 1
+06-29 01:18:35.355   213  1653 D dalvikvm: GC_EXPLICIT freed 192K, 61% free 10180K/25991K, paused 2ms+9ms
+06-29 01:18:35.398  8985  8988 D dalvikvm: GC_CONCURRENT freed 294K, 10% free 9612K/10631K, paused 2ms+8ms
+06-29 01:18:35.617   142  9029 I AudioService:  AudioFocus  requestAudioFocus() from android.media.AudioManager@415a1230
+06-29 01:18:35.687    81   121 D AudioHardware: AudioHardware pcm playback is exiting standby.
+06-29 01:18:35.687    81   121 D AudioHardware: openPcmOut_l() mPcmOpenCnt: 0
+06-29 01:18:35.785   213   216 D dalvikvm: GC_CONCURRENT freed 218K, 60% free 10434K/25991K, paused 3ms+3ms
+06-29 01:18:36.004   213   216 D dalvikvm: GC_CONCURRENT freed 499K, 60% free 10437K/25991K, paused 4ms+4ms
+06-29 01:18:37.578   142  9029 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415a1230
+06-29 01:18:40.664    81   121 D AudioHardware: AudioHardware pcm playback is going to standby.
+06-29 01:18:40.668    81   121 D AudioHardware: closePcmOut_l() mPcmOpenCnt: 1
+06-29 01:18:52.398  5807  5820 I PhoneLab-: Service Running
+06-29 01:18:52.523  5807  5820 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-29 01:18:52.523  5807  5820 I PhoneLab-LoggerService: app_38    30500 1     1064   676   c00f181c 400107b4 S logcat
+06-29 01:18:52.523  5807  5820 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-29 01:18:52.523  5807  5820 I PhoneLab-LoggerService: Logcat process found 2630
+06-29 01:18:52.527  5807  5820 I PhoneLab-LoggerService: Checking Threshold
+06-29 01:18:52.527  5807  5820 I PhoneLab-LoggerService: Starting to rename files
+06-29 01:18:52.527  5807  5820 I PhoneLab-LoggerService: Files found .. 3
+06-29 01:18:52.531   142   513 I ActivityManager: Process com.google.android.gallery3d (pid 8795) has died.
+06-29 01:20:52.390  5807  5820 I PhoneLab-: Service Running
+06-29 01:20:52.464  5807  5820 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-29 01:20:52.468  5807  5820 I PhoneLab-LoggerService: app_38    30500 1     1064   676   c00f181c 400107b4 S logcat
+06-29 01:20:52.468  5807  5820 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-29 01:20:52.468  5807  5820 I PhoneLab-LoggerService: Logcat process found 2630
+06-29 01:20:52.468  5807  5820 I PhoneLab-LoggerService: Checking Threshold
+06-29 01:20:52.468  5807  5820 I PhoneLab-LoggerService: Starting to rename files
+06-29 01:20:52.468  5807  5820 I PhoneLab-LoggerService: Files found .. 3
+06-29 01:21:30.527   142   860 D dalvikvm: GC_EXPLICIT freed 1559K, 23% free 15591K/20167K, paused 3ms+6ms
+06-29 01:21:30.566  8985  9038 I Gmail   : MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 1035555, normalSync: true
+06-29 01:21:31.043  8985  8988 D dalvikvm: GC_CONCURRENT freed 411K, 10% free 9607K/10631K, paused 2ms+7ms
+06-29 01:21:31.129  8985  9038 D dalvikvm: GC_EXPLICIT freed 55K, 10% free 9579K/10631K, paused 2ms+3ms
+06-29 01:21:31.136  8985  9038 I Gmail   : MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 1035576, normalSync: true
+06-29 01:21:31.144  8985  9038 W Gmail   : Scheduling index for 300000 ms from now
+06-29 01:21:31.171  8985  9038 I Gmail   : Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+06-29 01:21:31.207   142  9040 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@415a1230
+06-29 01:21:31.222  8985  9038 I Gmail   : Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^iim (has extras) }
+06-29 01:21:31.277   213   216 D dalvikvm: GC_CONCURRENT freed 645K, 61% free 10270K/25991K, paused 1ms+3ms
+06-29 01:21:31.351   213   216 D dalvikvm: GC_CONCURRENT freed 296K, 60% free 10441K/25991K, paused 1ms+3ms
+06-29 01:22:52.390  5807  5820 I PhoneLab-: Service Running
+06-29 01:22:52.461  5807  5820 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-29 01:22:52.461  5807  5820 I PhoneLab-LoggerService: app_38    30500 1     1064   676   c00f181c 400107b4 S logcat
+06-29 01:22:52.461  5807  5820 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-29 01:22:52.461  5807  5820 I PhoneLab-LoggerService: Logcat process found 2630
+06-29 01:22:52.461  5807  5820 I PhoneLab-LoggerService: Checking Threshold
+06-29 01:22:52.461  5807  5820 I PhoneLab-LoggerService: Starting to rename files
+06-29 01:22:52.461  5807  5820 I PhoneLab-LoggerService: Files found .. 3
+06-29 01:24:52.390  5807  5820 I PhoneLab-: Service Running
+06-29 01:24:52.461  5807  5820 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-29 01:24:52.461  5807  5820 I PhoneLab-LoggerService: app_38    30500 1     1064   676   c00f181c 400107b4 S logcat
+06-29 01:24:52.461  5807  5820 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-29 01:24:52.461  5807  5820 I PhoneLab-LoggerService: Logcat process found 2630
+06-29 01:24:52.461  5807  5820 I PhoneLab-LoggerService: Checking Threshold
+06-29 01:24:52.461  5807  5820 I PhoneLab-LoggerService: Starting to rename files
+06-29 01:24:52.461  5807  5820 I PhoneLab-LoggerService: Files found .. 3
+06-29 01:25:23.832  5807  5807 I PhoneLab-Locks: wake lock acquired
+06-29 01:25:23.863  5807  5807 I PhoneLab-StatusMonitor: Status Monitoring is started
+06-29 01:25:23.933  5807  5810 D dalvikvm: GC_CONCURRENT freed 482K, 15% free 9257K/10823K, paused 2ms+3ms
+06-29 01:25:23.976  5807  5807 I PhoneLab-StatusMonitor: Value: 10 - unit: min
+06-29 01:25:23.976  5807  5807 I PhoneLab-StatusMonitor: Running interval: 600000
+06-29 01:25:23.984  5807  5807 I PhoneLab-StatusMonitor: Rescheduling status monitoring...
+06-29 01:25:23.984  5807  5807 I PhoneLab-Locks: wake lock released
+06-29 01:25:23.988  5807  5807 I PhoneLab-StatusMonitorLocation: Learning Location
+06-29 01:25:23.988  5807  5807 I PhoneLab-Locks: wake lock acquired
+06-29 01:25:23.996  5807  5807 I PhoneLab-Locks: wake lock acquired
+06-29 01:25:24.000 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-29 01:25:24.000  5807  5807 I PhoneLab-StatusMonitorLocation: Learning Signal Strgth
+06-29 01:25:24.000  5807  5807 I PhoneLab-Locks: wake lock acquired
+06-29 01:25:24.007 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-29 01:25:24.007  5807  5807 I PhoneLab-StatusMonitorBattery: Battery_level: 52
+06-29 01:25:24.007  5807  5807 I PhoneLab-Locks: wake lock released
+06-29 01:25:24.011  5807  5807 I PhoneLab-StatusMonitorSignal: Signal_Strength: -86 asu: 14
+06-29 01:25:24.011  5807  5807 I PhoneLab-Locks: wake lock released
+06-29 01:25:24.015 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:25:24.015 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:25:24.015 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:25:24.023 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: WPS: Building WPS IE for Probe Request
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: WPS:  * Version (hardcoded 0x10)
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: WPS:  * Request Type
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: WPS:  * Config Methods (2388)
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: WPS:  * UUID-E
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: WPS:  * Primary Device Type
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: WPS:  * RF Bands (3)
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: WPS:  * Association State
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: WPS:  * Configuration Error (0)
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: WPS:  * Device Password ID (0)
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: WPS:  * Manufacturer
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: WPS:  * Model Name
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: WPS:  * Model Number
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: WPS:  * Device Name
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: WPS:  * Version2 (0x20)
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: wpa_driver_wext_combo_scan: Start
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: For Scan: (null)
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: Scan requested (ret=0) - scan timeout 30 seconds
+06-29 01:25:24.027 32520 32520 D wpa_supplicant: Ongoing scan action - reject new request
+06-29 01:25:25.203 32520 32520 D wpa_supplicant: RTM_NEWLINK: operstate=1 ifi_flags=0x11043 ([UP][RUNNING][LOWER_UP])
+06-29 01:25:25.203 32520 32520 D wpa_supplicant: RTM_NEWLINK, IFLA_IFNAME: Interface 'wlan0' added
+06-29 01:25:25.203 32520 32520 D wpa_supplicant: Wireless event: cmd=0x8b19 len=8
+06-29 01:25:25.203 32520 32520 D wpa_supplicant: Received 2050 bytes of scan results (7 BSSes)
+06-29 01:25:25.308 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:25:25.308 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:25:25.308 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:25:25.312 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:25:25.316  5807  5807 I PhoneLab-StatusMonitorLocation: Location_Latitude: 42.95435 Longitude: -78.8267658 Accuracy: 30.0
+06-29 01:25:25.316 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-29 01:25:25.316  5807  5807 I PhoneLab-Locks: wake lock released
+06-29 01:25:25.320 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:25:25.320 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:25:25.320 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:25:25.328 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:25:25.328 32520 32520 D wpa_supplicant: WPS: Building WPS IE for Probe Request
+06-29 01:25:25.328 32520 32520 D wpa_supplicant: WPS:  * Version (hardcoded 0x10)
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: WPS:  * Request Type
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: WPS:  * Config Methods (2388)
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: WPS:  * UUID-E
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: WPS:  * Primary Device Type
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: WPS:  * RF Bands (3)
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: WPS:  * Association State
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: WPS:  * Configuration Error (0)
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: WPS:  * Device Password ID (0)
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: WPS:  * Manufacturer
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: WPS:  * Model Name
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: WPS:  * Model Number
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: WPS:  * Device Name
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: WPS:  * Version2 (0x20)
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: wpa_driver_wext_combo_scan: Start
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: For Scan: (null)
+06-29 01:25:25.332 32520 32520 D wpa_supplicant: Scan requested (ret=0) - scan timeout 30 seconds
+06-29 01:25:26.496 32520 32520 D wpa_supplicant: RTM_NEWLINK: operstate=1 ifi_flags=0x11043 ([UP][RUNNING][LOWER_UP])
+06-29 01:25:26.496 32520 32520 D wpa_supplicant: RTM_NEWLINK, IFLA_IFNAME: Interface 'wlan0' added
+06-29 01:25:26.496 32520 32520 D wpa_supplicant: Wireless event: cmd=0x8b19 len=8
+06-29 01:25:26.496 32520 32520 D wpa_supplicant: Received 1663 bytes of scan results (6 BSSes)
+06-29 01:25:26.601 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:25:26.601 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:25:26.601 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:25:26.601 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:25:26.656 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:25:26.656 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:25:26.656 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:25:26.664 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:25:26.730   213   216 D dalvikvm: GC_CONCURRENT freed 504K, 60% free 10439K/25991K, paused 2ms+4ms
+06-29 01:25:26.793   213   216 D dalvikvm: GC_CONCURRENT freed 555K, 61% free 10375K/25991K, paused 2ms+3ms
+06-29 01:25:26.875   213   216 D dalvikvm: GC_CONCURRENT freed 467K, 61% free 10336K/25991K, paused 2ms+4ms
+06-29 01:25:43.625 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:25:43.625 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:25:43.629 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:25:43.636 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:25:43.941   213   216 D dalvikvm: GC_CONCURRENT freed 384K, 60% free 10397K/25991K, paused 2ms+7ms
+06-29 01:25:44.066   213   216 D dalvikvm: GC_CONCURRENT freed 527K, 61% free 10341K/25991K, paused 1ms+4ms
+06-29 01:26:52.390  5807  5820 I PhoneLab-: Service Running
+06-29 01:26:52.461  5807  5820 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-29 01:26:52.461  5807  5820 I PhoneLab-LoggerService: app_38    30500 1     1064   676   c00f181c 400107b4 S logcat
+06-29 01:26:52.461  5807  5820 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-29 01:26:52.461  5807  5820 I PhoneLab-LoggerService: Logcat process found 2630
+06-29 01:26:52.461  5807  5820 I PhoneLab-LoggerService: Checking Threshold
+06-29 01:26:52.464  5807  5820 I PhoneLab-LoggerService: Starting to rename files
+06-29 01:26:52.464  5807  5820 I PhoneLab-LoggerService: Files found .. 3
+06-29 01:28:52.390  5807  5820 I PhoneLab-: Service Running
+06-29 01:28:52.461  5807  5820 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-29 01:28:52.461  5807  5820 I PhoneLab-LoggerService: app_38    30500 1     1064   676   c00f181c 400107b4 S logcat
+06-29 01:28:52.461  5807  5820 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-29 01:28:52.461  5807  5820 I PhoneLab-LoggerService: Logcat process found 2630
+06-29 01:28:52.461  5807  5820 I PhoneLab-LoggerService: Checking Threshold
+06-29 01:28:52.461  5807  5820 I PhoneLab-LoggerService: Starting to rename files
+06-29 01:28:52.461  5807  5820 I PhoneLab-LoggerService: Files found .. 3
+06-29 01:30:52.390  5807  5820 I PhoneLab-: Service Running
+06-29 01:30:52.472  5807  5810 D dalvikvm: GC_CONCURRENT freed 423K, 15% free 9229K/10823K, paused 1ms+6ms
+06-29 01:30:52.476  5807  5820 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-29 01:30:52.476  5807  5820 I PhoneLab-LoggerService: app_38    30500 1     1064   676   c00f181c 400107b4 S logcat
+06-29 01:30:52.476  5807  5820 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-29 01:30:52.480  5807  5820 I PhoneLab-LoggerService: Logcat process found 2630
+06-29 01:30:52.480  5807  5820 I PhoneLab-LoggerService: Checking Threshold
+06-29 01:30:52.480  5807  5820 I PhoneLab-LoggerService: Starting to rename files
+06-29 01:30:52.480  5807  5820 I PhoneLab-LoggerService: Files found .. 3
+06-29 01:32:52.390  5807  5820 I PhoneLab-: Service Running
+06-29 01:32:52.461  5807  5820 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-29 01:32:52.461  5807  5820 I PhoneLab-LoggerService: app_38    30500 1     1064   676   c00f181c 400107b4 S logcat
+06-29 01:32:52.461  5807  5820 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-29 01:32:52.461  5807  5820 I PhoneLab-LoggerService: Logcat process found 2630
+06-29 01:32:52.461  5807  5820 I PhoneLab-LoggerService: Checking Threshold
+06-29 01:32:52.461  5807  5820 I PhoneLab-LoggerService: Starting to rename files
+06-29 01:32:52.461  5807  5820 I PhoneLab-LoggerService: Files found .. 3
+06-29 01:33:00.144   142   144 D dalvikvm: GC_CONCURRENT freed 1548K, 23% free 15564K/20167K, paused 2ms+6ms
+06-29 01:34:52.390  5807  5820 I PhoneLab-: Service Running
+06-29 01:34:52.461  5807  5820 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-29 01:34:52.461  5807  5820 I PhoneLab-LoggerService: app_38    30500 1     1064   676   c00f181c 400107b4 S logcat
+06-29 01:34:52.461  5807  5820 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-29 01:34:52.461  5807  5820 I PhoneLab-LoggerService: Logcat process found 2630
+06-29 01:34:52.461  5807  5820 I PhoneLab-LoggerService: Checking Threshold
+06-29 01:34:52.461  5807  5820 I PhoneLab-LoggerService: Starting to rename files
+06-29 01:34:52.461  5807  5820 I PhoneLab-LoggerService: Files found .. 3
+06-29 01:35:24.011  5807  5807 I PhoneLab-Locks: wake lock acquired
+06-29 01:35:24.043  5807  5807 I PhoneLab-StatusMonitor: Status Monitoring is started
+06-29 01:35:24.089  5807  5810 D dalvikvm: GC_CONCURRENT freed 469K, 15% free 9268K/10823K, paused 1ms+2ms
+06-29 01:35:24.097  5807  5807 I PhoneLab-StatusMonitor: Value: 10 - unit: min
+06-29 01:35:24.097  5807  5807 I PhoneLab-StatusMonitor: Running interval: 600000
+06-29 01:35:24.109  5807  5807 I PhoneLab-StatusMonitor: Rescheduling status monitoring...
+06-29 01:35:24.109  5807  5807 I PhoneLab-Locks: wake lock released
+06-29 01:35:24.113  5807  5807 I PhoneLab-StatusMonitorLocation: Learning Location
+06-29 01:35:24.113  5807  5807 I PhoneLab-Locks: wake lock acquired
+06-29 01:35:24.117  5807  5807 I PhoneLab-Locks: wake lock acquired
+06-29 01:35:24.117 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-29 01:35:24.121  5807  5807 I PhoneLab-StatusMonitorLocation: Learning Signal Strgth
+06-29 01:35:24.121  5807  5807 I PhoneLab-Locks: wake lock acquired
+06-29 01:35:24.125 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:35:24.125 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:35:24.125 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:35:24.129 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-29 01:35:24.132  5807  5807 I PhoneLab-StatusMonitorBattery: Battery_level: 57
+06-29 01:35:24.132  5807  5807 I PhoneLab-Locks: wake lock released
+06-29 01:35:24.136  5807  5807 I PhoneLab-StatusMonitorSignal: Signal_Strength: -86 asu: 14
+06-29 01:35:24.136  5807  5807 I PhoneLab-Locks: wake lock released
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: WPS: Building WPS IE for Probe Request
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: WPS:  * Version (hardcoded 0x10)
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: WPS:  * Request Type
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: WPS:  * Config Methods (2388)
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: WPS:  * UUID-E
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: WPS:  * Primary Device Type
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: WPS:  * RF Bands (3)
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: WPS:  * Association State
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: WPS:  * Configuration Error (0)
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: WPS:  * Device Password ID (0)
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: WPS:  * Manufacturer
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: WPS:  * Model Name
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: WPS:  * Model Number
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: WPS:  * Device Name
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: WPS:  * Version2 (0x20)
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: wpa_driver_wext_combo_scan: Start
+06-29 01:35:24.140 32520 32520 D wpa_supplicant: For Scan: (null)
+06-29 01:35:24.144 32520 32520 D wpa_supplicant: Scan requested (ret=0) - scan timeout 30 seconds
+06-29 01:35:24.144 32520 32520 D wpa_supplicant: Ongoing scan action - reject new request
+06-29 01:35:25.312 32520 32520 D wpa_supplicant: RTM_NEWLINK: operstate=1 ifi_flags=0x11043 ([UP][RUNNING][LOWER_UP])
+06-29 01:35:25.312 32520 32520 D wpa_supplicant: RTM_NEWLINK, IFLA_IFNAME: Interface 'wlan0' added
+06-29 01:35:25.312 32520 32520 D wpa_supplicant: Wireless event: cmd=0x8b19 len=8
+06-29 01:35:25.312 32520 32520 D wpa_supplicant: Received 1447 bytes of scan results (5 BSSes)
+06-29 01:35:25.449 26576 26578 D dalvikvm: GC_CONCURRENT freed 721K, 11% free 11279K/12615K, paused 2ms+4ms
+06-29 01:35:25.457 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:35:25.457 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:35:25.457 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:35:25.461 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:35:25.464  5807  5807 I PhoneLab-StatusMonitorLocation: Location_Latitude: 42.9543381 Longitude: -78.8267639 Accuracy: 30.0
+06-29 01:35:25.464 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-29 01:35:25.464  5807  5807 I PhoneLab-Locks: wake lock released
+06-29 01:35:25.472 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:35:25.472 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:35:25.472 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:35:25.480 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: WPS: Building WPS IE for Probe Request
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: WPS:  * Version (hardcoded 0x10)
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: WPS:  * Request Type
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: WPS:  * Config Methods (2388)
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: WPS:  * UUID-E
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: WPS:  * Primary Device Type
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: WPS:  * RF Bands (3)
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: WPS:  * Association State
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: WPS:  * Configuration Error (0)
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: WPS:  * Device Password ID (0)
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: WPS:  * Manufacturer
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: WPS:  * Model Name
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: WPS:  * Model Number
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: WPS:  * Device Name
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: WPS:  * Version2 (0x20)
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: wpa_driver_wext_combo_scan: Start
+06-29 01:35:25.484 32520 32520 D wpa_supplicant: For Scan: (null)
+06-29 01:35:25.488 32520 32520 D wpa_supplicant: Scan requested (ret=0) - scan timeout 30 seconds
+06-29 01:35:26.660 32520 32520 D wpa_supplicant: RTM_NEWLINK: operstate=1 ifi_flags=0x11043 ([UP][RUNNING][LOWER_UP])
+06-29 01:35:26.660 32520 32520 D wpa_supplicant: RTM_NEWLINK, IFLA_IFNAME: Interface 'wlan0' added
+06-29 01:35:26.660 32520 32520 D wpa_supplicant: Wireless event: cmd=0x8b19 len=8
+06-29 01:35:26.660 32520 32520 D wpa_supplicant: Received 1980 bytes of scan results (7 BSSes)
+06-29 01:35:26.761 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:35:26.761 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:35:26.761 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:35:26.761 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:36:29.492 26576 27122 I EventLogService: Aggregate from 1340946389291 (log), 1340946389291 (data)
+06-29 01:36:52.390  5807  5820 I PhoneLab-: Service Running
+06-29 01:36:52.461  5807  5820 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-29 01:36:52.461  5807  5820 I PhoneLab-LoggerService: app_38    30500 1     1064   676   c00f181c 400107b4 S logcat
+06-29 01:36:52.461  5807  5820 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-29 01:36:52.461  5807  5820 I PhoneLab-LoggerService: Logcat process found 2630
+06-29 01:36:52.461  5807  5820 I PhoneLab-LoggerService: Checking Threshold
+06-29 01:36:52.461  5807  5820 I PhoneLab-LoggerService: Starting to rename files
+06-29 01:36:52.461  5807  5820 I PhoneLab-LoggerService: Files found .. 3
+06-29 01:38:52.390  5807  5820 I PhoneLab-: Service Running
+06-29 01:38:52.461  5807  5820 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-29 01:38:52.461  5807  5820 I PhoneLab-LoggerService: app_38    30500 1     1064   676   c00f181c 400107b4 S logcat
+06-29 01:38:52.461  5807  5820 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-29 01:38:52.461  5807  5820 I PhoneLab-LoggerService: Logcat process found 2630
+06-29 01:38:52.461  5807  5820 I PhoneLab-LoggerService: Checking Threshold
+06-29 01:38:52.461  5807  5820 I PhoneLab-LoggerService: Starting to rename files
+06-29 01:38:52.461  5807  5820 I PhoneLab-LoggerService: Files found .. 3
+06-29 01:40:44.277  8895  8897 D dalvikvm: GC_CONCURRENT freed 220K, 3% free 10017K/10311K, paused 4ms+2ms
+06-29 01:40:44.730  8895  8897 D dalvikvm: GC_CONCURRENT freed 230K, 3% free 10322K/10631K, paused 6ms+3ms
+06-29 01:40:44.773 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:40:44.773 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:40:44.773 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:40:44.781 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:40:45.711  8985  9062 W Gmail   : Successful index run, cancel next scheduled index run
+06-29 01:40:45.921  8895  8897 D dalvikvm: GC_CONCURRENT freed 378K, 5% free 10412K/10887K, paused 2ms+2ms
+06-29 01:40:46.019  8895  8897 D dalvikvm: GC_CONCURRENT freed 485K, 6% free 10455K/11015K, paused 2ms+3ms
+06-29 01:40:46.074  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 407K, 6% free 10426K/11015K, paused 18ms
+06-29 01:40:46.129  8895  8897 D dalvikvm: GC_CONCURRENT freed 379K, 6% free 10452K/11015K, paused 2ms+2ms
+06-29 01:40:46.152  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 45K, 6% free 10448K/11015K, paused 19ms
+06-29 01:40:46.195  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 272K, 6% free 10453K/11015K, paused 19ms
+06-29 01:40:46.230  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 299K, 6% free 10451K/11015K, paused 19ms
+06-29 01:40:46.265  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 285K, 6% free 10449K/11015K, paused 19ms
+06-29 01:40:46.293  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 270K, 6% free 10447K/11015K, paused 19ms
+06-29 01:40:46.347  8895  8897 D dalvikvm: GC_CONCURRENT freed 480K, 6% free 10476K/11079K, paused 2ms+2ms
+06-29 01:40:46.390  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 392K, 6% free 10435K/11079K, paused 19ms
+06-29 01:40:46.449  8895  8897 D dalvikvm: GC_CONCURRENT freed 407K, 6% free 10514K/11079K, paused 2ms+2ms
+06-29 01:40:46.507  8895  8897 D dalvikvm: GC_CONCURRENT freed 487K, 6% free 10491K/11143K, paused 2ms+2ms
+06-29 01:40:46.566  8895  8897 D dalvikvm: GC_CONCURRENT freed 351K, 6% free 10560K/11143K, paused 2ms+2ms
+06-29 01:40:46.625  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 553K, 7% free 10428K/11143K, paused 22ms
+06-29 01:40:46.683  8895  8897 D dalvikvm: GC_CONCURRENT freed 320K, 5% free 10619K/11143K, paused 1ms+3ms
+06-29 01:40:46.757  8895  8897 D dalvikvm: GC_CONCURRENT freed 727K, 8% free 10455K/11271K, paused 1ms+2ms
+06-29 01:40:46.804  8895  8897 D dalvikvm: GC_CONCURRENT freed 387K, 7% free 10539K/11271K, paused 2ms+2ms
+06-29 01:40:46.851  8895  8897 D dalvikvm: GC_CONCURRENT freed 507K, 7% free 10542K/11271K, paused 2ms+3ms
+06-29 01:40:46.906  8895  8897 D dalvikvm: GC_CONCURRENT freed 640K, 8% free 10406K/11271K, paused 2ms+2ms
+06-29 01:40:46.949  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 314K, 8% free 10446K/11271K, paused 18ms
+06-29 01:40:46.996  8895  8897 D dalvikvm: GC_CONCURRENT freed 399K, 7% free 10553K/11271K, paused 1ms+2ms
+06-29 01:40:47.062  8895  8897 D dalvikvm: GC_CONCURRENT freed 461K, 7% free 10585K/11271K, paused 2ms+2ms
+06-29 01:40:47.101  8895  8897 D dalvikvm: GC_CONCURRENT freed 556K, 8% free 10423K/11271K, paused 2ms+1ms
+06-29 01:40:47.160  8895  8897 D dalvikvm: GC_CONCURRENT freed 370K, 7% free 10520K/11271K, paused 2ms+2ms
+06-29 01:40:47.214  8895  8897 D dalvikvm: GC_CONCURRENT freed 463K, 7% free 10494K/11271K, paused 2ms+2ms
+06-29 01:40:47.269  8895  8897 D dalvikvm: GC_CONCURRENT freed 507K, 8% free 10481K/11271K, paused 2ms+2ms
+06-29 01:40:47.328  8895  8897 D dalvikvm: GC_CONCURRENT freed 548K, 8% free 10438K/11271K, paused 2ms+2ms
+06-29 01:40:47.394  8895  8897 D dalvikvm: GC_CONCURRENT freed 451K, 7% free 10490K/11271K, paused 2ms+2ms
+06-29 01:40:47.457  8895  8897 D dalvikvm: GC_CONCURRENT freed 522K, 8% free 10437K/11271K, paused 2ms+2ms
+06-29 01:40:47.511  8895  8897 D dalvikvm: GC_CONCURRENT freed 178K, 6% free 10695K/11271K, paused 1ms+2ms
+06-29 01:40:47.574  8895  8897 D dalvikvm: GC_CONCURRENT freed 698K, 8% free 10489K/11335K, paused 2ms+3ms
+06-29 01:40:47.617  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 375K, 8% free 10453K/11335K, paused 18ms
+06-29 01:40:47.664  8895  8897 D dalvikvm: GC_CONCURRENT freed 394K, 8% free 10541K/11335K, paused 2ms+2ms
+06-29 01:40:47.714  8895  8897 D dalvikvm: GC_CONCURRENT freed 510K, 8% free 10531K/11335K, paused 2ms+3ms
+06-29 01:40:47.773  8895  8897 D dalvikvm: GC_CONCURRENT freed 495K, 8% free 10540K/11335K, paused 2ms+2ms
+06-29 01:40:47.832  8895  8897 D dalvikvm: GC_CONCURRENT freed 613K, 8% free 10434K/11335K, paused 2ms+2ms
+06-29 01:40:47.882  8895  8897 D dalvikvm: GC_CONCURRENT freed 372K, 8% free 10528K/11335K, paused 1ms+2ms
+06-29 01:40:47.937  8895  8897 D dalvikvm: GC_CONCURRENT freed 534K, 8% free 10505K/11335K, paused 2ms+2ms
+06-29 01:40:48.004  8895  8897 D dalvikvm: GC_CONCURRENT freed 577K, 8% free 10434K/11335K, paused 2ms+3ms
+06-29 01:40:48.070  8895  8897 D dalvikvm: GC_CONCURRENT freed 368K, 7% free 10556K/11335K, paused 2ms+3ms
+06-29 01:40:48.132  8895  8897 D dalvikvm: GC_CONCURRENT freed 547K, 8% free 10494K/11335K, paused 2ms+2ms
+06-29 01:40:48.179  8895  8897 D dalvikvm: GC_CONCURRENT freed 360K, 7% free 10608K/11335K, paused 2ms+2ms
+06-29 01:40:48.226  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 648K, 9% free 10425K/11335K, paused 19ms
+06-29 01:40:48.281  8895  8897 D dalvikvm: GC_CONCURRENT freed 286K, 7% free 10560K/11335K, paused 1ms+3ms
+06-29 01:40:48.328  8895  8897 D dalvikvm: GC_CONCURRENT freed 558K, 9% free 10428K/11335K, paused 1ms+2ms
+06-29 01:40:48.371  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 370K, 8% free 10433K/11335K, paused 19ms
+06-29 01:40:48.414  8895  8897 D dalvikvm: GC_CONCURRENT freed 244K, 6% free 10700K/11335K, paused 1ms+2ms
+06-29 01:40:48.476  8895  8897 D dalvikvm: GC_CONCURRENT freed 730K, 8% free 10442K/11335K, paused 2ms+2ms
+06-29 01:40:48.535  8895  8897 D dalvikvm: GC_CONCURRENT freed 374K, 7% free 10576K/11335K, paused 2ms+2ms
+06-29 01:40:48.601  8895  8897 D dalvikvm: GC_CONCURRENT freed 554K, 8% free 10539K/11335K, paused 2ms+2ms
+06-29 01:40:48.664  8895  8897 D dalvikvm: GC_CONCURRENT freed 475K, 7% free 10554K/11335K, paused 1ms+2ms
+06-29 01:40:48.711  8895  8897 D dalvikvm: GC_CONCURRENT freed 618K, 8% free 10443K/11335K, paused 2ms+3ms
+06-29 01:40:48.773  8895  8897 D dalvikvm: GC_CONCURRENT freed 505K, 8% free 10449K/11335K, paused 1ms+3ms
+06-29 01:40:48.843  8895  8897 D dalvikvm: GC_CONCURRENT freed 492K, 8% free 10464K/11335K, paused 1ms+3ms
+06-29 01:40:48.937  8895  8897 D dalvikvm: GC_CONCURRENT freed 500K, 8% free 10475K/11335K, paused 2ms+2ms
+06-29 01:40:49.039  8895  8897 D dalvikvm: GC_CONCURRENT freed 505K, 8% free 10482K/11335K, paused 2ms+3ms
+06-29 01:40:49.144  8895  8897 D dalvikvm: GC_CONCURRENT freed 443K, 7% free 10550K/11335K, paused 1ms+2ms
+06-29 01:40:49.234  8895  8897 D dalvikvm: GC_CONCURRENT freed 486K, 7% free 10575K/11335K, paused 2ms+3ms
+06-29 01:40:49.320  8895  8897 D dalvikvm: GC_CONCURRENT freed 460K, 7% free 10632K/11335K, paused 2ms+3ms
+06-29 01:40:49.406  8895  8897 D dalvikvm: GC_CONCURRENT freed 545K, 7% free 10623K/11335K, paused 2ms+3ms
+06-29 01:40:49.492  8895  8897 D dalvikvm: GC_CONCURRENT freed 491K, 6% free 10665K/11335K, paused 2ms+3ms
+06-29 01:40:49.574  8895  8897 D dalvikvm: GC_CONCURRENT freed 613K, 7% free 10578K/11335K, paused 2ms+2ms
+06-29 01:40:49.656  8895  8897 D dalvikvm: GC_CONCURRENT freed 619K, 8% free 10475K/11335K, paused 1ms+2ms
+06-29 01:40:49.738  8895  8897 D dalvikvm: GC_CONCURRENT freed 380K, 7% free 10581K/11335K, paused 2ms+3ms
+06-29 01:40:49.828  8895  8897 D dalvikvm: GC_CONCURRENT freed 408K, 6% free 10692K/11335K, paused 2ms+4ms
+06-29 01:40:49.918  8895  8897 D dalvikvm: GC_CONCURRENT freed 627K, 7% free 10621K/11335K, paused 2ms+3ms
+06-29 01:40:49.996  8895  8897 D dalvikvm: GC_CONCURRENT freed 584K, 7% free 10570K/11335K, paused 1ms+3ms
+06-29 01:40:50.082  8895  8897 D dalvikvm: GC_CONCURRENT freed 606K, 8% free 10474K/11335K, paused 2ms+3ms
+06-29 01:40:50.156  8895  8897 D dalvikvm: GC_CONCURRENT freed 248K, 6% free 10738K/11335K, paused 2ms+3ms
+06-29 01:40:50.246  8895  8897 D dalvikvm: GC_CONCURRENT freed 869K, 9% free 10438K/11399K, paused 2ms+2ms
+06-29 01:40:50.328  8895  8897 D dalvikvm: GC_CONCURRENT freed 335K, 8% free 10601K/11399K, paused 2ms+3ms
+06-29 01:40:50.406  8895  8897 D dalvikvm: GC_CONCURRENT freed 498K, 7% free 10629K/11399K, paused 2ms+3ms
+06-29 01:40:50.492  8895  8897 D dalvikvm: GC_CONCURRENT freed 547K, 7% free 10617K/11399K, paused 2ms+3ms
+06-29 01:40:50.570  8895  8897 D dalvikvm: GC_CONCURRENT freed 670K, 9% free 10477K/11399K, paused 2ms+2ms
+06-29 01:40:50.648  8895  8897 D dalvikvm: GC_CONCURRENT freed 400K, 8% free 10589K/11399K, paused 2ms+3ms
+06-29 01:40:50.734  8895  8897 D dalvikvm: GC_CONCURRENT freed 492K, 7% free 10619K/11399K, paused 2ms+4ms
+06-29 01:40:50.808 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:40:50.808 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:40:50.808 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:40:50.820 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:40:50.875  8895  8897 D dalvikvm: GC_CONCURRENT freed 545K, 7% free 10606K/11399K, paused 2ms+3ms
+06-29 01:40:50.961  8895  8897 D dalvikvm: GC_CONCURRENT freed 667K, 9% free 10466K/11399K, paused 1ms+3ms
+06-29 01:40:51.035  8895  8897 D dalvikvm: GC_CONCURRENT freed 349K, 7% free 10629K/11399K, paused 2ms+3ms
+06-29 01:40:51.148  8895  8897 D dalvikvm: GC_CONCURRENT freed 652K, 8% free 10512K/11399K, paused 2ms+3ms
+06-29 01:40:51.257  8895  8897 D dalvikvm: GC_CONCURRENT freed 582K, 9% free 10440K/11399K, paused 1ms+2ms
+06-29 01:40:51.371  8849  8852 D dalvikvm: GC_CONCURRENT freed 452K, 6% free 10302K/10887K, paused 2ms+7ms
+06-29 01:40:51.375  8895  8897 D dalvikvm: GC_CONCURRENT freed 497K, 9% free 10455K/11399K, paused 1ms+5ms
+06-29 01:40:51.406 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:40:51.406 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:40:51.406 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:40:51.410 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:40:51.457  8895  8897 D dalvikvm: GC_CONCURRENT freed 135K, 6% free 10743K/11399K, paused 1ms+3ms
+06-29 01:40:51.500  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 674K, 9% free 10442K/11399K, paused 20ms
+06-29 01:40:51.550  8895  8897 D dalvikvm: GC_CONCURRENT freed 448K, 8% free 10500K/11399K, paused 2ms+2ms
+06-29 01:40:51.609  8895  8897 D dalvikvm: GC_CONCURRENT freed 570K, 9% free 10442K/11399K, paused 2ms+3ms
+06-29 01:40:51.687  8895  8897 D dalvikvm: GC_CONCURRENT freed 400K, 9% free 10458K/11399K, paused 2ms+3ms
+06-29 01:40:51.734  8895  8897 D dalvikvm: GC_CONCURRENT freed 400K, 8% free 10569K/11399K, paused 2ms+3ms
+06-29 01:40:51.796  8895  8897 D dalvikvm: GC_CONCURRENT freed 554K, 8% free 10529K/11399K, paused 2ms+2ms
+06-29 01:40:51.859  8895  8897 D dalvikvm: GC_CONCURRENT freed 478K, 8% free 10538K/11399K, paused 2ms+3ms
+06-29 01:40:51.925  8895  8897 D dalvikvm: GC_CONCURRENT freed 308K, 7% free 10659K/11399K, paused 2ms+3ms
+06-29 01:40:51.972  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 599K, 9% free 10454K/11399K, paused 23ms
+06-29 01:40:52.015  8895  8897 D dalvikvm: GC_CONCURRENT freed 222K, 7% free 10687K/11399K, paused 1ms+3ms
+06-29 01:40:52.082  8895  8897 D dalvikvm: GC_CONCURRENT freed 654K, 8% free 10545K/11399K, paused 2ms+3ms
+06-29 01:40:52.148  8895  8897 D dalvikvm: GC_CONCURRENT freed 301K, 6% free 10739K/11399K, paused 2ms+3ms
+06-29 01:40:52.214  8895  8897 D dalvikvm: GC_CONCURRENT freed 723K, 8% free 10529K/11399K, paused 2ms+3ms
+06-29 01:40:52.257  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 613K, 9% free 10419K/11399K, paused 20ms
+06-29 01:40:52.316  8895  8897 D dalvikvm: GC_CONCURRENT freed 374K, 9% free 10469K/11399K, paused 2ms+3ms
+06-29 01:40:52.363  8895  8897 D dalvikvm: GC_CONCURRENT freed 490K, 9% free 10465K/11399K, paused 2ms+2ms
+06-29 01:40:52.390  5807  5820 I PhoneLab-: Service Running
+06-29 01:40:52.437  8895  8897 D dalvikvm: GC_CONCURRENT freed 512K, 9% free 10442K/11399K, paused 2ms+10ms
+06-29 01:40:52.519  8895  8897 D dalvikvm: GC_CONCURRENT freed 492K, 9% free 10440K/11399K, paused 2ms+3ms
+06-29 01:40:52.558  5807  5820 I PhoneLab-LoggerService: app_38    2630  1     924    484   c00f181c 400107b4 S logcat
+06-29 01:40:52.558  5807  5820 I PhoneLab-LoggerService: app_38    30500 1     1064   672   c00f181c 400107b4 S logcat
+06-29 01:40:52.558  5807  5820 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-29 01:40:52.558  5807  5820 I PhoneLab-LoggerService: Logcat process found 2630
+06-29 01:40:52.558  5807  5820 I PhoneLab-LoggerService: Checking Threshold
+06-29 01:40:52.558  5807  5820 I PhoneLab-LoggerService: Starting to rename files
+06-29 01:40:52.562  5807  5820 I PhoneLab-LoggerService: Files found .. 3
+06-29 01:40:52.593  8895  8897 D dalvikvm: GC_CONCURRENT freed 241K, 7% free 10702K/11399K, paused 2ms+2ms
+06-29 01:40:52.636  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 625K, 9% free 10474K/11399K, paused 19ms
+06-29 01:40:52.679  8895  8897 D dalvikvm: GC_CONCURRENT freed 376K, 8% free 10599K/11399K, paused 2ms+2ms
+06-29 01:40:52.738  8895  8897 D dalvikvm: GC_CONCURRENT freed 495K, 7% free 10620K/11399K, paused 2ms+2ms
+06-29 01:40:52.808  8895  8897 D dalvikvm: GC_CONCURRENT freed 605K, 8% free 10540K/11399K, paused 2ms+2ms
+06-29 01:40:52.871  8895  8897 D dalvikvm: GC_CONCURRENT freed 332K, 6% free 10719K/11399K, paused 2ms+3ms
+06-29 01:40:52.898  8895  9080 D dalvikvm: GC_FOR_ALLOC freed 307K, 9% free 10466K/11399K, paused 19ms
+06-29 01:40:52.949  8895  8897 D dalvikvm: GC_CONCURRENT freed 338K, 7% free 10640K/11399K, paused 2ms+2ms
+06-29 01:40:53.007  8895  8897 D dalvikvm: GC_CONCURRENT freed 627K, 8% free 10537K/11399K, paused 2ms+2ms
+06-29 01:40:53.078  8895  8897 D dalvikvm: GC_CONCURRENT freed 540K, 8% free 10499K/11399K, paused 2ms+3ms
+06-29 01:40:53.148  8895  8897 D dalvikvm: GC_CONCURRENT freed 467K, 8% free 10534K/11399K, paused 2ms+3ms
+06-29 01:40:53.214  8895  8897 D dalvikvm: GC_CONCURRENT freed 481K, 8% free 10530K/11399K, paused 2ms+3ms
+06-29 01:40:53.273  8895  8897 D dalvikvm: GC_CONCURRENT freed 376K, 7% free 10665K/11399K, paused 1ms+3ms
+06-29 01:40:53.332  8895  8897 D dalvikvm: GC_CONCURRENT freed 717K, 9% free 10444K/11399K, paused 1ms+2ms
+06-29 01:40:53.382  8895  8897 D dalvikvm: GC_CONCURRENT freed 428K, 8% free 10528K/11399K, paused 2ms+3ms
+06-29 01:40:53.449  8895  8897 D dalvikvm: GC_CONCURRENT freed 472K, 8% free 10567K/11399K, paused 2ms+2ms
+06-29 01:40:53.496  8895  8897 D dalvikvm: GC_CONCURRENT freed 537K, 8% free 10536K/11399K, paused 2ms+2ms
+06-29 01:40:53.550  8895  8897 D dalvikvm: GC_CONCURRENT freed 445K, 8% free 10594K/11399K, paused 2ms+2ms
+06-29 01:40:53.601  8895  8897 D dalvikvm: GC_CONCURRENT freed 389K, 7% free 10662K/11399K, paused 2ms+3ms
+06-29 01:40:53.660  8895  8897 D dalvikvm: GC_CONCURRENT freed 639K, 8% free 10540K/11399K, paused 1ms+2ms
+06-29 01:40:53.707  8895  8897 D dalvikvm: GC_CONCURRENT freed 458K, 8% free 10593K/11399K, paused 1ms+3ms
+06-29 01:40:53.769  8895  8897 D dalvikvm: GC_CONCURRENT freed 566K, 8% free 10548K/11399K, paused 2ms+2ms
+06-29 01:40:53.828  8895  8897 D dalvikvm: GC_CONCURRENT freed 548K, 9% free 10469K/11399K, paused 1ms+2ms
+06-29 01:40:53.875  8895  8897 D dalvikvm: GC_CONCURRENT freed 469K, 9% free 10480K/11399K, paused 2ms+2ms
+06-29 01:40:53.933  8895  8897 D dalvikvm: GC_CONCURRENT freed 448K, 8% free 10543K/11399K, paused 1ms+2ms
+06-29 01:40:54.007  8895  8897 D dalvikvm: GC_CONCURRENT freed 611K, 9% free 10433K/11399K, paused 2ms+3ms
+06-29 01:40:54.078  8895  8897 D dalvikvm: GC_CONCURRENT freed 511K, 9% free 10429K/11399K, paused 2ms+3ms
+06-29 01:40:54.140  8895  8897 D dalvikvm: GC_CONCURRENT freed 401K, 8% free 10515K/11399K, paused 2ms+3ms
+06-29 01:40:54.199  8895  8897 D dalvikvm: GC_CONCURRENT freed 578K, 9% free 10435K/11399K, paused 2ms+2ms
+06-29 01:40:54.254  8895  8897 D dalvikvm: GC_CONCURRENT freed 418K, 8% free 10524K/11399K, paused 2ms+2ms
+06-29 01:40:54.304  8895  8897 D dalvikvm: GC_CONCURRENT freed 417K, 8% free 10565K/11399K, paused 2ms+2ms
+06-29 01:40:54.367  8895  8897 D dalvikvm: GC_CONCURRENT freed 498K, 8% free 10519K/11399K, paused 2ms+2ms
+06-29 01:40:54.425  8895  8897 D dalvikvm: GC_CONCURRENT freed 480K, 8% free 10536K/11399K, paused 2ms+2ms
+06-29 01:40:54.484  8895  8897 D dalvikvm: GC_CONCURRENT freed 501K, 8% free 10537K/11399K, paused 2ms+2ms
+06-29 01:40:54.546  8895  8897 D dalvikvm: GC_CONCURRENT freed 467K, 8% free 10524K/11399K, paused 2ms+2ms
+06-29 01:40:54.605  8895  8897 D dalvikvm: GC_CONCURRENT freed 586K, 9% free 10423K/11399K, paused 1ms+2ms
+06-29 01:40:54.660  8895  8897 D dalvikvm: GC_CONCURRENT freed 367K, 8% free 10503K/11399K, paused 2ms+3ms
+06-29 01:40:54.718  8895  8897 D dalvikvm: GC_CONCURRENT freed 591K, 9% free 10415K/11399K, paused 2ms+3ms
+06-29 01:40:54.777  8895  8897 D dalvikvm: GC_CONCURRENT freed 400K, 8% free 10490K/11399K, paused 2ms+2ms
+06-29 01:40:54.843  8895  8897 D dalvikvm: GC_CONCURRENT freed 567K, 9% free 10418K/11399K, paused 2ms+2ms
+06-29 01:40:54.906  8895  8897 D dalvikvm: GC_CONCURRENT freed 475K, 9% free 10450K/11399K, paused 2ms+2ms
+06-29 01:40:54.976  8895  8897 D dalvikvm: GC_CONCURRENT freed 554K, 9% free 10406K/11399K, paused 2ms+2ms
+06-29 01:40:55.058  8895  8897 D dalvikvm: GC_CONCURRENT freed 469K, 9% free 10448K/11399K, paused 2ms+2ms
+06-29 01:40:55.140  8895  8897 D dalvikvm: GC_CONCURRENT freed 452K, 8% free 10508K/11399K, paused 2ms+3ms
+06-29 01:40:55.222  8895  8897 D dalvikvm: GC_CONCURRENT freed 528K, 8% free 10492K/11399K, paused 2ms+2ms
+06-29 01:40:55.304  8895  8897 D dalvikvm: GC_CONCURRENT freed 548K, 9% free 10444K/11399K, paused 2ms+3ms
+06-29 01:40:55.386  8895  8897 D dalvikvm: GC_CONCURRENT freed 482K, 9% free 10471K/11399K, paused 2ms+2ms
+06-29 01:40:55.472  8895  8897 D dalvikvm: GC_CONCURRENT freed 463K, 8% free 10520K/11399K, paused 1ms+3ms
+06-29 01:40:55.558  8895  8897 D dalvikvm: GC_CONCURRENT freed 600K, 9% free 10431K/11399K, paused 2ms+2ms
+06-29 01:40:55.640  8895  8897 D dalvikvm: GC_CONCURRENT freed 503K, 9% free 10440K/11399K, paused 2ms+2ms
+06-29 01:40:55.730  8895  8897 D dalvikvm: GC_CONCURRENT freed 417K, 8% free 10535K/11399K, paused 1ms+4ms
+06-29 01:40:55.816  8895  8897 D dalvikvm: GC_CONCURRENT freed 575K, 9% free 10471K/11399K, paused 2ms+3ms
+06-29 01:40:55.906  8895  8897 D dalvikvm: GC_CONCURRENT freed 493K, 8% free 10489K/11399K, paused 1ms+3ms
+06-29 01:40:55.992  8895  8897 D dalvikvm: GC_CONCURRENT freed 528K, 9% free 10472K/11399K, paused 2ms+3ms
+06-29 01:40:56.078  8895  8897 D dalvikvm: GC_CONCURRENT freed 451K, 8% free 10532K/11399K, paused 1ms+3ms
+06-29 01:40:56.171  8895  8897 D dalvikvm: GC_CONCURRENT freed 583K, 9% free 10457K/11399K, paused 1ms+3ms
+06-29 01:40:56.250  8895  8897 D dalvikvm: GC_CONCURRENT freed 533K, 9% free 10435K/11399K, paused 2ms+3ms
+06-29 01:40:56.332  8895  8897 D dalvikvm: GC_CONCURRENT freed 488K, 9% free 10459K/11399K, paused 2ms+3ms
+06-29 01:40:56.414  8895  8897 D dalvikvm: GC_CONCURRENT freed 463K, 8% free 10507K/11399K, paused 2ms+3ms
+06-29 01:40:56.496  8895  8897 D dalvikvm: GC_CONCURRENT freed 588K, 9% free 10431K/11399K, paused 2ms+3ms
+06-29 01:40:56.582  8895  8897 D dalvikvm: GC_CONCURRENT freed 460K, 9% free 10483K/11399K, paused 2ms+3ms
+06-29 01:40:56.664  8895  8897 D dalvikvm: GC_CONCURRENT freed 541K, 9% free 10453K/11399K, paused 2ms+3ms
+06-29 01:40:56.750  8895  8897 D dalvikvm: GC_CONCURRENT freed 518K, 9% free 10447K/11399K, paused 1ms+2ms
+06-29 01:40:56.832  8895  8897 D dalvikvm: GC_CONCURRENT freed 487K, 9% free 10472K/11399K, paused 2ms+3ms
+06-29 01:40:56.918  8895  8897 D dalvikvm: GC_CONCURRENT freed 534K, 9% free 10448K/11399K, paused 2ms+2ms
+06-29 01:40:56.949 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 01:40:56.949 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 01:40:56.949 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 01:40:56.961 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 01:42:09.175 32520 32520 D wpa_supplicant: wpa_driver_wext_set_key: alg=2 key_idx=2 set_tx=0 seq_len=6 key_len=32
+06-29 01:42:09.187 32520 32520 I wpa_supplicant: wlan0: WPA: Group rekeying completed with 00:25:9c:d9:d4:0c [GTK=TKIP]
+06-29 01:42:52.390  5807  5820 I PhoneLab-: Service Running
+06-29 01:42:52.461  5807  5820 I PhoneLab-LoggerService: app_38    2630  1     924    484   c00f181c 400107b4 S logcat
+06-29 01:42:52.461  5807  5820 I PhoneLab-LoggerService: app_38    30500 1     1064   672   c00f181c 400107b4 S logcat
+06-29 01:42:52.461  5807  5820 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-29 01:42:52.461  5807  5820 I PhoneLab-LoggerService: Logcat process found 2630
+06-29 01:42:52.461  5807  5820 I PhoneLab-LoggerService: Checking Threshold
+06-29 01:42:52.461  5807  5820 I PhoneLab-LoggerService: Starting to rename files
+06-29 01:42:52.461  5807  5820 I PhoneLab-LoggerService: Files found .. 3
+06-29 01:44:46.171  5807  5807 I PhoneLab-Locks: wake lock acquired
+06-29 01:44:46.222  5807  9086 I PhoneLab-PeriodicCheckService: User info is synched
+06-29 01:44:46.226  5807  9086 I PhoneLab-PeriodicCheckService: Logger Service is running
+06-29 01:44:46.226  5807  9086 I PhoneLab-Locks: wake lock acquired
+06-29 01:44:46.230  5807  5807 I PhoneLab-UploadLogs: Transfering log files now
+06-29 01:44:46.230  5807  9086 I PhoneLab-PeriodicCheckService: Rescheduling periodic checking...
+06-29 01:44:46.234  5807  9086 I PhoneLab-Locks: wake lock released
+06-29 01:44:46.250  5807  5810 D dalvikvm: GC_CONCURRENT freed 469K, 15% free 9283K/10823K, paused 4ms+2ms

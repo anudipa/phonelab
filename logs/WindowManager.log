@@ -1,0 +1,2514 @@
+06-05 15:03:25.644   144   176 I WindowManager: Lock screen displayed!
+
+02-23 15:13:39.082   145   176 I WindowManager: Lock screen displayed!
+
+02-23 15:13:43.070   145   176 I WindowManager: Lock screen displayed!
+
+02-23 15:16:18.027   145   176 I WindowManager: Lock screen displayed!
+
+02-23 15:17:52.972   145   176 I WindowManager: No lock screen!
+
+02-23 15:20:55.945   145   176 I WindowManager: Lock screen displayed!
+
+07-04 10:37:23.492   141   173 I WindowManager: Lock screen displayed!
+
+07-04 10:38:59.476   141   153 I WindowManager: WIN DEATH: Window{41824aa8 com.android.deskclock/com.android.deskclock.DeskClock paused=false}
+
+07-04 10:38:59.550   141   141 I WindowManager: WIN DEATH: Window{41666b70 com.android.deskclock/com.android.deskclock.AlarmClock paused=false}
+
+07-04 10:38:59.566   141   177 I WindowManager: WINDOW DIED Window{41666b70 com.android.deskclock/com.android.deskclock.AlarmClock paused=false}
+
+07-04 10:52:54.222   141   173 I WindowManager: Lock screen displayed!
+
+07-04 10:52:55.144   141   141 I WindowManager: WIN DEATH: Window{41bac810 com.android.chrome/com.google.android.apps.chrome.Main paused=false}
+
+07-04 12:17:17.769   141   173 I WindowManager: Lock screen displayed!
+
+07-04 12:17:46.086   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-04 12:17:46.086   141   173 I WindowManager: Lock screen displayed!
+
+07-04 12:25:50.152   141   173 I WindowManager: Lock screen displayed!
+
+02-21 17:12:51.488   155   171 I WindowManager: SAFE MODE not enabled
+
+02-21 17:17:10.003   145   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+02-21 17:17:10.007   145   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+02-21 17:17:10.960   145   161 I WindowManager: SAFE MODE not enabled
+
+06-06 15:32:41.203  1908  1940 I WindowManager: Lock screen displayed!
+
+07-06 08:00:02.582   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-06 08:00:02.582   141   173 I WindowManager: Lock screen displayed!
+
+07-06 08:10:23.191   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-06 08:10:23.191   141   173 I WindowManager: Lock screen displayed!
+
+07-06 08:10:32.765   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-06 08:10:32.765   141   173 I WindowManager: Lock screen displayed!
+
+07-06 08:10:36.027   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-06 08:10:36.027   141   173 I WindowManager: Lock screen displayed!
+
+07-06 08:10:37.886   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-06 08:10:37.886   141   173 I WindowManager: Lock screen displayed!
+
+07-06 08:20:41.211   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-06 08:20:41.211   141   173 I WindowManager: Lock screen displayed!
+
+07-06 08:55:06.160   141   173 I WindowManager: Lock screen displayed!
+
+07-06 09:10:00.535   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-06 09:10:00.535   141   173 I WindowManager: Lock screen displayed!
+
+07-06 09:10:06.519   141   173 I WindowManager: Lock screen displayed!
+
+07-06 09:10:09.953   141   173 I WindowManager: Lock screen displayed!
+
+07-06 09:10:20.605   141   177 I WindowManager: WINDOW DIED Window{41339fc0 com.sirma.mobile.bible.android/com.youversion.mobile.android.screens.ReadingActivity paused=false}
+
+07-06 09:10:20.777   141   287 W WindowManager: Failed looking up window
+
+07-06 09:10:20.777   141   287 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@415eac10 does not exist
+
+07-06 09:10:20.777   141   287 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7163)
+
+07-06 09:10:20.777   141   287 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7154)
+
+07-06 09:10:20.777   141   287 W WindowManager: 	at com.android.server.wm.WindowState$DeathRecipient.binderDied(WindowState.java:1545)
+
+07-06 09:10:20.777   141   287 W WindowManager: 	at android.os.BinderProxy.sendDeathNotice(Binder.java:417)
+
+07-06 09:10:20.777   141   287 W WindowManager: 	at dalvik.system.NativeStart.run(Native Method)
+
+07-06 09:10:20.777   141   287 I WindowManager: WIN DEATH: null
+
+07-06 09:10:27.648   141   172 W WindowManager: App freeze timeout expired.
+
+07-06 09:16:47.089   141   173 I WindowManager: Lock screen displayed!
+
+07-06 09:20:20.312   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-06 09:20:20.312   141   173 I WindowManager: Lock screen displayed!
+
+07-06 09:20:51.062   141   173 I WindowManager: Lock screen displayed!
+
+07-06 09:37:04.140   141   786 I WindowManager: WIN DEATH: Window{4181a058 com.android.deskclock/com.android.deskclock.DeskClock paused=false}
+
+07-06 09:37:04.261   141   153 I WindowManager: WIN DEATH: Window{41854720 com.android.deskclock/com.android.deskclock.AlarmClock paused=false}
+
+07-06 09:37:04.269   141   177 I WindowManager: WINDOW DIED Window{41854720 com.android.deskclock/com.android.deskclock.AlarmClock paused=false}
+
+07-06 09:42:29.144   141   173 I WindowManager: Lock screen displayed!
+
+07-06 09:55:35.086   141   173 I WindowManager: Lock screen displayed!
+
+07-06 10:13:07.175   141   173 I WindowManager: Lock screen displayed!
+
+07-06 10:14:49.406   141   547 I WindowManager: WIN DEATH: Window{418a1900 com.android.chrome/com.google.android.apps.chrome.Main paused=false}
+
+07-02 09:40:29.277   141   172 I WindowManager: Lock screen displayed!
+
+07-02 10:00:11.953   141   350 I WindowManager: WIN DEATH: Window{41604270 com.dictionary/com.dictionary.Serp paused=false}
+
+07-02 10:00:11.992   141   176 I WindowManager: WINDOW DIED Window{41604270 com.dictionary/com.dictionary.Serp paused=false}
+
+07-02 10:25:14.246   141   172 I WindowManager: Lock screen displayed!
+
+07-02 10:25:29.957   141   172 I WindowManager: Lock screen displayed!
+
+07-02 10:26:54.574   141  1154 W WindowManager: Force-removing child win Window{41b09720 PopupWindow:4184a5e8 paused=false} from container Window{418a8690 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-02 10:26:54.609 29590 29590 E WindowManager: Activity com.google.android.gm.GmailActivity has leaked window android.widget.PopupWindow$PopupViewContainer@413e7b70 that was originally added here
+
+07-02 10:26:54.609 29590 29590 E WindowManager: android.view.WindowLeaked: Activity com.google.android.gm.GmailActivity has leaked window android.widget.PopupWindow$PopupViewContainer@413e7b70 that was originally added here
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at android.view.ViewRootImpl.&lt;init&gt;(ViewRootImpl.java:344)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at android.view.WindowManagerImpl.addView(WindowManagerImpl.java:267)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at android.view.WindowManagerImpl.addView(WindowManagerImpl.java:215)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at android.view.WindowManagerImpl$CompatModeWrapper.addView(WindowManagerImpl.java:140)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at android.view.Window$LocalWindowManager.addView(Window.java:537)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at android.widget.PopupWindow.invokePopup(PopupWindow.java:988)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at android.widget.PopupWindow.showAsDropDown(PopupWindow.java:897)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at android.widget.ListPopupWindow.show(ListPopupWindow.java:595)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at com.android.mailcommon.MultiAdapterSpinner.onClick(MultiAdapterSpinner.java:156)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at com.google.android.gm.AccountRecentLabelSpinner.onClick(AccountRecentLabelSpinner.java:203)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at android.view.View.performClick(View.java:3511)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at android.view.View$PerformClick.run(View.java:14105)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at android.os.Handler.handleCallback(Handler.java:605)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at android.os.Handler.dispatchMessage(Handler.java:92)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at android.os.Looper.loop(Looper.java:137)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at android.app.ActivityThread.main(ActivityThread.java:4424)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at java.lang.reflect.Method.invokeNative(Native Method)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at java.lang.reflect.Method.invoke(Method.java:511)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:784)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:551)
+
+07-02 10:26:54.609 29590 29590 E WindowManager: 	at dalvik.system.NativeStart.main(Native Method)
+
+07-02 10:26:54.781   141   274 W WindowManager: Failed looking up window
+
+07-02 10:26:54.781   141   274 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@415e6fa8 does not exist
+
+07-02 10:26:54.781   141   274 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7163)
+
+07-02 10:26:54.781   141   274 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7154)
+
+07-02 10:26:54.781   141   274 W WindowManager: 	at com.android.server.wm.WindowManagerService.removeWindow(WindowManagerService.java:2209)
+
+07-02 10:26:54.781   141   274 W WindowManager: 	at com.android.server.wm.Session.remove(Session.java:149)
+
+07-02 10:26:54.781   141   274 W WindowManager: 	at android.view.IWindowSession$Stub.onTransact(IWindowSession.java:124)
+
+07-02 10:26:54.781   141   274 W WindowManager: 	at com.android.server.wm.Session.onTransact(Session.java:111)
+
+07-02 10:26:54.781   141   274 W WindowManager: 	at android.os.Binder.execTransact(Binder.java:338)
+
+07-02 10:26:54.781   141   274 W WindowManager: 	at dalvik.system.NativeStart.run(Native Method)
+
+07-02 10:28:01.433   141  1154 I WindowManager: WIN DEATH: Window{41476bb8 com.android.deskclock/com.android.deskclock.DeskClock paused=false}
+
+07-02 10:28:01.457   141 11327 I WindowManager: WIN DEATH: Window{4159fe08 com.android.deskclock/com.android.deskclock.AlarmClock paused=false}
+
+07-02 10:28:01.461   141   176 I WindowManager: WINDOW DIED Window{4159fe08 com.android.deskclock/com.android.deskclock.AlarmClock paused=false}
+
+07-02 10:32:18.789   141   274 I WindowManager: WIN DEATH: Window{4159e0c8 com.android.chrome/com.google.android.apps.chrome.Main paused=false}
+
+04-24 19:18:42.714   145   175 W WindowManager: Window freeze timeout expired.
+
+04-24 19:18:42.714   145   175 W WindowManager: Force clearing orientation change: Window{4162fe90 com.android.wallpaper.nexus.NexusWallpaper paused=false}
+
+04-24 17:19:38.954   145   176 I WindowManager: Lock screen displayed!
+
+04-24 17:35:37.743   145   176 I WindowManager: Lock screen displayed!
+
+04-24 17:36:36.888   145   176 I WindowManager: Lock screen displayed!
+
+04-24 17:48:25.802   145   365 I WindowManager: WIN DEATH: Window{416e6800 com.android.settings/com.android.settings.Settings paused=false}
+
+04-05 16:39:37.187   145   176 I WindowManager: Lock screen displayed!
+
+04-05 17:14:25.795   145   176 I WindowManager: Lock screen displayed!
+
+04-05 17:17:35.744   145  3206 I WindowManager: WIN DEATH: Window{417d4440 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+04-05 17:17:35.767   145   180 I WindowManager: WINDOW DIED Window{417d4440 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+05-30 10:25:04.642   144   176 I WindowManager: Lock screen displayed!
+
+05-30 10:27:57.954   144   400 I WindowManager: WIN DEATH: Window{41afd5a0 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+05-30 10:27:57.985   144   180 I WindowManager: WINDOW DIED Window{41afd5a0 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+04-18 14:14:50.657   145   176 I WindowManager: Lock screen displayed!
+
+04-18 14:15:38.825   145   176 I WindowManager: Lock screen displayed!
+
+04-18 14:23:32.270   145   176 I WindowManager: Lock screen displayed!
+
+04-18 14:23:35.567   145   176 I WindowManager: Lock screen displayed!
+
+04-18 14:30:21.923   145   176 I WindowManager: Lock screen displayed!
+
+04-18 14:33:18.341   145   176 I WindowManager: Lock screen displayed!
+
+04-18 14:33:21.059   145   176 I WindowManager: Lock screen displayed!
+
+04-18 14:40:05.149   145   176 I WindowManager: Lock screen displayed!
+
+04-18 14:40:12.942   145   176 I WindowManager: Lock screen displayed!
+
+04-18 14:43:16.790   145   176 I WindowManager: Lock screen displayed!
+
+04-18 14:47:52.618   145   176 I WindowManager: Lock screen displayed!
+
+04-18 14:53:13.617   145   176 I WindowManager: Lock screen displayed!
+
+01-04 05:17:35.648   144   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+01-04 05:17:35.656   144   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+01-04 05:17:36.820   144   160 I WindowManager: SAFE MODE not enabled
+
+01-01 21:25:23.425   144   176 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+01-01 21:25:23.429   144   177 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+01-01 21:25:24.332   144   160 I WindowManager: SAFE MODE not enabled
+
+04-26 17:24:15.112   144   177 I WindowManager: Lock screen displayed!
+
+04-26 17:24:18.847   144   177 I WindowManager: Lock screen displayed!
+
+04-26 17:28:33.182   144   177 I WindowManager: Lock screen displayed!
+
+04-26 17:28:46.655   144   177 I WindowManager: Lock screen displayed!
+
+04-26 17:35:35.655   144  1042 I WindowManager: WIN DEATH: Window{41714968 com.facebook.katana/com.facebook.katana.activity.faceweb.FacewebChromeActivity paused=false}
+
+04-26 17:35:35.694   144   155 I WindowManager: WIN DEATH: Window{41722658 com.facebook.katana/com.facebook.katana.activity.faceweb.FacewebChromeActivity paused=false}
+
+04-26 17:35:35.698   144   181 I WindowManager: WINDOW DIED Window{41722658 com.facebook.katana/com.facebook.katana.activity.faceweb.FacewebChromeActivity paused=false}
+
+04-26 17:35:44.948   144   156 I WindowManager: WIN DEATH: Window{4182a100 com.android.vending/com.android.vending.AssetBrowserActivity paused=false}
+
+04-26 17:36:22.167   144   177 I WindowManager: Lock screen displayed!
+
+04-26 17:45:08.519   144   177 I WindowManager: Lock screen displayed!
+
+04-26 17:45:29.347   144   177 I WindowManager: Lock screen displayed!
+
+04-05 10:30:33.158   145   176 I WindowManager: Lock screen displayed!
+
+04-05 10:32:33.526   145  3207 W WindowManager: Force-removing child win Window{4175f948 PopupWindow:413ec7e8 paused=false} from container Window{417eea78 com.google.android.calendar/com.android.calendar.AllInOneActivity paused=false}
+
+04-05 10:32:33.819   145   407 W WindowManager: Failed looking up window
+
+04-05 10:32:33.819   145   407 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@418fac30 does not exist
+
+04-05 10:32:33.819   145   407 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7156)
+
+04-05 10:32:33.819   145   407 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7147)
+
+04-05 10:32:33.819   145   407 W WindowManager: 	at com.android.server.wm.WindowManagerService.removeWindow(WindowManagerService.java:2209)
+
+04-05 10:32:33.819   145   407 W WindowManager: 	at com.android.server.wm.Session.remove(Session.java:149)
+
+04-05 10:32:33.819   145   407 W WindowManager: 	at android.view.IWindowSession$Stub.onTransact(IWindowSession.java:124)
+
+04-05 10:32:33.819   145   407 W WindowManager: 	at com.android.server.wm.Session.onTransact(Session.java:111)
+
+04-05 10:32:33.819   145   407 W WindowManager: 	at android.os.Binder.execTransact(Binder.java:338)
+
+04-05 10:32:33.819   145   407 W WindowManager: 	at dalvik.system.NativeStart.run(Native Method)
+
+04-05 10:33:55.081   145  3206 I WindowManager: WIN DEATH: Window{41665978 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+04-05 10:34:35.362   145   156 I WindowManager: WIN DEATH: Window{41978b90 com.google.android.calendar/com.android.calendar.AllInOneActivity paused=false}
+
+04-05 10:34:35.393   145   180 I WindowManager: WINDOW DIED Window{41978b90 com.google.android.calendar/com.android.calendar.AllInOneActivity paused=false}
+
+04-05 10:42:27.010   145  1564 I WindowManager: WIN DEATH: Window{41357de8 com.android.vending/com.android.vending.AssetBrowserActivity paused=false}
+
+04-05 11:19:49.838   145   176 I WindowManager: Lock screen displayed!
+
+04-05 11:46:28.397   145   176 I WindowManager: Lock screen displayed!
+
+04-05 12:02:14.082   145   176 I WindowManager: Lock screen displayed!
+
+04-05 12:05:00.382   145   176 I WindowManager: Lock screen displayed!
+
+02-21 17:38:14.582   145   327 I WindowManager: WIN DEATH: Window{418c4878 com.android.settings/com.android.settings.Settings paused=false}
+
+02-21 17:38:14.590   145   365 I WindowManager: WIN DEATH: Window{416bdae8 com.android.settings/com.android.settings.SubSettings paused=false}
+
+02-21 17:38:14.593   145   180 I WindowManager: WINDOW DIED Window{416bdae8 com.android.settings/com.android.settings.SubSettings paused=false}
+
+02-21 17:40:50.261   145   327 I WindowManager: WIN DEATH: Window{416660d0 com.google.android.apps.maps/com.google.android.maps.MapsActivity paused=false}
+
+02-21 17:40:50.261   145   327 W WindowManager: Force-removing child win Window{416d44e8 SurfaceView paused=false} from container Window{416660d0 com.google.android.apps.maps/com.google.android.maps.MapsActivity paused=false}
+
+02-21 17:44:53.031   145   176 I WindowManager: Lock screen displayed!
+
+02-21 17:46:55.234   145   396 I WindowManager: WIN DEATH: Window{41683d40 com.android.vending/com.android.vending.AssetBrowserActivity paused=false}
+
+02-21 17:47:55.390   145  1061 I WindowManager: WIN DEATH: Window{417384a0 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+02-21 18:06:02.082   145   176 I WindowManager: Lock screen displayed!
+
+02-21 18:07:25.096   145   176 I WindowManager: No lock screen!
+
+02-21 18:08:23.858   145   156 I WindowManager: WIN DEATH: Window{41914580 com.android.chrome/com.android.chrome.Main paused=false}
+
+04-06 13:44:22.268   145   176 I WindowManager: Lock screen displayed!
+
+04-26 21:01:30.866   144   177 I WindowManager: Lock screen displayed!
+
+04-26 21:27:07.100   144   177 I WindowManager: Lock screen displayed!
+
+04-26 21:27:09.830   144   177 I WindowManager: Lock screen displayed!
+
+04-26 21:27:21.307   144   177 I WindowManager: Lock screen displayed!
+
+04-26 22:22:26.343   144   177 I WindowManager: Lock screen displayed!
+
+04-26 22:33:13.664   144   177 I WindowManager: Lock screen displayed!
+
+04-26 22:41:07.177   144   177 I WindowManager: Lock screen displayed!
+
+04-26 22:41:10.201   144   177 I WindowManager: Lock screen displayed!
+
+04-24 11:43:02.174   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:08:47.664   144   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+04-24 12:08:47.667   144   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+04-24 12:08:48.781   144   160 I WindowManager: SAFE MODE not enabled
+
+04-24 12:09:39.214   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:10:15.921   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:14:25.429   144   176 I WindowManager: Lock screen displayed!
+
+06-06 17:08:04.435  1908  1940 I WindowManager: Lock screen displayed!
+
+06-06 17:11:43.949   144   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+06-06 17:11:43.957   144   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+06-06 17:11:44.902   144   160 I WindowManager: SAFE MODE not enabled
+
+06-06 17:18:44.069   144   176 I WindowManager: Lock screen displayed!
+
+02-21 20:16:43.027   145   176 I WindowManager: Lock screen displayed!
+
+04-09 12:09:49.230   145   176 I WindowManager: Lock screen displayed!
+
+05-26 11:13:13.775   144   176 I WindowManager: Lock screen displayed!
+
+03-11 23:44:35.906   144   174 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+03-11 23:44:35.914   144   175 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+03-11 23:44:36.835   144   160 I WindowManager: SAFE MODE not enabled
+
+03-11 23:47:24.436   144   175 I WindowManager: No lock screen!
+
+03-12 16:28:11.109   144   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+03-12 16:28:11.113   144   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+03-12 16:28:12.117   144   160 I WindowManager: SAFE MODE not enabled
+
+04-27 07:47:05.034   144   177 I WindowManager: Lock screen displayed!
+
+04-27 07:47:25.678   144   177 I WindowManager: Lock screen displayed!
+
+04-16 11:42:41.133   145   176 I WindowManager: Lock screen displayed!
+
+04-26 17:47:08.242   144   372 I WindowManager: WIN DEATH: Window{4173ca58 com.piazza.android/com.piazza.android.ClassLauncher paused=false}
+
+04-26 17:47:32.144   144   177 I WindowManager: Lock screen displayed!
+
+04-26 17:47:36.886   144   176 W WindowManager: App freeze timeout expired.
+
+04-26 17:47:44.324   144   156 I WindowManager: WIN DEATH: Window{416b40b8 com.android.chrome/com.android.chrome.Main paused=false}
+
+04-26 17:47:48.996   144   177 I WindowManager: Lock screen displayed!
+
+04-26 17:48:03.066   144   177 I WindowManager: Lock screen displayed!
+
+04-26 19:35:41.254   144   177 I WindowManager: Lock screen displayed!
+
+04-26 19:42:33.086   144   177 I WindowManager: Lock screen displayed!
+
+04-26 19:44:21.339   144   177 I WindowManager: Lock screen displayed!
+
+04-26 19:44:39.144   144   177 I WindowManager: Lock screen displayed!
+
+04-26 19:44:50.660   144   177 I WindowManager: Lock screen displayed!
+
+04-26 19:44:58.336   144   177 I WindowManager: Lock screen displayed!
+
+04-26 19:45:46.441   144   177 I WindowManager: Lock screen displayed!
+
+04-26 19:47:46.726   144   177 I WindowManager: Lock screen displayed!
+
+04-26 19:47:56.578   144   177 I WindowManager: Lock screen displayed!
+
+04-26 20:16:26.492   144   177 I WindowManager: Lock screen displayed!
+
+04-26 20:35:56.100   144   177 I WindowManager: Lock screen displayed!
+
+06-01 13:52:34.131   144   176 I WindowManager: Lock screen displayed!
+
+06-01 13:53:09.049   144   176 I WindowManager: Lock screen displayed!
+
+06-01 13:53:45.721   144   175 W WindowManager: App freeze timeout expired.
+
+06-01 13:53:50.580   144   176 I WindowManager: Lock screen displayed!
+
+06-01 13:57:47.345   144   176 I WindowManager: Lock screen displayed!
+
+07-05 14:20:31.233   141   173 I WindowManager: No lock screen!
+
+07-05 14:20:41.659   141   498 I WindowManager: WIN DEATH: Window{41882980 com.android.chrome/com.google.android.apps.chrome.Main paused=false}
+
+07-05 14:23:23.109   141   173 I WindowManager: Lock screen displayed!
+
+07-05 14:24:17.089   141  9685 I WindowManager: WIN DEATH: Window{4133bc10 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-05 14:27:52.785   141   152 I WindowManager: WIN DEATH: Window{4169cae0 com.facebook.katana/com.facebook.katana.activity.FbFragmentChromeActivity paused=false}
+
+07-05 14:28:45.597   141   386 I WindowManager: WIN DEATH: Window{417aee48 com.android.chrome/com.google.android.apps.chrome.Main paused=false}
+
+07-05 14:33:27.273   141  7601 I WindowManager: WIN DEATH: Window{417c1540 com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity paused=false}
+
+07-05 14:33:27.316   141   177 I WindowManager: WINDOW DIED Window{417c1540 com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity paused=false}
+
+07-05 14:44:13.129   141   173 I WindowManager: Lock screen displayed!
+
+07-05 14:44:50.066   141   173 I WindowManager: Lock screen displayed!
+
+07-05 14:55:06.535   141   173 I WindowManager: Lock screen displayed!
+
+07-05 14:55:09.086   141   173 I WindowManager: Lock screen displayed!
+
+07-05 15:26:54.004   141   173 I WindowManager: Lock screen displayed!
+
+07-03 23:37:02.942   141   785 I WindowManager: WIN DEATH: Window{416cf6a8 com.android.calendar/com.android.calendar.AllInOneActivity paused=false}
+
+07-03 23:37:02.965   141   177 I WindowManager: WINDOW DIED Window{416cf6a8 com.android.calendar/com.android.calendar.AllInOneActivity paused=false}
+
+07-03 23:38:38.207   141   173 I WindowManager: Lock screen displayed!
+
+07-04 01:40:35.152   141   173 I WindowManager: Lock screen displayed!
+
+07-04 02:07:37.261   141   287 I WindowManager: WIN DEATH: Window{4196c330 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+03-12 16:33:27.706   144   176 I WindowManager: No lock screen!
+
+03-12 16:33:43.397   144   176 I WindowManager: No lock screen!
+
+03-12 16:37:30.682   144   176 I WindowManager: No lock screen!
+
+03-12 16:38:03.963   144   176 I WindowManager: No lock screen!
+
+03-12 16:39:32.022   144   176 I WindowManager: No lock screen!
+
+03-12 16:43:39.924   144   176 I WindowManager: No lock screen!
+
+03-12 16:50:21.753   144   176 I WindowManager: No lock screen!
+
+03-12 17:04:50.690   144   176 I WindowManager: No lock screen!
+
+03-12 17:06:12.881   144   176 I WindowManager: No lock screen!
+
+03-12 17:52:08.694   144   176 I WindowManager: No lock screen!
+
+07-05 20:56:57.855   141   141 I WindowManager: WIN DEATH: Window{41822450 com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity paused=false}
+
+07-05 20:56:57.945   141  8421 I WindowManager: WIN DEATH: Window{4181f380 com.google.android.apps.plus/com.google.android.apps.plus.phone.StreamOneUpActivity paused=false}
+
+07-05 20:56:57.961   141   177 I WindowManager: WINDOW DIED Window{41822450 com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity paused=false}
+
+07-05 22:45:05.328   141   173 I WindowManager: Lock screen displayed!
+
+07-05 23:02:53.132   141   173 I WindowManager: Lock screen displayed!
+
+07-05 23:20:26.289   141   287 I WindowManager: WIN DEATH: Window{416b0020 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+04-20 15:00:02.661   145  8981 I WindowManager: WIN DEATH: Window{4185e150 com.facebook.katana/com.facebook.katana.activity.faceweb.FacewebChromeActivity paused=false}
+
+04-20 15:26:22.889   145   377 I WindowManager: WIN DEATH: Window{417cca60 com.android.chrome/com.android.chrome.Main paused=false}
+
+05-23 11:27:26.412   144   176 I WindowManager: Lock screen displayed!
+
+04-02 17:46:32.308   144   176 I WindowManager: Lock screen displayed!
+
+04-02 17:48:35.867   144  4426 I WindowManager: WIN DEATH: Window{41babf38 com.android.settings/com.android.settings.Settings paused=false}
+
+04-02 17:48:36.363   144   481 I WindowManager: WIN DEATH: Window{41370b70 com.android.settings/com.android.settings.SubSettings paused=false}
+
+04-02 17:48:36.367   144   180 I WindowManager: WINDOW DIED Window{41370b70 com.android.settings/com.android.settings.SubSettings paused=false}
+
+04-02 18:11:36.468   144   176 I WindowManager: Lock screen displayed!
+
+04-02 18:13:25.350   144   176 I WindowManager: Lock screen displayed!
+
+04-02 18:13:38.659   144  1174 I WindowManager: WIN DEATH: Window{4163e848 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+04-02 18:15:05.702   144  1175 I WindowManager: WIN DEATH: Window{418b9bd0 com.mint/com.mint.activity.MintOverviewActivity paused=false}
+
+04-03 09:47:04.078   145   176 I WindowManager: Lock screen displayed!
+
+04-03 09:55:07.386   145   176 I WindowManager: Lock screen displayed!
+
+04-03 10:00:58.086   145   176 I WindowManager: Lock screen displayed!
+
+04-03 10:05:00.511   145   176 I WindowManager: Lock screen displayed!
+
+04-03 11:03:02.136   145   176 I WindowManager: Lock screen displayed!
+
+04-03 11:04:37.109   145   176 I WindowManager: Lock screen displayed!
+
+04-03 11:06:41.371   145   176 I WindowManager: Lock screen displayed!
+
+04-03 11:07:03.402   145   181 I WindowManager: interceptKeyBeforeQueueing: VOLUME key-down while ringing: Silence ringer!
+
+04-03 11:07:04.668   145   181 I WindowManager: interceptKeyBeforeQueueing: VOLUME key-down while ringing: Silence ringer!
+
+04-03 11:07:55.117   145   176 I WindowManager: Lock screen displayed!
+
+04-03 11:17:22.136   145   176 I WindowManager: Lock screen displayed!
+
+04-03 11:18:48.388   145   176 I WindowManager: Lock screen displayed!
+
+04-03 11:29:14.720   145   176 I WindowManager: Lock screen displayed!
+
+05-30 12:55:09.908   144   285 I WindowManager: WIN DEATH: Window{416dd600 com.android.vending/com.google.android.finsky.activities.MainActivity paused=false}
+
+05-30 12:55:09.936   144   963 I WindowManager: WIN DEATH: Window{41796180 com.android.vending/com.google.android.finsky.activities.PurchaseDialog paused=false}
+
+05-30 13:56:02.447   144   176 I WindowManager: Lock screen displayed!
+
+06-05 09:22:09.758   144   176 I WindowManager: Lock screen displayed!
+
+06-05 09:22:25.326   144   156 I WindowManager: WIN DEATH: Window{41adba50 com.android.settings/com.android.settings.Settings paused=false}
+
+06-05 09:22:25.334   144   400 I WindowManager: WIN DEATH: Window{41350ed0 com.android.settings/com.android.settings.SubSettings paused=false}
+
+06-05 09:47:16.170   144   176 I WindowManager: Lock screen displayed!
+
+06-01 14:10:10.927   144   176 I WindowManager: Lock screen displayed!
+
+06-01 14:16:50.302   144   176 I WindowManager: Lock screen displayed!
+
+06-01 15:14:43.712   144   176 I WindowManager: Lock screen displayed!
+
+06-01 15:17:43.381   144   176 I WindowManager: Lock screen displayed!
+
+06-01 15:19:01.869   144   176 I WindowManager: Lock screen displayed!
+
+07-03 03:22:45.765   141   287 I WindowManager: WIN DEATH: Window{41806e10 com.android.settings/com.android.settings.Settings paused=false}
+
+07-03 03:22:46.371   141   360 I WindowManager: WIN DEATH: Window{418af948 com.android.settings/com.android.settings.SubSettings paused=false}
+
+07-03 03:22:46.574   141   177 I WindowManager: WINDOW DIED Window{41806e10 com.android.settings/com.android.settings.Settings paused=false}
+
+07-03 08:00:01.464   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-03 08:00:01.464   141   173 I WindowManager: Lock screen displayed!
+
+07-03 08:10:13.285   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-03 08:10:13.285   141   173 I WindowManager: Lock screen displayed!
+
+07-03 08:20:21.433   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-03 08:20:21.433   141   173 I WindowManager: Lock screen displayed!
+
+07-03 08:20:37.832   141   173 I WindowManager: Lock screen displayed!
+
+07-03 08:20:48.023   141   547 I WindowManager: WIN DEATH: Window{41869258 com.android.settings/com.android.settings.Settings paused=false}
+
+07-03 08:21:18.714   141   173 I WindowManager: Lock screen displayed!
+
+07-03 08:40:00.613   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-03 08:40:00.613   141   173 I WindowManager: Lock screen displayed!
+
+07-03 09:00:20.054   141   173 I WindowManager: Lock screen displayed!
+
+07-03 09:00:27.242   141   173 I WindowManager: Lock screen displayed!
+
+07-03 09:10:00.589   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-03 09:10:00.589   141   173 I WindowManager: Lock screen displayed!
+
+07-03 09:16:36.097   141   173 I WindowManager: Lock screen displayed!
+
+07-03 09:16:52.019   141   173 I WindowManager: Lock screen displayed!
+
+07-03 09:16:55.199   141   173 I WindowManager: Lock screen displayed!
+
+07-03 09:17:14.445   141   173 I WindowManager: Lock screen displayed!
+
+07-03 09:47:35.746   141   173 I WindowManager: Lock screen displayed!
+
+07-03 10:18:27.121   141   173 I WindowManager: Lock screen displayed!
+
+06-05 19:07:21.758  1908  1939 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+06-05 19:07:21.765  1908  1940 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+06-05 19:07:22.836  1908  1924 I WindowManager: SAFE MODE not enabled
+
+04-04 16:50:34.337   145   176 I WindowManager: Lock screen displayed!
+
+04-04 16:50:36.017   145   176 I WindowManager: Lock screen displayed!
+
+04-04 16:50:46.552   145   176 I WindowManager: Lock screen displayed!
+
+04-04 18:11:05.942   145   176 I WindowManager: Lock screen displayed!
+
+04-04 18:11:22.246   145   176 I WindowManager: Lock screen displayed!
+
+04-04 18:12:55.598   145   176 I WindowManager: Lock screen displayed!
+
+04-04 14:36:04.261   145   176 I WindowManager: Lock screen displayed!
+
+04-04 14:43:53.066   145  3207 I WindowManager: WIN DEATH: Window{418950a8 com.facebook.katana/com.facebook.katana.activity.faceweb.FacewebChromeActivity paused=false}
+
+04-04 14:54:55.918   145   176 I WindowManager: Lock screen displayed!
+
+04-04 15:00:00.660   145   405 I WindowManager: WIN DEATH: Window{41644e30 com.android.chrome/com.android.chrome.Main paused=false}
+
+02-23 04:20:39.664   145  1215 I WindowManager: WIN DEATH: Window{4190f170 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+04-03 11:36:30.654   145   176 I WindowManager: Lock screen displayed!
+
+04-03 12:00:00.062   145   156 I WindowManager: WIN DEATH: Window{415d0370 com.android.settings/com.android.settings.SubSettings paused=false}
+
+04-03 12:00:00.070   145   407 I WindowManager: WIN DEATH: Window{416ccab0 com.android.settings/com.android.settings.Settings paused=false}
+
+04-03 12:00:00.070   145   180 I WindowManager: WINDOW DIED Window{416ccab0 com.android.settings/com.android.settings.Settings paused=false}
+
+04-03 12:17:03.541   145   176 I WindowManager: Lock screen displayed!
+
+04-03 12:19:42.487   145   176 I WindowManager: Lock screen displayed!
+
+04-03 12:19:59.593   145   407 I WindowManager: WIN DEATH: Window{418285d8 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+04-03 12:19:59.601   145  1564 I WindowManager: WIN DEATH: Window{417f1bf8 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity paused=false}
+
+04-03 12:19:59.616   145   299 I WindowManager: WIN DEATH: Window{416f3b70 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SettingsActivity paused=false}
+
+04-03 12:19:59.620   145   180 I WindowManager: WINDOW DIED Window{416f3b70 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SettingsActivity paused=false}
+
+04-03 12:21:33.737   145   176 I WindowManager: Lock screen displayed!
+
+04-03 12:45:50.929   145   176 I WindowManager: Lock screen displayed!
+
+04-03 12:49:03.642   145   176 I WindowManager: Lock screen displayed!
+
+04-03 12:49:30.611   145   383 I WindowManager: WIN DEATH: Window{41706648 com.android.chrome/com.android.chrome.Main paused=false}
+
+04-03 12:53:43.232   145   176 I WindowManager: Lock screen displayed!
+
+04-03 12:53:57.611   145   176 I WindowManager: Lock screen displayed!
+
+04-03 12:54:18.407   145   176 I WindowManager: Lock screen displayed!
+
+04-03 12:55:43.950   145   176 I WindowManager: Lock screen displayed!
+
+04-03 12:56:10.642   145   176 I WindowManager: Lock screen displayed!
+
+02-23 15:13:39.082   145   176 I WindowManager: Lock screen displayed!
+
+02-23 15:13:43.070   145   176 I WindowManager: Lock screen displayed!
+
+02-23 15:16:18.027   145   176 I WindowManager: Lock screen displayed!
+
+02-23 15:17:52.972   145   176 I WindowManager: No lock screen!
+
+02-23 15:20:55.945   145   176 I WindowManager: Lock screen displayed!
+
+04-16 16:47:06.309   145   176 I WindowManager: Lock screen displayed!
+
+04-16 16:48:14.657   145   176 I WindowManager: Lock screen displayed!
+
+04-16 17:05:07.251   145   176 I WindowManager: Lock screen displayed!
+
+04-16 17:24:37.946   145   377 I WindowManager: WIN DEATH: Window{41937538 com.android.vending/com.google.android.finsky.activities.MainActivity paused=false}
+
+04-16 17:34:41.800   145   176 I WindowManager: Lock screen displayed!
+
+04-17 16:35:53.798   145   176 I WindowManager: Lock screen displayed!
+
+04-17 18:04:09.069   145   176 I WindowManager: Lock screen displayed!
+
+01-01 05:24:51.386   144   176 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+01-01 05:24:51.394   144   177 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+01-01 05:24:52.308   144   160 I WindowManager: SAFE MODE not enabled
+
+04-26 17:23:28.233   144   177 I WindowManager: Lock screen displayed!
+
+04-03 15:32:26.975   145   176 I WindowManager: Lock screen displayed!
+
+04-03 16:14:37.707   145   176 I WindowManager: Lock screen displayed!
+
+04-03 16:14:52.964   145   176 I WindowManager: Lock screen displayed!
+
+04-03 16:25:55.105   145   176 I WindowManager: Lock screen displayed!
+
+04-03 16:34:57.368   145   176 I WindowManager: Lock screen displayed!
+
+04-03 16:34:59.075   145   176 I WindowManager: Lock screen displayed!
+
+04-03 16:41:42.829   145   176 I WindowManager: Lock screen displayed!
+
+04-24 12:08:47.664   144   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+04-24 12:08:47.667   144   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+04-24 12:09:39.214   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:10:15.921   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:14:25.429   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:17:38.964   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:17:53.921   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:27:10.221   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:35:26.241   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:35:39.628   144   391 I WindowManager: WIN DEATH: Window{41767528 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity paused=false}
+
+04-24 12:35:39.647   144   156 I WindowManager: WIN DEATH: Window{416dc290 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+04-24 12:35:39.667   144   180 I WindowManager: WINDOW DIED Window{416dc290 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+04-24 12:42:07.514   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:47:11.378   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:49:15.186   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:52:52.866   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:53:05.171   144   155 I WindowManager: WIN DEATH: Window{418366e8 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+04-24 12:59:26.414   144   297 I WindowManager: WIN DEATH: Window{417608b0 com.facebook.katana/com.facebook.katana.activity.faceweb.FacewebChromeActivity paused=false}
+
+04-24 13:01:26.332   144   176 I WindowManager: Lock screen displayed!
+
+04-24 13:01:54.789   144   176 I WindowManager: Lock screen displayed!
+
+04-24 13:05:27.015   144   176 I WindowManager: Lock screen displayed!
+
+04-24 13:07:32.046   144   176 I WindowManager: No lock screen!
+
+04-24 13:10:08.976   144   155 I WindowManager: WIN DEATH: Window{417d4c90 com.android.settings/com.android.settings.Settings paused=true}
+
+04-24 13:10:09.050   144   515 I WindowManager: WIN DEATH: Window{415a3280 com.android.settings/com.android.settings.SubSettings paused=true}
+
+04-24 13:10:09.050   144   180 I WindowManager: WINDOW DIED Window{415a3280 com.android.settings/com.android.settings.SubSettings paused=true}
+
+04-24 13:15:11.164   144   176 I WindowManager: Lock screen displayed!
+
+02-22 09:09:30.078   145   176 I WindowManager: Lock screen displayed!
+
+02-22 09:42:10.027   145   176 I WindowManager: Lock screen displayed!
+
+04-09 16:15:55.064   145   176 I WindowManager: Lock screen displayed!
+
+04-09 16:53:21.966   145   176 I WindowManager: Lock screen displayed!
+
+04-05 13:03:57.590   145   176 I WindowManager: Lock screen displayed!
+
+04-05 13:06:18.075   145  1380 I WindowManager: WIN DEATH: Window{41648a98 com.android.chrome/com.android.chrome.Main paused=false}
+
+07-05 11:22:10.859   141   173 I WindowManager: Lock screen displayed!
+
+07-05 11:22:11.343   141   177 I WindowManager: WINDOW DIED Window{417b9088 com.android.chrome/com.google.android.apps.chrome.Main paused=false}
+
+07-05 11:22:31.105   141   173 I WindowManager: Lock screen displayed!
+
+07-05 11:33:00.336   141   177 I WindowManager: WINDOW DIED Window{41333200 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+07-05 11:34:31.109   141   173 I WindowManager: Lock screen displayed!
+
+07-05 11:36:41.086   141   173 I WindowManager: Lock screen displayed!
+
+07-05 11:37:00.605   141   177 I WindowManager: WINDOW DIED Window{41341668 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.PhoneCallListActivity paused=false}
+
+07-05 11:38:56.129   141   173 I WindowManager: Lock screen displayed!
+
+07-05 11:41:55.136   141   173 I WindowManager: Lock screen displayed!
+
+07-05 12:07:23.664   141   547 I WindowManager: WIN DEATH: Window{41333200 com.facebook.katana/com.facebook.katana.activity.FbFragmentChromeActivity paused=false}
+
+07-05 12:07:23.750   141   177 I WindowManager: WINDOW DIED Window{41333200 com.facebook.katana/com.facebook.katana.activity.FbFragmentChromeActivity paused=false}
+
+07-05 12:43:15.168   141   173 I WindowManager: Lock screen displayed!
+
+07-05 12:45:32.445   141   386 I WindowManager: WIN DEATH: Window{417c2890 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-05 13:06:59.613   141  7601 I WindowManager: WIN DEATH: Window{416ff780 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+07-05 13:55:13.082   141   173 I WindowManager: Lock screen displayed!
+
+07-05 13:58:06.129   141   173 I WindowManager: Lock screen displayed!
+
+07-05 13:58:07.105   141   173 I WindowManager: Lock screen displayed!
+
+07-05 13:58:10.039   141   173 I WindowManager: Lock screen displayed!
+
+07-05 14:00:19.105   141   173 I WindowManager: Lock screen displayed!
+
+03-31 13:16:46.777   144   176 I WindowManager: No lock screen!
+
+03-31 15:23:27.868   144   483 I WindowManager: WIN DEATH: Window{416cc8f0 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.PhoneCallListActivity paused=false}
+
+03-31 15:23:27.887   144  1179 I WindowManager: WIN DEATH: Window{41722050 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+03-31 15:23:27.887   144   180 I WindowManager: WINDOW DIED Window{41722050 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+07-02 21:38:29.011   141   172 W WindowManager: Window freeze timeout expired.
+
+07-02 21:38:29.011   141   172 W WindowManager: Force clearing orientation change: Window{41770b30 InputMethod paused=false}
+
+07-02 21:40:06.523   141   287 I WindowManager: WIN DEATH: Window{418ab2b0 com.facebook.katana/com.facebook.katana.activity.FbFragmentChromeActivity paused=false}
+
+07-02 21:49:50.902   141  6836 I WindowManager: WIN DEATH: Window{417bd280 com.android.chrome/com.google.android.apps.chrome.Main paused=false}
+
+07-02 22:55:12.097   141   173 I WindowManager: Lock screen displayed!
+
+07-02 22:56:41.117   141   173 I WindowManager: Lock screen displayed!
+
+07-02 22:56:46.422   141   173 I WindowManager: Lock screen displayed!
+
+07-02 22:58:00.129   141   173 I WindowManager: Lock screen displayed!
+
+07-02 23:24:56.203   141   177 I WindowManager: WINDOW DIED Window{41872f88 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-02 23:33:00.136   141   173 I WindowManager: Lock screen displayed!
+
+07-02 23:33:35.273   141   173 I WindowManager: Lock screen displayed!
+
+07-02 23:34:28.656   141   173 I WindowManager: Lock screen displayed!
+
+07-02 23:36:54.418   141   785 I WindowManager: WIN DEATH: Window{417a7920 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.PhoneCallListActivity paused=false}
+
+04-24 13:27:07.519   144   495 I WindowManager: WIN DEATH: Window{41740c60 com.android.chrome/com.android.chrome.Main paused=false}
+
+04-24 13:42:01.277   144   176 I WindowManager: Lock screen displayed!
+
+04-24 14:10:16.265   144   176 I WindowManager: Lock screen displayed!
+
+04-24 14:11:18.578   144   176 I WindowManager: Lock screen displayed!
+
+07-03 12:47:56.257   141   173 I WindowManager: Lock screen displayed!
+
+07-03 12:49:00.074   141   360 I WindowManager: WIN DEATH: Window{41339fc0 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.PhoneCallListActivity paused=false}
+
+07-03 12:49:00.078   141   363 I WindowManager: WIN DEATH: Window{4133a688 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity paused=false}
+
+07-03 12:49:00.082   141   386 I WindowManager: WIN DEATH: Window{4195db98 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+07-03 12:49:00.086   141   546 I WindowManager: WIN DEATH: Window{41337ef0 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.PhoneCallListActivity paused=false}
+
+07-03 13:07:13.175   141   173 I WindowManager: Lock screen displayed!
+
+07-05 11:01:03.273   141   173 I WindowManager: Lock screen displayed!
+
+07-05 11:09:20.694   141   177 I WindowManager: WINDOW DIED Window{41797630 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-05 11:09:20.807   141   386 W WindowManager: Failed looking up window
+
+07-05 11:09:20.807   141   386 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@419067d0 does not exist
+
+07-05 11:09:20.807   141   386 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7163)
+
+07-05 11:09:20.807   141   386 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7154)
+
+07-05 11:09:20.807   141   386 W WindowManager: 	at com.android.server.wm.WindowState$DeathRecipient.binderDied(WindowState.java:1545)
+
+07-05 11:09:20.807   141   386 W WindowManager: 	at android.os.BinderProxy.sendDeathNotice(Binder.java:417)
+
+07-05 11:09:20.807   141   386 W WindowManager: 	at dalvik.system.NativeStart.run(Native Method)
+
+07-05 11:09:20.807   141   386 I WindowManager: WIN DEATH: null
+
+07-05 11:10:44.777   141   173 I WindowManager: Lock screen displayed!
+
+07-05 11:21:00.097   141   173 I WindowManager: Lock screen displayed!
+
+07-05 11:21:15.111   141   173 I WindowManager: Lock screen displayed!
+
+04-19 18:36:53.466   145   176 I WindowManager: Lock screen displayed!
+
+04-09 13:55:07.367   145   176 I WindowManager: Lock screen displayed!
+
+04-09 14:28:03.199   145   176 I WindowManager: Lock screen displayed!
+
+04-09 14:42:45.980   145   176 I WindowManager: Lock screen displayed!
+
+04-09 14:48:21.273   145   176 I WindowManager: Lock screen displayed!
+
+04-09 15:00:15.706   145   176 I WindowManager: Lock screen displayed!
+
+04-09 15:00:20.718   145   176 I WindowManager: Lock screen displayed!
+
+04-05 13:35:38.432   145   176 I WindowManager: Lock screen displayed!
+
+04-05 13:35:41.131   145   176 I WindowManager: Lock screen displayed!
+
+04-05 13:56:33.040   145   176 I WindowManager: Lock screen displayed!
+
+04-05 14:30:43.079   145   176 I WindowManager: Lock screen displayed!
+
+04-05 14:32:30.614   145   176 I WindowManager: Lock screen displayed!
+
+04-05 14:32:33.704   145   176 I WindowManager: Lock screen displayed!
+
+04-05 14:38:09.965   145   176 I WindowManager: Lock screen displayed!
+
+04-05 14:38:15.907   145   176 I WindowManager: Lock screen displayed!
+
+04-05 15:18:46.872   145   176 I WindowManager: Lock screen displayed!
+
+04-05 15:21:08.669   145   176 I WindowManager: Lock screen displayed!
+
+04-05 15:24:04.433   145   176 I WindowManager: Lock screen displayed!
+
+07-03 11:05:45.011   141   173 I WindowManager: Lock screen displayed!
+
+07-03 11:07:51.802   141   177 I WindowManager: WINDOW DIED Window{418257c0 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+07-03 11:07:51.853   141   546 W WindowManager: Failed looking up window
+
+07-03 11:07:51.853   141   546 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@417bc288 does not exist
+
+07-03 11:07:51.853   141   546 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7163)
+
+07-03 11:07:51.853   141   546 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7154)
+
+07-03 11:07:51.853   141   546 W WindowManager: 	at com.android.server.wm.WindowState$DeathRecipient.binderDied(WindowState.java:1545)
+
+07-03 11:07:51.853   141   546 W WindowManager: 	at android.os.BinderProxy.sendDeathNotice(Binder.java:417)
+
+07-03 11:07:51.853   141   546 W WindowManager: 	at dalvik.system.NativeStart.run(Native Method)
+
+07-03 11:07:51.853   141   546 I WindowManager: WIN DEATH: null
+
+07-03 11:36:00.125   141   173 I WindowManager: Lock screen displayed!
+
+04-02 16:04:20.268   144   176 I WindowManager: Lock screen displayed!
+
+04-02 16:09:33.818   144   176 I WindowManager: Lock screen displayed!
+
+04-02 16:12:38.904   144  1179 I WindowManager: WIN DEATH: Window{41852690 com.google.android.apps.plus/com.google.android.apps.plus.phone.NotificationsActivity paused=false}
+
+04-02 16:12:38.908   144   317 I WindowManager: WIN DEATH: Window{413442f0 com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosFromPhoneActivity paused=false}
+
+04-02 16:12:38.912   144  4426 I WindowManager: WIN DEATH: Window{417f7240 com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity paused=false}
+
+04-18 11:39:48.854   145   176 I WindowManager: Lock screen displayed!
+
+04-18 13:05:50.845   145   176 I WindowManager: Lock screen displayed!
+
+04-18 13:06:46.200   145   176 I WindowManager: Lock screen displayed!
+
+04-18 13:14:25.497   145   176 I WindowManager: Lock screen displayed!
+
+04-18 13:14:27.376   145   176 I WindowManager: Lock screen displayed!
+
+04-18 13:20:39.907   145   176 I WindowManager: Lock screen displayed!
+
+04-18 13:21:35.414   145   176 I WindowManager: Lock screen displayed!
+
+04-18 13:22:15.679   145   176 I WindowManager: Lock screen displayed!
+
+04-18 13:22:16.988   145   176 I WindowManager: Lock screen displayed!
+
+04-18 13:22:18.390   145   176 I WindowManager: Lock screen displayed!
+
+04-18 13:22:19.543   145   176 I WindowManager: Lock screen displayed!
+
+04-18 13:24:01.500   145   176 I WindowManager: Lock screen displayed!
+
+04-18 13:24:03.820   145   176 I WindowManager: Lock screen displayed!
+
+04-18 13:26:58.089   145   176 I WindowManager: Lock screen displayed!
+
+04-03 13:47:30.293   145  3206 I WindowManager: WIN DEATH: Window{417b6b80 com.android.mms/com.android.mms.ui.ComposeMessageActivity paused=true}
+
+04-03 13:48:34.136   145   339 I WindowManager: WIN DEATH: Window{41763530 com.android.chrome/com.android.chrome.Main paused=false}
+
+04-03 15:03:10.835   145   145 I WindowManager: WIN DEATH: Window{4182cc80 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+04-03 15:03:16.886   145   176 I WindowManager: Lock screen displayed!
+
+04-03 15:04:38.550   145   176 I WindowManager: Lock screen displayed!
+
+04-27 13:37:11.248   144   156 I WindowManager: WIN DEATH: Window{4162f148 com.facebook.katana/com.facebook.katana.activity.faceweb.FacewebChromeActivity paused=false}
+
+05-02 18:15:13.640   144  1023 I WindowManager: WIN DEATH: Window{417583c0 com.android.chrome/com.android.chrome.Main paused=false}
+
+05-02 18:15:16.820   144  1023 I WindowManager: WIN DEATH: Window{4188be90 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+05-02 18:15:20.691   144   181 I WindowManager: WINDOW DIED Window{416f9f58 com.android.vending/com.google.android.finsky.activities.MainActivity paused=false}
+
+05-02 18:15:20.695   144  2392 W WindowManager: Failed looking up window
+
+05-02 18:15:20.695   144  2392 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@416a7020 does not exist
+
+05-02 18:15:20.695   144  2392 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7156)
+
+05-02 18:15:20.695   144  2392 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7147)
+
+05-02 18:15:20.695   144  2392 W WindowManager: 	at com.android.server.wm.WindowState$DeathRecipient.binderDied(WindowState.java:1529)
+
+05-02 18:15:20.695   144  2392 W WindowManager: 	at android.os.BinderProxy.sendDeathNotice(Binder.java:417)
+
+05-02 18:15:20.695   144  2392 W WindowManager: 	at dalvik.system.NativeStart.run(Native Method)
+
+05-02 18:15:20.695   144  2392 I WindowManager: WIN DEATH: null
+
+05-02 20:45:18.140   144   177 I WindowManager: Lock screen displayed!
+
+05-02 20:45:55.101   144  1020 I WindowManager: WIN DEATH: Window{41760ae0 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.PhoneCallListActivity paused=false}
+
+05-02 20:45:55.113   144  1021 I WindowManager: WIN DEATH: Window{41bd8e80 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+05-02 20:45:55.113   144   181 I WindowManager: WINDOW DIED Window{41760ae0 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.PhoneCallListActivity paused=false}
+
+05-02 20:49:11.793   144   181 I WindowManager: WINDOW DIED Window{418e68f8 com.facebook.katana/com.facebook.katana.activity.media.CameraActivity paused=false}
+
+05-02 20:49:12.070   144   144 W WindowManager: Failed looking up window
+
+05-02 20:49:12.070   144   144 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@416bb5c8 does not exist
+
+05-02 20:49:12.070   144   144 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7156)
+
+05-02 20:49:12.070   144   144 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7147)
+
+05-02 20:49:12.070   144   144 W WindowManager: 	at com.android.server.wm.WindowState$DeathRecipient.binderDied(WindowState.java:1529)
+
+05-02 20:49:12.070   144   144 W WindowManager: 	at android.os.BinderProxy.sendDeathNotice(Binder.java:417)
+
+05-02 20:49:12.070   144   144 W WindowManager: 	at com.android.server.SystemServer.init1(Native Method)
+
+05-02 20:49:12.070   144   144 W WindowManager: 	at com.android.server.SystemServer.main(SystemServer.java:808)
+
+05-02 20:49:12.070   144   144 W WindowManager: 	at java.lang.reflect.Method.invokeNative(Native Method)
+
+05-02 20:49:12.070   144   144 W WindowManager: 	at java.lang.reflect.Method.invoke(Method.java:511)
+
+05-02 20:49:12.070   144   144 W WindowManager: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:784)
+
+05-02 20:49:12.070   144   144 W WindowManager: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:551)
+
+05-02 20:49:12.070   144   144 W WindowManager: 	at dalvik.system.NativeStart.main(Native Method)
+
+05-02 20:49:12.074   144   144 I WindowManager: WIN DEATH: null
+
+07-03 16:56:53.054   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-03 16:56:53.054   141   173 I WindowManager: Lock screen displayed!
+
+07-03 16:57:05.179   141   173 I WindowManager: Lock screen displayed!
+
+07-03 16:57:18.070   141   173 I WindowManager: Lock screen displayed!
+
+07-03 16:57:54.070   141   173 I WindowManager: Lock screen displayed!
+
+07-03 16:58:18.093   141   173 I WindowManager: Lock screen displayed!
+
+07-03 16:58:35.937   141   173 I WindowManager: No lock screen!
+
+07-03 17:00:11.738   141   173 I WindowManager: Lock screen displayed!
+
+07-03 17:07:20.125   141   153 I WindowManager: WIN DEATH: Window{41351a38 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+04-12 15:41:00.933   145   176 I WindowManager: Lock screen displayed!
+
+04-12 16:00:16.566   145   176 I WindowManager: Lock screen displayed!
+
+04-12 16:08:08.581   145   176 I WindowManager: Lock screen displayed!
+
+07-02 11:20:50.379   141   172 I WindowManager: Lock screen displayed!
+
+07-02 11:22:15.757   141   172 I WindowManager: Enabled StrictMode logging for WMThread&#39;s Looper
+
+07-02 11:22:15.765   141   173 I WindowManager: Enabled StrictMode for PolicyThread&#39;s Looper
+
+07-02 11:22:16.617   141   157 I WindowManager: SAFE MODE not enabled
+
+04-04 09:52:41.200   145   176 I WindowManager: Lock screen displayed!
+
+04-04 10:19:15.352   145   385 I WindowManager: WIN DEATH: Window{41665c50 com.android.settings/com.android.settings.Settings paused=false}
+
+04-04 10:19:15.364   145  3206 I WindowManager: WIN DEATH: Window{416994b0 com.android.settings/com.android.settings.SubSettings paused=false}
+
+04-04 10:19:15.368   145   180 I WindowManager: WINDOW DIED Window{41665c50 com.android.settings/com.android.settings.Settings paused=false}
+
+04-04 10:33:37.241   145   176 I WindowManager: Lock screen displayed!
+
+04-04 11:41:52.991   145   176 I WindowManager: Lock screen displayed!
+
+04-04 11:41:59.077   145   176 I WindowManager: Lock screen displayed!
+
+04-04 12:00:25.503   145   339 I WindowManager: WIN DEATH: Window{418257e8 com.android.settings/com.android.settings.Settings paused=false}
+
+04-04 12:00:25.519   145   157 I WindowManager: WIN DEATH: Window{418942a8 com.android.settings/com.android.settings.SubSettings paused=false}
+
+04-04 12:14:25.659   145   176 I WindowManager: Lock screen displayed!
+
+02-21 15:27:28.035   163   575 I WindowManager: WIN DEATH: Window{417e2990 com.android.browser/com.android.browser.BrowserActivity paused=false}
+
+02-21 15:27:28.043   163   494 I WindowManager: WIN DEATH: Window{41a017e8 com.android.browser/com.android.browser.BrowserActivity paused=false}
+
+02-21 15:30:22.175   163   590 W WindowManager: Force-removing child win Window{4158a3f8 AtchDlg:com.google.android.gm/com.google.android.gm.preference.GmailPreferenceActivity paused=false} from container Window{414f7950 com.google.android.gm/com.google.android.gm.preference.GmailPreferenceActivity paused=false}
+
+02-21 15:30:22.421   163   489 W WindowManager: Failed looking up window
+
+02-21 15:30:22.421   163   489 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@417f6c98 does not exist
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7156)
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7147)
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at com.android.server.wm.WindowManagerService.removeWindow(WindowManagerService.java:2209)
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at com.android.server.wm.Session.remove(Session.java:149)
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at android.view.IWindowSession$Stub.onTransact(IWindowSession.java:124)
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at com.android.server.wm.Session.onTransact(Session.java:111)
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at android.os.Binder.execTransact(Binder.java:338)
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at dalvik.system.NativeStart.run(Native Method)
+
+02-21 15:30:25.586   163   590 W WindowManager: Force-removing child win Window{4180cd50 AtchDlg:com.google.android.gm/com.google.android.gm.preference.GmailPreferenceActivity paused=false} from container Window{4149e308 com.google.android.gm/com.google.android.gm.preference.GmailPreferenceActivity paused=false}
+
+02-21 15:30:25.695   163   163 W WindowManager: Failed looking up window
+
+02-21 15:30:25.695   163   163 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@416360f0 does not exist
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7156)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7147)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.server.wm.WindowManagerService.removeWindow(WindowManagerService.java:2209)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.server.wm.Session.remove(Session.java:149)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at android.view.IWindowSession$Stub.onTransact(IWindowSession.java:124)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.server.wm.Session.onTransact(Session.java:111)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at android.os.Binder.execTransact(Binder.java:338)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.server.SystemServer.init1(Native Method)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.server.SystemServer.main(SystemServer.java:808)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at java.lang.reflect.Method.invokeNative(Native Method)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at java.lang.reflect.Method.invoke(Method.java:511)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:784)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:551)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at dalvik.system.NativeStart.main(Native Method)
+
+02-21 15:31:22.382   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:39:45.023   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:39:52.429   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:40:01.656   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:40:44.023   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:41:16.605   163   571 I WindowManager: WIN DEATH: Window{4133b4b8 com.android.contacts/com.android.contacts.activities.PeopleActivity paused=false}
+
+02-21 15:44:40.793   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:47:43.023   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:48:05.050   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:48:07.234   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:48:09.355   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:48:11.191   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:48:12.953   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:49:26.453   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:59:25.725   163   163 I WindowManager: WIN DEATH: Window{417c8b40 com.android.browser/com.android.browser.BrowserActivity paused=false}
+
+02-21 16:00:14.373   163   212 I WindowManager: Lock screen displayed!
+
+02-21 16:04:00.737   163   212 I WindowManager: Lock screen displayed!
+
+05-20 20:48:14.799   144   176 I WindowManager: Lock screen displayed!
+
+05-02 21:06:18.421   144   177 I WindowManager: Lock screen displayed!
+
+05-02 21:07:20.546   144   376 I WindowManager: WIN DEATH: Window{41651ea0 com.android.chrome/com.android.chrome.Main paused=false}
+
+05-02 21:14:28.824   144   177 I WindowManager: Lock screen displayed!
+
+05-02 21:14:36.804   144  1024 I WindowManager: WIN DEATH: Window{417800d0 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+05-02 21:14:37.957   144   379 I WindowManager: WIN DEATH: Window{4188d130 com.android.gallery3d/com.android.gallery3d.app.Gallery paused=false}
+
+05-02 21:14:37.957   144   379 W WindowManager: Force-removing child win Window{41760ae0 SurfaceView paused=false} from container Window{4188d130 com.android.gallery3d/com.android.gallery3d.app.Gallery paused=false}
+
+05-02 21:14:38.132   144  2392 I WindowManager: WIN DEATH: Window{41777088 com.google.android.apps.genie.geniewidget/com.google.android.apps.genie.geniewidget.activities.NewsActivity paused=false}
+
+05-02 21:15:04.562   144   302 I WindowManager: WIN DEATH: Window{4181e890 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+05-02 21:15:17.839   144  2391 I WindowManager: WIN DEATH: Window{4193c530 com.facebook.katana/com.facebook.katana.activity.FbFragmentChromeActivity paused=false}
+
+05-02 21:15:17.878   144   181 I WindowManager: WINDOW DIED Window{4193c530 com.facebook.katana/com.facebook.katana.activity.FbFragmentChromeActivity paused=false}
+
+05-02 22:37:02.207   144   177 I WindowManager: Lock screen displayed!
+
+05-02 22:37:13.836   144   177 I WindowManager: Lock screen displayed!
+
+05-02 22:37:24.921   144   177 I WindowManager: Lock screen displayed!
+
+05-02 22:37:36.476   144   177 I WindowManager: Lock screen displayed!
+
+05-02 22:37:53.707   144   177 I WindowManager: Lock screen displayed!
+
+03-12 19:49:44.914   144  1100 I WindowManager: WIN DEATH: Window{416c0eb0 com.android.chrome/com.android.chrome.Main paused=false}
+
+07-03 14:02:14.721   141   173 I WindowManager: Lock screen displayed!
+
+07-03 14:05:42.398   141   173 I WindowManager: Lock screen displayed!
+
+07-03 14:11:05.097   141   173 I WindowManager: Lock screen displayed!
+
+07-03 15:35:58.175   141   173 I WindowManager: Lock screen displayed!
+
+07-03 15:36:02.382   141   173 I WindowManager: Lock screen displayed!
+
+07-03 15:39:04.160   141   173 I WindowManager: Lock screen displayed!
+
+07-05 08:57:04.273   141   173 I WindowManager: Lock screen displayed!
+
+07-05 08:57:34.605   141   173 I WindowManager: Lock screen displayed!
+
+07-05 08:57:43.375   141   153 I WindowManager: WIN DEATH: Window{4170d570 com.android.contacts/com.android.contacts.CallDetailActivity paused=false}
+
+07-05 09:05:00.789   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-05 09:05:00.789   141   173 I WindowManager: Lock screen displayed!
+
+07-05 09:15:13.726   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-05 09:15:13.726   141   173 I WindowManager: Lock screen displayed!
+
+07-05 09:26:30.125   141   173 I WindowManager: Lock screen displayed!
+
+07-05 09:40:14.058   141   173 I WindowManager: Lock screen displayed!
+
+07-05 09:50:38.125   141   173 I WindowManager: Lock screen displayed!
+
+07-05 10:02:10.086   141   173 I WindowManager: Lock screen displayed!
+
+07-05 10:02:42.531   141   785 I WindowManager: WIN DEATH: Window{417138d8 com.android.deskclock/com.android.deskclock.DeskClock paused=false}
+
+07-05 10:02:42.546   141   547 I WindowManager: WIN DEATH: Window{41792d10 com.android.deskclock/com.android.deskclock.AlarmClock paused=false}
+
+07-05 10:06:58.859   141   173 I WindowManager: Lock screen displayed!
+
+07-05 10:07:00.914   141   173 I WindowManager: Lock screen displayed!
+
+07-05 10:09:10.687   141   173 I WindowManager: Lock screen displayed!
+
+04-16 14:56:30.343   145   176 I WindowManager: Lock screen displayed!
+
+04-16 14:59:46.995   145   176 I WindowManager: Lock screen displayed!
+
+04-16 15:00:17.616   145   176 I WindowManager: Lock screen displayed!
+
+05-02 12:00:56.646   144   177 I WindowManager: Lock screen displayed!
+
+05-02 12:00:58.595   144   177 I WindowManager: Lock screen displayed!
+
+05-02 12:38:38.845   144   177 I WindowManager: Lock screen displayed!
+
+05-02 12:38:50.029   144   177 I WindowManager: Lock screen displayed!
+
+05-02 12:38:51.939   144   177 I WindowManager: Lock screen displayed!
+
+05-02 12:38:54.771   144   177 I WindowManager: Lock screen displayed!
+
+05-02 12:39:14.466   144   177 I WindowManager: Lock screen displayed!
+
+05-02 12:40:12.431   144   177 I WindowManager: Lock screen displayed!
+
+05-02 12:40:59.740   144   177 I WindowManager: Lock screen displayed!
+
+05-02 12:41:01.736   144   177 I WindowManager: Lock screen displayed!
+
+05-02 12:41:05.201   144   177 I WindowManager: Lock screen displayed!
+
+05-02 12:41:09.779   144   177 I WindowManager: Lock screen displayed!
+
+05-02 12:41:10.896   144   177 I WindowManager: Lock screen displayed!
+
+05-02 12:47:00.853   144   177 I WindowManager: Lock screen displayed!
+
+05-02 12:47:33.466   144   177 I WindowManager: Lock screen displayed!
+
+07-02 16:40:54.093   141   173 I WindowManager: Lock screen displayed!
+
+07-02 16:42:18.976   141  1663 I WindowManager: WIN DEATH: Window{416fba58 com.android.settings/com.android.settings.Settings paused=false}
+
+07-02 16:42:18.976   141   786 I WindowManager: WIN DEATH: Window{415dda08 com.android.settings/com.android.settings.SubSettings paused=false}
+
+07-02 17:03:16.136   141   173 I WindowManager: Lock screen displayed!
+
+07-02 17:37:49.773   141   173 I WindowManager: Lock screen displayed!
+
+07-02 19:51:50.586   141   173 I WindowManager: Lock screen displayed!
+
+07-02 19:56:49.109   141   173 I WindowManager: Lock screen displayed!
+
+07-02 20:54:38.113   141   173 I WindowManager: Lock screen displayed!
+
+07-02 21:28:49.996   141   360 I WindowManager: WIN DEATH: Window{418fbc50 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-02 21:28:50.011   141   177 I WindowManager: WINDOW DIED Window{418fbc50 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-02 21:33:22.172   141   173 I WindowManager: Lock screen displayed!
+
+04-03 13:03:37.438   145   176 I WindowManager: Lock screen displayed!
+
+04-03 13:03:51.512   145   176 I WindowManager: Lock screen displayed!
+
+04-03 13:04:38.364   145  1564 I WindowManager: WIN DEATH: Window{41606bb8 com.android.settings/com.android.settings.Settings paused=false}
+
+04-03 13:04:38.383   145   157 I WindowManager: WIN DEATH: Window{417e4018 com.android.settings/com.android.settings.SubSettings paused=false}
+
+04-03 13:04:38.391   145  1379 I WindowManager: WIN DEATH: Window{416f3b70 com.android.settings/com.android.settings.SubSettings paused=false}
+
+04-03 13:04:38.391   145   180 I WindowManager: WINDOW DIED Window{416f3b70 com.android.settings/com.android.settings.SubSettings paused=false}
+
+04-03 13:17:33.528   145   176 I WindowManager: Lock screen displayed!
+
+04-03 13:18:41.360   145   176 I WindowManager: Lock screen displayed!
+
+04-03 13:19:58.133   145   383 I WindowManager: WIN DEATH: Window{41807a88 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+04-03 13:21:50.934   145   385 I WindowManager: WIN DEATH: Window{4181ead8 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+04-03 13:25:21.180   145   176 I WindowManager: Lock screen displayed!
+
+04-03 13:28:45.239   145   176 I WindowManager: Lock screen displayed!
+
+04-03 13:28:55.286   145   385 I WindowManager: WIN DEATH: Window{416db0a0 com.android.settings/com.android.settings.Settings paused=false}
+
+04-03 13:28:55.672   145   156 I WindowManager: WIN DEATH: Window{41606bb8 com.android.settings/com.android.settings.SubSettings paused=false}
+
+04-03 13:28:55.680   145   180 I WindowManager: WINDOW DIED Window{41606bb8 com.android.settings/com.android.settings.SubSettings paused=false}
+
+04-03 13:29:18.364   145   176 I WindowManager: Lock screen displayed!
+
+04-03 13:31:21.408   145   175 W WindowManager: App freeze timeout expired.
+
+04-03 13:33:27.419   145   176 I WindowManager: Lock screen displayed!
+
+04-03 13:44:09.218   145   343 I WindowManager: WIN DEATH: Window{416f3b70 com.facebook.katana/com.facebook.katana.activity.faceweb.FacewebChromeActivity paused=false}
+
+04-03 13:46:23.968   145   176 I WindowManager: Lock screen displayed!
+
+04-13 20:56:37.622   145   176 I WindowManager: Lock screen displayed!
+
+04-23 13:18:57.274   145   176 I WindowManager: Lock screen displayed!
+
+04-23 13:19:40.149   145   156 I WindowManager: WIN DEATH: Window{41624728 com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity paused=false}
+
+04-23 13:19:40.157   145   301 I WindowManager: WIN DEATH: Window{4179c7f8 com.google.android.apps.plus/com.google.android.apps.plus.phone.StreamsActivity paused=false}
+
+04-23 13:20:51.058   145   176 I WindowManager: No lock screen!
+
+04-23 13:22:35.730   145   176 I WindowManager: Lock screen displayed!
+
+04-23 13:26:01.816   145   145 I WindowManager: WIN DEATH: Window{417318f8 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+04-23 14:54:56.328   145  8981 I WindowManager: WIN DEATH: Window{41950d98 com.android.vending/com.google.android.finsky.activities.MainActivity paused=false}
+
+02-22 14:04:58.273   145   176 I WindowManager: Lock screen displayed!
+
+04-20 16:05:05.280   145   176 I WindowManager: Lock screen displayed!
+
+04-20 16:05:09.643   145   180 I WindowManager: Ignoring HOME; there's a ringing incoming call.
+
+04-20 16:23:09.185   145   176 I WindowManager: Lock screen displayed!
+
+04-20 17:27:22.925   145   176 I WindowManager: Lock screen displayed!
+
+12-31 19:00:46.265   145   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+12-31 19:00:46.273   145   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+12-31 19:00:47.191   145   161 I WindowManager: SAFE MODE ENABLED (menu=1 s=-1 dpad=-1 trackball=-1)
+
+04-12 16:24:56.988   145   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+04-12 16:24:56.992   145   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+04-12 16:24:57.910   145   161 I WindowManager: SAFE MODE not enabled
+
+04-12 16:25:15.276   145   176 I WindowManager: Lock screen displayed!
+
+04-12 16:36:23.866   145   176 I WindowManager: Lock screen displayed!
+
+05-02 16:35:48.819   144   177 I WindowManager: Lock screen displayed!
+
+05-02 18:13:38.386   144   177 I WindowManager: Lock screen displayed!
+
+02-21 16:06:21.139   163   571 I WindowManager: WIN DEATH: Window{4179a8e0 com.google.android.calendar/com.android.calendar.AllInOneActivity paused=false}
+
+02-21 16:11:15.510   163   212 I WindowManager: Lock screen displayed!
+
+02-21 16:11:18.170   163   212 I WindowManager: Lock screen displayed!
+
+02-21 16:11:20.264   163   212 I WindowManager: Lock screen displayed!
+
+02-21 16:11:22.237   163   212 I WindowManager: Lock screen displayed!
+
+02-21 16:12:25.459   163   489 I WindowManager: WIN DEATH: Window{4134ec28 com.android.settings/com.android.settings.wifi.WifiPickerActivity paused=false}
+
+02-21 16:14:14.600   163   212 I WindowManager: No lock screen!
+
+02-21 16:15:12.971   163   489 I WindowManager: WIN DEATH: Window{41520ff8 com.android.browser/com.android.browser.BrowserActivity paused=false}
+
+02-21 17:04:16.027   163   212 I WindowManager: Lock screen displayed!
+
+02-21 17:07:57.023   163   212 I WindowManager: Lock screen displayed!
+
+02-21 17:08:53.371   163   571 I WindowManager: WIN DEATH: Window{41491748 com.android.mms/com.android.mms.ui.ConversationList paused=false}
+
+02-21 17:09:03.566   163   571 I WindowManager: WIN DEATH: Window{414a2ab0 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+02-21 17:09:03.629   163   216 I WindowManager: WINDOW DIED Window{414a2ab0 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+02-21 17:12:10.117   155   204 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+02-21 17:12:10.125   155   205 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+07-03 19:53:37.187   141   173 I WindowManager: Lock screen displayed!
+
+07-03 19:53:47.238   141   173 I WindowManager: Lock screen displayed!
+
+07-03 20:04:39.097   141   173 I WindowManager: Lock screen displayed!
+
+07-03 20:27:15.109   141   173 I WindowManager: Lock screen displayed!
+
+07-03 20:33:43.308   141   173 I WindowManager: Lock screen displayed!
+
+07-03 20:35:12.058   141   360 I WindowManager: WIN DEATH: Window{4196e4c0 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.PhoneCallListActivity paused=false}
+
+07-03 20:35:12.066   141   141 I WindowManager: WIN DEATH: Window{415ec7c8 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity paused=false}
+
+07-03 20:35:12.070   141   152 I WindowManager: WIN DEATH: Window{417469d8 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+07-03 20:51:01.093   141   173 I WindowManager: Lock screen displayed!
+
+07-03 21:45:11.097   141   173 I WindowManager: Lock screen displayed!
+
+07-03 23:06:05.148   141   173 I WindowManager: Lock screen displayed!
+
+07-04 22:22:58.027   141   173 I WindowManager: Lock screen displayed!
+
+07-04 22:29:21.207   141   173 I WindowManager: Lock screen displayed!
+
+07-04 22:29:23.316   141   173 I WindowManager: Lock screen displayed!
+
+07-04 22:30:26.925   141   173 I WindowManager: Lock screen displayed!
+
+07-04 22:48:26.988   141  1663 I WindowManager: WIN DEATH: Window{4134d490 com.android.camera/com.android.camera.VideoCamera paused=false}
+
+07-04 22:48:27.382   141  1663 W WindowManager: Force-removing child win Window{417a1320 SurfaceView paused=false} from container Window{4134d490 com.android.camera/com.android.camera.VideoCamera paused=false}
+
+07-04 22:48:27.410   141  6836 W WindowManager: Failed looking up window
+
+07-04 22:48:27.410   141  6836 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@41684ad0 does not exist
+
+07-04 22:48:27.410   141  6836 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7163)
+
+07-04 22:48:27.410   141  6836 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7154)
+
+07-04 22:48:27.410   141  6836 W WindowManager: 	at com.android.server.wm.WindowState$DeathRecipient.binderDied(WindowState.java:1545)
+
+07-04 22:48:27.410   141  6836 W WindowManager: 	at android.os.BinderProxy.sendDeathNotice(Binder.java:417)
+
+07-04 22:48:27.410   141  6836 W WindowManager: 	at dalvik.system.NativeStart.run(Native Method)
+
+07-04 22:48:27.410   141  6836 I WindowManager: WIN DEATH: null
+
+07-04 22:48:27.441   141   177 I WindowManager: WINDOW DIED Window{4134d490 com.android.camera/com.android.camera.VideoCamera paused=false}
+
+07-05 00:02:43.254   141   173 I WindowManager: Lock screen displayed!
+
+07-05 01:08:48.121   141   173 I WindowManager: Lock screen displayed!
+
+04-18 17:25:17.136   145   176 I WindowManager: Lock screen displayed!
+
+04-18 17:30:38.125   145   176 I WindowManager: Lock screen displayed!
+
+04-03 17:39:07.676   145   176 I WindowManager: Lock screen displayed!
+
+04-03 21:10:00.726   145   157 I WindowManager: WIN DEATH: Window{415f50f0 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+05-03 09:56:05.449   144   177 I WindowManager: Lock screen displayed!
+
+05-03 09:56:16.316   144   177 I WindowManager: Lock screen displayed!
+
+05-03 09:56:25.266   144   177 I WindowManager: Lock screen displayed!
+
+05-03 09:57:05.238   144   177 I WindowManager: Lock screen displayed!
+
+05-03 09:57:28.160   144   177 I WindowManager: Lock screen displayed!
+
+07-02 14:12:25.093   141   173 I WindowManager: Lock screen displayed!
+
+07-02 14:12:41.714   141   786 I WindowManager: WIN DEATH: Window{417c62f8 com.facebook.katana/com.facebook.katana.activity.FbFragmentChromeActivity paused=false}
+
+07-02 14:12:51.816   141  1663 I WindowManager: WIN DEATH: Window{4189d908 com.sirma.mobile.bible.android/com.youversion.mobile.android.screens.ReadingActivity paused=false}
+
+07-02 14:13:12.543   141   785 I WindowManager: WIN DEATH: Window{4175e7e8 com.android.chrome/com.google.android.apps.chrome.Main paused=false}
+
+07-03 10:19:53.230   141   498 I WindowManager: WIN DEATH: Window{417436a8 edu.buffalo.cse.phonelab.phonelabservices/edu.buffalo.cse.phonelab.phonelabservices.PhoneLabMainView paused=false}
+
+07-03 10:20:38.261   141   363 I WindowManager: WIN DEATH: Window{417f9c88 com.android.deskclock/com.android.deskclock.AlarmClock paused=false}
+
+07-03 10:20:38.304   141  6836 I WindowManager: WIN DEATH: Window{41910b70 com.android.deskclock/com.android.deskclock.DeskClock paused=false}
+
+07-03 10:20:38.312   141   177 I WindowManager: WINDOW DIED Window{41910b70 com.android.deskclock/com.android.deskclock.DeskClock paused=false}
+
+07-03 10:23:53.866   141   363 I WindowManager: WIN DEATH: Window{4133a688 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-03 10:29:28.909   141  8421 I WindowManager: WIN DEATH: Window{41a500d0 com.amazon.kindle/com.amazon.kcp.library.LandingActivity paused=false}
+
+07-03 10:29:29.065   141  9685 I WindowManager: WIN DEATH: Window{41bb2058 com.amazon.kindle/com.amazon.kcp.reader.StandAloneBookReaderActivity paused=false}
+
+07-03 10:29:29.077   141   177 I WindowManager: WINDOW DIED Window{41bb2058 com.amazon.kindle/com.amazon.kcp.reader.StandAloneBookReaderActivity paused=false}
+
+07-03 10:32:21.226   141   173 I WindowManager: Lock screen displayed!
+
+07-03 10:33:27.007   141   173 I WindowManager: No lock screen!
+
+07-03 10:34:13.437   141   173 I WindowManager: Lock screen displayed!
+
+07-03 10:51:58.867   141   546 I WindowManager: WIN DEATH: Window{418e6848 com.facebook.katana/com.facebook.katana.activity.FbFragmentChromeActivity paused=false}
+
+07-03 10:51:59.011   141   177 I WindowManager: WINDOW DIED Window{418e6848 com.facebook.katana/com.facebook.katana.activity.FbFragmentChromeActivity paused=false}
+
+07-03 11:00:58.105   141   173 I WindowManager: Lock screen displayed!
+
+04-19 15:07:03.728   145   176 I WindowManager: Lock screen displayed!
+
+04-19 15:09:49.798   145   176 I WindowManager: No lock screen!
+
+04-19 15:10:00.372   145   176 I WindowManager: Lock screen displayed!
+
+04-19 15:28:34.464   145   176 I WindowManager: Lock screen displayed!
+
+04-19 15:53:03.756   145   176 I WindowManager: Lock screen displayed!
+
+04-19 15:53:14.522   145   145 I WindowManager: WIN DEATH: Window{417a9078 com.android.vending/com.google.android.finsky.activities.MainActivity paused=false}
+
+04-19 15:53:14.983   145   301 I WindowManager: WIN DEATH: Window{417cd7e0 com.android.vending/com.google.android.finsky.activities.PurchaseDialog paused=false}
+
+04-19 15:53:14.983   145   180 I WindowManager: WINDOW DIED Window{417cd7e0 com.android.vending/com.google.android.finsky.activities.PurchaseDialog paused=false}
+
+04-19 16:00:56.010   145 30950 I WindowManager: WIN DEATH: Window{41937228 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+04-19 16:08:50.174   145   176 I WindowManager: Lock screen displayed!
+
+04-19 16:15:53.694   145   176 I WindowManager: Lock screen displayed!
+
+04-02 10:34:55.630   144   176 I WindowManager: No lock screen!
+
+04-02 10:38:32.723   144   176 I WindowManager: No lock screen!
+
+04-02 10:39:40.328   144   176 I WindowManager: Lock screen displayed!
+
+04-02 10:39:54.340   144   176 I WindowManager: Lock screen displayed!
+
+04-02 10:43:09.578   144   328 I WindowManager: WIN DEATH: Window{4136cfb0 com.android.settings/com.android.settings.Settings paused=false}
+
+04-02 10:43:09.586   144   156 I WindowManager: WIN DEATH: Window{41723ff0 com.android.settings/com.android.settings.SubSettings paused=false}
+
+07-04 18:50:18.086   141   173 I WindowManager: Lock screen displayed!
+
+07-04 18:50:55.090   141   173 I WindowManager: Lock screen displayed!
+
+07-04 19:22:43.253   141   153 I WindowManager: WIN DEATH: Window{418ecf58 com.facebook.katana/com.facebook.katana.activity.FbFragmentChromeActivity paused=false}
+
+07-04 20:48:23.136   141   173 I WindowManager: Lock screen displayed!
+
+07-04 21:17:45.078   141   173 I WindowManager: Lock screen displayed!
+
+07-04 21:47:30.086   141   173 I WindowManager: Lock screen displayed!
+
+07-04 21:52:52.804   141   173 I WindowManager: Lock screen displayed!
+
+07-04 21:52:56.828   141   177 I WindowManager: Ignoring HOME; there&#39;s a ringing incoming call.
+
+07-04 21:57:08.105   141   173 I WindowManager: Lock screen displayed!
+
+07-04 22:06:07.129   141   173 I WindowManager: Lock screen displayed!
+
+07-04 22:06:13.640   141  6836 I WindowManager: WIN DEATH: Window{41748018 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-04 22:12:56.139   141  8421 I WindowManager: WIN DEATH: Window{417a7920 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+07-04 22:12:56.186   141   177 I WindowManager: WINDOW DIED Window{417a7920 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+07-04 22:17:12.453   141   173 I WindowManager: Lock screen displayed!
+
+04-02 19:38:57.710   144   176 I WindowManager: Lock screen displayed!
+
+01-01 05:46:13.386   145   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+01-01 05:46:13.390   145   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+01-01 05:46:14.289   145   161 I WindowManager: SAFE MODE not enabled
+
+04-20 14:35:40.623   145   176 I WindowManager: Lock screen displayed!
+
+04-20 14:41:58.543   145   176 I WindowManager: Lock screen displayed!
+
+04-20 14:51:03.399   145   176 I WindowManager: Lock screen displayed!
+
+04-20 14:51:05.391   145   176 I WindowManager: Lock screen displayed!
+
+04-20 14:51:10.165   145   176 I WindowManager: Lock screen displayed!
+
+04-20 14:56:07.411   145   176 I WindowManager: Lock screen displayed!
+
+04-20 14:57:32.598   145   529 I WindowManager: WIN DEATH: Window{417da8d0 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+04-20 14:57:40.567   145  6878 I WindowManager: WIN DEATH: Window{41b04580 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity paused=false}
+
+04-20 14:57:40.571   145   347 I WindowManager: WIN DEATH: Window{417da240 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+04-20 14:57:40.575   145   180 I WindowManager: WINDOW DIED Window{41b04580 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity paused=false}
+
+04-12 17:22:48.693   145   176 I WindowManager: Lock screen displayed!
+
+04-12 17:22:59.454   145   176 I WindowManager: Lock screen displayed!
+
+04-12 19:36:49.970   145   176 I WindowManager: Lock screen displayed!
+
+04-12 20:38:45.604   145   176 I WindowManager: Lock screen displayed!
+
+04-12 12:57:38.810   145   176 I WindowManager: Lock screen displayed!
+
+04-12 12:57:42.060   145   176 I WindowManager: Lock screen displayed!
+
+04-12 13:00:27.510   145   176 I WindowManager: No lock screen!
+
+04-12 13:01:47.595   145   176 I WindowManager: Lock screen displayed!
+
+04-12 13:02:08.892   145   405 I WindowManager: WIN DEATH: Window{413498c0 com.google.android.calendar/com.android.calendar.AllInOneActivity paused=false}
+
+04-12 13:09:02.960   145  1379 I WindowManager: WIN DEATH: Window{419105e8 com.android.chrome/com.android.chrome.Main paused=false}
+
+04-24 10:36:42.329   145   176 I WindowManager: Lock screen displayed!
+
+04-24 10:54:10.714   145   176 I WindowManager: Lock screen displayed!
+
+04-24 11:12:28.502   145   176 I WindowManager: Lock screen displayed!
+
+04-24 11:12:37.151   145   176 I WindowManager: Lock screen displayed!
+
+04-24 11:19:03.455   145   176 I WindowManager: Lock screen displayed!
+
+04-24 11:25:46.588   145   377 I WindowManager: WIN DEATH: Window{4175df58 com.android.vending/com.google.android.finsky.activities.MainActivity paused=false}
+
+04-24 11:27:32.748   145   176 I WindowManager: Lock screen displayed!
+
+04-24 11:33:38.222   145   176 I WindowManager: Lock screen displayed!
+
+04-24 11:33:49.168   145 30951 I WindowManager: WIN DEATH: Window{417534a8 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+04-24 11:36:15.460   145   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+04-24 11:36:15.468   145   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+04-24 11:36:16.687   145   161 I WindowManager: SAFE MODE not enabled
+
+04-19 16:31:00.069   145  6878 I WindowManager: WIN DEATH: Window{417b8878 com.google.android.calendar/com.android.calendar.AllInOneActivity paused=false}
+
+04-19 17:37:45.915   145   176 I WindowManager: Lock screen displayed!
+
+04-19 17:47:54.451   145   176 I WindowManager: Lock screen displayed!
+
+04-19 17:48:17.244   145   176 I WindowManager: Lock screen displayed!
+
+04-24 11:36:24.785   145   176 I WindowManager: Lock screen displayed!
+
+04-24 12:19:24.761   144   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+04-24 12:19:24.765   144   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+04-24 12:19:25.933   144   160 I WindowManager: SAFE MODE not enabled
+
+04-24 12:23:08.234   144   176 I WindowManager: Lock screen displayed!
+
+02-22 09:46:55.503   145   175 W WindowManager: App freeze timeout expired.
+
+02-22 09:48:01.070   145   176 I WindowManager: Lock screen displayed!
+
+02-22 09:55:06.035   145   176 I WindowManager: Lock screen displayed!
+
+02-22 13:21:36.035   145   176 I WindowManager: Lock screen displayed!
+
+02-22 13:45:37.093   145  1061 I WindowManager: WIN DEATH: Window{416b1800 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity paused=false}
+
+02-22 13:45:37.101   145  3250 I WindowManager: WIN DEATH: Window{41625640 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+02-21 17:23:50.681   145   176 I WindowManager: Lock screen displayed!
+
+02-21 17:28:29.517   145   176 I WindowManager: Lock screen displayed!
+
+02-21 17:29:50.704   145   176 I WindowManager: Lock screen displayed!
+
+02-21 17:30:25.277   145   176 I WindowManager: Lock screen displayed!
+
+02-21 17:33:08.082   145   176 I WindowManager: Lock screen displayed!
+
+02-21 17:35:02.961   145   180 I WindowManager: WINDOW DIED Window{415ad3a8 com.android.settings/com.android.settings.Settings paused=false}
+
+02-21 17:35:02.965   145   180 I WindowManager: WINDOW DIED Window{41667950 com.android.settings/com.android.settings.wifi.WifiPickerActivity paused=false}
+
+02-21 17:35:02.968   145   180 I WindowManager: WINDOW DIED Window{41667e10 com.android.settings/com.android.settings.SubSettings paused=false}
+
+02-21 17:35:02.972   145   180 I WindowManager: WINDOW DIED Window{4167aba8 com.android.settings/com.android.settings.SubSettings paused=false}
+
+01-01 19:00:57.855   144   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+01-01 19:00:57.863   144   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+01-01 19:00:58.898   144   160 I WindowManager: SAFE MODE not enabled
+
+05-15 11:23:39.644   144  1141 I WindowManager: WIN DEATH: Window{417a2278 com.android.chrome/com.android.chrome.Main paused=false}
+
+04-11 15:35:40.547   145   176 I WindowManager: Lock screen displayed!
+
+04-11 15:38:40.042   145  1380 I WindowManager: WIN DEATH: Window{4135ed08 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+04-02 13:59:48.585   144  1175 I WindowManager: WIN DEATH: Window{4172eb08 SurfaceView paused=false}
+
+04-02 13:59:48.596   144  4426 I WindowManager: WIN DEATH: Window{416d5878 com.android.gallery3d/com.android.gallery3d.app.Gallery paused=false}
+
+04-02 13:59:48.604   144   180 I WindowManager: WINDOW DIED Window{416d5878 com.android.gallery3d/com.android.gallery3d.app.Gallery paused=false}
+
+04-02 15:19:49.604   144   176 I WindowManager: Lock screen displayed!
+
+04-17 15:27:38.805   145   176 I WindowManager: Lock screen displayed!
+
+04-17 15:33:06.980   145   176 I WindowManager: Lock screen displayed!
+
+04-17 15:37:41.371   145  6878 I WindowManager: WIN DEATH: Window{415f9e38 com.google.android.calendar/com.android.calendar.AllInOneActivity paused=false}
+
+04-17 15:49:33.527   145   176 I WindowManager: Lock screen displayed!
+
+04-17 15:49:38.051   145   516 I WindowManager: WIN DEATH: Window{418dff38 com.android.chrome/com.android.chrome.Main paused=false}
+
+04-17 15:51:13.340   145   176 I WindowManager: Lock screen displayed!
+
+04-17 15:51:15.473   145   175 W WindowManager: App freeze timeout expired.
+
+04-17 15:55:03.351   145   176 I WindowManager: Lock screen displayed!
+
+04-17 15:57:33.607   145   176 I WindowManager: Lock screen displayed!
+
+04-17 16:01:52.954   145   176 I WindowManager: Lock screen displayed!
+
+07-02 15:17:08.054   141   173 I WindowManager: Lock screen displayed!
+
+07-02 15:17:57.824   141   173 I WindowManager: Lock screen displayed!
+
+07-02 15:30:20.894   141   173 I WindowManager: Lock screen displayed!
+
+07-02 15:47:57.109   141   173 I WindowManager: Lock screen displayed!
+
+07-02 15:50:21.457   141   360 I WindowManager: WIN DEATH: Window{419304d0 com.mint/com.mint.activity.MintPasscodeLogin paused=false}
+
+07-02 15:50:21.468   141   785 I WindowManager: WIN DEATH: Window{41895700 com.mint/com.mint.activity.MintOverviewActivity paused=false}
+
+07-02 15:50:21.601   141   177 I WindowManager: WINDOW DIED Window{41895700 com.mint/com.mint.activity.MintOverviewActivity paused=false}
+
+07-02 16:03:58.448   141   785 I WindowManager: WIN DEATH: Window{41657640 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-02 16:03:58.499   141   177 I WindowManager: WINDOW DIED Window{41657640 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+05-02 13:25:29.232   144   177 I WindowManager: Lock screen displayed!
+
+05-02 13:27:13.521   144   177 I WindowManager: Lock screen displayed!
+
+05-02 13:27:24.923   144   177 I WindowManager: Lock screen displayed!
+
+05-02 13:55:32.857   144   177 I WindowManager: Lock screen displayed!
+
+05-02 14:37:03.306   144   177 I WindowManager: Lock screen displayed!
+
+05-02 14:38:14.093   144   177 I WindowManager: Lock screen displayed!
+
+05-02 14:38:44.812   144   177 I WindowManager: No lock screen!
+
+05-02 14:39:26.132   144   177 I WindowManager: Lock screen displayed!
+
+05-02 14:57:51.284   144   177 I WindowManager: Lock screen displayed!
+
+05-02 14:59:01.233   144   177 I WindowManager: Lock screen displayed!
+
+05-02 14:59:11.773   144   155 I WindowManager: WIN DEATH: Window{41644b88 com.android.chrome/com.android.chrome.Main paused=false}
+
+05-02 15:04:29.265   144   177 I WindowManager: Lock screen displayed!
+
+05-02 15:04:42.991   144   144 W WindowManager: Force-removing child win Window{417adf10 AtchDlg:com.android.calculator2/com.android.calculator2.Calculator paused=false} from container Window{417548c0 com.android.calculator2/com.android.calculator2.Calculator paused=false}
+
+05-02 15:04:43.218   144   155 W WindowManager: Failed looking up window
+
+05-02 15:04:43.218   144   155 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@417c2f48 does not exist
+
+05-02 15:04:43.218   144   155 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7156)
+
+05-02 15:04:43.218   144   155 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7147)
+
+05-02 15:04:43.218   144   155 W WindowManager: 	at com.android.server.wm.WindowManagerService.relayoutWindow(WindowManagerService.java:2537)
+
+05-02 15:04:43.218   144   155 W WindowManager: 	at com.android.server.wm.Session.relayout(Session.java:158)
+
+05-02 15:04:43.218   144   155 W WindowManager: 	at android.view.IWindowSession$Stub.onTransact(IWindowSession.java:160)
+
+05-02 15:04:43.218   144   155 W WindowManager: 	at com.android.server.wm.Session.onTransact(Session.java:111)
+
+05-02 15:04:43.218   144   155 W WindowManager: 	at android.os.Binder.execTransact(Binder.java:338)
+
+05-02 15:04:43.218   144   155 W WindowManager: 	at dalvik.system.NativeStart.run(Native Method)
+
+05-02 15:04:43.233   144   156 W WindowManager: Failed looking up window
+
+05-02 15:04:43.233   144   156 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@417c2f48 does not exist
+
+05-02 15:04:43.233   144   156 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7156)
+
+05-02 15:04:43.233   144   156 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7147)
+
+05-02 15:04:43.233   144   156 W WindowManager: 	at com.android.server.wm.WindowManagerService.removeWindow(WindowManagerService.java:2209)
+
+05-02 15:04:43.233   144   156 W WindowManager: 	at com.android.server.wm.Session.remove(Session.java:149)
+
+05-02 15:04:43.233   144   156 W WindowManager: 	at android.view.IWindowSession$Stub.onTransact(IWindowSession.java:124)
+
+05-02 15:04:43.233   144   156 W WindowManager: 	at com.android.server.wm.Session.onTransact(Session.java:111)
+
+05-02 15:04:43.233   144   156 W WindowManager: 	at android.os.Binder.execTransact(Binder.java:338)
+
+05-02 15:04:43.233   144   156 W WindowManager: 	at dalvik.system.NativeStart.run(Native Method)
+
+05-02 15:05:09.663   144   531 I WindowManager: WIN DEATH: Window{41839468 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+05-02 15:06:53.628   144   382 I WindowManager: WIN DEATH: Window{4181ac00 com.android.calculator2/com.android.calculator2.Calculator paused=false}
+
+04-04 09:51:27.781   145   176 I WindowManager: Lock screen displayed!
+
+04-24 14:13:43.531   144   495 I WindowManager: WIN DEATH: Window{41730e48 com.android.vending/com.android.vending.AssetBrowserActivity paused=false}
+
+04-24 14:41:03.058   144   176 I WindowManager: Lock screen displayed!
+
+04-24 17:52:19.585   144   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+04-24 17:52:19.593   144   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+04-24 17:52:20.621   144   160 I WindowManager: SAFE MODE not enabled
+
+04-24 17:54:41.339   144   176 I WindowManager: Lock screen displayed!
+
+04-24 17:54:43.656   144   176 I WindowManager: Lock screen displayed!
+
+04-24 19:18:34.714   145   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+04-24 19:18:34.718   145   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+04-24 19:18:35.640   145   161 I WindowManager: SAFE MODE not enabled
+
+07-05 16:24:59.007   141   173 I WindowManager: Lock screen displayed!
+
+07-05 16:25:01.593   141   177 I WindowManager: Ignoring HOME; there&#39;s a ringing incoming call.
+
+07-05 16:25:25.463   141   173 I WindowManager: Lock screen displayed!
+
+07-05 16:25:26.174   141   177 I WindowManager: WINDOW DIED Window{415fc9e0 com.facebook.katana/com.facebook.katana.activity.FbFragmentChromeActivity paused=false}
+
+07-05 16:25:49.179   141   173 I WindowManager: Lock screen displayed!
+
+07-05 16:26:14.941   141   173 I WindowManager: Lock screen displayed!
+
+07-05 16:27:05.328   141   173 I WindowManager: Lock screen displayed!
+
+07-05 16:27:07.160   141   178 I WindowManager: interceptKeyBeforeQueueing: VOLUME key-down while ringing: Silence ringer!
+
+07-05 16:27:07.179   141   178 I WindowManager: interceptKeyBeforeQueueing: VOLUME key-down while ringing: Silence ringer!
+
+07-05 16:37:51.101   141   173 I WindowManager: Lock screen displayed!
+
+07-05 17:25:40.152   141   173 I WindowManager: Lock screen displayed!
+
+07-05 17:30:19.797   141   360 I WindowManager: WIN DEATH: Window{41a1eec8 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-05 17:30:19.871   141   177 I WindowManager: WINDOW DIED Window{41a1eec8 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+04-25 08:49:37.335   145   176 I WindowManager: Lock screen displayed!
+
+04-25 09:01:30.037   145   176 I WindowManager: Lock screen displayed!
+
+04-25 09:01:41.069   145   176 I WindowManager: Lock screen displayed!
+
+04-25 09:02:01.698   145   501 I WindowManager: WIN DEATH: Window{4164f4c0 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+04-25 11:53:15.964   145   176 I WindowManager: Lock screen displayed!
+
+04-25 14:33:19.090   145   176 I WindowManager: Lock screen displayed!
+
+04-05 09:38:27.805   145   176 I WindowManager: Lock screen displayed!
+
+04-05 09:56:53.670   145   176 I WindowManager: Lock screen displayed!
+
+06-07 11:45:09.495   144   176 I WindowManager: Lock screen displayed!
+
+06-07 16:22:41.225   144   176 I WindowManager: Lock screen displayed!
+
+05-26 14:16:06.991   144   176 I WindowManager: Lock screen displayed!
+
+07-05 10:22:11.324   141   173 I WindowManager: Lock screen displayed!
+
+07-05 10:37:03.152   141   153 I WindowManager: WIN DEATH: Window{418d06c8 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.PhoneCallListActivity paused=false}
+
+04-03 16:46:06.851   145  3206 I WindowManager: WIN DEATH: Window{4192eb80 com.android.mms/com.android.mms.ui.ComposeMessageActivity paused=false}
+
+04-03 16:46:06.863   145  1380 I WindowManager: WIN DEATH: Window{41926a28 com.android.mms/com.android.mms.ui.ConversationList paused=false}
+
+04-03 16:51:45.031   145   176 I WindowManager: No lock screen!
+
+04-03 17:04:50.032   145   383 I WindowManager: WIN DEATH: Window{4162e010 com.android.chrome/com.android.chrome.Main paused=false}
+
+04-03 17:21:29.597   145   176 I WindowManager: Lock screen displayed!
+
+04-06 16:49:31.914   145   176 I WindowManager: Lock screen displayed!
+
+04-06 16:59:32.102   145   176 I WindowManager: Lock screen displayed!
+
+04-06 17:25:56.450   145   176 I WindowManager: Lock screen displayed!
+
+04-06 17:28:34.938   145   176 I WindowManager: Lock screen displayed!
+
+04-19 13:45:00.793   145   176 I WindowManager: Lock screen displayed!
+
+04-19 13:45:02.786   145   176 I WindowManager: Lock screen displayed!
+
+04-19 14:11:14.591   145   176 I WindowManager: Lock screen displayed!
+
+04-19 14:30:45.841   145   176 I WindowManager: Lock screen displayed!
+
+04-06 14:00:44.248   145   176 I WindowManager: Lock screen displayed!
+
+04-06 14:06:13.518   145   176 I WindowManager: Lock screen displayed!
+
+04-06 14:10:22.526   145   176 I WindowManager: Lock screen displayed!
+
+04-06 14:10:27.420   145   176 I WindowManager: Lock screen displayed!
+
+04-06 14:15:24.612   145   176 I WindowManager: Lock screen displayed!
+
+04-06 14:18:30.041   145   176 I WindowManager: Lock screen displayed!
+
+04-06 14:23:49.221   145   176 I WindowManager: Lock screen displayed!
+
+04-06 14:27:47.803   145   176 I WindowManager: Lock screen displayed!
+
+04-06 14:38:49.741   145   176 I WindowManager: Lock screen displayed!
+
+04-06 14:39:39.135   145   176 I WindowManager: Lock screen displayed!
+
+04-06 14:39:41.995   145   176 I WindowManager: Lock screen displayed!
+
+04-06 14:39:43.666   145   176 I WindowManager: Lock screen displayed!
+
+04-06 14:39:45.475   145   176 I WindowManager: Lock screen displayed!
+
+04-06 14:42:23.288   145   176 I WindowManager: Lock screen displayed!
+
+04-04 14:05:56.858   145   405 I WindowManager: WIN DEATH: Window{41897c30 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+04-04 14:06:44.988   145  3207 I WindowManager: WIN DEATH: Window{41334c58 com.facebook.katana/com.facebook.katana.activity.faceweb.FacewebChromeActivity paused=false}
+
+04-04 14:08:54.266   145   385 I WindowManager: WIN DEATH: Window{415d0370 com.android.settings/com.android.settings.Settings paused=false}
+
+04-04 14:08:54.281   145   383 I WindowManager: WIN DEATH: Window{4135cc70 com.android.settings/com.android.settings.SubSettings paused=false}
+
+04-04 14:08:54.281   145   180 I WindowManager: WINDOW DIED Window{415d0370 com.android.settings/com.android.settings.Settings paused=false}
+
+04-04 14:14:06.777   145  3206 I WindowManager: WIN DEATH: Window{41660950 com.android.chrome/com.android.chrome.Main paused=false}
+
+04-27 18:34:46.106   144   177 I WindowManager: Lock screen displayed!
+
+04-27 18:36:40.895   144   416 I WindowManager: WIN DEATH: Window{418218c8 com.google.android.apps.plus/com.google.android.apps.plus.phone.StreamsActivity paused=false}
+
+04-27 18:36:40.899   144   372 I WindowManager: WIN DEATH: Window{417aea70 com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity paused=false}
+
+04-27 18:36:51.731   144   356 I WindowManager: WIN DEATH: Window{4157b118 edu.buffalo.cse.phonelab.phonelabservices/edu.buffalo.cse.phonelab.phonelabservices.PhoneLabMainView paused=false}
+
+04-27 18:36:51.739   144   181 I WindowManager: WINDOW DIED Window{4157b118 edu.buffalo.cse.phonelab.phonelabservices/edu.buffalo.cse.phonelab.phonelabservices.PhoneLabMainView paused=false}
+
+04-27 18:36:52.614   144   416 I WindowManager: WIN DEATH: Window{41659280 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+04-27 18:38:53.102   144   381 I WindowManager: WIN DEATH: Window{4165f848 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+04-27 18:38:53.149   144   369 I WindowManager: WIN DEATH: Window{418cbca0 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.PhoneCallListActivity paused=false}
+
+04-27 18:38:53.153   144   181 I WindowManager: WINDOW DIED Window{418cbca0 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.PhoneCallListActivity paused=false}
+
+04-27 18:58:45.587   144   155 I WindowManager: WIN DEATH: Window{417d3e00 com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList paused=false}
+
+04-27 18:58:45.614   144   996 I WindowManager: WIN DEATH: Window{41630db8 Toast paused=false}
+
+04-27 18:59:20.329   144   177 I WindowManager: Lock screen displayed!
+
+04-27 18:59:24.813   144   177 I WindowManager: Lock screen displayed!
+
+04-27 19:23:37.805   144   356 I WindowManager: WIN DEATH: Window{417aaf98 com.facebook.katana/com.facebook.katana.activity.faceweb.FacewebChromeActivity paused=false}
+
+04-27 19:23:37.813   144   181 I WindowManager: WINDOW DIED Window{417aaf98 com.facebook.katana/com.facebook.katana.activity.faceweb.FacewebChromeActivity paused=false}
+
+02-22 16:47:03.336   145   176 I WindowManager: Lock screen displayed!
+
+02-22 18:37:15.121   145   176 I WindowManager: Lock screen displayed!
+
+04-24 10:14:47.520   145   176 I WindowManager: Lock screen displayed!
+
+04-24 13:05:27.015   144   176 I WindowManager: Lock screen displayed!
+
+04-24 13:07:32.046   144   176 I WindowManager: No lock screen!
+
+04-24 13:10:08.976   144   155 I WindowManager: WIN DEATH: Window{417d4c90 com.android.settings/com.android.settings.Settings paused=true}
+
+04-24 13:10:09.050   144   515 I WindowManager: WIN DEATH: Window{415a3280 com.android.settings/com.android.settings.SubSettings paused=true}
+
+04-24 13:10:09.050   144   180 I WindowManager: WINDOW DIED Window{415a3280 com.android.settings/com.android.settings.SubSettings paused=true}
+
+04-24 13:15:11.164   144   176 I WindowManager: Lock screen displayed!
+
+06-05 09:22:09.758   144   176 I WindowManager: Lock screen displayed!
+
+06-05 09:22:25.326   144   156 I WindowManager: WIN DEATH: Window{41adba50 com.android.settings/com.android.settings.Settings paused=false}
+
+06-05 09:22:25.334   144   400 I WindowManager: WIN DEATH: Window{41350ed0 com.android.settings/com.android.settings.SubSettings paused=false}
+
+06-05 09:47:16.170   144   176 I WindowManager: Lock screen displayed!
+
+06-05 10:53:23.416   144   176 I WindowManager: Lock screen displayed!
+
+06-05 11:45:29.459   144   176 I WindowManager: Lock screen displayed!
+
+06-05 15:03:25.644   144   176 I WindowManager: Lock screen displayed!
+
+02-21 15:27:28.035   163   575 I WindowManager: WIN DEATH: Window{417e2990 com.android.browser/com.android.browser.BrowserActivity paused=false}
+
+02-21 15:27:28.043   163   494 I WindowManager: WIN DEATH: Window{41a017e8 com.android.browser/com.android.browser.BrowserActivity paused=false}
+
+02-21 15:30:22.175   163   590 W WindowManager: Force-removing child win Window{4158a3f8 AtchDlg:com.google.android.gm/com.google.android.gm.preference.GmailPreferenceActivity paused=false} from container Window{414f7950 com.google.android.gm/com.google.android.gm.preference.GmailPreferenceActivity paused=false}
+
+02-21 15:30:22.421   163   489 W WindowManager: Failed looking up window
+
+02-21 15:30:22.421   163   489 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@417f6c98 does not exist
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7156)
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7147)
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at com.android.server.wm.WindowManagerService.removeWindow(WindowManagerService.java:2209)
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at com.android.server.wm.Session.remove(Session.java:149)
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at android.view.IWindowSession$Stub.onTransact(IWindowSession.java:124)
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at com.android.server.wm.Session.onTransact(Session.java:111)
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at android.os.Binder.execTransact(Binder.java:338)
+
+02-21 15:30:22.421   163   489 W WindowManager: 	at dalvik.system.NativeStart.run(Native Method)
+
+02-21 15:30:25.586   163   590 W WindowManager: Force-removing child win Window{4180cd50 AtchDlg:com.google.android.gm/com.google.android.gm.preference.GmailPreferenceActivity paused=false} from container Window{4149e308 com.google.android.gm/com.google.android.gm.preference.GmailPreferenceActivity paused=false}
+
+02-21 15:30:25.695   163   163 W WindowManager: Failed looking up window
+
+02-21 15:30:25.695   163   163 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@416360f0 does not exist
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7156)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7147)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.server.wm.WindowManagerService.removeWindow(WindowManagerService.java:2209)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.server.wm.Session.remove(Session.java:149)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at android.view.IWindowSession$Stub.onTransact(IWindowSession.java:124)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.server.wm.Session.onTransact(Session.java:111)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at android.os.Binder.execTransact(Binder.java:338)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.server.SystemServer.init1(Native Method)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.server.SystemServer.main(SystemServer.java:808)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at java.lang.reflect.Method.invokeNative(Native Method)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at java.lang.reflect.Method.invoke(Method.java:511)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:784)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:551)
+
+02-21 15:30:25.695   163   163 W WindowManager: 	at dalvik.system.NativeStart.main(Native Method)
+
+02-21 15:31:22.382   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:39:45.023   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:39:52.429   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:40:01.656   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:40:44.023   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:41:16.605   163   571 I WindowManager: WIN DEATH: Window{4133b4b8 com.android.contacts/com.android.contacts.activities.PeopleActivity paused=false}
+
+02-21 15:44:40.793   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:47:43.023   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:48:05.050   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:48:07.234   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:48:09.355   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:48:11.191   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:48:12.953   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:49:26.453   163   212 I WindowManager: Lock screen displayed!
+
+02-21 15:59:25.725   163   163 I WindowManager: WIN DEATH: Window{417c8b40 com.android.browser/com.android.browser.BrowserActivity paused=false}
+
+02-21 16:00:14.373   163   212 I WindowManager: Lock screen displayed!
+
+02-21 16:04:00.737   163   212 I WindowManager: Lock screen displayed!
+
+06-08 09:53:48.505   144   176 I WindowManager: Lock screen displayed!
+
+02-21 18:10:52.678   145   157 I WindowManager: WIN DEATH: Window{41714820 com.google.android.gm/com.google.android.gm.preference.GmailPreferenceActivity paused=false}
+
+02-21 18:10:52.686   145  1061 I WindowManager: WIN DEATH: Window{41625640 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+02-21 18:10:52.694   145   397 I WindowManager: WIN DEATH: Window{4171b2b8 com.google.android.gm/com.google.android.gm.preference.GmailPreferenceActivity paused=false}
+
+02-21 18:15:57.319   145   176 I WindowManager: No lock screen!
+
+02-21 18:19:33.011   145   176 I WindowManager: No lock screen!
+
+02-21 18:21:52.025   145   313 I WindowManager: WIN DEATH: Window{4179bd10 com.android.chrome/com.android.chrome.Main paused=false}
+
+02-21 18:27:15.603   145   145 I WindowManager: WIN DEATH: Window{41942ac8 com.android.mms/com.android.mms.ui.ConversationList paused=false}
+
+02-21 18:27:15.615   145   365 I WindowManager: WIN DEATH: Window{417bd7f0 com.android.mms/com.android.mms.ui.ComposeMessageActivity paused=false}
+
+02-21 18:27:15.626   145   180 I WindowManager: WINDOW DIED Window{417bd7f0 com.android.mms/com.android.mms.ui.ComposeMessageActivity paused=false}
+
+02-21 18:27:29.011   145   176 I WindowManager: No lock screen!
+
+02-21 18:27:40.922   145   397 I WindowManager: WIN DEATH: Window{41939c80 com.android.chrome/com.android.chrome.Main paused=false}
+
+02-21 18:28:36.648   145   176 I WindowManager: Lock screen displayed!
+
+02-21 18:55:38.023   145   176 I WindowManager: Lock screen displayed!
+
+02-21 19:32:10.086   145   176 I WindowManager: Lock screen displayed!
+
+02-22 16:47:03.336   145   176 I WindowManager: Lock screen displayed!
+
+02-22 18:37:15.121   145   176 I WindowManager: Lock screen displayed!
+
+12-31 16:02:21.824   145   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+12-31 16:02:21.832   145   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+12-31 16:02:22.972   145   161 I WindowManager: SAFE MODE not enabled
+
+07-03 15:41:20.597   141  6836 I WindowManager: WIN DEATH: Window{4172fee8 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-03 15:47:20.832   141   173 I WindowManager: Lock screen displayed!
+
+07-03 15:51:37.117   141   153 I WindowManager: WIN DEATH: Window{4184fcb8 com.facebook.katana/com.facebook.katana.activity.FbFragmentChromeActivity paused=false}
+
+07-03 16:20:06.412   141   173 I WindowManager: Lock screen displayed!
+
+07-03 16:20:16.533   141   173 W WindowManager: Aborted waiting for drawn: Window{416a0ca8 Keyguard paused=false}
+
+07-03 16:20:16.533   141   173 I WindowManager: Lock screen displayed!
+
+07-03 16:46:34.847   141   360 I WindowManager: WIN DEATH: Window{41911fd0 com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity paused=false}
+
+07-03 16:46:37.457   141  8421 I WindowManager: WIN DEATH: Window{417566b8 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-03 16:53:13.070   141   173 I WindowManager: Lock screen displayed!
+
+07-03 16:54:02.625   141   173 I WindowManager: Lock screen displayed!
+
+07-03 16:54:17.007   141   173 I WindowManager: No lock screen!
+
+07-03 16:54:58.011   141   173 I WindowManager: No lock screen!
+
+07-03 16:55:09.570   141   173 I WindowManager: Lock screen displayed!
+
+07-02 12:11:41.105   141   173 I WindowManager: Lock screen displayed!
+
+07-02 12:47:30.066   141   173 I WindowManager: Lock screen displayed!
+
+07-02 12:51:41.074   141   173 I WindowManager: Lock screen displayed!
+
+07-02 13:24:19.070   141   173 I WindowManager: Lock screen displayed!
+
+07-02 13:25:20.464   141   498 I WindowManager: WIN DEATH: Window{41746780 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-02 13:53:08.058   141   173 I WindowManager: Lock screen displayed!
+
+07-02 13:54:09.086   141   173 I WindowManager: Lock screen displayed!
+
+07-02 13:55:11.050   141   173 I WindowManager: Lock screen displayed!
+
+01-12 20:46:39.933   144   175 I WindowManager: Enabled StrictMode logging for WMThread's Looper
+
+01-12 20:46:39.941   144   176 I WindowManager: Enabled StrictMode for PolicyThread's Looper
+
+01-12 20:46:40.843   144   160 I WindowManager: SAFE MODE not enabled
+
+03-27 15:29:12.353   144   176 I WindowManager: No lock screen!
+
+04-02 10:52:17.012   144   176 I WindowManager: Lock screen displayed!
+
+04-02 10:55:00.988   144   327 I WindowManager: WIN DEATH: Window{4135b048 com.mint/com.mint.activity.MintLoginActivity paused=false}
+
+04-02 11:00:22.760   144   176 I WindowManager: Lock screen displayed!
+
+04-02 11:03:06.182   144   327 I WindowManager: WIN DEATH: Window{418235d0 com.android.vending/com.google.android.finsky.activities.MainActivity paused=false}
+
+04-02 11:30:47.882   144   176 I WindowManager: Lock screen displayed!
+
+04-02 11:31:06.620   144   156 I WindowManager: WIN DEATH: Window{41683b10 com.android.settings/com.android.settings.Settings paused=false}
+
+04-02 11:34:53.042   144   176 I WindowManager: Lock screen displayed!
+
+04-02 11:35:30.588   144   144 I WindowManager: WIN DEATH: Window{418d9ca0 com.android.contacts/com.android.contacts.activities.PeopleActivity paused=false}
+
+04-02 11:35:30.608   144   327 I WindowManager: WIN DEATH: Window{4179d298 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+04-02 11:37:03.069   144   317 I WindowManager: WIN DEATH: Window{4185bc10 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity paused=false}
+
+04-02 11:37:03.077   144   155 I WindowManager: WIN DEATH: Window{4135bec8 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+04-02 11:37:03.080   144  1175 I WindowManager: WIN DEATH: Window{41723ff0 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SettingsActivity paused=false}
+
+07-05 17:59:36.367   141   173 I WindowManager: Lock screen displayed!
+
+07-05 18:23:22.656   141   287 I WindowManager: WIN DEATH: Window{416d2008 com.android.contacts/com.android.contacts.activities.DialtactsActivity paused=false}
+
+07-05 19:44:41.140   141   173 I WindowManager: Lock screen displayed!
+
+07-05 19:53:42.156   141   173 I WindowManager: Lock screen displayed!
+
+07-05 20:02:00.152   141   173 I WindowManager: Lock screen displayed!
+
+07-05 20:16:17.082   141   173 I WindowManager: Lock screen displayed!
+
+07-05 20:17:33.695   141   287 I WindowManager: WIN DEATH: Window{41765db8 SurfaceView paused=false}
+
+07-05 20:17:33.699   141   360 I WindowManager: WIN DEATH: Window{416ae8a0 com.android.camera/com.android.camera.VideoCamera paused=false}
+
+07-05 20:24:27.121   141   173 I WindowManager: Lock screen displayed!
+
+07-05 20:24:56.546   141   498 I WindowManager: WIN DEATH: Window{41bdc760 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-05 20:26:06.961   141  7601 I WindowManager: WIN DEATH: Window{417f7550 com.facebook.katana/com.facebook.katana.activity.FbFragmentChromeActivity paused=false}
+
+07-05 20:26:06.980   141   177 I WindowManager: WINDOW DIED Window{417f7550 com.facebook.katana/com.facebook.katana.activity.FbFragmentChromeActivity paused=false}
+
+07-05 20:52:05.125   141   173 I WindowManager: Lock screen displayed!
+
+04-17 13:48:39.518   145   176 I WindowManager: Lock screen displayed!
+
+04-17 13:48:50.889   145   176 I WindowManager: Lock screen displayed!
+
+04-17 14:55:07.706   145   176 I WindowManager: Lock screen displayed!
+
+04-17 15:04:19.470   145   176 I WindowManager: Lock screen displayed!
+
+04-17 15:15:07.349   145   176 I WindowManager: Lock screen displayed!
+
+04-17 15:15:47.892   145   176 I WindowManager: Lock screen displayed!
+
+04-17 15:15:49.540   145   176 I WindowManager: Lock screen displayed!
+
+04-17 15:15:50.954   145   176 I WindowManager: Lock screen displayed!
+
+04-17 15:16:10.775   145   176 I WindowManager: Lock screen displayed!
+
+04-17 15:16:14.751   145   176 I WindowManager: Lock screen displayed!
+
+04-17 15:16:49.181   145   176 I WindowManager: Lock screen displayed!
+
+04-20 14:25:04.173   145   176 I WindowManager: Lock screen displayed!
+
+04-20 14:25:06.298   145   176 I WindowManager: Lock screen displayed!
+
+04-02 12:58:15.462   144   176 I WindowManager: Lock screen displayed!
+
+04-02 13:41:19.017   144   176 I WindowManager: Lock screen displayed!
+
+04-02 13:42:33.302   144   327 I WindowManager: WIN DEATH: Window{41347f60 com.google.android.calendar/com.android.calendar.alerts.AlertActivity paused=false}
+
+04-02 13:44:31.210   144   176 I WindowManager: Lock screen displayed!
+
+04-02 13:50:35.128   144   176 I WindowManager: Lock screen displayed!
+
+04-02 13:52:27.613   144   176 I WindowManager: Lock screen displayed!
+
+04-02 13:52:53.988   144   156 I WindowManager: WIN DEATH: Window{41564950 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+04-02 13:53:57.808   144   317 I WindowManager: WIN DEATH: Window{416be418 com.facebook.katana/com.facebook.katana.activity.faceweb.FacewebChromeActivity paused=false}
+
+04-24 12:17:38.964   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:17:53.921   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:27:10.221   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:35:26.241   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:35:39.628   144   391 I WindowManager: WIN DEATH: Window{41767528 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity paused=false}
+
+04-24 12:35:39.647   144   156 I WindowManager: WIN DEATH: Window{416dc290 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+04-24 12:35:39.667   144   180 I WindowManager: WINDOW DIED Window{416dc290 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+04-24 12:42:07.514   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:47:11.378   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:49:15.186   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:52:52.866   144   176 I WindowManager: Lock screen displayed!
+
+04-24 12:53:05.171   144   155 I WindowManager: WIN DEATH: Window{418366e8 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+04-24 12:59:26.414   144   297 I WindowManager: WIN DEATH: Window{417608b0 com.facebook.katana/com.facebook.katana.activity.faceweb.FacewebChromeActivity paused=false}
+
+04-24 13:01:26.332   144   176 I WindowManager: Lock screen displayed!
+
+04-24 13:01:54.789   144   176 I WindowManager: Lock screen displayed!
+
+04-05 15:24:52.238   145   407 I WindowManager: WIN DEATH: Window{416852f0 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+
+04-05 15:26:13.417   145   407 I WindowManager: WIN DEATH: Window{4161b5d0 com.android.chrome/com.android.chrome.Main paused=false}
+
+04-05 15:31:34.808   145  3206 I WindowManager: WIN DEATH: Window{41346980 com.android.settings/com.android.settings.Settings paused=false}
+
+04-05 15:31:34.820   145   156 I WindowManager: WIN DEATH: Window{416de808 com.android.settings/com.android.settings.SubSettings paused=false}
+
+04-05 15:31:34.859   145   180 I WindowManager: WINDOW DIED Window{416de808 com.android.settings/com.android.settings.SubSettings paused=false}
+
+04-05 15:33:21.562   145   176 I WindowManager: Lock screen displayed!
+
+04-05 15:50:24.023   145   176 I WindowManager: Lock screen displayed!
+
+04-05 16:18:34.726   145   176 I WindowManager: Lock screen displayed!
+
+04-05 16:38:37.730   145   176 I WindowManager: Lock screen displayed!
+
+02-22 14:04:58.273   145   176 I WindowManager: Lock screen displayed!
+
+04-23 16:24:43.254   145   176 I WindowManager: Lock screen displayed!
+
+04-23 16:27:44.078   145   157 I WindowManager: WIN DEATH: Window{417afc60 com.android.chrome/com.android.chrome.Main paused=false}
+
+04-23 17:26:55.914   145   176 I WindowManager: Lock screen displayed!
+
+07-04 12:32:58.379   141   152 I WindowManager: WIN DEATH: Window{41735108 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-04 12:33:17.902   141   173 I WindowManager: Lock screen displayed!
+
+07-04 12:36:56.558   141   547 I WindowManager: WIN DEATH: Window{413313c8 com.facebook.katana/com.facebook.katana.activity.FbFragmentChromeActivity paused=false}
+
+07-04 13:29:51.082   141   173 I WindowManager: Lock screen displayed!
+
+07-04 13:55:22.058   141   173 I WindowManager: Lock screen displayed!
+
+07-04 16:55:07.132   141   173 I WindowManager: Lock screen displayed!
+
+07-04 17:37:53.152   141   173 I WindowManager: Lock screen displayed!
+
+07-04 17:39:47.726   141   498 I WindowManager: WIN DEATH: Window{41633280 com.google.android.gm/com.google.android.gm.ConversationListActivityGmail paused=false}
+
+07-04 17:43:19.007   141  9685 I WindowManager: WIN DEATH: Window{416747c8 com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity paused=false}
+
+07-04 17:51:47.668   141   173 I WindowManager: Lock screen displayed!
+
+07-04 17:52:13.082   141   173 I WindowManager: Lock screen displayed!
+
+07-04 18:17:50.125   141   173 I WindowManager: Lock screen displayed!
+
+07-04 18:17:52.093   141   173 I WindowManager: Lock screen displayed!
+
+07-04 18:17:54.914   141   173 I WindowManager: Lock screen displayed!
+
+07-04 18:32:51.125   141   173 I WindowManager: Lock screen displayed!
+
+02-23 04:20:39.664   145  1215 I WindowManager: WIN DEATH: Window{4190f170 com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.activity.conversationlist.ConversationListActivity paused=false}
+
+06-05 10:53:23.416   144   176 I WindowManager: Lock screen displayed!
+
+06-05 11:45:29.459   144   176 I WindowManager: Lock screen displayed!
+
+05-30 14:06:54.662   144  1132 I WindowManager: WIN DEATH: Window{41719290 com.android.vending/com.google.android.finsky.activities.PurchaseDialog paused=false}
+
+05-30 14:06:54.830   144   180 I WindowManager: WINDOW DIED Window{41719290 com.android.vending/com.google.android.finsky.activities.PurchaseDialog paused=false}
+
+02-23 15:13:39.082   145   176 I WindowManager: Lock screen displayed!
+
+02-23 15:13:43.070   145   176 I WindowManager: Lock screen displayed!
+
+02-23 15:16:18.027   145   176 I WindowManager: Lock screen displayed!
+
+02-23 15:17:52.972   145   176 I WindowManager: No lock screen!
+
+02-23 15:20:55.945   145   176 I WindowManager: Lock screen displayed!
+

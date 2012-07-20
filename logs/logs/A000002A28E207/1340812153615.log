@@ -1,0 +1,953 @@
+06-27 11:42:57.074   342   342 D SAN_SERVICE: *******************************************
+06-27 11:42:57.074   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:42:57.074   342   342 D SAN_SERVICE: *******************************************
+06-27 11:42:57.804   342   342 D SAN_SERVICE: *******************************************
+06-27 11:42:57.804   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:42:57.804   342   342 D SAN_SERVICE: *******************************************
+06-27 11:43:07.269   342   342 D SAN_SERVICE: *******************************************
+06-27 11:43:07.269   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:43:07.269   342   342 D SAN_SERVICE: *******************************************
+06-27 11:43:07.527   342   342 D SAN_SERVICE: *******************************************
+06-27 11:43:07.527   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:43:07.527   342   342 D SAN_SERVICE: *******************************************
+06-27 11:43:08.293   342   342 D SAN_SERVICE: *******************************************
+06-27 11:43:08.293   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:43:08.293   342   342 D SAN_SERVICE: *******************************************
+06-27 11:43:13.543  1819  1833 I PhoneLab-: Service Running
+06-27 11:43:13.621  1819  1833 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-27 11:43:13.621  1819  1833 I PhoneLab-LoggerService: app_38    30500 1     1064   692   c00f181c 400107b4 S logcat
+06-27 11:43:13.621  1819  1833 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-27 11:43:13.621  1819  1833 I PhoneLab-LoggerService: Logcat process found 2630
+06-27 11:43:13.621  1819  1833 I PhoneLab-LoggerService: Checking Threshold
+06-27 11:43:13.625  1819  1833 I PhoneLab-LoggerService: Starting to rename files
+06-27 11:43:13.625  1819  1833 I PhoneLab-LoggerService: Files found .. 2
+06-27 11:43:13.625  1819  1833 I PhoneLab-LoggerService: File 1 log.out.1
+06-27 11:43:13.640  1819  1833 I PhoneLab-LoggerService: Renamed successfully
+06-27 11:43:22.699   342   342 D SAN_SERVICE: *******************************************
+06-27 11:43:22.699   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:43:22.699   342   342 D SAN_SERVICE: *******************************************
+06-27 11:43:22.902   342   342 D SAN_SERVICE: *******************************************
+06-27 11:43:22.902   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:43:22.902   342   342 D SAN_SERVICE: *******************************************
+06-27 11:43:23.656   342   342 D SAN_SERVICE: *******************************************
+06-27 11:43:23.656   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:43:23.656   342   342 D SAN_SERVICE: *******************************************
+06-27 11:44:08.988   342   342 D SAN_SERVICE: *******************************************
+06-27 11:44:08.988   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:44:08.988   342   342 D SAN_SERVICE: *******************************************
+06-27 11:44:09.738   342   342 D SAN_SERVICE: *******************************************
+06-27 11:44:09.738   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:44:09.738   342   342 D SAN_SERVICE: *******************************************
+06-27 11:44:29.242   342   342 D SAN_SERVICE: *******************************************
+06-27 11:44:29.242   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:44:29.242   342   342 D SAN_SERVICE: *******************************************
+06-27 11:44:29.722   342   342 D SAN_SERVICE: *******************************************
+06-27 11:44:29.722   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:44:29.722   342   342 D SAN_SERVICE: *******************************************
+06-27 11:44:34.578   342   342 D SAN_SERVICE: *******************************************
+06-27 11:44:34.578   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:44:34.578   342   342 D SAN_SERVICE: *******************************************
+06-27 11:44:37.023  1819  1819 I PhoneLab-Locks: wake lock acquired
+06-27 11:44:37.050  1819  1819 I PhoneLab-StatusMonitor: Status Monitoring is started
+06-27 11:44:37.093  1819  1822 D dalvikvm: GC_CONCURRENT freed 465K, 17% free 9255K/11079K, paused 1ms+3ms
+06-27 11:44:37.109  1819  1819 I PhoneLab-StatusMonitor: Value: 10 - unit: min
+06-27 11:44:37.109  1819  1819 I PhoneLab-StatusMonitor: Running interval: 600000
+06-27 11:44:37.117  1819  1819 I PhoneLab-StatusMonitor: Rescheduling status monitoring...
+06-27 11:44:37.117  1819  1819 I PhoneLab-Locks: wake lock released
+06-27 11:44:37.121  1819  1819 I PhoneLab-StatusMonitorLocation: Learning Location
+06-27 11:44:37.121  1819  1819 I PhoneLab-Locks: wake lock acquired
+06-27 11:44:37.125  1819  1819 I PhoneLab-Locks: wake lock acquired
+06-27 11:44:37.125 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-27 11:44:37.129  1819  1819 I PhoneLab-StatusMonitorLocation: Learning Signal Strgth
+06-27 11:44:37.129  1819  1819 I PhoneLab-Locks: wake lock acquired
+06-27 11:44:37.132 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-27 11:44:37.132  1819  1819 I PhoneLab-StatusMonitorBattery: Battery_level: 44
+06-27 11:44:37.136 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 11:44:37.136 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 11:44:37.136 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 11:44:37.136  1819  1819 I PhoneLab-Locks: wake lock released
+06-27 11:44:37.140  1819  1819 I PhoneLab-StatusMonitorSignal: Signal_Strength: -86 asu: 14
+06-27 11:44:37.140  1819  1819 I PhoneLab-Locks: wake lock released
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: WPS: Building WPS IE for Probe Request
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: WPS:  * Version (hardcoded 0x10)
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: WPS:  * Request Type
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: WPS:  * Config Methods (2388)
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: WPS:  * UUID-E
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: WPS:  * Primary Device Type
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: WPS:  * RF Bands (3)
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: WPS:  * Association State
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: WPS:  * Configuration Error (0)
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: WPS:  * Device Password ID (0)
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: WPS:  * Manufacturer
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: WPS:  * Model Name
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: WPS:  * Model Number
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: WPS:  * Device Name
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: WPS:  * Version2 (0x20)
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: wpa_driver_wext_combo_scan: Start
+06-27 11:44:37.144 32520 32520 D wpa_supplicant: For Scan: (null)
+06-27 11:44:37.148 32520 32520 D wpa_supplicant: Scan requested (ret=0) - scan timeout 30 seconds
+06-27 11:44:37.148 32520 32520 D wpa_supplicant: Ongoing scan action - reject new request
+06-27 11:44:38.343 32520 32520 D wpa_supplicant: RTM_NEWLINK: operstate=1 ifi_flags=0x11043 ([UP][RUNNING][LOWER_UP])
+06-27 11:44:38.343 32520 32520 D wpa_supplicant: RTM_NEWLINK, IFLA_IFNAME: Interface 'wlan0' added
+06-27 11:44:38.343 32520 32520 D wpa_supplicant: Wireless event: cmd=0x8b19 len=8
+06-27 11:44:38.343 32520 32520 D wpa_supplicant: Received 1643 bytes of scan results (5 BSSes)
+06-27 11:44:38.433 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 11:44:38.433 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 11:44:38.433 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 11:44:38.437 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 11:44:38.441  1819  1819 I PhoneLab-StatusMonitorLocation: Location_Latitude: 42.9543678 Longitude: -78.8267987 Accuracy: 36.0
+06-27 11:44:38.441 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-27 11:44:38.441 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 11:44:38.445 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 11:44:38.445 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 11:44:38.445  1819  1819 I PhoneLab-Locks: wake lock released
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: WPS: Building WPS IE for Probe Request
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: WPS:  * Version (hardcoded 0x10)
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: WPS:  * Request Type
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: WPS:  * Config Methods (2388)
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: WPS:  * UUID-E
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: WPS:  * Primary Device Type
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: WPS:  * RF Bands (3)
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: WPS:  * Association State
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: WPS:  * Configuration Error (0)
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: WPS:  * Device Password ID (0)
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: WPS:  * Manufacturer
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: WPS:  * Model Name
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: WPS:  * Model Number
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: WPS:  * Device Name
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: WPS:  * Version2 (0x20)
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: wpa_driver_wext_combo_scan: Start
+06-27 11:44:38.453 32520 32520 D wpa_supplicant: For Scan: (null)
+06-27 11:44:38.457 32520 32520 D wpa_supplicant: Scan requested (ret=0) - scan timeout 30 seconds
+06-27 11:44:39.629 32520 32520 D wpa_supplicant: RTM_NEWLINK: operstate=1 ifi_flags=0x11043 ([UP][RUNNING][LOWER_UP])
+06-27 11:44:39.629 32520 32520 D wpa_supplicant: RTM_NEWLINK, IFLA_IFNAME: Interface 'wlan0' added
+06-27 11:44:39.629 32520 32520 D wpa_supplicant: Wireless event: cmd=0x8b19 len=8
+06-27 11:44:39.629 32520 32520 D wpa_supplicant: Received 1279 bytes of scan results (4 BSSes)
+06-27 11:44:39.757 26576 26578 D dalvikvm: GC_CONCURRENT freed 667K, 9% free 10967K/11975K, paused 2ms+4ms
+06-27 11:44:39.769 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 11:44:39.769 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 11:44:39.769 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 11:44:39.773 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 11:44:44.578   342   342 D SAN_SERVICE: *******************************************
+06-27 11:44:44.578   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:44:44.578   342   342 D SAN_SERVICE: *******************************************
+06-27 11:45:13.543  1819  1833 I PhoneLab-: Service Running
+06-27 11:45:13.609  1819  1833 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-27 11:45:13.613  1819  1833 I PhoneLab-LoggerService: app_38    30500 1     1064   692   c00f181c 400107b4 S logcat
+06-27 11:45:13.613  1819  1833 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-27 11:45:13.613  1819  1833 I PhoneLab-LoggerService: Logcat process found 2630
+06-27 11:45:13.613  1819  1833 I PhoneLab-LoggerService: Checking Threshold
+06-27 11:45:13.613  1819  1833 I PhoneLab-LoggerService: Starting to rename files
+06-27 11:45:13.613  1819  1833 I PhoneLab-LoggerService: Files found .. 2
+06-27 11:46:27.015   342   342 D SAN_SERVICE: *******************************************
+06-27 11:46:27.015   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:46:27.015   342   342 D SAN_SERVICE: *******************************************
+06-27 11:46:27.179   342   342 D SAN_SERVICE: *******************************************
+06-27 11:46:27.179   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:46:27.183   342   342 D SAN_SERVICE: *******************************************
+06-27 11:46:27.976   342   342 D SAN_SERVICE: *******************************************
+06-27 11:46:27.976   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:46:27.976   342   342 D SAN_SERVICE: *******************************************
+06-27 11:46:47.410   342   342 D SAN_SERVICE: *******************************************
+06-27 11:46:47.410   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:46:47.410   342   342 D SAN_SERVICE: *******************************************
+06-27 11:46:48.199   342   342 D SAN_SERVICE: *******************************************
+06-27 11:46:48.199   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:46:48.199   342   342 D SAN_SERVICE: *******************************************
+06-27 11:46:57.726   342   342 D SAN_SERVICE: *******************************************
+06-27 11:46:57.726   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:46:57.726   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:13.543  1819  1833 I PhoneLab-: Service Running
+06-27 11:47:13.609  1819  1833 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-27 11:47:13.609  1819  1833 I PhoneLab-LoggerService: app_38    30500 1     1064   692   c00f181c 400107b4 S logcat
+06-27 11:47:13.613  1819  1833 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-27 11:47:13.613  1819  1833 I PhoneLab-LoggerService: Logcat process found 2630
+06-27 11:47:13.613  1819  1833 I PhoneLab-LoggerService: Checking Threshold
+06-27 11:47:13.613  1819  1833 I PhoneLab-LoggerService: Starting to rename files
+06-27 11:47:13.613  1819  1833 I PhoneLab-LoggerService: Files found .. 2
+06-27 11:47:18.175   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:18.175   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:47:18.175   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:18.371   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:18.371   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:47:18.371   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:18.675   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:18.675   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:47:18.675   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:33.750   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:33.750   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:47:33.750   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:34.293   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:34.293   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:47:34.293   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:43.808   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:43.808   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:47:43.812   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:59.140   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:59.144   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:47:59.144   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:59.386   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:59.386   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:47:59.386   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:59.847   342   342 D SAN_SERVICE: *******************************************
+06-27 11:47:59.847   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:47:59.847   342   342 D SAN_SERVICE: *******************************************
+06-27 11:48:40.132   342   342 D SAN_SERVICE: *******************************************
+06-27 11:48:40.132   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:48:40.132   342   342 D SAN_SERVICE: *******************************************
+06-27 11:48:40.613   342   342 D SAN_SERVICE: *******************************************
+06-27 11:48:40.617   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:48:40.617   342   342 D SAN_SERVICE: *******************************************
+06-27 11:48:50.324   342   342 D SAN_SERVICE: *******************************************
+06-27 11:48:50.324   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:48:50.324   342   342 D SAN_SERVICE: *******************************************
+06-27 11:48:50.597   342   342 D SAN_SERVICE: *******************************************
+06-27 11:48:50.597   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:48:50.597   342   342 D SAN_SERVICE: *******************************************
+06-27 11:48:51.340   342   342 D SAN_SERVICE: *******************************************
+06-27 11:48:51.343   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:48:51.343   342   342 D SAN_SERVICE: *******************************************
+06-27 11:49:05.699   342   342 D SAN_SERVICE: *******************************************
+06-27 11:49:05.699   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:49:05.699   342   342 D SAN_SERVICE: *******************************************
+06-27 11:49:06.433   342   342 D SAN_SERVICE: *******************************************
+06-27 11:49:06.433   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:49:06.433   342   342 D SAN_SERVICE: *******************************************
+06-27 11:49:13.543  1819  1833 I PhoneLab-: Service Running
+06-27 11:49:13.609  1819  1833 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-27 11:49:13.609  1819  1833 I PhoneLab-LoggerService: app_38    30500 1     1064   696   c00f181c 400107b4 S logcat
+06-27 11:49:13.613  1819  1833 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-27 11:49:13.613  1819  1833 I PhoneLab-LoggerService: Logcat process found 2630
+06-27 11:49:13.613  1819  1833 I PhoneLab-LoggerService: Checking Threshold
+06-27 11:49:13.613  1819  1833 I PhoneLab-LoggerService: Starting to rename files
+06-27 11:49:13.613  1819  1833 I PhoneLab-LoggerService: Files found .. 3
+06-27 11:49:13.613  1819  1833 I PhoneLab-LoggerService: File 1 log.out.1
+06-27 11:49:13.617  1819  1833 I PhoneLab-LoggerService: Renamed successfully
+06-27 11:49:31.297   342   342 D SAN_SERVICE: *******************************************
+06-27 11:49:31.297   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:49:31.297   342   342 D SAN_SERVICE: *******************************************
+06-27 11:49:31.324   342   346 D dalvikvm: GC_CONCURRENT freed 771K, 9% free 11707K/12743K, paused 2ms+4ms
+06-27 11:49:41.535   342   342 D SAN_SERVICE: *******************************************
+06-27 11:49:41.535   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:49:41.535   342   342 D SAN_SERVICE: *******************************************
+06-27 11:50:17.386   342   342 D SAN_SERVICE: *******************************************
+06-27 11:50:17.386   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:50:17.386   342   342 D SAN_SERVICE: *******************************************
+06-27 11:50:17.859   342   342 D SAN_SERVICE: *******************************************
+06-27 11:50:17.859   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:50:17.859   342   342 D SAN_SERVICE: *******************************************
+06-27 11:50:27.636   342   342 D SAN_SERVICE: *******************************************
+06-27 11:50:27.636   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:50:27.636   342   342 D SAN_SERVICE: *******************************************
+06-27 11:50:27.863   342   342 D SAN_SERVICE: *******************************************
+06-27 11:50:27.863   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:50:27.863   342   342 D SAN_SERVICE: *******************************************
+06-27 11:50:28.613   342   342 D SAN_SERVICE: *******************************************
+06-27 11:50:28.617   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:50:28.617   342   342 D SAN_SERVICE: *******************************************
+06-27 11:50:42.988   342   342 D SAN_SERVICE: *******************************************
+06-27 11:50:42.988   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:50:42.988   342   342 D SAN_SERVICE: *******************************************
+06-27 11:50:43.742   342   342 D SAN_SERVICE: *******************************************
+06-27 11:50:43.742   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:50:43.742   342   342 D SAN_SERVICE: *******************************************
+06-27 11:51:08.605   342   342 D SAN_SERVICE: *******************************************
+06-27 11:51:08.605   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:51:08.605   342   342 D SAN_SERVICE: *******************************************
+06-27 11:51:08.851   342   342 D SAN_SERVICE: *******************************************
+06-27 11:51:08.851   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:51:08.851   342   342 D SAN_SERVICE: *******************************************
+06-27 11:51:13.547  1819  1833 I PhoneLab-: Service Running
+06-27 11:51:13.613  1819  1822 D dalvikvm: GC_CONCURRENT freed 435K, 17% free 9222K/11079K, paused 2ms+6ms
+06-27 11:51:13.617  1819  1833 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-27 11:51:13.617  1819  1833 I PhoneLab-LoggerService: app_38    30500 1     1064   696   c00f181c 400107b4 S logcat
+06-27 11:51:13.621  1819  1833 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-27 11:51:13.621  1819  1833 I PhoneLab-LoggerService: Logcat process found 2630
+06-27 11:51:13.621  1819  1833 I PhoneLab-LoggerService: Checking Threshold
+06-27 11:51:13.621  1819  1833 I PhoneLab-LoggerService: Starting to rename files
+06-27 11:51:13.621  1819  1833 I PhoneLab-LoggerService: Files found .. 3
+06-27 11:51:34.148   342   342 D SAN_SERVICE: *******************************************
+06-27 11:51:34.148   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:51:34.148   342   342 D SAN_SERVICE: *******************************************
+06-27 11:51:44.386   342   342 D SAN_SERVICE: *******************************************
+06-27 11:51:44.386   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:51:44.386   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:06.613   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:06.613   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:52:06.613   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:06.855   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:06.855   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:52:06.855   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:20.261   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:20.261   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:52:20.261   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:21.015   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:21.015   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:52:21.015   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:30.480   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:30.480   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:52:30.480   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:30.761   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:30.761   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:52:30.761   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:31.511   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:31.511   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:52:31.511   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:47.574   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:47.574   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:52:47.574   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:48.078   342   342 D SAN_SERVICE: *******************************************
+06-27 11:52:48.078   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:52:48.078   342   342 D SAN_SERVICE: *******************************************
+06-27 11:53:06.336   342   342 D SAN_SERVICE: *******************************************
+06-27 11:53:06.336   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:53:06.336   342   342 D SAN_SERVICE: *******************************************
+06-27 11:53:13.543  1819  1833 I PhoneLab-: Service Running
+06-27 11:53:13.613  1819  1833 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-27 11:53:13.613  1819  1833 I PhoneLab-LoggerService: app_38    30500 1     1064   696   c00f181c 400107b4 S logcat
+06-27 11:53:13.617  1819  1833 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-27 11:53:13.617  1819  1833 I PhoneLab-LoggerService: Logcat process found 2630
+06-27 11:53:13.617  1819  1833 I PhoneLab-LoggerService: Checking Threshold
+06-27 11:53:13.617  1819  1833 I PhoneLab-LoggerService: Starting to rename files
+06-27 11:53:13.617  1819  1833 I PhoneLab-LoggerService: Files found .. 3
+06-27 11:53:47.308   342   342 D SAN_SERVICE: *******************************************
+06-27 11:53:47.308   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:53:47.308   342   342 D SAN_SERVICE: *******************************************
+06-27 11:53:47.554   342   342 D SAN_SERVICE: *******************************************
+06-27 11:53:47.554   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:53:47.554   342   342 D SAN_SERVICE: *******************************************
+06-27 11:54:09.285   142   172 I ActivityManager: Start proc com.android.vending for service com.android.vending/com.google.android.finsky.services.DailyHygiene: pid=2169 uid=10048 gids={3003, 1015}
+06-27 11:54:09.425  2169  2169 I ActivityThread: Pub com.google.android.finsky.QSBSuggestionsProvider: com.google.android.finsky.providers.QSBSuggestionsProvider
+06-27 11:54:09.453  2169  2169 I ActivityThread: Pub com.google.android.finsky.AppIconProvider: com.google.android.finsky.providers.AppIconProvider
+06-27 11:54:09.508  2169  2169 I ActivityThread: Pub com.google.android.finsky.RecentSuggestionsProvider: com.google.android.finsky.providers.RecentSuggestionsProvider
+06-27 11:54:09.609  2169  2171 D dalvikvm: GC_CONCURRENT freed 218K, 4% free 9274K/9607K, paused 3ms+2ms
+06-27 11:54:09.855  2169  2171 D dalvikvm: GC_CONCURRENT freed 334K, 5% free 9458K/9863K, paused 4ms+2ms
+06-27 11:54:09.859  2169  2169 D Finsky  : [1] DailyHygiene.goMakeHygieneIfDirty: Dirty, need more hygiene.
+06-27 11:54:10.031  2169  2171 D dalvikvm: GC_CONCURRENT freed 415K, 6% free 9467K/9991K, paused 1ms+2ms
+06-27 11:54:10.297  2169  2171 D dalvikvm: GC_CONCURRENT freed 307K, 5% free 9553K/9991K, paused 1ms+2ms
+06-27 11:54:10.300  2169  2169 D Finsky  : [1] 2.run: Loaded library for account: [J3KLysvtQI3y2S1rgUj_S2DNb1s]
+06-27 11:54:10.300  2169  2169 D Finsky  : [1] 2.run: Finished loading 1 libraries.
+06-27 11:54:10.750  2169  2171 D dalvikvm: GC_CONCURRENT freed 380K, 5% free 9665K/10119K, paused 3ms+3ms
+06-27 11:54:10.883  2169  2197 W Finsky  : [1521] 1.run: Replication request received while state != IDLE, dropping.
+06-27 11:54:11.718   142   144 D dalvikvm: GC_CONCURRENT freed 1374K, 23% free 15561K/20167K, paused 3ms+7ms
+06-27 11:54:11.828  2169  2171 D dalvikvm: GC_CONCURRENT freed 198K, 4% free 9919K/10247K, paused 5ms+2ms
+06-27 11:54:12.008  2169  2171 D dalvikvm: GC_CONCURRENT freed 453K, 6% free 9857K/10439K, paused 2ms+3ms
+06-27 11:54:12.363  2169  2171 D dalvikvm: GC_CONCURRENT freed 532K, 7% free 9851K/10503K, paused 2ms+3ms
+06-27 11:54:12.379  2169  2169 D Finsky  : [1] UpdateChecker.showManualUpdateNotifications: Notifying user that [1] applications have updates.
+06-27 11:54:12.527  2169  2169 D Finsky  : [1] UpdateChecker.showManualUpdateNotifications: Notifying user that [1] applications have updates.
+06-27 11:54:12.535   213   216 D dalvikvm: GC_CONCURRENT freed 310K, 61% free 10392K/25991K, paused 2ms+6ms
+06-27 11:54:12.636   213   216 D dalvikvm: GC_CONCURRENT freed 412K, 60% free 10456K/25991K, paused 1ms+3ms
+06-27 11:54:15.586   213   216 D dalvikvm: GC_CONCURRENT freed 348K, 60% free 10506K/25991K, paused 12ms+3ms
+06-27 11:54:37.144  1819  1819 I PhoneLab-Locks: wake lock acquired
+06-27 11:54:37.168  1819  1819 I PhoneLab-StatusMonitor: Status Monitoring is started
+06-27 11:54:37.230  1819  1822 D dalvikvm: GC_CONCURRENT freed 435K, 17% free 9298K/11079K, paused 2ms+2ms
+06-27 11:54:37.234  1819  1819 I PhoneLab-StatusMonitor: Value: 10 - unit: min
+06-27 11:54:37.234  1819  1819 I PhoneLab-StatusMonitor: Running interval: 600000
+06-27 11:54:37.238  1819  1819 I PhoneLab-StatusMonitor: Rescheduling status monitoring...
+06-27 11:54:37.242  1819  1819 I PhoneLab-Locks: wake lock released
+06-27 11:54:37.246  1819  1819 I PhoneLab-StatusMonitorLocation: Learning Location
+06-27 11:54:37.246  1819  1819 I PhoneLab-Locks: wake lock acquired
+06-27 11:54:37.254  1819  1819 I PhoneLab-Locks: wake lock acquired
+06-27 11:54:37.254 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-27 11:54:37.258  1819  1819 I PhoneLab-StatusMonitorLocation: Learning Signal Strgth
+06-27 11:54:37.258  1819  1819 I PhoneLab-Locks: wake lock acquired
+06-27 11:54:37.261 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 11:54:37.261 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 11:54:37.261 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 11:54:37.265  1819  1819 I PhoneLab-StatusMonitorBattery: Battery_level: 50
+06-27 11:54:37.265 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-27 11:54:37.269  1819  1819 I PhoneLab-Locks: wake lock released
+06-27 11:54:37.273  1819  1819 I PhoneLab-StatusMonitorSignal: Signal_Strength: -86 asu: 14
+06-27 11:54:37.273  1819  1819 I PhoneLab-Locks: wake lock released
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: WPS: Building WPS IE for Probe Request
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: WPS:  * Version (hardcoded 0x10)
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: WPS:  * Request Type
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: WPS:  * Config Methods (2388)
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: WPS:  * UUID-E
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: WPS:  * Primary Device Type
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: WPS:  * RF Bands (3)
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: WPS:  * Association State
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: WPS:  * Configuration Error (0)
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: WPS:  * Device Password ID (0)
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: WPS:  * Manufacturer
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: WPS:  * Model Name
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: WPS:  * Model Number
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: WPS:  * Device Name
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: WPS:  * Version2 (0x20)
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: wpa_driver_wext_combo_scan: Start
+06-27 11:54:37.277 32520 32520 D wpa_supplicant: For Scan: (null)
+06-27 11:54:37.281 32520 32520 D wpa_supplicant: Scan requested (ret=0) - scan timeout 30 seconds
+06-27 11:54:37.281 32520 32520 D wpa_supplicant: Ongoing scan action - reject new request
+06-27 11:54:38.457 32520 32520 D wpa_supplicant: RTM_NEWLINK: operstate=1 ifi_flags=0x11043 ([UP][RUNNING][LOWER_UP])
+06-27 11:54:38.457 32520 32520 D wpa_supplicant: RTM_NEWLINK, IFLA_IFNAME: Interface 'wlan0' added
+06-27 11:54:38.457 32520 32520 D wpa_supplicant: Wireless event: cmd=0x8b19 len=8
+06-27 11:54:38.457 32520 32520 D wpa_supplicant: Received 1546 bytes of scan results (5 BSSes)
+06-27 11:54:38.558 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 11:54:38.558 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 11:54:38.562 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 11:54:38.562 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 11:54:38.566  1819  1819 I PhoneLab-StatusMonitorLocation: Location_Latitude: 42.9543617 Longitude: -78.8268042 Accuracy: 34.0
+06-27 11:54:38.566 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-27 11:54:38.566  1819  1819 I PhoneLab-Locks: wake lock released
+06-27 11:54:38.570 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 11:54:38.570 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 11:54:38.570 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 11:54:38.578 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: WPS: Building WPS IE for Probe Request
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: WPS:  * Version (hardcoded 0x10)
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: WPS:  * Request Type
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: WPS:  * Config Methods (2388)
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: WPS:  * UUID-E
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: WPS:  * Primary Device Type
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: WPS:  * RF Bands (3)
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: WPS:  * Association State
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: WPS:  * Configuration Error (0)
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: WPS:  * Device Password ID (0)
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: WPS:  * Manufacturer
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: WPS:  * Model Name
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: WPS:  * Model Number
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: WPS:  * Device Name
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: WPS:  * Version2 (0x20)
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: wpa_driver_wext_combo_scan: Start
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: For Scan: (null)
+06-27 11:54:38.582 32520 32520 D wpa_supplicant: Scan requested (ret=0) - scan timeout 30 seconds
+06-27 11:54:39.769 32520 32520 D wpa_supplicant: RTM_NEWLINK: operstate=1 ifi_flags=0x11043 ([UP][RUNNING][LOWER_UP])
+06-27 11:54:39.769 32520 32520 D wpa_supplicant: RTM_NEWLINK, IFLA_IFNAME: Interface 'wlan0' added
+06-27 11:54:39.769 32520 32520 D wpa_supplicant: Wireless event: cmd=0x8b19 len=8
+06-27 11:54:39.769 32520 32520 D wpa_supplicant: Received 1279 bytes of scan results (4 BSSes)
+06-27 11:54:39.894 26576 26578 D dalvikvm: GC_CONCURRENT freed 640K, 9% free 10975K/11975K, paused 2ms+3ms
+06-27 11:54:39.906 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 11:54:39.906 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 11:54:39.906 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 11:54:39.910 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 11:55:13.543  1819  1833 I PhoneLab-: Service Running
+06-27 11:55:13.636  1819  1833 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-27 11:55:13.636  1819  1833 I PhoneLab-LoggerService: app_38    30500 1     1064   696   c00f181c 400107b4 S logcat
+06-27 11:55:13.636  1819  1833 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-27 11:55:13.636  1819  1833 I PhoneLab-LoggerService: Logcat process found 2630
+06-27 11:55:13.636  1819  1833 I PhoneLab-LoggerService: Checking Threshold
+06-27 11:55:13.636  1819  1833 I PhoneLab-LoggerService: Starting to rename files
+06-27 11:55:13.636  1819  1833 I PhoneLab-LoggerService: Files found .. 3
+06-27 11:55:16.015   342   342 D SAN_SERVICE: *******************************************
+06-27 11:55:16.015   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:55:16.015   342   342 D SAN_SERVICE: *******************************************
+06-27 11:55:16.554   342   342 D SAN_SERVICE: *******************************************
+06-27 11:55:16.554   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:55:16.554   342   342 D SAN_SERVICE: *******************************************
+06-27 11:55:26.293   342   342 D SAN_SERVICE: *******************************************
+06-27 11:55:26.293   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:55:26.293   342   342 D SAN_SERVICE: *******************************************
+06-27 11:55:26.797   342   342 D SAN_SERVICE: *******************************************
+06-27 11:55:26.797   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:55:26.797   342   342 D SAN_SERVICE: *******************************************
+06-27 11:56:00.375   342   342 D SAN_SERVICE: *******************************************
+06-27 11:56:00.375   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:56:00.375   342   342 D SAN_SERVICE: *******************************************
+06-27 11:56:01.187   342   342 D SAN_SERVICE: *******************************************
+06-27 11:56:01.191   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:56:01.191   342   342 D SAN_SERVICE: *******************************************
+06-27 11:56:12.375   342   342 D SAN_SERVICE: *******************************************
+06-27 11:56:12.375   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:56:12.375   342   342 D SAN_SERVICE: *******************************************
+06-27 11:56:13.129   342   342 D SAN_SERVICE: *******************************************
+06-27 11:56:13.129   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:56:13.129   342   342 D SAN_SERVICE: *******************************************
+06-27 11:57:13.543  1819  1833 I PhoneLab-: Service Running
+06-27 11:57:13.609  1819  1833 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-27 11:57:13.613  1819  1833 I PhoneLab-LoggerService: app_38    30500 1     1064   696   c00f181c 400107b4 S logcat
+06-27 11:57:13.613  1819  1833 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-27 11:57:13.613  1819  1833 I PhoneLab-LoggerService: Logcat process found 2630
+06-27 11:57:13.613  1819  1833 I PhoneLab-LoggerService: Checking Threshold
+06-27 11:57:13.613  1819  1833 I PhoneLab-LoggerService: Starting to rename files
+06-27 11:57:13.613  1819  1833 I PhoneLab-LoggerService: Files found .. 3
+06-27 11:57:42.840   342   342 D SAN_SERVICE: *******************************************
+06-27 11:57:42.840   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:57:42.840   342   342 D SAN_SERVICE: *******************************************
+06-27 11:57:43.047   342   342 D SAN_SERVICE: *******************************************
+06-27 11:57:43.047   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:57:43.047   342   342 D SAN_SERVICE: *******************************************
+06-27 11:57:43.148   342   342 D SAN_SERVICE: *******************************************
+06-27 11:57:43.148   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:57:43.148   342   342 D SAN_SERVICE: *******************************************
+06-27 11:57:43.304   342   342 D SAN_SERVICE: *******************************************
+06-27 11:57:43.304   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:57:43.304   342   342 D SAN_SERVICE: *******************************************
+06-27 11:57:53.082   342   342 D SAN_SERVICE: *******************************************
+06-27 11:57:53.082   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:57:53.082   342   342 D SAN_SERVICE: *******************************************
+06-27 11:58:03.312   342   342 D SAN_SERVICE: *******************************************
+06-27 11:58:03.312   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:58:03.312   342   342 D SAN_SERVICE: *******************************************
+06-27 11:58:28.859   342   342 D SAN_SERVICE: *******************************************
+06-27 11:58:28.859   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:58:28.859   342   342 D SAN_SERVICE: *******************************************
+06-27 11:58:29.144   342   342 D SAN_SERVICE: *******************************************
+06-27 11:58:29.144   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:58:29.144   342   342 D SAN_SERVICE: *******************************************
+06-27 11:58:29.894   342   342 D SAN_SERVICE: *******************************************
+06-27 11:58:29.894   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:58:29.894   342   342 D SAN_SERVICE: *******************************************
+06-27 11:58:34.300   342   342 D SAN_SERVICE: *******************************************
+06-27 11:58:34.304   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:58:34.304   342   342 D SAN_SERVICE: *******************************************
+06-27 11:58:49.402   342   342 D SAN_SERVICE: *******************************************
+06-27 11:58:49.402   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:58:49.402   342   342 D SAN_SERVICE: *******************************************
+06-27 11:58:50.136   342   342 D SAN_SERVICE: *******************************************
+06-27 11:58:50.136   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:58:50.136   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:04.797   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:04.797   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:59:04.797   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:05.078   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:05.078   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:59:05.078   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:05.097   342   346 D dalvikvm: GC_CONCURRENT freed 771K, 9% free 11708K/12743K, paused 8ms+3ms
+06-27 11:59:05.324   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:05.324   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:59:05.324   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:13.543  1819  1833 I PhoneLab-: Service Running
+06-27 11:59:13.609  1819  1833 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-27 11:59:13.609  1819  1833 I PhoneLab-LoggerService: app_38    30500 1     1064   696   c00f181c 400107b4 S logcat
+06-27 11:59:13.613  1819  1833 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-27 11:59:13.613  1819  1833 I PhoneLab-LoggerService: Logcat process found 2630
+06-27 11:59:13.613  1819  1833 I PhoneLab-LoggerService: Checking Threshold
+06-27 11:59:13.613  1819  1833 I PhoneLab-LoggerService: Starting to rename files
+06-27 11:59:13.613  1819  1833 I PhoneLab-LoggerService: Files found .. 3
+06-27 11:59:20.129   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:20.129   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:59:20.129   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:20.883   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:20.883   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:59:20.883   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:35.730   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:35.730   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:59:35.730   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:36.242   142  4767 D dalvikvm: GC_EXPLICIT freed 1077K, 24% free 15444K/20167K, paused 16ms+6ms
+06-27 11:59:36.285   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:36.285   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:59:36.285   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:45.726   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:45.726   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 11:59:45.726   342   342 D SAN_SERVICE: *******************************************
+06-27 11:59:45.734 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 11:59:45.734 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 11:59:45.734 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 11:59:45.750 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 11:59:46.047  1384  1386 D dalvikvm: GC_CONCURRENT freed 433K, 5% free 10302K/10823K, paused 2ms+2ms
+06-27 11:59:46.230 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 11:59:46.230 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 11:59:46.234 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 11:59:46.242 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 12:00:00.019   142   158 D AlarmManagerService: Kernel timezone updated to 240 minutes west of GMT
+06-27 12:00:00.054   142   158 I ActivityManager: Start proc com.android.calendar for broadcast com.android.calendar/.widget.CalendarAppWidgetService$CalendarFactory: pid=2215 uid=10005 gids={3003}
+06-27 12:00:00.121  2215  2215 I ActivityThread: Pub com.android.calendar.CalendarRecentSuggestionsProvider: com.android.calendar.CalendarRecentSuggestionsProvider
+06-27 12:00:00.265   142  5110 I ActivityManager: Start proc com.google.android.inputmethod.latin.dictionarypack for broadcast com.google.android.inputmethod.latin.dictionarypack/.UpdateHandler: pid=2231 uid=10070 gids={3003, 1015}
+06-27 12:00:00.355   142   971 I ActivityManager: Start proc com.android.providers.calendar for content provider com.android.providers.calendar/.CalendarProvider2: pid=2241 uid=10006 gids={3003, 1015}
+06-27 12:00:00.386  2231  2231 I ActivityThread: Pub com.android.inputmethod.latin.dictionarypack: com.google.android.inputmethod.latin.dictionarypack.DictionaryProvider
+06-27 12:00:00.414  2241  2241 I ActivityThread: Pub com.android.calendar: com.android.providers.calendar.CalendarProvider2
+06-27 12:00:00.445   142  4767 I ActivityManager: No longer want com.google.android.apps.maps:NetworkLocationService (pid 1384): hidden #16
+06-27 12:00:00.523   142   357 W ActivityManager: Scheduling restart of crashed service com.google.android.apps.maps/com.google.android.location.internal.server.NetworkLocationService in 5000ms
+06-27 12:00:01.574  2241  2241 I CalendarProvider2: Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://com.android.calendar }
+06-27 12:00:01.590  2241  2241 W ContentResolver: Failed to get type for: content://com.android.calendar (Unknown URL content://com.android.calendar)
+06-27 12:00:05.574   142   159 I ActivityManager: Start proc com.google.android.apps.maps:NetworkLocationService for service com.google.android.apps.maps/com.google.android.location.internal.server.NetworkLocationService: pid=2264 uid=10061 gids={3003, 1015}
+06-27 12:00:05.679  2264  2267 D dalvikvm: GC_CONCURRENT freed 171K, 3% free 9365K/9607K, paused 2ms+2ms
+06-27 12:00:05.855  2264  2267 D dalvikvm: GC_CONCURRENT freed 193K, 3% free 9700K/9991K, paused 1ms+3ms
+06-27 12:00:06.054  2264  2267 D dalvikvm: GC_CONCURRENT freed 141K, 3% free 10095K/10311K, paused 3ms+2ms
+06-27 12:00:06.215  2264  2267 D dalvikvm: GC_CONCURRENT freed 659K, 8% free 9881K/10631K, paused 2ms+2ms
+06-27 12:00:06.304   142   159 I ActivityManager: Start proc com.google.android.apps.maps:FriendService for broadcast com.google.android.apps.maps/com.google.googlenav.friend.android.ServiceReceiver: pid=2286 uid=10061 gids={3003, 1015}
+06-27 12:00:06.414  2286  2288 D dalvikvm: GC_CONCURRENT freed 173K, 3% free 9362K/9607K, paused 2ms+2ms
+06-27 12:00:06.550  2286  2288 D dalvikvm: GC_CONCURRENT freed 204K, 3% free 9713K/9991K, paused 2ms+3ms
+06-27 12:00:06.629   142  4745 I ActivityManager: No longer want com.android.sprintmenu (pid 1488): hidden #16
+06-27 12:00:06.636   142   970 W ActivityManager: Scheduling restart of crashed service com.android.sprintmenu/.HiddenPhoneService in 5000ms
+06-27 12:00:06.695  1749  1752 D dalvikvm: GC_CONCURRENT freed 248K, 4% free 9869K/10247K, paused 2ms+29ms
+06-27 12:00:06.734 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 12:00:06.734 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 12:00:06.734 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: WPS: Building WPS IE for Probe Request
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: WPS:  * Version (hardcoded 0x10)
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: WPS:  * Request Type
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: WPS:  * Config Methods (2388)
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: WPS:  * UUID-E
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: WPS:  * Primary Device Type
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: WPS:  * RF Bands (3)
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: WPS:  * Association State
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: WPS:  * Configuration Error (0)
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: WPS:  * Device Password ID (0)
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: WPS:  * Manufacturer
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: WPS:  * Model Name
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: WPS:  * Model Number
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: WPS:  * Device Name
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: WPS:  * Version2 (0x20)
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: wpa_driver_wext_combo_scan: Start
+06-27 12:00:06.742 32520 32520 D wpa_supplicant: For Scan: (null)
+06-27 12:00:06.746 32520 32520 D wpa_supplicant: Scan requested (ret=0) - scan timeout 30 seconds
+06-27 12:00:06.773  2264  2285 D dalvikvm: GC_FOR_ALLOC freed 198K, 6% free 10038K/10631K, paused 18ms
+06-27 12:00:06.832 32520 32520 D wpa_supplicant: Ongoing scan action - reject new request
+06-27 12:00:07.918 32520 32520 D wpa_supplicant: RTM_NEWLINK: operstate=1 ifi_flags=0x11043 ([UP][RUNNING][LOWER_UP])
+06-27 12:00:07.918 32520 32520 D wpa_supplicant: RTM_NEWLINK, IFLA_IFNAME: Interface 'wlan0' added
+06-27 12:00:07.918 32520 32520 D wpa_supplicant: Wireless event: cmd=0x8b19 len=8
+06-27 12:00:07.933 32520 32520 D wpa_supplicant: Received 1643 bytes of scan results (5 BSSes)
+06-27 12:00:08.101 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 12:00:08.101 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 12:00:08.101 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 12:00:08.101 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 12:00:08.121  2264  2267 D dalvikvm: GC_CONCURRENT freed 364K, 6% free 10065K/10631K, paused 2ms+2ms
+06-27 12:00:11.691   142   159 I ActivityManager: Start proc com.android.sprintmenu for service com.android.sprintmenu/.HiddenPhoneService: pid=2301 uid=1001 gids={3002, 3001, 3003, 1015}
+06-27 12:00:21.847   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:21.847   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:00:21.847   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:22.035   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:22.035   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:00:22.035   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:31.781   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:31.781   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:00:31.781   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:32.015   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:32.015   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:00:32.015   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:32.222   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:32.222   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:00:32.222   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:32.269   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:32.269   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:00:32.269   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:32.816   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:32.816   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:00:32.816   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:42.090   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:42.090   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:00:42.090   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:42.324   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:42.324   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:00:42.324   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:43.117   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:43.117   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:00:43.117   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:52.324   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:52.324   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:00:52.324   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:59.074   342   342 D SAN_SERVICE: *******************************************
+06-27 12:00:59.074   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:00:59.074   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:13.543  1819  1833 I PhoneLab-: Service Running
+06-27 12:01:13.613  1819  1833 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-27 12:01:13.613  1819  1833 I PhoneLab-LoggerService: app_38    30500 1     1064   696   c00f181c 400107b4 S logcat
+06-27 12:01:13.613  1819  1833 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-27 12:01:13.613  1819  1833 I PhoneLab-LoggerService: Logcat process found 2630
+06-27 12:01:13.613  1819  1833 I PhoneLab-LoggerService: Checking Threshold
+06-27 12:01:13.617  1819  1833 I PhoneLab-LoggerService: Starting to rename files
+06-27 12:01:13.617  1819  1833 I PhoneLab-LoggerService: Files found .. 3
+06-27 12:01:17.867   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:17.867   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:01:17.867   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:18.359   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:18.359   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:01:18.359   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:28.093   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:28.093   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:01:28.093   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:28.312   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:28.312   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:01:28.312   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:29.113   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:29.113   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:01:29.113   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:40.058   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:40.058   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:01:40.058   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:40.820   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:40.820   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:01:40.820   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:53.715   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:53.715   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:01:53.715   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:53.883   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:53.883   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:01:53.886   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:54.011   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:54.011   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:01:54.011   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:54.140   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:54.140   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:01:54.144   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:54.457   342   342 D SAN_SERVICE: *******************************************
+06-27 12:01:54.457   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:01:54.457   342   342 D SAN_SERVICE: *******************************************
+06-27 12:02:07.972   142   158 V BackupManagerService: Running a backup pass
+06-27 12:02:07.992   142   212 V BackupManagerService: Backup requested but nothing pending
+06-27 12:02:55.156   342   342 D SAN_SERVICE: *******************************************
+06-27 12:02:55.156   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:02:55.156   342   342 D SAN_SERVICE: *******************************************
+06-27 12:02:55.644   342   342 D SAN_SERVICE: *******************************************
+06-27 12:02:55.648   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:02:55.648   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:13.543  1819  1833 I PhoneLab-: Service Running
+06-27 12:03:13.625  1819  1833 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-27 12:03:13.625  1819  1833 I PhoneLab-LoggerService: app_38    30500 1     1064   696   c00f181c 400107b4 S logcat
+06-27 12:03:13.625  1819  1833 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-27 12:03:13.625  1819  1833 I PhoneLab-LoggerService: Logcat process found 2630
+06-27 12:03:13.625  1819  1833 I PhoneLab-LoggerService: Checking Threshold
+06-27 12:03:13.629  1819  1833 I PhoneLab-LoggerService: Starting to rename files
+06-27 12:03:13.629  1819  1833 I PhoneLab-LoggerService: Files found .. 3
+06-27 12:03:15.683   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:15.683   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:03:15.683   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:16.414   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:16.414   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:03:16.414   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:31.011   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:31.011   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:03:31.011   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:31.258   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:31.258   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:03:31.258   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:31.765   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:31.765   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:03:31.765   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:41.218   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:41.218   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:03:41.222   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:41.500   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:41.500   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:03:41.500   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:42.254   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:42.254   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:03:42.254   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:51.445   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:51.445   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:03:51.445   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:51.718   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:51.718   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:03:51.718   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:52.472   342   342 D SAN_SERVICE: *******************************************
+06-27 12:03:52.472   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:03:52.472   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:06.859   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:06.859   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:04:06.859   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:07.070   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:07.070   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:04:07.074   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:07.609   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:07.609   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:04:07.609   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:32.492   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:32.492   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:04:32.492   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:32.765   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:32.765   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:04:32.765   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:33.523   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:33.523   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:04:33.523   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:33.636   342   346 D dalvikvm: GC_CONCURRENT freed 769K, 9% free 11709K/12743K, paused 22ms+3ms
+06-27 12:04:37.277  1819  1819 I PhoneLab-Locks: wake lock acquired
+06-27 12:04:37.293  1819  1819 I PhoneLab-StatusMonitor: Status Monitoring is started
+06-27 12:04:37.340  1819  1822 D dalvikvm: GC_CONCURRENT freed 575K, 17% free 9235K/11079K, paused 2ms+2ms
+06-27 12:04:37.367  1819  1819 I PhoneLab-StatusMonitor: Value: 10 - unit: min
+06-27 12:04:37.367  1819  1819 I PhoneLab-StatusMonitor: Running interval: 600000
+06-27 12:04:37.375  1819  1819 I PhoneLab-StatusMonitor: Rescheduling status monitoring...
+06-27 12:04:37.375  1819  1819 I PhoneLab-Locks: wake lock released
+06-27 12:04:37.379  1819  1819 I PhoneLab-StatusMonitorLocation: Learning Location
+06-27 12:04:37.379  1819  1819 I PhoneLab-Locks: wake lock acquired
+06-27 12:04:37.402  1819  1819 I PhoneLab-Locks: wake lock acquired
+06-27 12:04:37.410 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-27 12:04:37.410  1819  1819 I PhoneLab-StatusMonitorLocation: Learning Signal Strgth
+06-27 12:04:37.410  1819  1819 I PhoneLab-Locks: wake lock acquired
+06-27 12:04:37.414  1819  1822 D dalvikvm: GC_CONCURRENT freed 438K, 18% free 9187K/11079K, paused 1ms+4ms
+06-27 12:04:37.418 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 12:04:37.418 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 12:04:37.418 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 12:04:37.422 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-27 12:04:37.425 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: WPS: Building WPS IE for Probe Request
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: WPS:  * Version (hardcoded 0x10)
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: WPS:  * Request Type
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: WPS:  * Config Methods (2388)
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: WPS:  * UUID-E
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: WPS:  * Primary Device Type
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: WPS:  * RF Bands (3)
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: WPS:  * Association State
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: WPS:  * Configuration Error (0)
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: WPS:  * Device Password ID (0)
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: WPS:  * Manufacturer
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: WPS:  * Model Name
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: WPS:  * Model Number
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: WPS:  * Device Name
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: WPS:  * Version2 (0x20)
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: wpa_driver_wext_combo_scan: Start
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: For Scan: (null)
+06-27 12:04:37.429 32520 32520 D wpa_supplicant: Scan requested (ret=0) - scan timeout 30 seconds
+06-27 12:04:37.433 32520 32520 D wpa_supplicant: Ongoing scan action - reject new request
+06-27 12:04:37.441  1819  1819 I PhoneLab-StatusMonitorBattery: Battery_level: 57
+06-27 12:04:37.441  1819  1819 I PhoneLab-Locks: wake lock released
+06-27 12:04:37.441  1819  1819 I PhoneLab-StatusMonitorSignal: Signal_Strength: -86 asu: 14
+06-27 12:04:37.441  1819  1819 I PhoneLab-Locks: wake lock released
+06-27 12:04:38.629 32520 32520 D wpa_supplicant: RTM_NEWLINK: operstate=1 ifi_flags=0x11043 ([UP][RUNNING][LOWER_UP])
+06-27 12:04:38.629 32520 32520 D wpa_supplicant: RTM_NEWLINK, IFLA_IFNAME: Interface 'wlan0' added
+06-27 12:04:38.629 32520 32520 D wpa_supplicant: Wireless event: cmd=0x8b19 len=8
+06-27 12:04:38.629 32520 32520 D wpa_supplicant: Received 1643 bytes of scan results (5 BSSes)
+06-27 12:04:38.734 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 12:04:38.734 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 12:04:38.734 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 12:04:38.738 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 12:04:38.738  1819  1819 I PhoneLab-StatusMonitorLocation: Location_Latitude: 42.9543649 Longitude: -78.8267994 Accuracy: 36.0
+06-27 12:04:38.742 26576 26651 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@41318678
+06-27 12:04:38.742  1819  1819 I PhoneLab-Locks: wake lock released
+06-27 12:04:38.746 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 12:04:38.746 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 12:04:38.746 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: WPS: Building WPS IE for Probe Request
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: WPS:  * Version (hardcoded 0x10)
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: WPS:  * Request Type
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: WPS:  * Config Methods (2388)
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: WPS:  * UUID-E
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: WPS:  * Primary Device Type
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: WPS:  * RF Bands (3)
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: WPS:  * Association State
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: WPS:  * Configuration Error (0)
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: WPS:  * Device Password ID (0)
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: WPS:  * Manufacturer
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: WPS:  * Model Name
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: WPS:  * Model Number
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: WPS:  * Device Name
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: WPS:  * Version2 (0x20)
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: wpa_driver_wext_combo_scan: Start
+06-27 12:04:38.754 32520 32520 D wpa_supplicant: For Scan: (null)
+06-27 12:04:38.758 32520 32520 D wpa_supplicant: Scan requested (ret=0) - scan timeout 30 seconds
+06-27 12:04:39.929 32520 32520 D wpa_supplicant: RTM_NEWLINK: operstate=1 ifi_flags=0x11043 ([UP][RUNNING][LOWER_UP])
+06-27 12:04:39.929 32520 32520 D wpa_supplicant: RTM_NEWLINK, IFLA_IFNAME: Interface 'wlan0' added
+06-27 12:04:39.929 32520 32520 D wpa_supplicant: Wireless event: cmd=0x8b19 len=8
+06-27 12:04:39.929 32520 32520 D wpa_supplicant: Received 1643 bytes of scan results (5 BSSes)
+06-27 12:04:40.066 26576 26578 D dalvikvm: GC_CONCURRENT freed 656K, 9% free 10970K/11975K, paused 2ms+3ms
+06-27 12:04:40.066 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-27 12:04:40.066 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-27 12:04:40.070 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-27 12:04:40.070 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-27 12:04:58.047   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:58.047   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:04:58.047   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:58.316   342   342 D SAN_SERVICE: *******************************************
+06-27 12:04:58.316   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:04:58.316   342   342 D SAN_SERVICE: *******************************************
+06-27 12:05:04.836   342   342 D SAN_SERVICE: *******************************************
+06-27 12:05:04.836   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:05:04.836   342   342 D SAN_SERVICE: *******************************************
+06-27 12:05:13.543  1819  1833 I PhoneLab-: Service Running
+06-27 12:05:13.613  1819  1833 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-27 12:05:13.613  1819  1833 I PhoneLab-LoggerService: app_38    30500 1     1064   696   c00f181c 400107b4 S logcat
+06-27 12:05:13.613  1819  1833 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-27 12:05:13.613  1819  1833 I PhoneLab-LoggerService: Logcat process found 2630
+06-27 12:05:13.613  1819  1833 I PhoneLab-LoggerService: Checking Threshold
+06-27 12:05:13.613  1819  1833 I PhoneLab-LoggerService: Starting to rename files
+06-27 12:05:13.613  1819  1833 I PhoneLab-LoggerService: Files found .. 3
+06-27 12:05:18.519   342   342 D SAN_SERVICE: *******************************************
+06-27 12:05:18.519   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:05:18.519   342   342 D SAN_SERVICE: *******************************************
+06-27 12:05:18.722   342   342 D SAN_SERVICE: *******************************************
+06-27 12:05:18.726   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:05:18.726   342   342 D SAN_SERVICE: *******************************************
+06-27 12:05:19.265   342   342 D SAN_SERVICE: *******************************************
+06-27 12:05:19.265   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:05:19.265   342   342 D SAN_SERVICE: *******************************************
+06-27 12:05:28.765   342   342 D SAN_SERVICE: *******************************************
+06-27 12:05:28.765   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:05:28.765   342   342 D SAN_SERVICE: *******************************************
+06-27 12:06:09.738   342   342 D SAN_SERVICE: *******************************************
+06-27 12:06:09.738   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:06:09.738   342   342 D SAN_SERVICE: *******************************************
+06-27 12:06:09.988   342   342 D SAN_SERVICE: *******************************************
+06-27 12:06:09.988   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:06:09.988   342   342 D SAN_SERVICE: *******************************************
+06-27 12:06:15.402 26576 27523 I EventLogService: Aggregate from 1340811375314 (log), 1340811375314 (data)
+06-27 12:06:20.187   342   342 D SAN_SERVICE: *******************************************
+06-27 12:06:20.187   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:06:20.187   342   342 D SAN_SERVICE: *******************************************
+06-27 12:06:20.933   342   342 D SAN_SERVICE: *******************************************
+06-27 12:06:20.933   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:06:20.933   342   342 D SAN_SERVICE: *******************************************
+06-27 12:06:40.457   342   342 D SAN_SERVICE: *******************************************
+06-27 12:06:40.457   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:06:40.457   342   342 D SAN_SERVICE: *******************************************
+06-27 12:07:00.988   342   342 D SAN_SERVICE: *******************************************
+06-27 12:07:00.988   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:07:00.988   342   342 D SAN_SERVICE: *******************************************
+06-27 12:07:01.074   142   144 D dalvikvm: GC_CONCURRENT freed 1526K, 24% free 15399K/20167K, paused 2ms+7ms
+06-27 12:07:01.254   342   342 D SAN_SERVICE: *******************************************
+06-27 12:07:01.254   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:07:01.254   342   342 D SAN_SERVICE: *******************************************
+06-27 12:07:01.500   342   342 D SAN_SERVICE: *******************************************
+06-27 12:07:01.504   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:07:01.504   342   342 D SAN_SERVICE: *******************************************
+06-27 12:07:13.543  1819  1833 I PhoneLab-: Service Running
+06-27 12:07:13.609  1819  1833 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-27 12:07:13.613  1819  1833 I PhoneLab-LoggerService: app_38    30500 1     1064   696   c00f181c 400107b4 S logcat
+06-27 12:07:13.613  1819  1833 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-27 12:07:13.613  1819  1833 I PhoneLab-LoggerService: Logcat process found 2630
+06-27 12:07:13.613  1819  1833 I PhoneLab-LoggerService: Checking Threshold
+06-27 12:07:13.613  1819  1833 I PhoneLab-LoggerService: Starting to rename files
+06-27 12:07:13.613  1819  1833 I PhoneLab-LoggerService: Files found .. 3
+06-27 12:07:16.316   342   342 D SAN_SERVICE: *******************************************
+06-27 12:07:16.316   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:07:16.316   342   342 D SAN_SERVICE: *******************************************
+06-27 12:07:16.800   342   342 D SAN_SERVICE: *******************************************
+06-27 12:07:16.800   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:07:16.800   342   342 D SAN_SERVICE: *******************************************
+06-27 12:08:38.191   342   342 D SAN_SERVICE: *******************************************
+06-27 12:08:38.191   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:08:38.191   342   342 D SAN_SERVICE: *******************************************
+06-27 12:08:38.429   342   342 D SAN_SERVICE: *******************************************
+06-27 12:08:38.429   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:08:38.433   342   342 D SAN_SERVICE: *******************************************
+06-27 12:08:39.211   342   342 D SAN_SERVICE: *******************************************
+06-27 12:08:39.211   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:08:39.211   342   342 D SAN_SERVICE: *******************************************
+06-27 12:08:58.699   342   342 D SAN_SERVICE: *******************************************
+06-27 12:08:58.699   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:08:58.699   342   342 D SAN_SERVICE: *******************************************
+06-27 12:08:58.937   342   342 D SAN_SERVICE: *******************************************
+06-27 12:08:58.937   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:08:58.937   342   342 D SAN_SERVICE: *******************************************
+06-27 12:08:59.191   342   342 D SAN_SERVICE: *******************************************
+06-27 12:08:59.191   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:08:59.191   342   342 D SAN_SERVICE: *******************************************
+06-27 12:09:13.543  1819  1833 I PhoneLab-: Service Running
+06-27 12:09:13.609  1819  1833 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-27 12:09:13.613  1819  1833 I PhoneLab-LoggerService: app_38    30500 1     1064   696   c00f181c 400107b4 S logcat
+06-27 12:09:13.613  1819  1833 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-27 12:09:13.613  1819  1833 I PhoneLab-LoggerService: Logcat process found 2630
+06-27 12:09:13.613  1819  1833 I PhoneLab-LoggerService: Checking Threshold
+06-27 12:09:13.613  1819  1833 I PhoneLab-LoggerService: Starting to rename files
+06-27 12:09:13.613  1819  1833 I PhoneLab-LoggerService: Files found .. 3
+06-27 12:09:24.261   342   342 D SAN_SERVICE: *******************************************
+06-27 12:09:24.261   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:09:24.261   342   342 D SAN_SERVICE: *******************************************
+06-27 12:09:24.508   342   342 D SAN_SERVICE: *******************************************
+06-27 12:09:24.511   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:09:24.515   342   342 D SAN_SERVICE: *******************************************
+06-27 12:09:25.297   342   342 D SAN_SERVICE: *******************************************
+06-27 12:09:25.297   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-27 12:09:25.297   342   342 D SAN_SERVICE: *******************************************
+06-27 12:09:44.133  1819  1819 I PhoneLab-Locks: wake lock acquired
+06-27 12:09:44.156  1819  2328 I PhoneLab-PeriodicCheckService: User info is synched
+06-27 12:09:44.160  1819  2328 I PhoneLab-PeriodicCheckService: Logger Service is running
+06-27 12:09:44.160  1819  2328 I PhoneLab-Locks: wake lock acquired
+06-27 12:09:44.164  1819  1819 I PhoneLab-UploadLogs: Transfering log files now
+06-27 12:09:44.164  1819  2328 I PhoneLab-PeriodicCheckService: Rescheduling periodic checking...
+06-27 12:09:44.168  1819  2328 I PhoneLab-Locks: wake lock released
+06-27 12:09:44.211  1819  1822 D dalvikvm: GC_CONCURRENT freed 423K, 17% free 9275K/11079K, paused 2ms+2ms
+06-27 12:09:44.234  1819  1822 D dalvikvm: GC_CONCURRENT freed 287K, 15% free 9482K/11079K, paused 2ms+1ms
+06-27 12:09:44.238  1819  1819 I PhoneLab-UploadLogs: OnStartCommand
+06-27 12:09:44.258  1819  1822 D dalvikvm: GC_CONCURRENT freed 305K, 13% free 9689K/11079K, paused 2ms+2ms
+06-27 12:09:44.332  1819  2330 D dalvikvm: GC_FOR_ALLOC freed 301K, 13% free 9714K/11079K, paused 15ms
+06-27 12:09:44.347  1819  2330 D dalvikvm: GC_FOR_ALLOC freed 301K, 13% free 9714K/11079K, paused 14ms
+06-27 12:09:44.363  1819  2330 D dalvikvm: GC_FOR_ALLOC freed 301K, 13% free 9715K/11079K, paused 15ms
+06-27 12:09:45.906  1819  1819 I PhoneLab-: 1340811793626.log is deleted
+06-27 12:09:45.906  1819  1819 I PhoneLab-: Response: {"data": "done", "err": ""}
+06-27 12:09:45.972  1819  1822 D dalvikvm: GC_CONCURRENT freed 952K, 17% free 9250K/11079K, paused 2ms+2ms

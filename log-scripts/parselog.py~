@@ -1,0 +1,76 @@
+def getTagname(filename):
+	infolist = []
+	debuglist = []
+	errlist = []
+	print 'About to start function'
+	try:
+		log = open(filename, 'r')
+	except IOError:
+		print 'File does not exist'
+	print 'Reached till before for loop'
+	for line in log:
+		data = line.split()
+		identifier = data[4]
+		if identifier.startswith('I'):
+			if data[5] in infolist:
+				continue
+			else:
+				infolist.append(data[5])
+		elif identifier.startswith('D'):
+			if data[5] in debuglist:
+				continue
+			else:
+				debuglist.append(data[5])
+		elif identifier.startswith('E'):
+			if data[5] in errlist:
+				continue
+			else:
+				errlist.append(data[5])
+	log.close()
+	print 'List of unique info tags is as follows:'
+	print infolist
+	print 'List of unique debug tags is as follows:'
+	print debuglist
+	print 'List of unique error tags is as follows:'
+	print errlist
+	
+
+def dummy(filename):
+	infolist = []
+	debuglist = []
+	errlist = []
+	print 'About to start function'
+	try:
+		log = open(filename, 'r')
+	except IOError:
+		print 'File does not exist'
+	print 'Reached till before for loop'
+	for line in log:
+		data = line.split()
+		print data[4], data[5]
+		identifier = data[4]
+		print identifier
+		if identifier == 'I':
+			if data[5] in infolist:
+				continue
+			else:
+				infolist.append(data[5])
+		elif identifier.startswith('D'):
+			if data[5] in debuglist:
+				continue
+			else:
+				debuglist.append(data[5])
+		elif identifier.startswith('E'):
+			if data[5] in errlist:
+				continue
+			else:
+				errlist.append(data[5])
+	log.close()
+	print 'List of unique info tags is as follows:'
+	print infolist
+	print 'List of unique debug tags is as follows:'
+	print debuglist
+	print 'List of unique error tags is as follows:'
+	print errlist
+	
+

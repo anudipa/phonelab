@@ -1,0 +1,387 @@
+06-29 21:02:54.953 13099 13099 V camera  : mShutterLag = 457ms
+06-29 21:02:55.004    81   121 D AudioHardware: AudioHardware pcm playback is exiting standby.
+06-29 21:02:55.004    81   121 D AudioHardware: openPcmOut_l() mPcmOpenCnt: 0
+06-29 21:02:55.121    81 13161 I CameraHardwareSec: == Camera Sensor Detect S5K4ECGX - Samsung LSI SOC 5M ==
+06-29 21:02:55.375 13099 13099 V camera  : mShutterToRawCallbackTime = 422ms
+06-29 21:02:55.375    81 13161 D JpegEncoder: encode E
+06-29 21:02:55.379    81 13161 D JpegEncoder: encode X
+06-29 21:02:55.379    81 13161 D SecCamera: Shutter speed=124942 us, iso=400
+06-29 21:02:55.379    81 13161 D SecCamera: AV=3, TV=3, SV=7
+06-29 21:02:55.379    81 13161 D JpegEncoder: makeExif E
+06-29 21:02:55.382    81 13161 D JpegEncoder: makeExif X
+06-29 21:02:55.402    81 13161 I SecCamera: int android::SecCamera::endSnapshot() :
+06-29 21:02:55.402    81 13161 I SecCamera: munmap():virt. addr 0x44362000 size = 4261248
+06-29 21:02:55.414 13099 13111 D dalvikvm: GC_FOR_ALLOC freed 4207K, 31% free 11551K/16711K, paused 19ms
+06-29 21:02:55.414 13099 13111 I dalvikvm-heap: Grow heap (frag case) to 12.995MB for 1725462-byte allocation
+06-29 21:02:55.449 13099 13100 D dalvikvm: GC_CONCURRENT freed 1K, 21% free 13235K/16711K, paused 1ms+2ms
+06-29 21:02:55.449 13099 13099 V camera  : mPictureDisplayedToJpegCallbackTime = 63ms
+06-29 21:02:55.449 13099 13099 V camera  : stopPreview
+06-29 21:02:55.761    81   490 I CameraHardwareSec: void android::CameraHardwareSec::stopPreviewInternal() : preview not running, doing nothing
+06-29 21:02:55.808 13099 13099 V camera  : Preview size is 640x480
+06-29 21:02:55.808 13099 13099 V camera  : startPreview
+06-29 21:02:56.218    81   122 D CameraHardwareSec: mPreviewHeap(fd(47), size(460800), width(640), height(480))
+06-29 21:02:56.226    81 13136 I CameraHardwareSec: int android::CameraHardwareSec::previewThreadWrapper(): return from wait
+06-29 21:02:56.265 13099 13099 D CameraStorage: External storage state=mounted
+06-29 21:02:56.273 13099 13099 V camera  : mJpegCallbackFinishTime = 833ms
+06-29 21:02:56.836 13099 13142 D dalvikvm: GC_FOR_ALLOC freed 33K, 14% free 14437K/16711K, paused 29ms
+06-29 21:02:56.906 13146 13146 V PicasaContentProvider: querySettings: defaults: {sync_on_wifi_only=1, auto_upload_account_type=null, sync_on_battery=1, sync_picasa_on_wifi_only=1, auto_upload_enabled=0, video_upload_wifi_only=1, sync_on_roaming=0, auto_upload_account_name=null}
+06-29 21:02:57.296 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:02:57.312 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -79  len = 23, 23
+06-29 21:02:57.312 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:02:57.312 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 19 len = 12, 12
+06-29 21:02:58.418    81   121 D AudioHardware: AudioHardware pcm playback is going to standby.
+06-29 21:02:58.418    81   121 D AudioHardware: closePcmOut_l() mPcmOpenCnt: 1
+06-29 21:03:00.316 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:03:00.324 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -75  len = 23, 23
+06-29 21:03:00.324 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:03:00.324 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 19 len = 12, 12
+06-29 21:03:03.332 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:03:03.339 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -77  len = 23, 23
+06-29 21:03:03.339 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:03:03.343 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 19 len = 12, 12
+06-29 21:03:05.855 13099 13099 V FocusManager: Start autofocus.
+06-29 21:03:05.964 13099 13099 V camera  : onShutterButtonClick: mCameraState=2
+06-29 21:03:06.347 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:03:06.355 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -80  len = 23, 23
+06-29 21:03:06.355 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:03:06.355 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 19 len = 12, 12
+06-29 21:03:07.820 13099 13099 V camera  : mAutoFocusTime = 1959ms
+06-29 21:03:07.898    81 13136 I CameraHardwareSec: int android::CameraHardwareSec::previewThreadWrapper(): calling mSecCamera->stopPreview() and waiting
+06-29 21:03:08.027    81 13163 I SecCamera: int android::fimc_v4l2_querybuf(int, android::fimc_buffer*, v4l2_buf_type) :
+06-29 21:03:08.027    81 13163 I SecCamera: int android::fimc_v4l2_querybuf(int, android::fimc_buffer*, v4l2_buf_type): buffer->start = 0x44362000 v4l2_buf.length = 4261248
+06-29 21:03:08.359 13099 13099 V camera  : mShutterLag = 508ms
+06-29 21:03:08.418    81   121 D AudioHardware: AudioHardware pcm playback is exiting standby.
+06-29 21:03:08.418    81   121 D AudioHardware: openPcmOut_l() mPcmOpenCnt: 0
+06-29 21:03:08.519    81 13163 I CameraHardwareSec: == Camera Sensor Detect S5K4ECGX - Samsung LSI SOC 5M ==
+06-29 21:03:08.761 13099 13099 V camera  : mShutterToRawCallbackTime = 404ms
+06-29 21:03:08.761    81 13163 D JpegEncoder: encode E
+06-29 21:03:08.765    81 13163 D JpegEncoder: encode X
+06-29 21:03:08.765    81 13163 D SecCamera: Shutter speed=119990 us, iso=400
+06-29 21:03:08.765    81 13163 D SecCamera: AV=3, TV=3, SV=7
+06-29 21:03:08.765    81 13163 D JpegEncoder: makeExif E
+06-29 21:03:08.769    81 13163 D JpegEncoder: makeExif X
+06-29 21:03:08.785    81 13163 I SecCamera: int android::SecCamera::endSnapshot() :
+06-29 21:03:08.789    81 13163 I SecCamera: munmap():virt. addr 0x44362000 size = 4261248
+06-29 21:03:08.800 13099 13111 D dalvikvm: GC_FOR_ALLOC freed 4164K, 31% free 11551K/16711K, paused 20ms
+06-29 21:03:08.800 13099 13111 I dalvikvm-heap: Grow heap (frag case) to 12.906MB for 1631792-byte allocation
+06-29 21:03:08.836 13099 13100 D dalvikvm: GC_CONCURRENT freed 1K, 22% free 13144K/16711K, paused 2ms+3ms
+06-29 21:03:08.836 13099 13099 V camera  : mPictureDisplayedToJpegCallbackTime = 61ms
+06-29 21:03:08.836 13099 13099 V camera  : stopPreview
+06-29 21:03:09.148    81   488 I CameraHardwareSec: void android::CameraHardwareSec::stopPreviewInternal() : preview not running, doing nothing
+06-29 21:03:09.199 13099 13099 V camera  : Preview size is 640x480
+06-29 21:03:09.203 13099 13099 V camera  : startPreview
+06-29 21:03:09.363 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:03:09.371 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -82  len = 23, 23
+06-29 21:03:09.371 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:03:09.371 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 19 len = 12, 12
+06-29 21:03:09.636    81   490 D CameraHardwareSec: mPreviewHeap(fd(47), size(460800), width(640), height(480))
+06-29 21:03:09.644    81 13136 I CameraHardwareSec: int android::CameraHardwareSec::previewThreadWrapper(): return from wait
+06-29 21:03:09.683 13099 13099 D CameraStorage: External storage state=mounted
+06-29 21:03:09.687 13099 13099 V camera  : mJpegCallbackFinishTime = 866ms
+06-29 21:03:10.093 13099 13142 D dalvikvm: GC_FOR_ALLOC freed 33K, 15% free 14345K/16711K, paused 29ms
+06-29 21:03:10.171 13146 13146 V PicasaContentProvider: querySettings: defaults: {sync_on_wifi_only=1, auto_upload_account_type=null, sync_on_battery=1, sync_picasa_on_wifi_only=1, auto_upload_enabled=0, video_upload_wifi_only=1, sync_on_roaming=0, auto_upload_account_name=null}
+06-29 21:03:11.832    81   121 D AudioHardware: AudioHardware pcm playback is going to standby.
+06-29 21:03:11.832    81   121 D AudioHardware: closePcmOut_l() mPcmOpenCnt: 1
+06-29 21:03:11.976 13099 13099 V FocusManager: Start autofocus.
+06-29 21:03:12.066 13099 13099 V camera  : onShutterButtonClick: mCameraState=2
+06-29 21:03:12.379 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:03:12.386 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -73  len = 23, 23
+06-29 21:03:12.386 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:03:12.386 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 19 len = 12, 12
+06-29 21:03:13.664 13099 13099 V camera  : mAutoFocusTime = 1687ms
+06-29 21:03:13.754    81 13136 I CameraHardwareSec: int android::CameraHardwareSec::previewThreadWrapper(): calling mSecCamera->stopPreview() and waiting
+06-29 21:03:13.879    81 13165 I SecCamera: int android::fimc_v4l2_querybuf(int, android::fimc_buffer*, v4l2_buf_type) :
+06-29 21:03:13.879    81 13165 I SecCamera: int android::fimc_v4l2_querybuf(int, android::fimc_buffer*, v4l2_buf_type): buffer->start = 0x44362000 v4l2_buf.length = 4261248
+06-29 21:03:14.238 13099 13099 V camera  : mShutterLag = 532ms
+06-29 21:03:14.304    81   121 D AudioHardware: AudioHardware pcm playback is exiting standby.
+06-29 21:03:14.304    81   121 D AudioHardware: openPcmOut_l() mPcmOpenCnt: 0
+06-29 21:03:14.406    81 13165 I CameraHardwareSec: == Camera Sensor Detect S5K4ECGX - Samsung LSI SOC 5M ==
+06-29 21:03:14.629 13099 13099 V camera  : mShutterToRawCallbackTime = 393ms
+06-29 21:03:14.629    81 13165 D JpegEncoder: encode E
+06-29 21:03:14.632    81 13165 D JpegEncoder: encode X
+06-29 21:03:14.636    81 13165 D SecCamera: Shutter speed=119990 us, iso=200
+06-29 21:03:14.636    81 13165 D SecCamera: AV=3, TV=3, SV=6
+06-29 21:03:14.636    81 13165 D JpegEncoder: makeExif E
+06-29 21:03:14.636    81 13165 D JpegEncoder: makeExif X
+06-29 21:03:14.656    81 13165 I SecCamera: int android::SecCamera::endSnapshot() :
+06-29 21:03:14.656    81 13165 I SecCamera: munmap():virt. addr 0x44362000 size = 4261248
+06-29 21:03:14.668 13099 13111 D dalvikvm: GC_FOR_ALLOC freed 4073K, 31% free 11551K/16711K, paused 19ms
+06-29 21:03:14.668 13099 13111 I dalvikvm-heap: Grow heap (frag case) to 12.780MB for 1499901-byte allocation
+06-29 21:03:14.703 13099 13100 D dalvikvm: GC_CONCURRENT freed 1K, 23% free 13015K/16711K, paused 2ms+2ms
+06-29 21:03:14.703 13099 13099 V camera  : mPictureDisplayedToJpegCallbackTime = 64ms
+06-29 21:03:14.703 13099 13099 V camera  : stopPreview
+06-29 21:03:15.015    81   122 I CameraHardwareSec: void android::CameraHardwareSec::stopPreviewInternal() : preview not running, doing nothing
+06-29 21:03:15.066 13099 13099 V camera  : Preview size is 640x480
+06-29 21:03:15.066 13099 13099 V camera  : startPreview
+06-29 21:03:15.394 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:03:15.402 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -75  len = 23, 23
+06-29 21:03:15.402 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:03:15.406 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 19 len = 12, 12
+06-29 21:03:15.523    81   488 D CameraHardwareSec: mPreviewHeap(fd(47), size(460800), width(640), height(480))
+06-29 21:03:15.535    81 13136 I CameraHardwareSec: int android::CameraHardwareSec::previewThreadWrapper(): return from wait
+06-29 21:03:15.562 13099 13099 D CameraStorage: External storage state=mounted
+06-29 21:03:15.578 13099 13099 V camera  : mJpegCallbackFinishTime = 885ms
+06-29 21:03:15.699 13099 13100 D dalvikvm: GC_CONCURRENT freed 33K, 15% free 14216K/16711K, paused 2ms+4ms
+06-29 21:03:16.058 13146 13146 V PicasaContentProvider: querySettings: defaults: {sync_on_wifi_only=1, auto_upload_account_type=null, sync_on_battery=1, sync_picasa_on_wifi_only=1, auto_upload_enabled=0, video_upload_wifi_only=1, sync_on_roaming=0, auto_upload_account_name=null}
+06-29 21:03:17.718    81   121 D AudioHardware: AudioHardware pcm playback is going to standby.
+06-29 21:03:17.718    81   121 D AudioHardware: closePcmOut_l() mPcmOpenCnt: 1
+06-29 21:03:18.418 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:03:18.429 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -74  len = 23, 23
+06-29 21:03:18.429 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:03:18.429 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 19 len = 12, 12
+06-29 21:03:18.539 13099 13099 V FocusManager: Start autofocus.
+06-29 21:03:18.578 13099 13099 V camera  : onShutterButtonClick: mCameraState=2
+06-29 21:03:19.867 13099 13099 V camera  : mAutoFocusTime = 1329ms
+06-29 21:03:19.929    81 13136 I CameraHardwareSec: int android::CameraHardwareSec::previewThreadWrapper(): calling mSecCamera->stopPreview() and waiting
+06-29 21:03:20.070    81 13167 I SecCamera: int android::fimc_v4l2_querybuf(int, android::fimc_buffer*, v4l2_buf_type) :
+06-29 21:03:20.070    81 13167 I SecCamera: int android::fimc_v4l2_querybuf(int, android::fimc_buffer*, v4l2_buf_type): buffer->start = 0x44362000 v4l2_buf.length = 4261248
+06-29 21:03:20.336 13099 13099 V camera  : mShutterLag = 425ms
+06-29 21:03:20.410    81   121 D AudioHardware: AudioHardware pcm playback is exiting standby.
+06-29 21:03:20.410    81   121 D AudioHardware: openPcmOut_l() mPcmOpenCnt: 0
+06-29 21:03:20.500    81 13167 I CameraHardwareSec: == Camera Sensor Detect S5K4ECGX - Samsung LSI SOC 5M ==
+06-29 21:03:20.675 13099 13099 V camera  : mShutterToRawCallbackTime = 346ms
+06-29 21:03:20.679    81 13167 D JpegEncoder: encode E
+06-29 21:03:20.679    81 13167 D JpegEncoder: encode X
+06-29 21:03:20.683    81 13167 D SecCamera: Shutter speed=99985 us, iso=200
+06-29 21:03:20.683    81 13167 D SecCamera: AV=3, TV=3, SV=6
+06-29 21:03:20.683    81 13167 D JpegEncoder: makeExif E
+06-29 21:03:20.683    81 13167 D JpegEncoder: makeExif X
+06-29 21:03:20.699    81 13167 I SecCamera: int android::SecCamera::endSnapshot() :
+06-29 21:03:20.703    81 13167 I SecCamera: munmap():virt. addr 0x44362000 size = 4261248
+06-29 21:03:20.711 13099 13111 D dalvikvm: GC_FOR_ALLOC freed 3944K, 31% free 11551K/16711K, paused 19ms
+06-29 21:03:20.714 13099 13111 I dalvikvm-heap: Grow heap (frag case) to 12.468MB for 1173656-byte allocation
+06-29 21:03:20.746 13099 13100 D dalvikvm: GC_CONCURRENT freed 1K, 25% free 12696K/16711K, paused 2ms+2ms
+06-29 21:03:20.746 13099 13099 V camera  : mPictureDisplayedToJpegCallbackTime = 59ms
+06-29 21:03:20.746 13099 13099 V camera  : stopPreview
+06-29 21:03:21.062    81   490 I CameraHardwareSec: void android::CameraHardwareSec::stopPreviewInternal() : preview not running, doing nothing
+06-29 21:03:21.121 13099 13099 V camera  : Preview size is 640x480
+06-29 21:03:21.125 13099 13099 V camera  : startPreview
+06-29 21:03:21.437 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:03:21.449 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -76  len = 23, 23
+06-29 21:03:21.449 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:03:21.449 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 19 len = 12, 12
+06-29 21:03:21.609    81   122 D CameraHardwareSec: mPreviewHeap(fd(47), size(460800), width(640), height(480))
+06-29 21:03:21.621    81 13136 I CameraHardwareSec: int android::CameraHardwareSec::previewThreadWrapper(): return from wait
+06-29 21:03:21.660 13099 13099 D CameraStorage: External storage state=mounted
+06-29 21:03:21.660 13099 13099 V camera  : mJpegCallbackFinishTime = 922ms
+06-29 21:03:21.976 13099 13142 D dalvikvm: GC_FOR_ALLOC freed 33K, 25% free 12697K/16711K, paused 55ms
+06-29 21:03:22.035 13099 13100 D dalvikvm: GC_CONCURRENT freed <1K, 17% free 13897K/16711K, paused 2ms+5ms
+06-29 21:03:22.347 13146 13146 V PicasaContentProvider: querySettings: defaults: {sync_on_wifi_only=1, auto_upload_account_type=null, sync_on_battery=1, sync_picasa_on_wifi_only=1, auto_upload_enabled=0, video_upload_wifi_only=1, sync_on_roaming=0, auto_upload_account_name=null}
+06-29 21:03:23.074   142   178 I ActivityManager: START {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher} from pid 142
+06-29 21:03:23.097 13099 13099 V camera  : stopPreview
+06-29 21:03:23.453    81 13136 I CameraHardwareSec: int android::CameraHardwareSec::previewThreadWrapper(): calling mSecCamera->stopPreview() and waiting
+06-29 21:03:23.472    81   122 I CameraHardwareSec: void android::CameraHardwareSec::stopPreviewInternal() : preview not running, doing nothing
+06-29 21:03:23.472    81   490 I CameraHardwareSec: void android::CameraHardwareSec::stopPreviewInternal() : preview not running, doing nothing
+06-29 21:03:23.472    81 13136 I CameraHardwareSec: int android::CameraHardwareSec::previewThreadWrapper(): return from wait
+06-29 21:03:23.472    81 13136 I CameraHardwareSec: int android::CameraHardwareSec::previewThreadWrapper(): exiting
+06-29 21:03:23.472    81 13136 W SecCamera: int android::SecCamera::stopPreview(): doing nothing because m_flag_camera_start is zero
+06-29 21:03:23.472    81   490 W SecCamera: int android::SecCamera::stopRecord(): doing nothing because m_flag_record_start is zero
+06-29 21:03:23.472    81   490 I SecCamera: DeinitCamera: m_cam_fd(47)
+06-29 21:03:23.476    81   490 I SecCamera: DeinitCamera: m_cam_fd2(49)
+06-29 21:03:23.484    81   490 E CameraHardwareSec: preview window is NULL!
+06-29 21:03:23.484    81   490 I CameraService: Destroying camera 0
+06-29 21:03:23.484    81   490 I CameraHardwareSec: int android::HAL_camera_device_close(hw_device_t*)
+06-29 21:03:23.484    81   490 I SecCamera: DeinitCamera : already deinitialized
+06-29 21:03:23.492    81   122 W AudioFlinger: session id 1242 not found for pid 81
+06-29 21:03:23.492    81   122 W AudioFlinger: session id 1243 not found for pid 81
+06-29 21:03:23.597   142   158 W ActivityManager: Activity pause timeout for ActivityRecord{41650ec8 com.android.camera/.Camera}
+06-29 21:03:23.648   142   158 I Process : Sending signal. PID: 13099 SIG: 3
+06-29 21:03:23.652 13099 13102 I dalvikvm: threadid=3: reacting to signal 3
+06-29 21:03:23.679 13099 13102 I dalvikvm: Wrote stack traces to '/data/anr/traces.txt'
+06-29 21:03:23.824    81   121 D AudioHardware: AudioHardware pcm playback is going to standby.
+06-29 21:03:23.824    81   121 D AudioHardware: closePcmOut_l() mPcmOpenCnt: 1
+06-29 21:03:23.929 13099 13100 D dalvikvm: GC_CONCURRENT freed 3840K, 31% free 11634K/16711K, paused 9ms+4ms
+06-29 21:03:24.023 13099 13099 D OpenGLRenderer: Flushing caches (mode 1)
+06-29 21:03:24.457 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:03:24.464 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -78  len = 23, 23
+06-29 21:03:24.464 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:03:24.464 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 19 len = 12, 12
+06-29 21:03:26.668   142   170 I power   : *** set_screen_state 0
+06-29 21:03:26.722    78   118 D SurfaceFlinger: About to give-up screen, flinger = 0x153918
+06-29 21:03:26.875   142   174 D dalvikvm: GC_FOR_ALLOC freed 1068K, 24% free 16581K/21639K, paused 59ms
+06-29 21:03:26.879   360   882 D NfcService: NFC-C OFF, disconnect
+06-29 21:03:26.890   142   174 V TransportControlView: Create TCV com.android.internal.widget.TransportControlView@417defb0
+06-29 21:03:26.933   213   213 D PhoneStatusBar: disable: < expand icons alerts ticker system_info back home RECENT* clock >
+06-29 21:03:26.949    81   121 D AudioHardware: AudioHardware pcm playback is exiting standby.
+06-29 21:03:26.949    81   121 D AudioHardware: openPcmOut_l() mPcmOpenCnt: 0
+06-29 21:03:26.957   213   213 D PhoneStatusBar: disable: < expand icons alerts ticker system_info BACK* HOME* RECENT CLOCK* >
+06-29 21:03:28.992   342   342 D SAN_SERVICE: *******************************************
+06-29 21:03:28.992   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-29 21:03:28.992   342   342 D SAN_SERVICE: *******************************************
+06-29 21:03:29.293   342   342 D SAN_SERVICE: *******************************************
+06-29 21:03:29.293   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-29 21:03:29.293   342   342 D SAN_SERVICE: *******************************************
+06-29 21:03:30.043   342   342 D SAN_SERVICE: *******************************************
+06-29 21:03:30.046   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-29 21:03:30.046   342   342 D SAN_SERVICE: *******************************************
+06-29 21:03:30.109    81   121 D AudioHardware: AudioHardware pcm playback is going to standby.
+06-29 21:03:30.109    81   121 D AudioHardware: closePcmOut_l() mPcmOpenCnt: 1
+06-29 21:03:44.257   142   158 I power   : *** set_screen_state 1
+06-29 21:03:44.269 10621 10621 I PhoneLab-PowerOnReceiver: Power is plugged in!
+06-29 21:03:44.269 10621 10621 I PhoneLab-PowerOnReceiver: Rescheduling periodic checking...
+06-29 21:03:44.273   213   213 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+06-29 21:03:44.300   142   174 I WindowManager: Lock screen displayed!
+06-29 21:03:44.316 10621 10621 I PhoneLab-Locks: wake lock acquired
+06-29 21:03:44.336 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:03:44.339 10621 10621 I PhoneLab-UploadLogs: Transfering log files now
+06-29 21:03:44.339 10621 10621 I PhoneLab-UploadLogs: No log files to transfer
+06-29 21:03:44.343 10621 10621 I PhoneLab-Locks: wake lock released
+06-29 21:03:44.343 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -80  len = 23, 23
+06-29 21:03:44.343 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:03:44.343 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 19 len = 12, 12
+06-29 21:03:44.343 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 21:03:44.343 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 21:03:44.343 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 21:03:44.347 10621 10621 I PhoneLab-UploadLogs: OnStartCommand
+06-29 21:03:44.347 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 21:03:44.457    78   118 D SurfaceFlinger: Screen about to return, flinger = 0x153918
+06-29 21:03:47.347 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:03:47.355 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -85  len = 23, 23
+06-29 21:03:47.355 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:03:47.359 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:03:50.363 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:03:50.371 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -85  len = 23, 23
+06-29 21:03:50.371 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:03:50.375 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:03:51.015 26576 26578 D dalvikvm: GC_CONCURRENT freed 668K, 10% free 11422K/12679K, paused 6ms+6ms
+06-29 21:03:53.382 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:03:53.390 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -83  len = 23, 23
+06-29 21:03:53.390 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:03:53.394 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:03:54.347 10621 10621 I PhoneLab-Locks: wake lock acquired
+06-29 21:03:54.367 10621 13174 I PhoneLab-PeriodicCheckService: User info is synched
+06-29 21:03:54.367 10621 13174 I PhoneLab-PeriodicCheckService: Logger Service is running
+06-29 21:03:54.371 10621 13174 I PhoneLab-Locks: wake lock acquired
+06-29 21:03:54.375 10621 10621 I PhoneLab-UploadLogs: Transfering log files now
+06-29 21:03:54.375 10621 10621 I PhoneLab-UploadLogs: No log files to transfer
+06-29 21:03:54.375 10621 10621 I PhoneLab-Locks: wake lock released
+06-29 21:03:54.375 10621 10621 I PhoneLab-UploadLogs: OnStartCommand
+06-29 21:03:54.379 10621 13174 I PhoneLab-PeriodicCheckService: Rescheduling periodic checking...
+06-29 21:03:54.379 10621 13174 I PhoneLab-Locks: wake lock released
+06-29 21:03:56.406 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:03:56.418 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -80  len = 23, 23
+06-29 21:03:56.418 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:03:56.421 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:03:59.429 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:03:59.437 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -80  len = 23, 23
+06-29 21:03:59.437 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:03:59.441 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:03:59.707   342   342 D SAN_SERVICE: *******************************************
+06-29 21:03:59.707   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-29 21:03:59.707   342   342 D SAN_SERVICE: *******************************************
+06-29 21:03:59.886   342   342 D SAN_SERVICE: *******************************************
+06-29 21:03:59.886   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-29 21:03:59.886   342   342 D SAN_SERVICE: *******************************************
+06-29 21:04:00.125   342   342 D SAN_SERVICE: *******************************************
+06-29 21:04:00.125   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-29 21:04:00.125   342   342 D SAN_SERVICE: *******************************************
+06-29 21:04:02.445 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:04:02.453 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -80  len = 23, 23
+06-29 21:04:02.453 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:04:02.457 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:04:05.461 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:04:05.476 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -80  len = 23, 23
+06-29 21:04:05.476 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:04:05.476 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:04:08.480 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:04:08.488 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -79  len = 23, 23
+06-29 21:04:08.492 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:04:08.496 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:04:11.507 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:04:11.515 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -82  len = 23, 23
+06-29 21:04:11.515 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:04:11.519 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:04:14.527 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:04:14.535 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -81  len = 23, 23
+06-29 21:04:14.535 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:04:14.539 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:04:17.550 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:04:17.562 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -80  len = 23, 23
+06-29 21:04:17.562 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:04:17.562 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:04:20.570 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:04:20.582 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -81  len = 23, 23
+06-29 21:04:20.582 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:04:20.586 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:04:23.593 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:04:23.601 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -80  len = 23, 23
+06-29 21:04:23.601 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:04:23.601 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:04:25.519 10621 10636 I PhoneLab-: Service Running
+06-29 21:04:25.636 10621 10636 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-29 21:04:25.636 10621 10636 I PhoneLab-LoggerService: app_38    30500 1     1064   660   c00f181c 400107b4 S logcat
+06-29 21:04:25.636 10621 10636 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-29 21:04:25.636 10621 10636 I PhoneLab-LoggerService: Logcat process found 2630
+06-29 21:04:25.636 10621 10636 I PhoneLab-LoggerService: Checking Threshold
+06-29 21:04:25.636 10621 10636 I PhoneLab-LoggerService: Starting to rename files
+06-29 21:04:25.636 10621 10636 I PhoneLab-LoggerService: Files found .. 3
+06-29 21:04:25.636 10621 10636 I PhoneLab-LoggerService: File 1 log.out.1
+06-29 21:04:25.644 10621 10636 I PhoneLab-LoggerService: Renamed successfully
+06-29 21:04:25.644 10621 10636 I PhoneLab-LoggerService: File 2 log.out.2
+06-29 21:04:25.648 10621 10636 I PhoneLab-LoggerService: Renamed successfully
+06-29 21:04:26.609 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:04:26.621 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -81  len = 23, 23
+06-29 21:04:26.621 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:04:26.625 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:04:29.629 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:04:29.640 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -81  len = 23, 23
+06-29 21:04:29.640 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:04:29.644 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:04:32.652 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:04:32.660 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -78  len = 23, 23
+06-29 21:04:32.660 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:04:32.664 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:04:35.671 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:04:35.687 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -78  len = 23, 23
+06-29 21:04:35.687 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:04:35.695 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:04:38.703 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:04:38.711 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -81  len = 23, 23
+06-29 21:04:38.714 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:04:38.714 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:04:41.722 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:04:41.730 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -82  len = 23, 23
+06-29 21:04:41.730 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:04:41.734 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:04:44.754 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:04:44.754 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -79  len = 23, 23
+06-29 21:04:44.754 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:04:44.757 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:04:44.793   142   170 I power   : *** set_screen_state 0
+06-29 21:04:44.843    78   118 D SurfaceFlinger: About to give-up screen, flinger = 0x153918
+06-29 21:04:44.902   142   171 D dalvikvm: GC_FOR_ALLOC freed 1393K, 26% free 16076K/21639K, paused 59ms
+06-29 21:04:44.949   142   174 V TransportControlView: Create TCV com.android.internal.widget.TransportControlView@418eb2b0
+06-29 21:04:45.082   142   357 D dalvikvm: GC_EXPLICIT freed 544K, 26% free 16187K/21639K, paused 4ms+6ms
+06-29 21:05:00.121   213   216 D dalvikvm: GC_CONCURRENT freed 545K, 62% free 10001K/25991K, paused 6ms+4ms
+06-29 21:05:17.808   142   158 I power   : *** set_screen_state 1
+06-29 21:05:17.820 10621 10621 I PhoneLab-PowerOnReceiver: Power is plugged off!
+06-29 21:05:17.847   142   174 I WindowManager: Lock screen displayed!
+06-29 21:05:18.000    78   118 D SurfaceFlinger: Screen about to return, flinger = 0x153918
+06-29 21:05:18.054 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:05:18.066 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -80  len = 23, 23
+06-29 21:05:18.066 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:05:18.074 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:05:18.074 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 21:05:18.074 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 21:05:18.078 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 21:05:18.078 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 21:05:18.132 10621 10624 D dalvikvm: GC_CONCURRENT freed 512K, 15% free 9230K/10823K, paused 9ms+12ms
+06-29 21:05:19.105   142   170 I power   : *** set_screen_state 0
+06-29 21:05:19.144   142   174 I power   : *** set_screen_state 1
+06-29 21:05:19.164    78   118 D SurfaceFlinger: About to give-up screen, flinger = 0x153918
+06-29 21:05:19.238 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd RSSI len = 248
+06-29 21:05:19.250 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd Nanachi Taang rssi -84  len = 23, 23
+06-29 21:05:19.250 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LINKSPEED len = 248
+06-29 21:05:19.250 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd LinkSpeed 5 len = 11, 11
+06-29 21:05:19.250 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 4096
+06-29 21:05:19.250 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd SETSUSPENDOPT 0 len = 0, 15
+06-29 21:05:19.250 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd POWERMODE 0 len = 4096
+06-29 21:05:19.254 32520 32520 D wpa_supplicant: wpa_driver_wext_driver_cmd OK len = 0, 2
+06-29 21:05:19.300   142   174 V TransportControlView: Create TCV com.android.internal.widget.TransportControlView@41df8b08
+06-29 21:05:19.320   142   174 I WindowManager: Lock screen displayed!
+06-29 21:05:19.593    78   118 D SurfaceFlinger: Screen about to return, flinger = 0x153918
+06-29 21:05:19.972 10621 10621 I PhoneLab-PowerOnReceiver: Power is plugged in!
+06-29 21:05:19.976 10621 10621 I PhoneLab-PowerOnReceiver: Rescheduling periodic checking...
+06-29 21:05:19.976   213   213 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+06-29 21:05:20.019 10621 10621 I PhoneLab-Locks: wake lock acquired
+06-29 21:05:20.046 10621 10621 I PhoneLab-UploadLogs: Transfering log files now

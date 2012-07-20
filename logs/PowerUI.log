@@ -1,0 +1,1742 @@
+06-05 15:03:25.550   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+02-23 15:20:55.953   214   214 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+04-24 18:59:54.406   214   214 I PowerUI : showing low battery warning: level=14 [-1]
+
+04-24 19:02:24.456   214   214 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-24 19:03:14.472   214   214 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-24 19:04:04.456   214   214 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-24 19:04:54.492   214   214 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-24 19:05:44.507   214   214 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-24 19:06:34.527   214   214 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-24 19:07:24.539   214   214 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-24 19:08:14.554   214   214 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-24 19:09:04.581   214   214 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-24 19:09:54.585   214   214 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-24 19:13:14.660   214   214 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-24 19:14:04.675   214   214 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-24 19:14:54.679   214   214 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-24 19:15:44.695   214   214 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-24 19:16:34.710   214   214 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-24 19:18:14.761   214   214 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-24 19:19:04.769   214   214 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-24 19:19:55.562   214   214 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-24 19:20:55.609   214   214 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-24 19:21:45.624   214   214 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-24 19:22:35.636   214   214 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-24 19:23:25.656   214   214 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-24 19:24:15.675   214   214 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-24 19:25:05.679   214   214 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-24 19:25:55.707   214   214 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-24 19:26:45.710   214   214 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-24 19:28:25.742   214   214 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-24 19:29:15.765   214   214 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-24 19:30:07.265   214   214 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-24 19:31:00.058   214   214 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-24 19:31:50.082   214   214 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-24 19:32:40.085   214   214 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-24 19:33:30.101   214   214 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-24 19:34:20.128   214   214 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-24 19:35:10.144   214   214 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-24 19:36:50.171   214   214 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-24 19:38:30.195   214   214 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-24 19:39:20.222   214   214 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-24 19:40:10.246   214   214 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-24 19:41:00.253   214   214 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-24 19:41:50.277   214   214 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-24 19:43:30.304   214   214 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-24 19:44:20.351   214   214 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-24 19:45:10.332   214   214 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-24 19:46:00.339   214   214 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-24 19:46:50.363   214   214 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-24 19:47:40.382   214   214 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-24 19:48:30.410   214   214 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-24 19:49:20.410   214   214 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-24 19:50:10.437   214   214 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-24 19:51:00.449   214   214 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-24 19:51:50.488   214   214 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-24 19:52:40.492   214   214 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-24 19:53:30.515   214   214 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-24 19:54:20.523   214   214 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-24 19:55:10.550   214   214 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-24 19:56:00.570   214   214 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-24 19:56:50.589   214   214 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-24 19:57:40.609   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 19:58:30.621   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 19:59:20.628   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 20:00:10.644   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 20:01:00.660   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 20:02:40.710   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 20:03:30.726   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 20:04:20.742   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 20:05:10.761   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 20:06:00.785   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 20:06:50.804   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-05 17:14:25.748   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+04-27 20:12:20.335   216   216 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-27 20:13:10.370   216   216 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-27 20:14:00.350   216   216 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-27 20:14:50.401   216   216 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-27 20:15:50.167   216   216 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-27 20:16:40.174   216   216 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-27 20:17:30.186   216   216 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-27 20:18:20.213   216   216 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-27 20:19:10.221   216   216 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-27 21:20:00.635   216   216 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-27 21:21:00.342   216   216 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-27 21:21:50.366   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-27 21:22:40.397   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-27 21:23:30.397   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-27 21:24:31.502   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-27 21:25:21.538   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-27 21:26:14.682   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-27 21:27:04.745   216   216 I PowerUI : updating low battery warning: level=0 [-2]
+
+04-26 22:41:19.111   216   216 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+06-06 17:08:17.099  1978  1978 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+06-01 13:57:47.306   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+07-03 23:38:38.113   212   212 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+07-05 22:45:05.187   212   212 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+04-03 11:18:52.552   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+06-01 14:16:50.275   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+06-01 15:14:48.240   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+06-01 15:19:01.857   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+04-04 16:50:46.537   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+02-23 15:20:55.953   214   214 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+04-16 17:34:41.789   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+04-17 18:04:08.932   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+04-25 23:47:09.372   215   215 I PowerUI : showing low battery warning: level=14 [-1]
+
+04-25 23:47:59.407   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-25 23:48:49.427   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-25 23:49:39.430   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-25 23:50:29.454   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-25 23:51:19.473   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-25 23:52:09.497   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-25 23:52:59.528   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-25 23:53:49.555   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-25 23:54:39.559   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-25 23:55:29.575   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-25 23:56:23.688   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-25 23:57:13.708   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-25 23:58:03.723   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-25 23:58:53.739   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-26 00:00:33.782   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-26 00:01:23.786   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-26 00:02:13.805   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-26 00:03:53.841   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-26 00:04:43.860   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-26 00:05:40.055   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-26 00:06:30.071   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-26 00:07:20.087   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-26 00:08:10.102   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-26 00:09:00.106   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-26 00:09:50.134   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-26 00:12:24.966   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-26 00:13:14.977   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-26 00:14:04.989   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-26 00:14:55.012   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-26 00:16:35.032   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-26 00:17:25.286   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-26 00:19:05.344   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-26 00:19:55.376   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-26 00:20:45.387   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-26 00:21:35.395   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-26 00:22:25.403   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-26 00:23:15.419   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-26 00:24:05.438   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-26 00:25:45.477   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-26 00:26:35.481   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-26 00:27:25.509   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-26 00:28:15.512   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-26 00:29:05.536   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-26 00:29:55.559   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-26 00:30:45.571   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-26 00:31:35.575   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-26 00:32:25.602   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-26 00:33:15.610   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-26 00:34:05.637   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-26 00:34:55.634   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-26 00:36:35.677   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-26 00:37:25.684   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-26 00:38:15.704   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-26 00:39:05.723   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-26 00:39:55.727   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-26 00:40:45.743   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-26 00:41:35.762   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-26 00:42:25.774   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-26 00:43:15.805   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-26 00:46:35.852   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-26 00:48:15.884   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-26 00:51:35.950   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-26 00:52:25.954   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-26 00:53:15.981   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-26 00:54:06.009   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-26 00:54:56.790   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-26 00:55:46.837   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-26 00:56:53.794   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-26 00:57:53.876   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-26 00:58:43.927   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-26 00:59:33.946   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-26 01:02:10.126   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-26 01:03:01.341   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-26 01:03:51.364   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-26 01:04:41.380   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-26 01:05:31.391   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:06:21.411   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:07:11.427   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:08:01.485   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:08:51.505   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:09:41.509   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:11:23.688   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:12:25.071   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:13:15.106   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:14:05.137   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:14:55.141   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:15:45.157   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:16:35.188   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:17:25.286   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:18:15.321   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:19:05.356   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:20:45.380   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:21:35.384   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:22:25.403   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-26 01:23:15.438   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-26 01:24:05.446   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-26 01:24:55.470   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-26 01:25:45.473   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-26 01:26:35.489   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-26 01:27:25.505   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-26 01:29:05.524   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-26 01:30:13.708   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-26 01:31:21.430   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-26 01:32:11.470   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-26 01:33:02.102   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-26 01:34:42.165   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-26 01:36:22.216   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-26 01:37:12.231   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-26 01:38:52.262   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-26 01:39:42.278   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-26 01:40:32.294   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-26 01:41:23.688   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-26 01:42:25.122   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-26 01:43:15.161   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-26 01:44:05.169   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-26 01:44:55.184   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-26 01:46:35.220   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-26 01:47:25.302   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-26 01:48:15.348   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-26 01:49:05.372   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-26 01:49:55.391   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-26 01:51:35.427   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-26 01:52:25.458   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-26 01:53:15.470   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-26 01:54:05.473   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-26 01:54:55.509   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-26 01:55:45.540   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-26 01:56:35.559   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-26 01:57:25.571   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-26 01:58:22.470   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-26 01:59:12.509   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-26 02:00:02.536   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-26 02:00:52.552   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-26 02:01:42.555   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-26 02:02:32.583   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-26 02:03:22.598   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-26 02:04:12.614   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:05:02.641   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:05:52.657   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:06:42.661   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:07:32.688   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:08:22.704   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:10:02.723   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:10:52.739   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:11:42.755   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:12:32.782   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:13:22.786   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:14:12.805   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:15:02.813   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:15:52.829   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:16:42.856   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:17:32.860   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:18:22.876   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-26 02:19:12.942   215   215 I PowerUI : updating low battery warning: level=0 [-2]
+
+04-09 16:53:21.810   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+03-13 05:03:20.564   215   215 I PowerUI : showing low battery warning: level=14 [-1]
+
+03-13 05:04:10.587   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+03-13 05:05:17.732   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+03-13 05:06:07.759   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+03-13 05:07:00.033   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+03-13 05:07:50.095   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+03-13 05:09:41.072   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+03-13 05:10:31.084   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+03-13 05:11:21.111   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+03-13 05:12:11.127   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+03-13 05:13:01.130   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+03-13 05:13:51.146   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+03-13 05:14:41.166   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+03-13 05:15:41.451   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+03-13 05:17:21.470   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+03-13 05:18:13.959   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+03-13 05:19:04.009   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+03-13 05:19:54.013   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+03-13 05:22:31.818   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+03-13 05:23:21.834   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+03-13 05:24:11.865   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+03-13 05:25:51.880   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+03-13 05:26:41.896   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+03-13 05:27:42.177   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+03-13 05:28:32.193   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+03-13 05:29:22.209   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+03-13 05:31:02.244   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+03-13 05:31:52.255   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+03-13 05:32:42.283   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+03-13 05:33:42.537   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+03-13 05:34:32.541   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+03-13 05:35:22.568   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+03-13 05:37:52.611   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+03-13 05:38:42.638   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+03-13 05:41:23.025   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+03-13 05:42:26.908   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+03-13 05:43:16.947   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+03-13 05:44:06.962   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+03-13 05:44:56.970   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+03-13 05:46:37.005   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+03-13 05:47:43.517   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+03-13 05:49:23.560   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+03-13 05:50:13.576   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+03-13 05:51:03.591   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+03-13 05:51:53.607   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+03-13 05:52:43.630   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+03-13 05:53:43.892   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+03-13 05:54:33.908   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+03-13 05:55:23.935   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+03-13 05:57:03.970   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+03-13 05:59:44.330   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+03-13 06:02:14.361   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+03-13 06:03:04.384   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+03-13 06:03:54.392   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+03-13 06:04:44.412   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+03-13 06:07:24.748   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+03-13 06:08:14.775   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+03-13 06:09:04.798   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+03-13 06:10:44.826   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+03-13 06:11:45.130   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:12:35.154   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:13:25.170   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:14:15.185   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:15:05.209   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:15:55.232   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:16:45.232   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:17:45.646   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:18:35.670   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:19:25.685   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:20:15.712   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:21:05.724   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:21:55.744   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:22:45.740   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:23:46.048   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:24:36.060   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:25:26.076   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:26:16.091   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:27:56.123   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:28:46.138   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+03-13 06:29:46.404   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+03-13 06:30:36.439   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+03-13 06:31:26.455   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+03-13 06:33:06.474   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+03-13 06:33:56.498   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+03-13 06:36:36.869   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+03-13 06:38:27.502   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+03-13 06:41:07.576   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+03-13 06:42:00.037   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+03-13 06:42:51.295   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+03-13 06:43:47.349   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+03-13 06:44:37.373   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+03-13 06:45:27.388   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+03-13 06:46:17.392   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+03-13 06:48:50.076   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 06:51:27.752   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 06:52:17.775   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 06:54:00.056   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 06:54:50.076   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 06:55:48.087   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 06:56:38.111   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 06:57:28.119   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 07:00:00.037   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 07:01:48.541   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 07:02:38.545   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 07:03:28.576   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 07:04:18.591   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 07:05:17.959   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 07:06:27.814   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 07:07:27.853   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 07:08:17.857   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 07:09:07.880   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 07:11:49.185   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 07:12:39.220   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 07:14:19.248   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+03-13 07:16:00.037   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:16:50.084   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:17:49.607   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:18:39.630   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:19:29.650   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:20:19.662   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:21:09.670   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:22:00.060   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:23:50.048   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:26:20.103   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:27:10.111   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:28:00.158   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:28:50.142   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:29:50.463   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:30:40.474   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:31:30.502   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:32:40.099   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:33:40.177   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+03-13 07:34:30.216   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+03-13 07:35:20.228   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+03-13 07:36:10.255   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+03-13 07:37:00.259   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+03-13 07:37:50.978   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+03-13 07:38:40.982   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+03-13 07:39:30.998   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+03-13 07:40:21.013   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+03-13 07:41:11.045   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+03-13 07:42:01.052   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+03-13 07:42:51.295   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+03-13 07:44:41.435   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+03-13 07:45:31.439   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+03-13 07:46:21.463   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+03-13 07:47:11.474   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+03-13 07:48:51.494   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+03-13 07:49:51.865   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+07-02 23:33:35.211   212   212 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+04-03 15:04:38.515   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+05-02 12:39:16.580   216   216 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+05-02 12:39:24.931   216   216 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+05-02 12:40:13.470   216   216 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+05-02 12:40:57.443   216   216 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+05-02 12:40:58.638   216   216 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+05-02 12:41:07.048   216   216 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+05-02 12:41:08.314   216   216 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+05-02 12:41:09.244   216   216 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+02-22 14:04:58.254   214   214 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+04-20 16:23:09.157   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+07-05 00:02:43.230   212   212 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+04-18 17:30:38.063   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+05-03 07:38:24.453   216   216 I PowerUI : showing low battery warning: level=14 [-1]
+
+05-03 07:39:14.461   216   216 I PowerUI : updating low battery warning: level=14 [-1]
+
+05-03 07:42:34.504   216   216 I PowerUI : updating low battery warning: level=14 [-1]
+
+05-03 07:43:24.531   216   216 I PowerUI : updating low battery warning: level=14 [-1]
+
+05-03 07:44:14.535   216   216 I PowerUI : updating low battery warning: level=14 [-1]
+
+05-03 07:45:04.562   216   216 I PowerUI : updating low battery warning: level=14 [-1]
+
+05-03 07:47:34.609   216   216 I PowerUI : updating low battery warning: level=14 [-1]
+
+05-03 07:49:14.640   216   216 I PowerUI : updating low battery warning: level=14 [-1]
+
+05-03 07:50:04.664   216   216 I PowerUI : updating low battery warning: level=14 [-1]
+
+05-03 07:51:44.687   216   216 I PowerUI : updating low battery warning: level=13 [-1]
+
+05-03 07:52:34.691   216   216 I PowerUI : updating low battery warning: level=13 [-1]
+
+05-03 07:53:24.707   216   216 I PowerUI : updating low battery warning: level=13 [-1]
+
+05-03 07:56:44.769   216   216 I PowerUI : updating low battery warning: level=13 [-1]
+
+05-03 07:57:34.785   216   216 I PowerUI : updating low battery warning: level=13 [-1]
+
+05-03 08:00:54.859   216   216 I PowerUI : updating low battery warning: level=13 [-1]
+
+05-03 08:01:44.871   216   216 I PowerUI : updating low battery warning: level=13 [-1]
+
+05-03 08:04:14.914   216   216 I PowerUI : updating low battery warning: level=12 [-1]
+
+05-03 08:05:04.926   216   216 I PowerUI : updating low battery warning: level=12 [-1]
+
+05-03 08:05:54.941   216   216 I PowerUI : updating low battery warning: level=12 [-1]
+
+05-03 08:07:34.992   216   216 I PowerUI : updating low battery warning: level=12 [-1]
+
+05-03 08:09:20.676   216   216 I PowerUI : updating low battery warning: level=12 [-1]
+
+05-03 08:12:10.586   216   216 I PowerUI : updating low battery warning: level=12 [-1]
+
+05-03 08:13:00.613   216   216 I PowerUI : updating low battery warning: level=12 [-1]
+
+05-03 08:13:50.637   216   216 I PowerUI : updating low battery warning: level=12 [-1]
+
+05-03 08:15:44.848   216   216 I PowerUI : updating low battery warning: level=11 [-1]
+
+05-03 08:17:24.894   216   216 I PowerUI : updating low battery warning: level=11 [-1]
+
+05-03 08:19:04.926   216   216 I PowerUI : updating low battery warning: level=11 [-1]
+
+05-03 08:24:22.246   216   216 I PowerUI : updating low battery warning: level=11 [-1]
+
+05-03 08:25:12.262   216   216 I PowerUI : updating low battery warning: level=11 [-1]
+
+05-03 08:26:02.289   216   216 I PowerUI : updating low battery warning: level=11 [-1]
+
+05-03 08:26:52.312   216   216 I PowerUI : updating low battery warning: level=10 [-1]
+
+05-03 08:27:42.316   216   216 I PowerUI : updating low battery warning: level=10 [-1]
+
+05-03 08:28:32.336   216   216 I PowerUI : updating low battery warning: level=10 [-1]
+
+05-03 08:30:12.363   216   216 I PowerUI : updating low battery warning: level=10 [-1]
+
+05-03 08:36:02.469   216   216 I PowerUI : updating low battery warning: level=9 [-1]
+
+05-03 08:37:42.512   216   216 I PowerUI : updating low battery warning: level=9 [-1]
+
+05-03 08:38:36.883   216   216 I PowerUI : updating low battery warning: level=9 [-1]
+
+05-03 08:43:00.648   216   216 I PowerUI : updating low battery warning: level=9 [-1]
+
+05-03 08:43:50.687   216   216 I PowerUI : updating low battery warning: level=9 [-1]
+
+05-03 08:44:43.613   216   216 I PowerUI : updating low battery warning: level=9 [-1]
+
+05-03 08:45:43.750   216   216 I PowerUI : updating low battery warning: level=9 [-1]
+
+05-03 08:49:03.836   216   216 I PowerUI : updating low battery warning: level=8 [-1]
+
+05-03 08:56:07.258   216   216 I PowerUI : updating low battery warning: level=8 [-1]
+
+05-03 08:57:00.039   216   216 I PowerUI : updating low battery warning: level=8 [-1]
+
+05-03 09:00:20.141   216   216 I PowerUI : updating low battery warning: level=8 [-1]
+
+05-03 09:05:21.133   216   216 I PowerUI : updating low battery warning: level=7 [-1]
+
+05-03 09:13:16.199   216   216 I PowerUI : updating low battery warning: level=7 [-1]
+
+05-03 09:14:13.543   216   216 I PowerUI : updating low battery warning: level=7 [-1]
+
+05-03 09:15:03.562   216   216 I PowerUI : updating low battery warning: level=7 [-1]
+
+05-03 09:15:53.574   216   216 I PowerUI : updating low battery warning: level=7 [-1]
+
+05-03 09:18:23.629   216   216 I PowerUI : updating low battery warning: level=7 [-1]
+
+05-03 09:19:13.629   216   216 I PowerUI : updating low battery warning: level=7 [-1]
+
+05-03 09:20:03.648   216   216 I PowerUI : updating low battery warning: level=7 [-1]
+
+05-03 09:21:02.418   216   216 I PowerUI : updating low battery warning: level=7 [-1]
+
+05-03 09:21:52.453   216   216 I PowerUI : updating low battery warning: level=7 [-1]
+
+05-03 09:22:42.445   216   216 I PowerUI : updating low battery warning: level=7 [-1]
+
+05-03 09:23:32.476   216   216 I PowerUI : updating low battery warning: level=7 [-1]
+
+05-03 09:24:22.508   216   216 I PowerUI : updating low battery warning: level=6 [-1]
+
+05-03 09:25:12.531   216   216 I PowerUI : updating low battery warning: level=6 [-1]
+
+05-03 09:26:52.566   216   216 I PowerUI : updating low battery warning: level=6 [-1]
+
+05-03 09:27:42.594   216   216 I PowerUI : updating low battery warning: level=6 [-1]
+
+05-03 09:28:32.613   216   216 I PowerUI : updating low battery warning: level=6 [-1]
+
+05-03 09:29:22.637   216   216 I PowerUI : updating low battery warning: level=6 [-1]
+
+05-03 09:32:04.168   216   216 I PowerUI : updating low battery warning: level=6 [-1]
+
+05-03 09:32:54.207   216   216 I PowerUI : updating low battery warning: level=6 [-1]
+
+05-03 09:33:44.223   216   216 I PowerUI : updating low battery warning: level=6 [-1]
+
+05-03 09:34:34.246   216   216 I PowerUI : updating low battery warning: level=6 [-1]
+
+05-03 09:35:24.266   216   216 I PowerUI : updating low battery warning: level=6 [-1]
+
+05-03 09:36:14.285   216   216 I PowerUI : updating low battery warning: level=6 [-1]
+
+05-03 09:37:04.297   216   216 I PowerUI : updating low battery warning: level=6 [-1]
+
+05-03 09:37:54.312   216   216 I PowerUI : updating low battery warning: level=6 [-1]
+
+05-03 09:38:44.340   216   216 I PowerUI : updating low battery warning: level=6 [-1]
+
+05-03 09:39:34.355   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:40:24.359   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:41:20.707   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:42:10.738   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:43:00.742   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:43:50.758   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:44:40.773   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:45:47.031   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:46:37.082   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:47:27.098   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:48:17.113   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:49:07.133   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:50:47.172   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:51:37.195   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:52:27.215   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:53:17.219   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:54:09.797   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:55:00.055   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:55:50.082   216   216 I PowerUI : updating low battery warning: level=5 [-1]
+
+05-03 09:56:40.098   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+05-03 09:57:25.059   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+05-03 09:57:26.992   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+05-03 09:57:28.922   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+05-03 09:58:18.949   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+05-03 09:59:08.961   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+05-03 10:00:00.062   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+05-03 10:00:50.117   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+05-03 10:01:40.133   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+05-03 10:02:30.156   216   216 I PowerUI : updating low battery warning: level=3 [-2]
+
+05-03 10:03:20.152   216   216 I PowerUI : updating low battery warning: level=3 [-2]
+
+05-03 10:04:10.184   216   216 I PowerUI : updating low battery warning: level=3 [-2]
+
+05-03 10:05:05.523   216   216 I PowerUI : updating low battery warning: level=3 [-2]
+
+05-03 10:05:55.566   216   216 I PowerUI : updating low battery warning: level=3 [-2]
+
+05-03 10:06:45.578   216   216 I PowerUI : updating low battery warning: level=3 [-2]
+
+05-03 10:07:35.594   216   216 I PowerUI : updating low battery warning: level=3 [-2]
+
+05-03 10:08:25.605   216   216 I PowerUI : updating low battery warning: level=2 [-2]
+
+05-03 10:09:15.625   216   216 I PowerUI : updating low battery warning: level=2 [-2]
+
+05-03 10:10:06.371   216   216 I PowerUI : updating low battery warning: level=2 [-2]
+
+05-03 10:10:56.418   216   216 I PowerUI : updating low battery warning: level=2 [-2]
+
+05-03 10:11:46.434   216   216 I PowerUI : updating low battery warning: level=2 [-2]
+
+05-03 10:12:36.449   216   216 I PowerUI : updating low battery warning: level=2 [-2]
+
+05-03 10:13:26.465   216   216 I PowerUI : updating low battery warning: level=2 [-2]
+
+05-03 10:14:28.359   216   216 I PowerUI : updating low battery warning: level=2 [-2]
+
+05-03 10:15:18.402   216   216 I PowerUI : updating low battery warning: level=2 [-2]
+
+05-03 10:16:08.430   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+05-03 10:17:17.242   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-02 19:54:36.944   215   215 I PowerUI : showing low battery warning: level=14 [-1]
+
+04-02 19:55:44.995   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-02 19:56:35.007   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-02 19:57:25.022   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-02 19:58:15.026   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-02 19:59:05.054   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-02 19:59:55.054   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-02 20:00:45.120   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-02 20:01:35.136   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-02 20:02:25.151   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-02 20:03:15.167   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-02 20:04:05.186   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-02 20:04:55.194   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-02 20:05:45.245   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-02 20:07:31.589   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-02 20:08:31.729   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-02 20:10:11.757   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-02 20:11:04.155   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-02 20:12:54.202   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-02 20:13:44.202   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-02 20:15:24.229   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-02 20:16:14.257   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-02 20:17:04.268   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-02 20:17:54.272   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-02 20:19:34.300   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+04-02 20:20:24.319   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-02 20:22:04.350   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-02 20:22:54.362   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-02 20:24:37.093   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+04-02 20:25:45.698   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-02 20:26:35.718   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-02 20:27:25.733   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-02 20:28:15.753   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-02 20:29:05.753   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-02 20:29:55.776   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-02 20:30:45.815   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-02 20:31:35.843   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-02 20:33:15.870   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-02 20:34:05.882   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-02 20:34:55.889   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-02 20:35:45.932   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-02 20:36:35.987   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-02 20:37:25.979   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-02 20:38:16.003   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-02 20:39:06.018   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-02 20:39:56.026   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-02 20:41:36.100   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-02 20:42:26.112   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-02 20:43:16.120   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-02 20:44:06.139   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-02 20:44:56.155   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-02 20:45:46.186   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-02 20:46:36.214   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-02 20:47:26.225   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-02 20:48:16.245   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-02 20:49:06.249   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-02 20:49:56.268   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-02 20:50:46.319   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-02 20:51:36.347   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-02 20:52:31.577   215   215 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-02 20:53:39.225   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-02 20:54:29.241   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-02 20:55:19.257   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-02 20:56:09.264   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-02 20:57:04.507   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-02 20:57:54.526   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-02 20:58:44.546   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-02 20:59:34.554   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-02 21:00:24.577   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-02 21:01:14.585   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-02 21:02:04.600   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-02 21:02:54.620   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-02 21:03:44.643   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-02 21:04:34.651   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-02 21:05:24.667   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-02 21:06:14.682   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-02 21:07:04.694   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-02 21:07:55.487   215   215 I PowerUI : updating low battery warning: level=0 [-2]
+
+04-12 17:22:59.333   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+04-19 17:48:17.216   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+05-03 10:18:07.281   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+05-03 10:19:14.879   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+05-03 10:20:06.363   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+05-03 10:20:56.402   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+05-03 10:21:46.422   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+05-03 10:22:36.441   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+05-03 10:23:26.457   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+05-03 10:24:16.473   216   216 I PowerUI : updating low battery warning: level=1 [-2]
+
+05-03 10:25:06.574   216   216 I PowerUI : updating low battery warning: level=0 [-2]
+
+06-07 10:48:55.745   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+06-07 10:49:45.772   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+06-07 10:51:29.491   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+06-07 10:52:29.889   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+06-07 10:53:19.932   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+06-07 10:55:50.100   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+06-07 11:01:02.792   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+06-07 11:01:52.819   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+06-07 11:03:32.897   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+06-07 11:09:23.034   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+06-07 11:12:16.741   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+06-07 11:13:16.155   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+06-07 11:14:06.202   215   215 I PowerUI : updating low battery warning: level=6 [-1]
+
+06-07 11:16:45.042   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:17:43.222   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:18:33.261   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:19:23.264   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:20:30.495   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:21:20.522   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:23:00.577   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:23:50.604   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:26:20.624   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:28:00.694   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:28:50.722   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:31:20.768   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:33:00.811   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:33:50.827   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:36:33.518   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:37:23.550   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:40:43.620   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:43:24.284   215   215 I PowerUI : updating low battery warning: level=5 [-1]
+
+06-07 11:45:06.272   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+06-07 11:45:14.401   215   215 I PowerUI : updating low battery warning: level=4 [-2]
+
+06-07 11:45:14.733   215   215 I PowerUI : closing low battery warning: level=4
+
+06-07 11:45:14.733   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+04-03 17:04:24.551   215   215 I PowerUI : showing low battery warning: level=14 [-1]
+
+04-03 17:05:14.555   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-03 17:06:04.484   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-03 17:06:54.507   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-03 17:07:44.543   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+04-03 17:08:34.550   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-03 17:09:24.585   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-03 17:10:14.585   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-03 17:11:04.605   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+04-03 17:12:44.656   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-03 17:13:54.160   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-03 17:14:54.640   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+04-03 17:15:54.750   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-03 17:16:44.773   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-03 17:18:24.816   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-03 17:19:14.820   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-03 17:20:04.843   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+04-03 17:20:54.875   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+04-03 17:21:39.152   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+04-06 17:28:34.942   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+04-27 18:52:28.020   216   216 I PowerUI : showing low battery warning: level=14 [-1]
+
+04-27 19:59:31.239   216   216 I PowerUI : showing low battery warning: level=4 [-2]
+
+04-27 20:01:11.247   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-27 20:02:51.290   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-27 20:03:41.298   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-27 20:04:31.337   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-27 20:06:11.380   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-27 20:07:01.407   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-27 20:07:55.399   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-27 20:08:45.427   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-27 20:09:35.427   216   216 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-27 20:10:24.881   216   216 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-27 20:11:30.295   216   216 I PowerUI : updating low battery warning: level=3 [-2]
+
+06-05 15:03:25.550   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+04-24 20:07:40.808   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 20:08:30.835   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 20:10:10.859   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 20:11:00.871   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 20:11:50.898   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 20:12:40.914   214   214 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-24 20:13:30.917   214   214 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-24 20:14:20.933   214   214 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-24 20:15:10.964   214   214 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-24 20:16:50.980   214   214 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-24 20:17:41.007   214   214 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-24 20:18:40.761   214   214 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-24 20:19:40.863   214   214 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-24 20:20:30.886   214   214 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-24 20:21:20.921   214   214 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-24 20:22:10.933   214   214 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-24 20:23:00.949   214   214 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-24 20:24:03.699   214   214 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-24 20:24:53.718   214   214 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-24 20:28:13.824   214   214 I PowerUI : updating low battery warning: level=6 [-1]
+
+04-24 20:29:03.828   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:29:53.828   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:30:43.843   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:31:33.859   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:32:23.874   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:33:14.164   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:34:14.312   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:35:04.355   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:35:54.355   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:36:44.390   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:39:14.429   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:40:54.453   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:41:44.484   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:42:34.492   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:43:24.519   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:44:14.523   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:45:04.539   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:46:12.792   214   214 I PowerUI : updating low battery warning: level=5 [-1]
+
+04-24 20:47:02.832   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 20:47:52.851   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 20:48:58.605   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 20:49:48.644   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 20:50:38.652   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 20:51:28.660   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 20:52:18.687   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 20:53:08.703   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 20:54:54.476   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 20:56:34.507   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 20:57:24.511   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 20:58:14.539   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 20:59:04.566   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 20:59:54.582   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 21:02:24.628   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 21:03:14.652   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 21:04:04.683   214   214 I PowerUI : updating low battery warning: level=4 [-2]
+
+04-24 21:04:54.703   214   214 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-24 21:05:44.714   214   214 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-24 21:07:24.746   214   214 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-24 21:08:14.761   214   214 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-24 21:09:04.804   214   214 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-24 21:09:54.816   214   214 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-24 21:10:44.839   214   214 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-24 21:11:34.847   214   214 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-24 21:12:24.863   214   214 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-24 21:13:14.886   214   214 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-24 21:14:04.953   214   214 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-24 21:14:54.980   214   214 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-24 21:15:44.984   214   214 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-24 21:16:35.011   214   214 I PowerUI : updating low battery warning: level=3 [-2]
+
+04-24 21:17:25.015   214   214 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-24 21:18:15.042   214   214 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-24 21:19:55.089   214   214 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-24 21:20:45.109   214   214 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-24 21:21:35.136   214   214 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-24 21:23:15.203   214   214 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-24 21:24:05.218   214   214 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-24 21:24:55.238   214   214 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-24 21:25:45.250   214   214 I PowerUI : updating low battery warning: level=2 [-2]
+
+04-24 21:26:35.277   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:27:25.281   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:28:15.296   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:29:05.328   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:29:55.351   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:30:45.367   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:31:35.371   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:32:25.386   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:33:15.421   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:34:05.464   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:34:55.488   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:35:45.496   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:36:35.511   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:37:25.519   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:38:15.550   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:39:05.605   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:39:55.640   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:40:45.648   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:41:35.671   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:42:29.601   214   214 I PowerUI : updating low battery warning: level=1 [-2]
+
+04-24 21:43:19.656   214   214 I PowerUI : updating low battery warning: level=0 [-2]
+
+03-13 07:50:41.869   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+03-13 07:51:31.888   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+03-13 07:52:21.904   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+03-13 07:53:13.963   215   215 I PowerUI : updating low battery warning: level=2 [-2]
+
+03-13 07:54:03.998   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+03-13 07:54:54.005   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+03-13 07:55:52.283   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+03-13 07:56:42.306   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+03-13 07:57:51.291   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+03-13 07:59:31.338   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+03-13 08:00:21.361   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+03-13 08:01:25.572   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+03-13 08:02:15.623   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+03-13 08:03:05.630   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+03-13 08:03:55.658   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+03-13 08:04:45.673   215   215 I PowerUI : updating low battery warning: level=1 [-2]
+
+03-13 08:05:53.037   215   215 I PowerUI : updating low battery warning: level=0 [-2]
+
+02-22 14:04:58.254   214   214 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+06-07 09:21:50.284   215   215 I PowerUI : showing low battery warning: level=14 [-1]
+
+06-07 09:26:00.350   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+06-07 09:30:20.319   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+06-07 09:31:10.335   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+06-07 09:32:00.339   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+06-07 09:32:50.366   215   215 I PowerUI : updating low battery warning: level=14 [-1]
+
+06-07 09:34:30.409   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+06-07 09:35:20.405   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+06-07 09:37:15.460   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+06-07 09:40:35.534   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+06-07 09:41:25.550   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+06-07 09:45:00.128   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+06-07 09:46:01.913   215   215 I PowerUI : updating low battery warning: level=13 [-1]
+
+06-07 09:47:41.971   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+06-07 09:48:31.956   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+06-07 09:49:22.007   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+06-07 09:50:12.007   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+06-07 09:51:02.038   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+06-07 09:52:42.057   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+06-07 09:53:32.081   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+06-07 09:55:12.100   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+06-07 09:56:20.491   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+06-07 09:58:00.530   215   215 I PowerUI : updating low battery warning: level=12 [-1]
+
+06-07 09:59:07.796   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+06-07 10:01:40.081   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+06-07 10:02:41.288   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+06-07 10:05:14.878   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+06-07 10:06:54.936   215   215 I PowerUI : updating low battery warning: level=11 [-1]
+
+06-07 10:08:34.975   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+06-07 10:11:55.038   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+06-07 10:12:45.057   215   215 I PowerUI : updating low battery warning: level=10 [-1]
+
+06-07 10:16:28.913   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+06-07 10:19:00.030   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+06-07 10:20:40.089   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+06-07 10:22:20.124   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+06-07 10:24:00.136   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+06-07 10:24:50.171   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+06-07 10:26:30.163   215   215 I PowerUI : updating low battery warning: level=9 [-1]
+
+06-07 10:27:20.210   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+06-07 10:28:10.225   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+06-07 10:29:00.233   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+06-07 10:29:50.253   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+06-07 10:30:40.276   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+06-07 10:31:30.280   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+06-07 10:34:04.323   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+06-07 10:35:06.167   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+06-07 10:35:56.182   215   215 I PowerUI : updating low battery warning: level=8 [-1]
+
+06-07 10:39:22.237   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+06-07 10:40:12.264   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+06-07 10:41:52.284   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+06-07 10:45:20.850   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+06-07 10:46:10.866   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+06-07 10:48:05.745   215   215 I PowerUI : updating low battery warning: level=7 [-1]
+
+04-23 17:26:55.601   215   215 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
+02-23 15:20:55.953   214   214 W PowerUI : unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+
