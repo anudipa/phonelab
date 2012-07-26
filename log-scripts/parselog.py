@@ -148,7 +148,7 @@ def forall(path):
 
 
 def getLinesforTag(path,keyword):
-	myfile  = open('/home/anudipa/logs/'+keyword+'.log','w')
+	myfile  = open('/home/phonelab/logs/'+keyword+'.log','w')
 	fileList = [os.path.join(path, fi) for fi in os.listdir(path)]
         for f in fileList:
                 try:

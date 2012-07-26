@@ -1,0 +1,16 @@
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/A000002A286CCA
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/A000002A28E207
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/A000002A2866B6
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/A000002A28660B
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/A000002A28021D
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/A000002A2714A6
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/A000002A280141
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/A000002A27FB17
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/A000002A28C4A1
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/A000002A28C4AB
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/A000002A28D8AC
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/A000002A27881D
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/A000002A28E17B
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/A000002A278A00
+Normalised wifi signals ---> /home/anudipa/phonelab/logs/logs/A000002A2864F1
