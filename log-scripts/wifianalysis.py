@@ -1,16 +1,20 @@
 import os
-from numpy import arange
+import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 from pylab import *
 from datetime import datetime
-
+from collections import defaultdict
 
 def analyse(path):
 #Define the names and the path of the file where graphs will be stored
         fname1 = os.path.join(path,'wifisignal.pdf')
+	fname2 = os.path.join(path,'wifibssid.pdf')
+	fname3 = os.path.join(path, 'wifibssid1.pdf')
         pp1 = PdfPages(fname1)
+	pp2 = PdfPages(fname2)
+	pp3 = PdfPages(fname3)
         c = 0
         cmap1 = mpl.cm.autumn
         cmap2 = mpl.cm.winter
@@ -21,7 +25,10 @@ def analyse(path):
                 timestamp = []
                 filelist = []
 		dictionary = {}
-		dates = []
+	
+		bssid = []
+		dict_ = defaultdict(list)
+		dict2 = defaultdict(list)
 #       print fname
 #               print dirs
 #               print files
@@ -64,11 +71,12 @@ def analyse(path):
 
 # when calculating number of times device connected to a bssid each day
 					if tag.startswith('PhoneLab-WiFiReceiver') and data[6].startswith('SSID'):
-						debug.write('SSID: %s   BSSID: %s\n' % (data[7],data[9]))
+						#debug.write('SSID: %s   BSSID: %s\n' % (data[7],data[9]))
 						newdate = data[0] + '-12 ' + data[1]
                                                 t = datetime.strptime(newdate,'%m-%d-%y %H:%M:%S.%f')
-						dictionary[t]=data[9]
-
+						key = data[9]
+						dict_[key].append(t.date())
+						dict2[t.date()] = key
 		log.close()
 #************ GRAPH PLOTTING SECTION ***********************
 
@@ -109,15 +117,77 @@ def analyse(path):
 
 #Graph for plotting number of times a device connected to each BSSID each day
 #Step 1 : count number of times bssid appeared for each unique date
-		for item in dictionary:
-			debug.write('%s : %s\n' % (item, dictionary[item]))
-			print item, dictionary[item]
-		for key, item in dictionary.iteritems():
-			if len(date) == 0
-				date.append(key)
-			elif date.count(key.date()) > 0:
+			col = np.random.random(len(dict_))	
+#			print col
+			fig2 = figure(c, dpi=10)
+			for item in dict_:
+				debug.write('%s : %s\n' % (item, dict_[item]))
+				current = list(dict_[item])
+				dates = []
+				new_count = []
+#				print item
+				for i in xrange(0,len(current)):
+					if len(dates) == 0 or dates.count(current[i]) == 0:
+						dates.append(current[i])
+						new_count.append(current.count(dates[-1]))
+#					else:
+#						index = dates.index(current[i])
+#						new_count[index] += 1				
+				
+				plot(dates,new_count, '--o', label=item)
+				grid()
+				legend(handlelength=10)
+			title('Number of times %s connects to different BSSID' % device[-1])
+			xlabel('Time', fontsize=15)
+			ylabel('Number of times', fontsize=15)
+			pp2.savefig(fig2)
+			close()
+			fig2.clear()
+			
+#Graph for visualising total number of connections to access points per device
+		
+		if len(dict2) > 0:
+			x = []
+			y = []
+			fig3 = figure(c,dpi=10)
+			for item in dict2:
+				current = list(dict2[item])
+				bssid_count = len(current)
+				y.append(bssid_count)
+				x.append(item)
+			bar(x,y,width=.5, color = cmap1(0.4))
+			title('Number of access points %s connects to each day' % device[-1])
+			pp3.savefig(fig3)
+			close()
+			fig3.clear()
+#Graph for visualising total number of connections to AP where consecutive coonections to same AP are discarded
+		if len(dict2) > 0:
+			x = []
+			y = []
+			fig4 = figure(c,dpi=10)
+			for item in dict2:
+				current = list(dict2[item])
+				bssid_count = 0
+				for i in xrange(0,len(current)):
+					if i == 0 or current[i] != current[i-1]:
+						bssid_count += 1
+				y.append(bssid_count)
+				x.append(item)
+			plot(x,y,'--o',color = cmap1(0.8))
+			title('Visualising possible movement of %s each day' % device[-1])
+			xlabel('Time', fontsize=15)
+			ylabel('Number of coonections', fontsize=15)
+			pp3.savefig(fig4)
+			close()
+			fig4.clear()
+
+#Graph for visualising in one day a device changes how many access point
+
+#Graph for visualing in each day different devicse connect to how many access points
 				
 
-#losing the files that are open
+#Closing the files that are open
 	pp1.close()
+	pp2.close()
+	pp3.close()
 	debug.close()
