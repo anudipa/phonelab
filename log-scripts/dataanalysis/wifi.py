@@ -99,7 +99,7 @@ def signalplot(path):
 
 
 def signaldata(path):
-	signaldict = defaultdict(defaultdict)
+	signaldict = defaultdict(int)
 	for root,dirs,files in os.walk(path):
                 device = root.split('/')
 		key = device[-1]
@@ -126,7 +126,7 @@ def signaldata(path):
                                                 temp = data[7]
                                                 newdate = data[0] + '-12 ' + data[1]
                                                 t = datetime.strptime(newdate,'%m-%d-%y %H:%M:%S.%f')
-						signaldict[key][t].append(temp)
+						signaldict[t]=temp
 
                         log.close()
 	return signaldict

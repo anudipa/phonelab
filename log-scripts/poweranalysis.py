@@ -8,11 +8,15 @@ from datetime import datetime
 
 
 def chargeprof(path):
+	d = os.path.join(path,'power')
+        if not os.path.exists(d):
+                os.makedirs(d)
+
 #Define the names and the path of the file where graphs will be stored
-        fname1 = os.path.join(path,'chargeleft.pdf')
-        fname2 = os.path.join(path,'batterylevel.pdf')
-	fname3 = os.path.join(path,'normalisedlevel.pdf')
-	fname4 = os.path.join(path,'powerui.pdf')
+        fname1 = os.path.join(d,'chargeleft.pdf')
+        fname2 = os.path.join(d,'batterylevel.pdf')
+	fname3 = os.path.join(d,'normalisedlevel.pdf')
+	fname4 = os.path.join(d,'powerui.pdf')
         pp1 = PdfPages(fname1)
         pp2 = PdfPages(fname2)
 	pp3 = PdfPages(fname3)

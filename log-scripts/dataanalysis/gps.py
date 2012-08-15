@@ -123,8 +123,8 @@ def gpsplot(path):
                         pp1.close()
 
 
-def gpsdata(path)
-	gpsdict = defaultdict(lambda: defaultdict(float))
+def gpsdata(path):
+	gpsdict = defaultdict(list)
 	for root,dirs,files in os.walk(path):
                 timestamp = []
                 lat = []
@@ -153,28 +153,10 @@ def gpsdata(path)
                                                 longitude = data[9]
                                                 newdate = data[0] + '-12 ' + data[1]
                                                 t = datetime.strptime(newdate,'%m-%d-%y %H:%M:%S.%f')
-                                                if len(timestamp) == 0:
-                                                        timestamp.append(t)
-                                                        lat.append(float(latitude))
-                                                        lon.append(float(longitude))
-                                                elif timestamp[-1] < t:
-                                                        timestamp.append(t)
-                                                        lat.append(float(latitude))
-                                                        lon.append(float(longitude))
-                                                elif timestamp[0] > t:
-                                                        timestamp.insert(0,t)
-                                                        lat.insert(0,float(latitude))
-                                                        lon.append(float(longitude))
-                                                else:
-                                                        for j in xrange(0,len(timestamp)-2):
-                                                                if timestamp[j] < t and timestamp[j+1] > t:
-                                                                        timestamp.insert(j+1,t)
-                                                                        lat.insert(j+1,float(latitude))
-                                                                        lon.append(float(longitude))
-
+						gpsdict[t].append(latitude)
+						gpsdict[t].append(longitude)
                         log.close()
-		for i in xrange(0,len(timestamp)):
-			gpsdict[timestamp[i]][lat[i]]=lon[i]
+			
 
-
-		
+#	print gpsdict
+	return gpsdict	
