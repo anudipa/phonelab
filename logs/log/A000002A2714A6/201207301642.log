@@ -1,0 +1,396 @@
+I/dalvikvm( 1803): threadid=3: reacting to signal 3
+I/dalvikvm( 1803): Wrote stack traces to '/data/anr/traces.txt'
+D/PhoneStatusBar(  225): disable: < expand icons alerts ticker system_info back* home* RECENT clock* >
+I/Process (  156): Sending signal. PID: 1803 SIG: 3
+I/dalvikvm( 1803): threadid=3: reacting to signal 3
+I/dalvikvm( 1803): Wrote stack traces to '/data/anr/traces.txt'
+I/Process (  156): Sending signal. PID: 1803 SIG: 3
+I/dalvikvm( 1803): threadid=3: reacting to signal 3
+I/dalvikvm( 1803): Wrote stack traces to '/data/anr/traces.txt'
+I/Process (  156): Sending signal. PID: 1803 SIG: 3
+I/dalvikvm( 1803): threadid=3: reacting to signal 3
+I/dalvikvm( 1803): Wrote stack traces to '/data/anr/traces.txt'
+I/ActivityManager(  156): Process android.process.acore (pid 2926) has died.
+I/Process (  156): Sending signal. PID: 1803 SIG: 3
+I/dalvikvm( 1803): threadid=3: reacting to signal 3
+I/dalvikvm( 1803): Wrote stack traces to '/data/anr/traces.txt'
+I/ActivityManager(  156): START {act=android.intent.action.VIEW dat=content://gmail-ls/account/anandatirtha@gmail.com/label/^i/conversationId/1408950047407260884/maxServerMessageId/1408950047407260884/labels/anandatirtha%40gmail.com^*^2^*^^i^*^Inbox^*^0^*^0^**^anandatirtha%40gmail.com^*^3^*^^u^*^Unread^*^0^*^1^**^anandatirtha%40gmail.com^*^-505^*^^^unseen-^i^*^^*^2147483647^*^1 typ=application/gmail-ls flg=0x10008000 cmp=com.google.android.gm/.ConversationListActivityGmail bnds=[96,119][480,215] (has extras)} from pid -1
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+I/Process (  156): Sending signal. PID: 1803 SIG: 3
+I/dalvikvm( 1803): threadid=3: reacting to signal 3
+W/KeyguardViewMediator(  156): verifyUnlock called when not externally disabled
+I/dalvikvm( 1803): Wrote stack traces to '/data/anr/traces.txt'
+D/WebViewTimersControl( 1803): onBrowserActivityPause
+D/WebViewTimersControl( 1803): Pausing webview timers, view=com.android.browser.BrowserWebView@413d5ac0
+I/ActivityManager(  156): Start proc com.google.android.gm for activity com.google.android.gm/.ConversationListActivityGmail: pid=3012 uid=10053 gids={3003, 1015}
+D/PhoneStatusBar(  225): disable: < expand icons alerts ticker system_info BACK* HOME* RECENT CLOCK* >
+I/ActivityThread( 3012): Pub gmail-ls: com.google.android.gm.provider.MailProvider
+I/ActivityThread( 3012): Pub com.google.android.gmail.SuggestionProvider: com.google.android.gm.SuggestionsProvider
+I/ActivityThread( 3012): Pub com.google.android.gm: com.google.android.gm.provider.PublicContentProvider
+D/OpenGLRenderer( 1803): Flushing caches (mode 1)
+D/dalvikvm(  156): GC_EXPLICIT freed 469K, 12% free 14111K/15943K, paused 18ms+8ms
+D/dalvikvm( 3012): GC_CONCURRENT freed 253K, 4% free 9283K/9607K, paused 9ms+3ms
+D/dalvikvm( 3012): GC_CONCURRENT freed 172K, 3% free 9601K/9863K, paused 6ms+3ms
+I/ActivityManager(  156): Start proc com.google.android.gsf.login for service com.google.android.gsf.login/com.google.android.gsf.loginservice.GoogleLoginService: pid=3036 uid=10009 gids={3003, 1015, 1007, 2001, 3006}
+D/dalvikvm( 3012): GC_FOR_ALLOC freed 138K, 3% free 9812K/10055K, paused 34ms
+I/dalvikvm-heap( 3012): Grow heap (frag case) to 10.383MB for 768016-byte allocation
+D/dalvikvm( 3012): GC_FOR_ALLOC freed 9K, 3% free 10552K/10823K, paused 36ms
+D/dalvikvm( 3012): GC_CONCURRENT freed 13K, 3% free 10577K/10823K, paused 8ms+3ms
+I/Gmail   ( 3012): calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+I/Gmail   ( 3012): calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+D/libEGL  ( 3012): loaded /system/lib/egl/libGLES_android.so
+D/libEGL  ( 3012): loaded /vendor/lib/egl/libEGL_POWERVR_SGX540_120.so
+D/libEGL  ( 3012): loaded /vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so
+D/libEGL  ( 3012): loaded /vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so
+I/ActivityManager(  156): Process com.google.android.apps.maps:FriendService (pid 2977) has died.
+D/OpenGLRenderer( 3012): Enabling debug mode 0
+I/ActivityManager(  156): Process com.google.android.apps.maps:LocationFriendService (pid 2990) has died.
+I/ActivityManager(  156): Displayed com.google.android.gm/.ConversationListActivityGmail: +2s433ms
+D/OpenGLRenderer( 1803): Flushing caches (mode 0)
+D/PhoneStatusBar(  225): disable: < expand icons alerts ticker system_info BACK HOME recent* CLOCK >
+D/PhoneStatusBar(  225): disable: < expand icons alerts ticker system_info back* home* recent clock* >
+D/NfcService(  364): NFC-C ON
+I/ActivityManager(  156): Process com.google.android.gsf.login (pid 3036) has died.
+D/dalvikvm( 3012): GC_CONCURRENT freed 219K, 3% free 10814K/11143K, paused 8ms+21ms
+D/dalvikvm( 3012): GC_CONCURRENT freed 277K, 4% free 11157K/11527K, paused 3ms+4ms
+I/ActivityManager(  156): Start proc android.process.acore for content provider com.android.providers.contacts/.ContactsProvider2: pid=3067 uid=10000 gids={3003, 1015}
+I/ActivityThread( 3067): Pub com.android.voicemail: com.android.providers.contacts.VoicemailContentProvider
+I/ActivityThread( 3067): Pub user_dictionary: com.android.providers.userdictionary.UserDictionaryProvider
+I/ActivityThread( 3067): Pub com.android.social: com.android.providers.contacts.SocialProvider
+I/ActivityThread( 3067): Pub applications: com.android.providers.applications.ApplicationsProvider
+I/ActivityThread( 3067): Pub contacts;com.android.contacts: com.android.providers.contacts.ContactsProvider2
+D/dalvikvm( 3067): GC_CONCURRENT freed 353K, 5% free 9183K/9607K, paused 2ms+2ms
+I/Gmail   ( 3012): calculateUnknownSyncRationalesAndPurgeInBackground: running
+I/ActivityThread( 3067): Pub call_log: com.android.providers.contacts.CallLogProvider
+W/InputManagerService(  156): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@41560578 (uid=10003 pid=1803)
+I/Gmail   ( 3012): calculateUnknownSyncRationalesAndPurgeInBackground: running
+W/IInputConnectionWrapper( 1803): showStatusIcon on inactive InputConnection
+I/ActivityManager(  156): Process com.google.android.apps.maps:NetworkLocationService (pid 2956) has died.
+W/ActivityManager(  156): Scheduling restart of crashed service com.google.android.apps.maps/com.google.android.location.internal.server.NetworkLocationService in 5000ms
+I/Gmail   ( 3012): calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+I/Gmail   ( 3012): calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+D/dalvikvm( 3067): GC_CONCURRENT freed 189K, 4% free 9428K/9735K, paused 7ms+7ms
+I/Gmail   ( 3012): calculateUnknownSyncRationalesAndPurgeInBackground: running
+I/Gmail   ( 3012): calculateUnknownSyncRationalesAndPurgeInBackground: running
+D/OpenGLRenderer( 1803): Flushing caches (mode 2)
+D/OpenGLRenderer( 1803): Flushing caches (mode 0)
+W/ManagedEGLContext( 1803): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm( 3012): GC_CONCURRENT freed 605K, 7% free 11191K/11911K, paused 3ms+8ms
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+I/Gmail   ( 3012): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+I/Gmail   ( 3012): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778935, normalSync: true
+D/dalvikvm( 3012): GC_FOR_ALLOC freed 887K, 13% free 10478K/11911K, paused 89ms
+I/dalvikvm-heap( 3012): Grow heap (frag case) to 11.034MB for 768016-byte allocation
+D/dalvikvm( 3012): GC_FOR_ALLOC freed 25K, 6% free 11202K/11911K, paused 32ms
+D/dalvikvm( 3012): GC_CONCURRENT freed 5K, 6% free 11218K/11911K, paused 57ms+4ms
+E/Gmail_BOH( 3012): Thread still active!
+I/ActivityManager(  156): Start proc com.google.android.gsf.login for service com.google.android.gsf.login/com.google.android.gsf.loginservice.GoogleLoginService: pid=3094 uid=10009 gids={3003, 1015, 1007, 2001, 3006}
+D/webviewglue( 3012): nativeDestroy view: 0x140ec00
+D/webviewglue( 3012): nativeDestroy view: 0x1757160
+D/dalvikvm( 3012): GC_CONCURRENT freed 1305K, 12% free 10645K/12039K, paused 2ms+6ms
+D/dalvikvm( 3012): GC_CONCURRENT freed 372K, 11% free 10788K/12039K, paused 9ms+10ms
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+I/ActivityManager(  156): Start proc com.google.android.apps.maps:NetworkLocationService for service com.google.android.apps.maps/com.google.android.location.internal.server.NetworkLocationService: pid=3113 uid=10058 gids={3003, 1015}
+D/dalvikvm( 3113): GC_CONCURRENT freed 174K, 3% free 9362K/9607K, paused 2ms+11ms
+D/dalvikvm( 3012): GC_CONCURRENT freed 516K, 10% free 10852K/12039K, paused 10ms+5ms
+D/dalvikvm( 3012): GC_EXPLICIT freed 148K, 11% free 10724K/12039K, paused 2ms+4ms
+I/Gmail   ( 3012): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778952, normalSync: true
+D/dalvikvm( 3113): GC_CONCURRENT freed 151K, 3% free 9700K/9927K, paused 2ms+6ms
+D/dalvikvm(  156): GC_EXPLICIT freed 464K, 12% free 14086K/15943K, paused 7ms+6ms
+D/dalvikvm( 3012): GC_EXPLICIT freed 392K, 11% free 10751K/12039K, paused 2ms+5ms
+D/dalvikvm( 3113): GC_CONCURRENT freed 183K, 3% free 10056K/10311K, paused 3ms+9ms
+D/dalvikvm( 3113): GC_CONCURRENT freed 666K, 7% free 9888K/10631K, paused 2ms+2ms
+I/ActivityManager(  156): Start proc com.google.android.apps.maps:FriendService for broadcast com.google.android.apps.maps/com.google.googlenav.friend.android.ServiceReceiver: pid=3138 uid=10058 gids={3003, 1015}
+D/dalvikvm( 3138): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3138): GC_CONCURRENT freed 176K, 3% free 9360K/9607K, paused 3ms+2ms
+D/dalvikvm( 3138): GC_CONCURRENT freed 189K, 3% free 9729K/9991K, paused 2ms+7ms
+I/ActivityManager(  156): Start proc com.google.android.apps.maps:LocationFriendService for broadcast com.google.android.apps.maps/com.google.googlenav.friend.reporting.LocationReportingIntentReceiver: pid=3151 uid=10058 gids={3003, 1015}
+D/dalvikvm(   79): GC_EXPLICIT freed 38K, 4% free 9031K/9347K, paused 4ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed <1K, 4% free 9031K/9347K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed <1K, 4% free 9031K/9347K, paused 1ms+2ms
+D/dalvikvm( 3151): GC_CONCURRENT freed 178K, 3% free 9358K/9607K, paused 2ms+2ms
+I/dalvikvm( 3113): Total arena pages for JIT: 11
+I/dalvikvm( 3113): Total arena pages for JIT: 12
+I/dalvikvm( 3113): Total arena pages for JIT: 13
+I/dalvikvm( 3113): Total arena pages for JIT: 14
+I/dalvikvm( 3113): Total arena pages for JIT: 15
+I/dalvikvm( 3113): Total arena pages for JIT: 16
+I/dalvikvm( 3113): Total arena pages for JIT: 17
+D/dalvikvm( 3151): GC_CONCURRENT freed 211K, 3% free 9692K/9991K, paused 2ms+2ms
+D/dalvikvm( 3113): GC_CONCURRENT freed 228K, 5% free 10103K/10631K, paused 2ms+3ms
+I/Gmail   ( 3012): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778973, normalSync: true
+I/Gmail   ( 3012): lowestBackward conversation id 0
+W/Gmail   ( 3012): Scheduling index for 300000 ms from now
+I/Gmail   ( 3012): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778973, normalSync: true
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm( 3012): GC_EXPLICIT freed 498K, 11% free 10830K/12039K, paused 2ms+10ms
+I/Gmail   ( 3012): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778973, normalSync: true
+D/dalvikvm( 3113): GC_CONCURRENT freed 327K, 5% free 10196K/10631K, paused 3ms+3ms
+D/dalvikvm( 3113): GC_CONCURRENT freed 455K, 5% free 10297K/10823K, paused 2ms+2ms
+D/dalvikvm( 3012): GC_CONCURRENT freed 497K, 11% free 10812K/12039K, paused 2ms+4ms
+D/dalvikvm( 3012): GC_EXPLICIT freed 132K, 11% free 10777K/12039K, paused 2ms+7ms
+I/Gmail   ( 3012): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2779010, normalSync: true
+I/Gmail   ( 3012): lowestBackward conversation id 0
+W/Gmail   ( 3012): Scheduling index for 300000 ms from now
+I/Gmail   ( 3012): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2779010, normalSync: true
+I/Gmail   ( 3012): lowestBackward conversation id 0
+W/Gmail   ( 3012): Scheduling index for 300000 ms from now
+D/dalvikvm( 3012): GC_CONCURRENT freed 420K, 10% free 10850K/12039K, paused 2ms+5ms
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/dalvikvm( 3012): GC_CONCURRENT freed 504K, 10% free 10864K/12039K, paused 2ms+4ms
+D/WebViewTimersControl( 1803): onBrowserActivityResume
+D/WebViewTimersControl( 1803): Resuming webview timers, view=com.android.browser.BrowserWebView@413d5ac0
+W/BaseUi  ( 1803): mMainView is already attached to wrapper in attachTabToContentView!
+W/BaseUi  ( 1803): mContainer is already attached to content in attachTabToContentView!
+W/InputManagerService(  156): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@417494f0 (uid=10053 pid=3012)
+D/OpenGLRenderer( 3012): Flushing caches (mode 0)
+D/dalvikvm( 1803): GC_CONCURRENT freed 653K, 11% free 11314K/12615K, paused 5ms+11ms
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm( 1803): GC_CONCURRENT freed 643K, 11% free 11315K/12615K, paused 21ms+12ms
+D/OpenGLRenderer( 3012): Flushing caches (mode 1)
+D/webviewglue( 1803): nativeDestroy view: 0x166ebe0
+V/chromium( 1803): external/chromium/net/base/bandwidth_metrics.h:96: [0730/162048:INFO:bandwidth_metrics.h(96)] Bandwidth: 8009.92Kbps (avg 8009.92Kbps)
+I/ActivityManager(  156): Start proc com.android.launcher for activity com.android.launcher/com.android.launcher2.Launcher: pid=3196 uid=10025 gids={}
+D/OpenGLRenderer( 1803): Flushing caches (mode 0)
+I/ActivityThread( 3196): Pub com.android.launcher2.settings: com.android.launcher2.LauncherProvider
+I/Process (  156): Sending signal. PID: 3196 SIG: 3
+I/dalvikvm( 3196): threadid=3: reacting to signal 3
+V/chromium( 1803): external/chromium/net/base/bandwidth_metrics.h:96: [0730/162050:INFO:bandwidth_metrics.h(96)] Bandwidth: 4027.52Kbps (avg 6018.72Kbps)
+I/dalvikvm( 3196): Wrote stack traces to '/data/anr/traces.txt'
+D/dalvikvm( 3196): GC_CONCURRENT freed 264K, 4% free 9272K/9607K, paused 5ms+2ms
+I/Process (  156): Sending signal. PID: 3196 SIG: 3
+I/dalvikvm( 3196): threadid=3: reacting to signal 3
+I/dalvikvm( 3196): Wrote stack traces to '/data/anr/traces.txt'
+D/dalvikvm( 3196): GC_CONCURRENT freed 128K, 3% free 9660K/9863K, paused 17ms+12ms
+D/dalvikvm( 3196): GC_CONCURRENT freed 276K, 5% free 9832K/10247K, paused 2ms+7ms
+I/Process (  156): Sending signal. PID: 3196 SIG: 3
+I/dalvikvm( 3196): threadid=3: reacting to signal 3
+D/libEGL  ( 3196): loaded /system/lib/egl/libGLES_android.so
+I/dalvikvm( 3196): Wrote stack traces to '/data/anr/traces.txt'
+D/libEGL  ( 3196): loaded /vendor/lib/egl/libEGL_POWERVR_SGX540_120.so
+D/libEGL  ( 3196): loaded /vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so
+D/libEGL  ( 3196): loaded /vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so
+D/OpenGLRenderer( 3196): Enabling debug mode 0
+I/ActivityManager(  156): Displayed com.android.launcher/com.android.launcher2.Launcher: +1s971ms
+D/dalvikvm( 3196): GC_CONCURRENT freed 238K, 4% free 10113K/10439K, paused 6ms+4ms
+D/dalvikvm( 3196): GC_FOR_ALLOC freed 63K, 3% free 10182K/10439K, paused 27ms
+D/dalvikvm( 3196): GC_FOR_ALLOC freed 12K, 3% free 10508K/10823K, paused 32ms
+I/dalvikvm-heap( 3196): Grow heap (frag case) to 10.660MB for 345760-byte allocation
+D/dalvikvm( 3196): GC_FOR_ALLOC freed <1K, 4% free 10846K/11207K, paused 36ms
+D/dalvikvm( 3196): GC_FOR_ALLOC freed <1K, 4% free 10846K/11207K, paused 32ms
+I/dalvikvm-heap( 3196): Grow heap (frag case) to 10.990MB for 345760-byte allocation
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/dalvikvm( 3196): GC_FOR_ALLOC freed <1K, 4% free 11184K/11591K, paused 45ms
+D/OpenGLRenderer( 1803): Flushing caches (mode 1)
+D/OpenGLRenderer( 3012): Flushing caches (mode 2)
+W/ManagedEGLContext( 3012): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm( 3196): GC_CONCURRENT freed 229K, 3% free 11562K/11911K, paused 1ms+4ms
+D/dalvikvm( 3196): GC_CONCURRENT freed 410K, 5% free 11892K/12423K, paused 2ms+4ms
+D/OpenGLRenderer( 1803): Flushing caches (mode 2)
+W/ManagedEGLContext( 1803): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 3012): Flushing caches (mode 1)
+I/Gmail   ( 3012): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2779010, normalSync: true
+I/Gmail   ( 3012): lowestBackward conversation id 0
+W/Gmail   ( 3012): Scheduling index for 300000 ms from now
+V/BackupManagerService(  156): Running a backup pass
+V/BackupManagerService(  156): Backup requested but nothing pending
+D/OpenGLRenderer( 3012): Flushing caches (mode 1)
+D/dalvikvm(  364): GC_EXPLICIT freed 2K, 6% free 9102K/9607K, paused 8ms+2ms
+I/ActivityManager(  156): Start proc edu.buffalo.cse.phonelab.phonelabservices for service edu.buffalo.cse.phonelab.phonelabservices/edu.buffalo.cse.phonelab.datalogger.LoggerService: pid=3217 uid=10036 gids={3003, 1015, 1007, 2001}
+I/PhoneLab-LoggerService( 3217): Start Logger Service
+I/PhoneLab-( 3217): Service Running
+I/PhoneLab-LoggerService( 3217): Logcat pid from database 2418
+I/PhoneLab-LoggerService( 3217): Logcat process not found, starting process
+I/System.out( 3217): /mnt/sdcard/.log/
+D/PhoneLab-LoggerService( 3217): Logcat COMMAND logcat  -f /mnt/sdcard/.log/log.out  -r 30 -n 20 *:V &
+I/PhoneLab-LoggerService( 3217): app_36    3234  3217  940    572   c010c604 40010b5c D logcat
+I/PhoneLab-LoggerService( 3217): PID to db 3234
+D/dalvikvm(  225): GC_EXPLICIT freed 619K, 10% free 10303K/11399K, paused 8ms+3ms
+D/dalvikvm( 1803): GC_EXPLICIT freed 446K, 11% free 11270K/12615K, paused 15ms+4ms
+D/dalvikvm( 2875): GC_EXPLICIT freed 246K, 8% free 9891K/10695K, paused 15ms+4ms
+D/dalvikvm(  156): GC_EXPLICIT freed 1459K, 17% free 13367K/15943K, paused 27ms+5ms
+I/ActivityManager(  156): Start proc com.google.android.apps.googlevoice for service com.google.android.apps.googlevoice/.UpdateService: pid=3236 uid=10057 gids={3003, 1015}
+D/dalvikvm( 3236): GC_CONCURRENT freed 228K, 4% free 9307K/9607K, paused 5ms+4ms
+D/OpenGLRenderer( 3012): Flushing caches (mode 2)
+W/ManagedEGLContext( 3012): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1803): Flushing caches (mode 2)
+W/ManagedEGLContext( 1803): doTerminate failed: EGL count is 2 but managed count is 1
+D/CountryDetector(  156): The first listener is added
+D/dalvikvm( 3236): GC_CONCURRENT freed 453K, 6% free 9403K/9927K, paused 4ms+3ms
+W/CursorWrapperInner( 3236): Cursor finalized without prior close()
+W/CursorWrapperInner( 3236): Cursor finalized without prior close()
+W/CursorWrapperInner( 3236): Cursor finalized without prior close()
+D/dalvikvm( 3067): GC_CONCURRENT freed 383K, 5% free 9601K/10055K, paused 2ms+7ms
+D/dalvikvm(  156): GC_EXPLICIT freed 86K, 17% free 13323K/15943K, paused 3ms+4ms
+D/dalvikvm( 3236): GC_CONCURRENT freed 273K, 5% free 9564K/9991K, paused 2ms+54ms
+D/dalvikvm( 3067): GC_CONCURRENT freed 394K, 5% free 9782K/10247K, paused 3ms+5ms
+D/dalvikvm( 3067): GC_EXPLICIT freed 232K, 6% free 9643K/10247K, paused 2ms+3ms
+D/dalvikvm(  332): GC_EXPLICIT freed 10K, 11% free 10403K/11655K, paused 12ms+3ms
+D/dalvikvm(  352): GC_EXPLICIT freed 42K, 7% free 9440K/10055K, paused 11ms+2ms
+D/dalvikvm(  482): GC_EXPLICIT freed 1K, 4% free 9038K/9347K, paused 8ms+2ms
+I/power   (  156): *** set_screen_state 0
+D/SurfaceFlinger(   78): About to give-up screen, flinger = 0x167c918
+D/NfcService(  364): NFC-C OFF, disconnect
+V/TransportControlView(  156): Create TCV com.android.internal.widget.TransportControlView@41765ee8
+D/PhoneStatusBar(  225): disable: < expand icons alerts ticker system_info back home RECENT* clock >
+D/PhoneStatusBar(  225): disable: < expand icons alerts ticker system_info BACK* HOME* RECENT CLOCK* >
+D/dalvikvm(  156): GC_CONCURRENT freed 173K, 11% free 14218K/15943K, paused 3ms+7ms
+D/OpenGLRenderer( 3012): Flushing caches (mode 2)
+W/ManagedEGLContext( 3012): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm(  309): GC_EXPLICIT freed 3098K, 27% free 9086K/12359K, paused 2ms+2ms
+I/ActivityManager(  156): Start proc com.google.android.apps.maps for service com.google.android.apps.maps/com.google.googlenav.prefetch.android.PrefetcherService: pid=3262 uid=10058 gids={3003, 1015}
+D/dalvikvm( 3262): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3262): GC_CONCURRENT freed 155K, 3% free 9381K/9607K, paused 2ms+2ms
+I/ActivityThread( 3262): Pub com.google.android.maps.LayerInfoProvider: com.google.googlenav.layer.LayerInfoProvider
+I/ActivityThread( 3262): Pub com.google.android.maps.TrafficAppWidgetProvider: com.google.googlenav.appwidget.traffic.TrafficAppWidgetProvider
+I/ActivityThread( 3262): Pub com.google.android.maps.LocalActivePlacesProvider: com.google.googlenav.provider.LocalActivePlacesProvider
+I/ActivityThread( 3262): Pub com.google.android.maps.StarredItemProvider: com.google.googlenav.provider.StarredItemProvider
+D/dalvikvm( 3262): GC_CONCURRENT freed 170K, 3% free 9700K/9991K, paused 2ms+2ms
+I/ActivityThread( 3262): Pub com.google.android.maps.LocalSuggestionProvider: com.google.googlenav.provider.LocalSuggestionProvider
+I/ActivityThread( 3262): Pub com.google.android.maps.SearchHistoryProvider: com.google.googlenav.provider.SearchHistoryProvider
+I/ActivityThread( 3262): Pub com.google.android.maps.NavigationAvailabilityProvider: com.google.googlenav.provider.NavigationAvailabilityProvider
+I/ActivityThread( 3262): Pub com.google.android.maps.SuggestionProvider: com.google.googlenav.suggest.android.SuggestContentProvider
+D/dalvikvm( 3262): GC_CONCURRENT freed 278K, 4% free 9960K/10311K, paused 4ms+2ms
+D/dalvikvm( 3262): GC_FOR_ALLOC freed 18K, 4% free 10154K/10567K, paused 18ms
+I/dalvikvm-heap( 3262): Grow heap (frag case) to 10.179MB for 204816-byte allocation
+D/dalvikvm( 3262): GC_FOR_ALLOC freed 0K, 5% free 10354K/10823K, paused 16ms
+D/dalvikvm( 3262): GC_FOR_ALLOC freed 116K, 4% free 10438K/10823K, paused 17ms
+D/dalvikvm( 3262): GC_FOR_ALLOC freed 25K, 4% free 10644K/11079K, paused 20ms
+I/dalvikvm-heap( 3262): Grow heap (frag case) to 10.659MB for 204816-byte allocation
+D/dalvikvm( 3262): GC_FOR_ALLOC freed 0K, 5% free 10844K/11335K, paused 20ms
+I/ActivityManager(  156): Start proc com.android.sprintmenu for service com.android.sprintmenu/.HiddenPhoneService: pid=3295 uid=1001 gids={3002, 3001, 3003, 1015}
+E/jdwp    ( 3295): Failed sending reply to debugger: Broken pipe
+D/dalvikvm( 3295): Debugger has detached; object registry had 1 entries
+I/PhoneLab-Locks( 3217): wake lock acquired
+I/PhoneLab-PeriodicCheckService( 3217): User info is synched
+I/PhoneLab-PeriodicCheckService( 3217): Logger Service is running
+I/PhoneLab-Locks( 3217): wake lock acquired
+I/PhoneLab-StatusMonitor( 3217): Status Monitoring is started
+I/PhoneLab-Locks( 3217): wake lock acquired
+V/PhoneLab-PeriodicCheckService( 3217): Sleeping for  208000
+E/PhoneLab-PhoneLabManifest( 3217): java.io.FileNotFoundException: /data/data/edu.buffalo.cse.phonelab.phonelabservices/files/manifest.xml: open failed: ENOENT (No such file or directory)
+I/PhoneLab-Locks( 3217): wake lock released
+I/PhoneLab-UploadLogs( 3217): Transfering log files now
+V/PhoneLab-UploadLogs( 3217): Posting logs now 
+D/dalvikvm( 3217): GC_CONCURRENT freed 403K, 5% free 9131K/9607K, paused 5ms+2ms
+I/PhoneLab-UploadLogs( 3217): OnStartCommand
+D/dalvikvm( 3217): GC_CONCURRENT freed 429K, 6% free 9193K/9735K, paused 13ms+2ms
+I/PhoneLab-( 3217): 1343679368135.log is deleted
+I/PhoneLab-( 3217): Response: {"data": "done", "err": ""}
+V/PhoneLab-UploadLogs( 3217): Posting logs now 
+D/dalvikvm( 3217): GC_CONCURRENT freed 472K, 6% free 9245K/9799K, paused 1ms+2ms
+I/PhoneLab-( 3217): 1343679437898.log is deleted
+I/PhoneLab-( 3217): Response: {"data": "done", "err": ""}
+I/PhoneLab-UploadLogs( 3217): No log files to transfer
+I/PhoneLab-Locks( 3217): wake lock released
+I/PhoneLab-( 3217): Service Running
+I/PhoneLab-LoggerService( 3217): app_36    3234  3217  2128   1760  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService( 3217): Logcat pid from database 3234
+I/PhoneLab-LoggerService( 3217): Logcat process found 3234
+I/PhoneLab-LoggerService( 3217): Checking Threshold
+I/PhoneLab-LoggerService( 3217): Starting to rename files
+I/PhoneLab-LoggerService( 3217): Files found .. 38
+I/PhoneLab-LoggerService( 3217): File 22 log.out.1
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+I/PhoneLab-LoggerService( 3217): File 23 log.out.2
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+I/PhoneLab-LoggerService( 3217): File 24 log.out.3
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+I/PhoneLab-LoggerService( 3217): File 25 log.out.4
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+I/PhoneLab-LoggerService( 3217): File 26 log.out.5
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+I/PhoneLab-LoggerService( 3217): File 27 log.out.6
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+I/PhoneLab-LoggerService( 3217): File 28 log.out.7
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+I/PhoneLab-LoggerService( 3217): File 29 log.out.8
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+I/PhoneLab-LoggerService( 3217): File 30 log.out.9
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+I/PhoneLab-LoggerService( 3217): File 31 log.out.10
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+I/PhoneLab-LoggerService( 3217): File 32 log.out.11
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+I/PhoneLab-LoggerService( 3217): File 33 log.out.12
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+I/PhoneLab-LoggerService( 3217): File 34 log.out.13
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+I/PhoneLab-LoggerService( 3217): File 35 log.out.14
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+I/PhoneLab-LoggerService( 3217): File 36 log.out.15
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+I/PhoneLab-LoggerService( 3217): File 37 log.out.16
+I/PhoneLab-LoggerService( 3217): Renamed successfully
+D/OpenGLRenderer( 3012): Flushing caches (mode 1)
+I/Gmail   ( 3012): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2779010, normalSync: true
+D/OpenGLRenderer( 3012): Flushing caches (mode 2)
+W/ManagedEGLContext( 3012): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 3012): Flushing caches (mode 1)
+D/dalvikvm( 3012): GC_EXPLICIT freed 368K, 11% free 10743K/12039K, paused 2ms+4ms
+I/Gmail   ( 3012): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2779010, normalSync: true
+I/Gmail   ( 3012): lowestBackward conversation id 0
+D/dalvikvm( 3012): GC_EXPLICIT freed 57K, 12% free 10700K/12039K, paused 2ms+4ms
+W/Gmail   ( 3012): Scheduling index for 300000 ms from now
+D/OpenGLRenderer( 3012): Flushing caches (mode 1)
+I/PhoneLab-( 3217): Service Running
+I/PhoneLab-LoggerService( 3217): app_36    3234  3217  2128   1760  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService( 3217): Logcat pid from database 3234
+I/PhoneLab-LoggerService( 3217): Logcat process found 3234
+I/PhoneLab-LoggerService( 3217): Checking Threshold
+I/PhoneLab-LoggerService( 3217): Starting to rename files
+I/PhoneLab-LoggerService( 3217): Files found .. 38
+I/PhoneLab-PeriodicCheckService( 3217): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService( 3217): Post URI is:: http://107.22.187.240/devicestatus/
+D/dalvikvm( 3217): GC_CONCURRENT freed 505K, 8% free 9173K/9863K, paused 13ms+1ms
+I/PhoneLab-PeriodicCheckService( 3217): Heartbeat message successfully sent : 
+I/PhoneLab-PeriodicCheckService( 3217): Rescheduling periodic checking...
+I/PhoneLab-Locks( 3217): wake lock released
+I/PhoneLab-( 3217): Service Running
+I/PhoneLab-LoggerService( 3217): app_36    3234  3217  2128   1760  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService( 3217): Logcat pid from database 3234
+I/PhoneLab-LoggerService( 3217): Logcat process found 3234
+I/PhoneLab-LoggerService( 3217): Checking Threshold
+I/PhoneLab-LoggerService( 3217): Starting to rename files
+I/PhoneLab-LoggerService( 3217): Files found .. 38
+I/PhoneLab-( 3217): Service Running
+I/PhoneLab-LoggerService( 3217): app_36    3234  3217  2128   1760  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService( 3217): Logcat pid from database 3234
+I/PhoneLab-LoggerService( 3217): Logcat process found 3234
+I/PhoneLab-LoggerService( 3217): Checking Threshold
+I/PhoneLab-LoggerService( 3217): Starting to rename files
+I/PhoneLab-LoggerService( 3217): Files found .. 38
+I/PhoneLab-( 3217): Service Running
+I/PhoneLab-LoggerService( 3217): app_36    3234  3217  2128   1760  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService( 3217): Logcat pid from database 3234
+I/PhoneLab-LoggerService( 3217): Logcat process found 3234
+I/PhoneLab-LoggerService( 3217): Checking Threshold
+I/PhoneLab-LoggerService( 3217): Starting to rename files
+I/PhoneLab-LoggerService( 3217): Files found .. 38
+I/PhoneLab-Locks( 3217): wake lock acquired
+I/PhoneLab-MessageReceiver( 3217): C2DM Message Receiver called
+I/PhoneLab-MessageReceiver( 3217): Payload: {"message": "recovery_system"}
+W/GTalkService( 2875): [DataMsgMgr] broadcast intent callback: result=CANCELLED forIntent { act=com.google.android.c2dm.intent.RECEIVE cat=[edu.buffalo.cse.phonelab.phonelabservices] (has extras) }
+I/PhoneLab-MessageService( 3217): C2DM Message Service is started!
+I/PhoneLab-MessageService( 3217): Starting new image download
+I/URLs    ( 3217): webUrl: http://download.phone-lab.org/ota/ota.zip
+I/URLs    ( 3217):  Path: /cache/ota.zip
+D/dalvikvm( 3217): GC_CONCURRENT freed 386K, 8% free 9170K/9863K, paused 5ms+6ms
+D/OpenGLRenderer( 3012): Flushing caches (mode 1)
+W/Gmail   ( 3012): Successful index run, cancel next scheduled index run
+D/OpenGLRenderer( 3012): Flushing caches (mode 1)
+W/ActivityManager(  156): Timeout of broadcast BroadcastRecord{416a9f30 com.android.server.action.NETWORK_STATS_POLL} - receiver=android.app.LoadedApk$ReceiverDispatcher$InnerReceiver@41605938, started 10004ms ago
+W/ActivityManager(  156): Receiver during timeout: BroadcastFilter{41605b40 ReceiverList{41605ac8 156 system/1000 local:41605938}}
+I/PhoneLab-Locks( 3217): wake lock acquired
+I/PhoneLab-PeriodicCheckService( 3217): User info is synched
+I/PhoneLab-PeriodicCheckService( 3217): Logger Service is running
+I/PhoneLab-Locks( 3217): wake lock acquired

@@ -1,0 +1,367 @@
+D/dalvikvm(  156): GC_CONCURRENT freed 924K, 9% free 13989K/15303K, paused 3ms+5ms
+I/PhoneLab-Locks(  512): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  512): User info is synched
+I/PhoneLab-PeriodicCheckService(  512): Logger Service is running
+I/PhoneLab-Locks(  512): wake lock acquired
+I/PhoneLab-StatusMonitor(  512): Status Monitoring is started
+E/PhoneLab-PhoneLabManifest(  512): java.io.FileNotFoundException: /data/data/edu.buffalo.cse.phonelab.phonelabservices/files/manifest.xml: open failed: ENOENT (No such file or directory)
+I/PhoneLab-Locks(  512): wake lock released
+I/PhoneLab-Locks(  512): wake lock acquired
+I/PhoneLab-UploadLogs(  512): Transfering log files now
+I/PhoneLab-UploadLogs(  512): No log files to transfer
+V/PhoneLab-PeriodicCheckService(  512): Sleeping for  114000
+I/PhoneLab-Locks(  512): wake lock released
+I/PhoneLab-UploadLogs(  512): OnStartCommand
+I/PhoneLab-(  512): Service Running
+D/dalvikvm(  512): GC_CONCURRENT freed 416K, 8% free 9210K/9927K, paused 1ms+5ms
+I/PhoneLab-LoggerService(  512): app_36    1156  512   1444   1076  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  512): Logcat pid from database 1156
+I/PhoneLab-LoggerService(  512): Logcat process found 1156
+I/PhoneLab-LoggerService(  512): Checking Threshold
+I/PhoneLab-LoggerService(  512): Starting to rename files
+I/PhoneLab-LoggerService(  512): Files found .. 23
+I/PhoneLab-LoggerService(  512): File 22 log.out.1
+I/PhoneLab-LoggerService(  512): Renamed successfully
+I/Gmail   (  969): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778829, normalSync: true
+D/dalvikvm(  969): GC_EXPLICIT freed 879K, 28% free 10951K/15175K, paused 2ms+5ms
+I/Gmail   (  969): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778869, normalSync: true
+D/dalvikvm(  969): GC_EXPLICIT freed 347K, 28% free 10956K/15175K, paused 13ms+4ms
+I/Gmail   (  969): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778869, normalSync: true
+I/Gmail   (  969): lowestBackward conversation id 0
+W/Gmail   (  969): Scheduling index for 300000 ms from now
+I/Gmail   (  969): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+W/Gmail   (  969): Showing notification with unreadCount of 17 and unseenCount of 1
+D/dalvikvm(  156): GC_EXPLICIT freed 299K, 9% free 13951K/15303K, paused 2ms+6ms
+I/AudioService(  156):  AudioFocus  requestAudioFocus() from android.media.AudioManager@4157f238
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm(  225): GC_FOR_ALLOC freed 351K, 11% free 10259K/11399K, paused 48ms
+D/dalvikvm(  225): GC_CONCURRENT freed 344K, 10% free 10328K/11399K, paused 4ms+3ms
+I/AudioService(  156):  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4157f238
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+I/PhoneLab-PeriodicCheckService(  512): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  512): Post URI is:: http://107.22.187.240/devicestatus/
+I/PhoneLab-PeriodicCheckService(  512): Heartbeat message successfully sent : 
+I/PhoneLab-PeriodicCheckService(  512): Rescheduling periodic checking...
+I/PhoneLab-Locks(  512): wake lock released
+I/power   (  156): *** set_screen_state 1
+E/Sensors (  156): Could not change sensor state (No such device)
+E/SensorService(  156): Error activating sensor 0 (No such device)
+I/WindowManager(  156): Lock screen displayed!
+D/SurfaceFlinger(   78): Screen about to return, flinger = 0x167c918
+D/dalvikvm(  969): GC_CONCURRENT freed 429K, 28% free 11078K/15175K, paused 2ms+8ms
+D/PhoneStatusBar(  225): disable: < expand icons alerts ticker system_info BACK HOME recent* CLOCK >
+D/NfcService(  364): NFC-C ON
+D/PhoneStatusBar(  225): disable: < expand icons alerts ticker system_info back* home* recent clock* >
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+W/InputManagerService(  156): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@416a30e0
+I/Gmail   (  969): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+I/AudioService(  156):  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4157f238
+D/dalvikvm(  225): GC_FOR_ALLOC freed 530K, 11% free 10161K/11399K, paused 18ms
+D/dalvikvm(  225): GC_CONCURRENT freed 351K, 10% free 10306K/11399K, paused 2ms+2ms
+D/dalvikvm(  225): GC_CONCURRENT freed 533K, 11% free 10190K/11399K, paused 1ms+3ms
+D/dalvikvm(  459): GC_CONCURRENT freed 438K, 6% free 9748K/10311K, paused 1ms+3ms
+I/PhoneLab-(  512): Service Running
+I/PhoneLab-LoggerService(  512): app_36    1156  512   1444   1076  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  512): Logcat pid from database 1156
+I/PhoneLab-LoggerService(  512): Logcat process found 1156
+I/PhoneLab-LoggerService(  512): Checking Threshold
+I/PhoneLab-LoggerService(  512): Starting to rename files
+I/PhoneLab-LoggerService(  512): Files found .. 23
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm(  969): GC_CONCURRENT freed 625K, 28% free 11073K/15175K, paused 2ms+5ms
+I/Gmail   (  969): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778869, normalSync: true
+D/dalvikvm(  969): GC_CONCURRENT freed 644K, 27% free 11113K/15175K, paused 3ms+10ms
+D/dalvikvm(  969): GC_EXPLICIT freed 274K, 28% free 11024K/15175K, paused 2ms+35ms
+I/Gmail   (  969): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778904, normalSync: true
+I/Gmail   (  969): lowestBackward conversation id 0
+W/Gmail   (  969): Scheduling index for 300000 ms from now
+D/dalvikvm(  156): GC_FOR_ALLOC freed 647K, 10% free 13839K/15303K, paused 56ms
+W/InputManagerService(  156): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@416c5948 (uid=10053 pid=969)
+D/OpenGLRenderer(  969): Flushing caches (mode 0)
+I/Gmail   (  969): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778904, normalSync: true
+D/OpenGLRenderer(  969): Flushing caches (mode 1)
+D/dalvikvm(  969): GC_CONCURRENT freed 534K, 27% free 11081K/15175K, paused 2ms+4ms
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/dalvikvm(  969): GC_EXPLICIT freed 612K, 28% free 10958K/15175K, paused 2ms+5ms
+I/Gmail   (  969): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778908, normalSync: true
+I/Gmail   (  969): lowestBackward conversation id 0
+W/Gmail   (  969): Scheduling index for 300000 ms from now
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm(  380): GC_CONCURRENT freed 848K, 8% free 12012K/12935K, paused 3ms+5ms
+D/dalvikvm(  380): GC_FOR_ALLOC freed 114K, 7% free 12136K/12935K, paused 34ms
+D/dalvikvm(  380): GC_FOR_ALLOC freed 305K, 8% free 12258K/13191K, paused 25ms
+I/dalvikvm-heap(  380): Grow heap (frag case) to 12.918MB for 925072-byte allocation
+D/dalvikvm(  380): GC_FOR_ALLOC freed 1K, 8% free 13160K/14151K, paused 20ms
+I/ActivityManager(  156): START {act=android.intent.action.MAIN cat=[android.intent.category.APP_MARKET] flg=0x10000000 cmp=com.android.vending/.AssetBrowserActivity} from pid 380
+D/dalvikvm(  156): GC_FOR_ALLOC freed 987K, 15% free 13108K/15303K, paused 102ms
+D/dalvikvm(  380): GC_FOR_ALLOC freed 1382K, 13% free 12547K/14407K, paused 58ms
+I/ActivityManager(  156): Start proc com.android.vending for activity com.android.vending/.AssetBrowserActivity: pid=1561 uid=10045 gids={3003, 1015}
+D/dalvikvm(  380): GC_FOR_ALLOC freed 6K, 7% free 13446K/14407K, paused 120ms
+I/dalvikvm-heap(  380): Grow heap (frag case) to 14.422MB for 1286224-byte allocation
+I/ActivityThread( 1561): Pub com.google.android.finsky.QSBSuggestionsProvider: com.google.android.finsky.providers.QSBSuggestionsProvider
+D/dalvikvm(  380): GC_FOR_ALLOC freed 0K, 7% free 14702K/15687K, paused 44ms
+I/ActivityThread( 1561): Pub com.google.android.finsky.AppIconProvider: com.google.android.finsky.providers.AppIconProvider
+I/ActivityThread( 1561): Pub com.google.android.finsky.RecentSuggestionsProvider: com.google.android.finsky.providers.RecentSuggestionsProvider
+D/OpenGLRenderer(  380): Flushing caches (mode 1)
+D/dalvikvm(  287): GC_EXPLICIT freed 437K, 5% free 10300K/10823K, paused 7ms+6ms
+D/dalvikvm( 1561): GC_CONCURRENT freed 225K, 4% free 9303K/9607K, paused 6ms+6ms
+D/OpenGLRenderer(  380): Flushing caches (mode 0)
+I/Process (  156): Sending signal. PID: 1561 SIG: 3
+I/dalvikvm( 1561): threadid=3: reacting to signal 3
+I/dalvikvm( 1561): Wrote stack traces to '/data/anr/traces.txt'
+D/Finsky  ( 1561): [1] DailyHygiene.goMakeHygieneIfDirty: No need to run daily hygiene.
+D/dalvikvm( 1561): GC_CONCURRENT freed 469K, 6% free 9419K/9927K, paused 2ms+3ms
+D/dalvikvm( 1561): GC_CONCURRENT freed 373K, 5% free 9579K/10055K, paused 2ms+2ms
+D/libEGL  ( 1561): loaded /system/lib/egl/libGLES_android.so
+D/libEGL  ( 1561): loaded /vendor/lib/egl/libEGL_POWERVR_SGX540_120.so
+D/libEGL  ( 1561): loaded /vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so
+D/libEGL  ( 1561): loaded /vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so
+D/dalvikvm(  447): GC_CONCURRENT freed 1220K, 13% free 9214K/10567K, paused 7ms+2ms
+I/Process (  156): Sending signal. PID: 1561 SIG: 3
+I/dalvikvm( 1561): threadid=3: reacting to signal 3
+I/dalvikvm( 1561): Wrote stack traces to '/data/anr/traces.txt'
+D/dalvikvm( 1561): GC_CONCURRENT freed 440K, 6% free 9670K/10183K, paused 2ms+3ms
+D/Finsky  ( 1561): [1] 2.run: Loaded library for account: [IbGkTYR9rtNnJO6ZCz6nt8keDY8]
+D/Finsky  ( 1561): [1] 2.run: Loaded library for account: [S-B5rchX7JuujL15dbfR13irF50]
+D/Finsky  ( 1561): [1] 2.run: Finished loading 2 libraries.
+I/Process (  156): Sending signal. PID: 1561 SIG: 3
+I/dalvikvm( 1561): threadid=3: reacting to signal 3
+D/OpenGLRenderer( 1561): Enabling debug mode 0
+I/dalvikvm( 1561): Wrote stack traces to '/data/anr/traces.txt'
+D/dalvikvm( 1561): GC_CONCURRENT freed 481K, 6% free 9675K/10247K, paused 2ms+3ms
+W/InputManagerService(  156): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@417beb50 (uid=10025 pid=380)
+D/Finsky  ( 1561): [1] DownloadImpl.setState: self-update-download from null to UNQUEUED.
+D/Finsky  ( 1561): [1] DownloadQueueImpl.add: Download self-update-download added to DownloadQueue
+D/Finsky  ( 1561): [1] DownloadImpl.setState: self-update-download from UNQUEUED to QUEUED.
+I/installd(   83): free_cache(0) avail 829399040
+I/ActivityManager(  156): Displayed com.android.vending/.AssetBrowserActivity: +1s783ms
+D/dalvikvm( 1561): GC_CONCURRENT freed 331K, 5% free 9809K/10247K, paused 2ms+7ms
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/Finsky  ( 1561): [1] DownloadQueueImpl.startDownload: Download self-update-download starting
+D/Finsky  ( 1561): [1] MainActivity.initializeBilling: Optimistically initializing billing parameters.
+D/Finsky  ( 1561): [1] DownloadImpl.setState: self-update-download from QUEUED to DOWNLOADING.
+D/Finsky  ( 1561): [1] DownloadQueueImpl.notifyProgress: self-update-download: onProgress 0/-1 Status: 190.
+D/Finsky  ( 1561): [1] DownloadQueueImpl.onStart: self-update-download: onStart
+D/Finsky  ( 1561): [1] DownloadQueueImpl.notifyProgress: self-update-download: onProgress 0/-1 Status: 192.
+D/dalvikvm(  156): GC_EXPLICIT freed 456K, 13% free 13326K/15303K, paused 4ms+9ms
+I/DownloadManager(  447): Initiating request for download 87
+D/dalvikvm( 1561): GC_CONCURRENT freed 365K, 5% free 9978K/10439K, paused 2ms+8ms
+D/dalvikvm( 1561): GC_FOR_ALLOC freed 76K, 5% free 9939K/10439K, paused 19ms
+I/dalvikvm-heap( 1561): Grow heap (frag case) to 10.149MB for 392720-byte allocation
+D/dalvikvm( 1561): GC_FOR_ALLOC freed <1K, 5% free 10322K/10823K, paused 18ms
+D/dalvikvm( 1561): GC_FOR_ALLOC freed 109K, 4% free 10571K/10951K, paused 25ms
+D/dalvikvm( 1561): GC_FOR_ALLOC freed 116K, 4% free 10667K/11079K, paused 24ms
+I/dalvikvm-heap( 1561): Grow heap (frag case) to 10.984MB for 522256-byte allocation
+D/dalvikvm( 1561): GC_FOR_ALLOC freed <1K, 4% free 11177K/11591K, paused 21ms
+D/dalvikvm( 1561): GC_CONCURRENT freed 446K, 5% free 11434K/11975K, paused 2ms+4ms
+D/dalvikvm( 1561): GC_FOR_ALLOC freed 19K, 5% free 11415K/11975K, paused 20ms
+I/dalvikvm-heap( 1561): Grow heap (frag case) to 11.644MB for 449296-byte allocation
+D/dalvikvm( 1561): GC_FOR_ALLOC freed <1K, 5% free 11853K/12423K, paused 23ms
+D/dalvikvm( 1561): GC_FOR_ALLOC freed 186K, 4% free 11970K/12423K, paused 32ms
+D/dalvikvm( 1561): GC_FOR_ALLOC freed 45K, 4% free 12492K/12935K, paused 34ms
+D/dalvikvm( 1561): GC_FOR_ALLOC freed 173K, 4% free 13158K/13703K, paused 23ms
+D/dalvikvm(  447): GC_CONCURRENT freed 317K, 13% free 9287K/10567K, paused 12ms+3ms
+W/DownloadManager(  447): Aborting request for download 87: http error 403, mContinuingDownload: false
+D/Finsky  ( 1561): [1] DownloadQueueImpl.notifyProgress: self-update-download: onProgress 0/-1 Status: 403.
+D/Finsky  ( 1561): [1] DownloadBroadcastReceiver.onReceive: Intent received at DownloadBroadcastReceiver
+D/Finsky  ( 1561): [1] DownloadImpl.setState: self-update-download from DOWNLOADING to ERROR.
+D/Finsky  ( 1561): [1] DownloadQueueImpl.onError: self-update-download: onError 403.
+D/Finsky  ( 1561): [1] DownloadQueueImpl.remove: Download self-update-download removed from DownloadQueue
+E/Finsky  ( 1561): [1] SelfUpdateScheduler.onError: Self-update failed because of HTTP error code: 403
+I/installd(   83): free_cache(0) avail 829399040
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+W/InputManagerService(  156): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@417297a0
+D/dalvikvm( 1561): GC_CONCURRENT freed 684K, 6% free 13835K/14599K, paused 2ms+7ms
+D/dalvikvm( 1561): GC_CONCURRENT freed 1088K, 8% free 14400K/15559K, paused 2ms+4ms
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/Finsky  ( 1561): [1] GetBillingCountriesAction.run: Skip getting fresh list of billing countries.
+I/Gmail   (  969): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778908, normalSync: true
+I/Gmail   (  969): lowestBackward conversation id 0
+W/Gmail   (  969): Scheduling index for 300000 ms from now
+D/dalvikvm( 1561): GC_CONCURRENT freed 1318K, 9% free 14904K/16327K, paused 6ms+17ms
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm( 1561): GC_CONCURRENT freed 2026K, 13% free 14805K/16903K, paused 3ms+7ms
+D/Finsky  ( 1561): [1] DetailsDataBasedFragment.rebindViews: Page [class=DetailsFragment] loaded in [494 ms] (partial? false)
+D/dalvikvm( 1561): GC_FOR_ALLOC freed 893K, 10% free 15218K/16903K, paused 40ms
+D/Finsky  ( 1561): [1] DetailsDataBasedFragment.rebindViews: Page [class=DetailsFragment] loaded in [990 ms] (partial? true)
+I/dalvikvm( 1561): Jit: resizing JitTable from 4096 to 8192
+I/ActivityManager(  156): START {flg=0x20010000 cmp=com.android.vending/com.google.android.finsky.activities.PurchaseDialog (has extras)} from pid 1561
+D/dalvikvm( 1561): GC_CONCURRENT freed 1016K, 7% free 16218K/17351K, paused 15ms+8ms
+D/Finsky  ( 1561): [1] SelfUpdateScheduler.checkForSelfUpdate: Skipping self-update check as there is an update already queued.
+I/ActivityManager(  156): Displayed com.android.vending/com.google.android.finsky.activities.PurchaseDialog: +326ms
+D/OpenGLRenderer( 1561): Flushing caches (mode 0)
+D/Finsky  ( 1561): [1] InstallerImpl.requestInstall: Request install of com.adobe.flashplayer v=111115012
+D/Finsky  ( 1561): [1] InstallerImpl.kick: Installer kick com.adobe.flashplayer - starting com.adobe.flashplayer
+D/Finsky  ( 1561): [1] DetailsDataBasedFragment.rebindViews: Page [class=DetailsFragment] loaded in [4860 ms] (partial? false)
+D/Finsky  ( 1561): [1] DetailsDataBasedFragment.rebindViews: Page [class=DetailsFragment] loaded in [5116 ms] (partial? true)
+D/Finsky  ( 1561): [1] DownloadImpl.setState: com.adobe.flashplayer from null to UNQUEUED.
+D/Finsky  ( 1561): [1] DownloadQueueImpl.add: Download com.adobe.flashplayer added to DownloadQueue
+D/Finsky  ( 1561): [1] DownloadImpl.setState: com.adobe.flashplayer from UNQUEUED to QUEUED.
+I/installd(   83): free_cache(4703844) avail 828903424
+I/Process (  156): Sending signal. PID: 1561 SIG: 3
+I/dalvikvm( 1561): threadid=3: reacting to signal 3
+I/dalvikvm( 1561): Wrote stack traces to '/data/anr/traces.txt'
+D/dalvikvm( 1561): GC_CONCURRENT freed 1528K, 9% free 16716K/18311K, paused 3ms+17ms
+D/Finsky  ( 1561): [1] DownloadQueueImpl.startDownload: Download com.adobe.flashplayer starting
+I/Process (  156): Sending signal. PID: 1561 SIG: 3
+I/dalvikvm( 1561): threadid=3: reacting to signal 3
+D/Finsky  ( 1561): [1] DownloadImpl.setState: com.adobe.flashplayer from QUEUED to DOWNLOADING.
+D/Finsky  ( 1561): [1] DownloadQueueImpl.notifyProgress: com.adobe.flashplayer: onProgress 0/-1 Status: 190.
+I/dalvikvm( 1561): Wrote stack traces to '/data/anr/traces.txt'
+D/Finsky  ( 1561): [1] DownloadQueueImpl.onStart: com.adobe.flashplayer: onStart
+D/OpenGLRenderer( 1561): Flushing caches (mode 0)
+D/Finsky  ( 1561): [1] DownloadQueueImpl.notifyProgress: com.adobe.flashplayer: onProgress 0/-1 Status: 192.
+I/DownloadManager(  447): Initiating request for download 88
+D/dalvikvm(  225): GC_CONCURRENT freed 328K, 10% free 10323K/11399K, paused 2ms+3ms
+D/dalvikvm(  225): GC_FOR_ALLOC freed 572K, 12% free 10131K/11399K, paused 25ms
+I/DownloadManager(  447): Initiating request for download 88
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/dalvikvm(  156): GC_CONCURRENT freed 1008K, 14% free 13273K/15303K, paused 8ms+6ms
+D/dalvikvm(  447): GC_CONCURRENT freed 298K, 12% free 9373K/10567K, paused 12ms+2ms
+D/dalvikvm(  225): GC_CONCURRENT freed 164K, 10% free 10351K/11399K, paused 8ms+3ms
+I/qtaguid (  447): Failed write_ctrl(u 54) res=-1 errno=22
+I/qtaguid (  447): Untagging socket 54 failed errno=-22
+W/NetworkManagementSocketTagger(  447): untagSocket(54) failed with errno -22
+D/Finsky  ( 1561): [1] DownloadQueueImpl.notifyProgress: com.adobe.flashplayer: onProgress 4703844/4703844 Status: 200.
+D/Finsky  ( 1561): [1] DownloadBroadcastReceiver.onReceive: Intent received at DownloadBroadcastReceiver
+D/dalvikvm(  447): GC_CONCURRENT freed 401K, 12% free 9356K/10567K, paused 2ms+3ms
+D/Finsky  ( 1561): [1] DownloadImpl.setState: com.adobe.flashplayer from DOWNLOADING to SUCCESS.
+D/Finsky  ( 1561): [1] DownloadQueueImpl.onComplete: com.adobe.flashplayer: onComplete
+D/Finsky  ( 1561): [1] DownloadQueueImpl.remove: Download com.adobe.flashplayer removed from DownloadQueue
+D/Finsky  ( 1561): [1] SelfUpdateScheduler.onComplete: Self-update ignoring completed download com.adobe.flashplayer
+I/installd(   83): free_cache(0) avail 824221696
+D/dalvikvm(  225): GC_CONCURRENT freed 491K, 10% free 10319K/11399K, paused 2ms+3ms
+D/dalvikvm(  225): GC_CONCURRENT freed 479K, 10% free 10329K/11399K, paused 1ms+2ms
+I/ActivityManager(  156): Start proc com.android.defcontainer for service com.android.defcontainer/.DefaultContainerService: pid=1662 uid=10010 gids={1015, 2001}
+D/dalvikvm(  225): GC_FOR_ALLOC freed 451K, 11% free 10259K/11399K, paused 18ms
+W/ActivityManager(  156): No content provider found for permission revoke: file:///data/data/com.android.providers.downloads/cache/downloadfile.apk
+D/dalvikvm(  225): GC_CONCURRENT freed 341K, 9% free 10410K/11399K, paused 4ms+3ms
+W/ActivityManager(  156): No content provider found for permission revoke: file:///data/data/com.android.providers.downloads/cache/downloadfile.apk
+I/PackageManager(  156): Running dexopt on: com.adobe.flashplayer
+D/dalvikvm( 1676): DexOpt: load 244ms, verify+opt 224ms
+I/ActivityManager(  156): Force stopping package com.adobe.flashplayer uid=10062
+D/dalvikvm(  156): GC_CONCURRENT freed 833K, 13% free 13379K/15303K, paused 3ms+5ms
+D/PackageManager(  156): New package installed in /data/app/com.adobe.flashplayer-1.apk
+W/PackageManager(  156): Unknown permission android.webkit.permission.PLUGIN in package com.adobe.flashplayer
+I/RegisteredComponentCache(  364): ComponentInfo: ResolveInfo{41364208 com.android.apps.tag.TagViewer p=0 o=0 m=0x108000}, techs: android.nfc.tech.Ndef, 
+I/Launcher(  380): setLoadOnResume
+D/dalvikvm( 1029): GC_CONCURRENT freed 340K, 5% free 9289K/9735K, paused 6ms+2ms
+I/ActivityManager(  156): Start proc com.google.android.partnersetup for broadcast com.google.android.partnersetup/.RlzPingBroadcastReceiver: pid=1677 uid=10020 gids={3003}
+D/dalvikvm(  156): GC_EXPLICIT freed 414K, 13% free 13315K/15303K, paused 29ms+221ms
+D/Finsky  ( 1561): [143] 1.packageInstalled: Package install status for "com.adobe.flashplayer" is 1
+W/ResourceType( 1561): No package identifier when getting value for resource number 0x00000000
+D/Finsky  ( 1561): [143] PackageManagerHelper.addAppShortcut: Unable to load resources: String resource ID #0x0
+D/PackageManager(  156): generateServicesMap(android.accounts.AccountAuthenticator): 4 services unchanged
+I/ActivityThread( 1677): Pub com.google.android.partnersetup.rlzprovider: com.google.android.partnersetup.RlzProvider
+I/ActivityThread( 1677): Pub com.google.android.partnersetup.rlzappprovider: com.google.android.partnersetup.RlzAppProvider
+I/ActivityManager(  156): Start proc com.android.musicfx for broadcast com.android.musicfx/.Compatibility$Receiver: pid=1691 uid=10032 gids={3003, 3002}
+D/PackageManager(  156): generateServicesMap(android.content.SyncAdapter): 12 services unchanged
+W/ResourceType(  156): Failure getting entry for 0x7f060000 (t=5 e=0) in package 0 (error -75)
+I/ActivityManager(  156): No longer want com.android.providers.calendar (pid 626): hidden #16
+D/dalvikvm(  225): GC_CONCURRENT freed 393K, 9% free 10426K/11399K, paused 369ms+9ms
+D/BackupManagerService(  156): Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.adobe.flashplayer flg=0x10000010 (has extras) }
+V/BackupManagerService(  156): addPackageParticipantsLocked: #1
+I/ActivityManager(  156): Start proc com.svox.pico for broadcast com.svox.pico/.VoiceDataInstallerReceiver: pid=1705 uid=10037 gids={1015}
+I/ActivityThread( 1705): Pub com.svox.pico.providers.SettingsProvider: com.svox.pico.providers.SettingsProvider
+I/ActivityManager(  156): No longer want com.android.exchange (pid 1102): hidden #16
+I/ActivityManager(  156): No longer want com.android.email (pid 1117): hidden #16
+D/Finsky  ( 1561): [1] DetailsDataBasedFragment.rebindViews: Page [class=DetailsFragment] loaded in [52815 ms] (partial? false)
+I/ActivityManager(  156): Start proc com.android.voicedialer for broadcast com.android.voicedialer/.VoiceDialerReceiver: pid=1722 uid=10048 gids={3002}
+I/ActivityManager(  156): No longer want com.google.android.apps.maps:FriendService (pid 1004): hidden #16
+I/ActivityManager(  156): Start proc com.google.android.googlequicksearchbox for broadcast com.google.android.googlequicksearchbox/.SourceUpdateReceiver: pid=1735 uid=10021 gids={3003}
+I/ActivityThread( 1735): Pub com.google.android.googlequicksearchbox.shortcuts: com.google.android.googlequicksearchbox.WebHistoryProvider
+I/ActivityThread( 1735): Pub com.google.android.googlequicksearchbox.google: com.google.android.googlequicksearchbox.google.GoogleSuggestionProvider
+D/dalvikvm( 1561): GC_CONCURRENT freed 1871K, 11% free 16882K/18823K, paused 19ms+17ms
+I/ActivityManager(  156): Start proc com.android.quicksearchbox for broadcast com.android.quicksearchbox/.CorporaUpdateReceiver: pid=1749 uid=10039 gids={3003}
+I/ActivityManager(  156): No longer want com.google.android.apps.maps:LocationFriendService (pid 1073): hidden #16
+D/Finsky  ( 1561): [1] DetailsDataBasedFragment.rebindViews: Page [class=DetailsFragment] loaded in [53435 ms] (partial? true)
+I/ActivityThread( 1749): Pub com.android.quicksearchbox.google: com.android.quicksearchbox.google.GoogleSuggestionProvider
+I/ActivityThread( 1749): Pub com.android.quicksearchbox.shortcuts: com.android.quicksearchbox.ShortcutsProvider
+I/ActivityManager(  156): No longer want com.google.android.apps.googlevoice (pid 989): hidden #16
+W/ActivityManager(  156): Scheduling restart of crashed service com.google.android.apps.googlevoice/.UpdateService in 5000ms
+W/ActivityManager(  156): Scheduling restart of crashed service com.google.android.apps.googlevoice/.CallLogService in 15000ms
+W/ActivityManager(  156): Scheduling restart of crashed service com.google.android.apps.googlevoice/.widget.WidgetService in 24998ms
+D/dalvikvm(  156): GC_EXPLICIT freed 809K, 13% free 13359K/15303K, paused 6ms+11ms
+I/ActivityManager(  156): No longer want com.google.android.apps.uploader (pid 1046): hidden #16
+I/ActivityManager(  156): Start proc com.google.android.apps.googlevoice for service com.google.android.apps.googlevoice/.UpdateService: pid=1764 uid=10057 gids={3003, 1015}
+D/dalvikvm( 1764): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1764): GC_CONCURRENT freed 291K, 4% free 9244K/9607K, paused 19ms+2ms
+D/dalvikvm( 1764): GC_CONCURRENT freed 358K, 5% free 9435K/9863K, paused 11ms+4ms
+W/CursorWrapperInner( 1764): Cursor finalized without prior close()
+W/CursorWrapperInner( 1764): Cursor finalized without prior close()
+W/CursorWrapperInner( 1764): Cursor finalized without prior close()
+D/dalvikvm(  459): GC_CONCURRENT freed 547K, 7% free 9739K/10375K, paused 8ms+7ms
+D/dalvikvm(  459): GC_EXPLICIT freed 154K, 8% free 9626K/10375K, paused 3ms+6ms
+D/dalvikvm( 1764): GC_CONCURRENT freed 365K, 5% free 9638K/10055K, paused 2ms+4ms
+I/power   (  156): *** set_screen_state 0
+D/SurfaceFlinger(   78): About to give-up screen, flinger = 0x167c918
+D/dalvikvm( 1387): GC_CONCURRENT freed 325K, 5% free 9286K/9735K, paused 2ms+7ms
+D/Volley  ( 1561): [148] BasicNetwork.logSlowRequests: HTTP response for request=<[ ] https://android.clients.google.com/vending/api/ApiRequest NORMAL 89 ContentSyncRequestProto> [lifetime=3447], [size=36], [rc=200], [retryCount=0]
+D/Volley  ( 1561): [1] Request.finish: 3513 ms: [ ] https://android.clients.google.com/vending/api/ApiRequest NORMAL 89 ContentSyncRequestProto
+D/Finsky  ( 1561): [1] 5.onFinished: Installation state replication succeeded.
+D/NfcService(  364): NFC-C OFF, disconnect
+D/dalvikvm(  156): GC_CONCURRENT freed 588K, 10% free 13795K/15303K, paused 11ms+6ms
+D/dalvikvm(  156): GC_FOR_ALLOC freed 61K, 9% free 13941K/15303K, paused 42ms
+I/dalvikvm-heap(  156): Grow heap (frag case) to 13.789MB for 104992-byte allocation
+D/dalvikvm(  156): GC_FOR_ALLOC freed 2K, 10% free 14042K/15431K, paused 41ms
+V/TransportControlView(  156): Create TCV com.android.internal.widget.TransportControlView@41616478
+D/PhoneStatusBar(  225): disable: < expand icons alerts ticker system_info back home RECENT* clock >
+D/PhoneStatusBar(  225): disable: < expand icons alerts ticker system_info BACK* HOME* RECENT CLOCK* >
+W/GoogleVoice( 1764): WidgetService: got a null intent
+I/PhoneLab-(  512): Service Running
+I/PhoneLab-LoggerService(  512): app_36    1156  512   1444   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  512): Logcat pid from database 1156
+I/PhoneLab-LoggerService(  512): Logcat process found 1156
+I/PhoneLab-LoggerService(  512): Checking Threshold
+I/PhoneLab-LoggerService(  512): Starting to rename files
+I/PhoneLab-LoggerService(  512): Files found .. 23
+I/PhoneLab-(  512): Service Running
+I/PhoneLab-LoggerService(  512): app_36    1156  512   1444   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  512): Logcat pid from database 1156
+I/PhoneLab-LoggerService(  512): Logcat process found 1156
+I/PhoneLab-LoggerService(  512): Checking Threshold
+I/PhoneLab-LoggerService(  512): Starting to rename files
+I/PhoneLab-LoggerService(  512): Files found .. 23
+I/power   (  156): *** set_screen_state 1
+I/WindowManager(  156): Lock screen displayed!
+D/SurfaceFlinger(   78): Screen about to return, flinger = 0x167c918
+D/Finsky  ( 1561): [1] DetailsDataBasedFragment.rebindViews: Page [class=DetailsFragment] loaded in [257809 ms] (partial? false)
+D/dalvikvm( 1561): GC_CONCURRENT freed 2236K, 13% free 16691K/19015K, paused 7ms+9ms
+I/Process (  156): Sending signal. PID: 1561 SIG: 3
+I/dalvikvm( 1561): threadid=3: reacting to signal 3
+I/dalvikvm( 1561): Wrote stack traces to '/data/anr/traces.txt'
+D/Finsky  ( 1561): [1] DetailsDataBasedFragment.rebindViews: Page [class=DetailsFragment] loaded in [258300 ms] (partial? true)
+I/Process (  156): Sending signal. PID: 1561 SIG: 3
+I/dalvikvm( 1561): threadid=3: reacting to signal 3
+I/dalvikvm( 1561): Wrote stack traces to '/data/anr/traces.txt'
+D/NfcService(  364): NFC-C ON
+D/PhoneStatusBar(  225): disable: < expand icons alerts ticker system_info BACK HOME recent* CLOCK >
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/PhoneStatusBar(  225): disable: < expand icons alerts ticker system_info back* home* recent clock* >
+W/InputManagerService(  156): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@4171d400
+I/Process (  156): Sending signal. PID: 1561 SIG: 3
+I/dalvikvm( 1561): threadid=3: reacting to signal 3
+I/dalvikvm( 1561): Wrote stack traces to '/data/anr/traces.txt'
+D/dalvikvm(  459): GC_CONCURRENT freed 241K, 6% free 9773K/10375K, paused 7ms+10ms
+D/dalvikvm(  287): GC_CONCURRENT freed 377K, 5% free 10320K/10823K, paused 11ms+7ms
+I/ActivityManager(  156): START {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher} from pid 156
+D/dalvikvm(  156): GC_FOR_ALLOC freed 541K, 10% free 14020K/15431K, paused 46ms
+D/OpenGLRenderer( 1561): Flushing caches (mode 0)
+D/OpenGLRenderer( 1561): Flushing caches (mode 1)
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+I/ActivityManager(  156): START {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.browser/.BrowserActivity bnds=[384,706][480,802]} from pid 380

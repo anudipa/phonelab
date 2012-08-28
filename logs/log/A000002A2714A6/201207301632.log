@@ -1,0 +1,391 @@
+D/dalvikvm( 2360): GC_CONCURRENT freed 164K, 3% free 9372K/9607K, paused 3ms+6ms
+I/ActivityManager(  156): Process com.google.android.apps.maps:FriendService (pid 2347) has died.
+D/dalvikvm( 2360): GC_CONCURRENT freed 194K, 3% free 9654K/9927K, paused 2ms+17ms
+I/ActivityThread( 2334): Pub com.google.android.maps.LocalSuggestionProvider: com.google.googlenav.provider.LocalSuggestionProvider
+I/ActivityThread( 2334): Pub com.google.android.maps.SearchHistoryProvider: com.google.googlenav.provider.SearchHistoryProvider
+I/ActivityThread( 2334): Pub com.google.android.maps.NavigationAvailabilityProvider: com.google.googlenav.provider.NavigationAvailabilityProvider
+I/ActivityThread( 2334): Pub com.google.android.maps.SuggestionProvider: com.google.googlenav.suggest.android.SuggestContentProvider
+--------- beginning of /dev/log/main
+I/DEBUG   (   76): debuggerd: Jul 30 2012 12:19:43
+I/Netd    (   75): Netd 1.0 starting
+--------- beginning of /dev/log/system
+I/Vold    (   72): Vold 2.1 (the revenge) firing up
+D/Vold    (   72): Volume sdcard state changing -1 (Initializing) -> 0 (No-Media)
+D/Vold    (   72): Volume sdcard state changing 0 (No-Media) -> 2 (Pending)
+D/Vold    (   72): Volume sdcard state changing 2 (Pending) -> 1 (Idle-Unmounted)
+W/Vold    (   72): Duplicate state (1)
+W/Vold    (   72): Duplicate state (1)
+W/Vold    (   72): Duplicate state (1)
+W/Vold    (   72): Duplicate state (1)
+I/        (   80): ServiceManager: 0x19ce910
+I/recovery(  118): Recovery image already installed 
+D/AndroidRuntime(   79): 
+D/AndroidRuntime(   79): >>>>>> AndroidRuntime START com.android.internal.os.ZygoteInit <<<<<<
+D/AndroidRuntime(   79): CheckJNI is OFF
+I/SurfaceFlinger(   78): SurfaceFlinger is starting
+I/SurfaceFlinger(   78): SurfaceFlinger's main thread ready to run. Initializing graphics H/W...
+I/        (   81): ServiceManager: 0x1ece958
+I/AudioFlinger(   81): Loaded primary audio interface from LEGACY Audio HW HAL (audio)
+I/AudioFlinger(   81): Using 'LEGACY Audio HW HAL' (audio.primary) as the primary audio interface
+I/AudioFlinger(   81): Loaded a2dp audio interface from A2DP Audio HW HAL (audio)
+D/AudioHardwareInterface(   81): setMode(NORMAL)
+I/CameraService(   81): CameraService started (pid=81)
+I/AudioFlinger(   81): AudioFlinger's thread 0x1ecf9a0 ready to run
+W/AudioFlinger(   81): Thread AudioOut_1 cannot connect to the power manager service
+D/AudioHardware(   81): AudioStreamOutALSA::setParameters() routing=2
+D/AudioHardware(   81): ### setVoiceVolume_l
+I/AudioPolicyService(   81): Loaded audio policy from LEGACY Audio Policy HAL (audio_policy)
+D/libEGL  (   78): loaded /system/lib/egl/libGLES_android.so
+D/libEGL  (   78): loaded /vendor/lib/egl/libEGL_POWERVR_SGX540_120.so
+D/libEGL  (   78): loaded /vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so
+D/libEGL  (   78): loaded /vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so
+I/SurfaceFlinger(   78): EGL informations:
+I/SurfaceFlinger(   78): # of configs : 30
+I/SurfaceFlinger(   78): vendor    : Android
+I/SurfaceFlinger(   78): version   : 1.4 Android META-EGL
+I/SurfaceFlinger(   78): extensions: EGL_KHR_image EGL_KHR_image_base EGL_KHR_image_base EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_gl_renderbuffer_image EGL_KHR_fence_sync EGL_ANDROID_image_native_buffer EGL_ANDROID_image_native_buffer 
+I/SurfaceFlinger(   78): Client API: OpenGL ES
+I/SurfaceFlinger(   78): EGLSurface: 8-8-8-8, config=0x1
+I/SurfaceFlinger(   78): OpenGL informations:
+I/SurfaceFlinger(   78): vendor    : Imagination Technologies
+I/SurfaceFlinger(   78): renderer  : PowerVR SGX 540
+I/SurfaceFlinger(   78): version   : OpenGL ES-CM 1.1
+I/SurfaceFlinger(   78): extensions: GL_OES_byte_coordinates GL_OES_fixed_point GL_OES_single_precision GL_OES_matrix_get GL_OES_read_format GL_OES_compressed_paletted_texture GL_OES_point_sprite GL_OES_point_size_array GL_OES_matrix_palette GL_OES_draw_texture GL_OES_query_matrix GL_OES_texture_env_crossbar GL_OES_texture_mirrored_repeat GL_OES_texture_cube_map GL_OES_blend_subtract GL_OES_blend_func_separate GL_OES_blend_equation_separate GL_OES_stencil_wrap GL_OES_extended_matrix_palette GL_OES_framebuffer_object GL_OES_rgb8_rgba8 GL_OES_depth24 GL_OES_stencil8 GL_OES_compressed_ETC1_RGB8_texture GL_OES_mapbuffer GL_OES_EGL_image GL_OES_EGL_image_external GL_EXT_multi_draw_arrays GL_OES_required_internalformat GL_IMG_read_format GL_IMG_texture_compression_pvrtc GL_IMG_texture_format_BGRA8888 GL_EXT_texture_format_BGRA8888 GL_OES_egl_sync GL_IMG_vertex_array_object
+I/SurfaceFlinger(   78): GL_MAX_TEXTURE_SIZE = 2048
+I/SurfaceFlinger(   78): GL_MAX_VIEWPORT_DIMS = 2048 x 2048
+I/SurfaceFlinger(   78): flags = 00010000
+I/hwcomposer(   78): int hwc_device_open(const hw_module_t*, const char*, hw_device_t**)::win-0 add[0] 4b7af000 
+I/hwcomposer(   78): int hwc_device_open(const hw_module_t*, const char*, hw_device_t**)::win-0 add[1] 4b926000 
+I/hwcomposer(   78): int hwc_device_open(const hw_module_t*, const char*, hw_device_t**)::win-0 add[2] 4ba9d000 
+D/hwcomposer(   78): int hwc_device_open(const hw_module_t*, const char*, hw_device_t**):: success
+D/libEGL  (  127): loaded /system/lib/egl/libGLES_android.so
+D/libEGL  (  127): loaded /vendor/lib/egl/libEGL_POWERVR_SGX540_120.so
+D/libEGL  (  127): loaded /vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so
+D/libEGL  (  127): loaded /vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so
+I/SamplingProfilerIntegration(   79): Profiling disabled.
+I/Zygote  (   79): Preloading classes...
+D/dalvikvm(   79): GC_EXPLICIT freed 36K, 85% free 409K/2560K, paused 0ms+0ms
+D/dalvikvm(   79): GC_EXPLICIT freed 4K, 82% free 473K/2560K, paused 1ms+0ms
+D/dalvikvm(   79): GC_EXPLICIT freed 20K, 81% free 509K/2560K, paused 1ms+0ms
+D/dalvikvm(   79): GC_EXPLICIT freed 27K, 80% free 536K/2560K, paused 0ms+0ms
+D/dalvikvm(   79): GC_EXPLICIT freed 15K, 78% free 576K/2560K, paused 0ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 27K, 77% free 603K/2560K, paused 0ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 30K, 76% free 635K/2560K, paused 1ms+1ms
+D/TextLayoutCache(   79): Using debug level: 0 - Debug Enabled: 0
+W/Zygote  (   79): Class not found for preloading: android.media.AudioManager$2
+I/dalvikvm(   79): threadid=1: recursive native library load attempt (/system/lib/libmedia_jni.so)
+D/MtpDeviceJNI(   79): register_android_mtp_MtpDevice
+I/dalvikvm(   79): threadid=1: recursive native library load attempt (/system/lib/libmedia_jni.so)
+I/dalvikvm(   79): threadid=1: recursive native library load attempt (/system/lib/libmedia_jni.so)
+W/Zygote  (   79): Class not found for preloading: android.media.IRemoteControlClientDispatcher
+W/Zygote  (   79): Class not found for preloading: android.media.IRemoteControlClientDispatcher$Stub
+D/dalvikvm(   79): GC_EXPLICIT freed 20K, 74% free 672K/2560K, paused 0ms+0ms
+D/dalvikvm(   79): GC_FOR_ALLOC freed 217K, 63% free 967K/2560K, paused 7ms
+D/dalvikvm(   79): GC_EXPLICIT freed 43K, 60% free 1024K/2560K, paused 0ms+0ms
+D/dalvikvm(   79): GC_EXPLICIT freed 27K, 59% free 1052K/2560K, paused 0ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 8K, 57% free 1100K/2560K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 23K, 55% free 1167K/2560K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 48K, 44% free 1445K/2560K, paused 1ms+1ms
+W/Zygote  (   79): Class not found for preloading: android.text.TextDirectionHeuristics$CharCount
+W/Zygote  (   79): Class not found for preloading: android.text.method.WordIterator$1
+D/dalvikvm(   79): GC_EXPLICIT freed 34K, 43% free 1480K/2560K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 32K, 42% free 1502K/2560K, paused 2ms+1ms
+I/dalvikvm(   79): threadid=1: recursive native library load attempt (/system/lib/libwebcore.so)
+D/dalvikvm(   79): No JNI_OnLoad found in /system/lib/libchromium_net.so 0x0, skipping init
+D/dalvikvm(   79): GC_EXPLICIT freed 26K, 40% free 1551K/2560K, paused 1ms+1ms
+W/Zygote  (   79): Class not found for preloading: android.widget.EdgeGlow
+D/dalvikvm(   79): GC_EXPLICIT freed 25K, 39% free 1580K/2560K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 71K, 37% free 1625K/2560K, paused 1ms+1ms
+E/PhonePolicy(   79): Could not preload class for phone policy: com.android.internal.policy.impl.PhoneWindow$ContextMenuCallback
+D/dalvikvm(   79): GC_EXPLICIT freed 33K, 36% free 1647K/2560K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 28K, 35% free 1675K/2560K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 26K, 34% free 1706K/2560K, paused 2ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 32K, 33% free 1731K/2560K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 31K, 32% free 1759K/2560K, paused 2ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 71K, 30% free 1815K/2560K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 39K, 29% free 1831K/2560K, paused 2ms+2ms
+I/System  (   79): Loaded time zone names for  in 740ms (736ms in ICU)
+I/System  (   79): Loaded time zone names for en_US in 381ms (377ms in ICU)
+D/dalvikvm(   79): GC_EXPLICIT freed 324K, 24% free 1948K/2560K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 15K, 22% free 2009K/2560K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 51K, 21% free 2041K/2560K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 28K, 20% free 2072K/2560K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 38K, 19% free 2089K/2560K, paused 9ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 32K, 18% free 2111K/2560K, paused 1ms+2ms
+I/Zygote  (   79): ...preloaded 2297 classes in 3410ms.
+D/dalvikvm(   79): GC_EXPLICIT freed 22K, 18% free 2116K/2560K, paused 2ms+2ms
+I/Zygote  (   79): Preloading resources...
+D/dalvikvm(   79): GC_EXPLICIT freed 1K, 15% free 2200K/2560K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 1K, 12% free 2269K/2560K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 1K, 9% free 2337K/2560K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 1K, 7% free 2389K/2560K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 8% free 2436K/2627K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 8% free 2497K/2691K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 6% free 2549K/2691K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 6% free 2603K/2755K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 6% free 2657K/2819K, paused 16ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 3K, 6% free 2714K/2883K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 7% free 2765K/2947K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 5% free 2821K/2947K, paused 2ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 5% free 2873K/3011K, paused 2ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 3K, 5% free 2928K/3075K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 5% free 2984K/3139K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 6% free 3034K/3203K, paused 2ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 4% free 3087K/3203K, paused 2ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 4% free 3145K/3267K, paused 2ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 5% free 3193K/3331K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 4% free 3268K/3395K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 1K, 4% free 3337K/3459K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 1K, 4% free 3391K/3523K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 4% free 3448K/3587K, paused 3ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 5% free 3504K/3651K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 3% free 3560K/3651K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 5K, 3% free 3612K/3715K, paused 2ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 3% free 3669K/3779K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 4K, 4% free 3722K/3843K, paused 2ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 2% free 3775K/3843K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 2% free 3830K/3907K, paused 2ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 10K, 1% free 3932K/3971K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 6K, 3% free 4010K/4099K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 3K, 3% free 4075K/4163K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 1% free 4126K/4163K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 3K, 2% free 4210K/4291K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 3K, 2% free 4294K/4355K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 4K, 1% free 4344K/4355K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 1% free 4396K/4419K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 1K, 1% free 4466K/4483K, paused 2ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 1K, 2% free 4558K/4611K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed <1K, 2% free 5179K/5251K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 1% free 5239K/5251K, paused 2ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 4K, 1% free 5291K/5315K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 1K, 1% free 5348K/5379K, paused 2ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed <1K, 1% free 5404K/5443K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed <1K, 1% free 5459K/5507K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 6K, 2% free 5896K/5955K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 5K, 1% free 5995K/6019K, paused 2ms+7ms
+D/dalvikvm(   79): GC_EXPLICIT freed 3K, 1% free 6046K/6083K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 5K, 2% free 7081K/7171K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 2% free 8104K/8259K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 3K, 2% free 8167K/8259K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 3K, 1% free 8219K/8259K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 4K, 1% free 8266K/8323K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 4K, 1% free 8316K/8387K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 3K, 1% free 8364K/8387K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 3K, 1% free 8421K/8451K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 1% free 8486K/8515K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 1K, 1% free 8554K/8579K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 1K, 1% free 8620K/8643K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 3K, 1% free 8672K/8707K, paused 1ms+5ms
+D/dalvikvm(   79): GC_EXPLICIT freed 3K, 1% free 8721K/8771K, paused 1ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 3K, 1% free 8770K/8835K, paused 2ms+1ms
+D/dalvikvm(   79): GC_EXPLICIT freed 2K, 1% free 8819K/8835K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 1K, 1% free 8869K/8899K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 1K, 1% free 8964K/9027K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 6K, 1% free 9027K/9091K, paused 2ms+2ms
+I/Zygote  (   79): ...preloaded 379 resources in 2184ms.
+I/Zygote  (   79): ...preloaded 31 resources in 10ms.
+D/dalvikvm(   79): GC_EXPLICIT freed 25K, 1% free 9028K/9091K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed 9K, 1% free 9019K/9091K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed <1K, 1% free 9019K/9091K, paused 2ms+2ms
+I/dalvikvm(   79): System server process 156 has been created
+I/Zygote  (   79): Accepting command socket connections
+I/sysproc (  156): Entered system_init()
+I/sysproc (  156): ServiceManager: 0x12abbd8
+D/SensorService(  156): nuSensorService starting...
+E/AKMD2   (  156): libakm : Magnetometer Initialization Failed.
+E/Sensors (  156): couldn't find 'compass' input device
+I/SensorService(  156): KR3DM 3-axis Accelerometer
+I/SensorService(  156): AK8973 3-axis Magnetic field sensor
+I/SensorService(  156): AK8973 Orientation sensor
+I/SensorService(  156): GP2A Light sensor
+I/SensorService(  156): GP2A Proximity sensor
+I/SensorService(  156): K3G Gyroscope sensor
+I/sysproc (  156): System server: starting Android runtime.
+I/sysproc (  156): System server: starting Android services.
+I/SystemServer(  156): Entered the Android system server!
+D/SensorService(  156): nuSensorService thread starting...
+I/sysproc (  156): System server: entering thread pool.
+I/SystemServer(  156): Entropy Service
+I/SystemServer(  156): Power Manager
+I/SystemServer(  156): Activity Manager
+I/ActivityManager(  156): Memory class: 48
+D/dalvikvm(  156): GC_CONCURRENT freed 176K, 3% free 9363K/9607K, paused 2ms+2ms
+I/ActivityManager(  156): Enabled StrictMode logging for AThread's Looper
+I/SystemServer(  156): Telephony Registry
+I/SystemServer(  156): Package Manager
+D/dalvikvm(  156): GC_CONCURRENT freed 536K, 7% free 9373K/9991K, paused 2ms+3ms
+D/StrictMode(  156): No activity manager; failed to Dropbox violation.
+D/dalvikvm(  156): GC_CONCURRENT freed 341K, 6% free 9470K/9991K, paused 1ms+2ms
+W/PackageParser(  156): No actions in intent filter at /system/app/Bluetooth.apk Binary XML file line #125
+D/dalvikvm(  156): GC_CONCURRENT freed 222K, 4% free 9671K/9991K, paused 3ms+8ms
+W/PackageParser(  156): No actions in intent filter at /system/app/Contacts.apk Binary XML file line #525
+D/dalvikvm(  156): GC_CONCURRENT freed 168K, 3% free 9986K/10247K, paused 2ms+5ms
+W/ResourceType(  156): Failure getting entry for 0x7f02004b (t=1 e=75) in package 0 (error -75)
+D/dalvikvm(  156): GC_CONCURRENT freed 250K, 4% free 10194K/10567K, paused 3ms+4ms
+D/dalvikvm(  156): GC_CONCURRENT freed 248K, 4% free 10456K/10823K, paused 7ms+4ms
+W/PackageParser(  156): Unknown element under <application>: category at /system/app/WiMAXHiddenMenu.apk Binary XML file line #289
+D/PackageManager(  156): No files in app dir /vendor/app
+I/installd(   83): new connection
+I/Installer(  156): connecting...
+D/dalvikvm(  156): GC_CONCURRENT freed 252K, 4% free 10675K/11015K, paused 1ms+4ms
+D/dalvikvm(  156): GC_CONCURRENT freed 159K, 3% free 10988K/11271K, paused 2ms+7ms
+W/PackageManager(  156): Package com.skype.raider desires unavailable shared library com.htc.hardware.twinCamDevice; ignoring!
+W/PackageManager(  156): Package com.skype.raider desires unavailable shared library com.motorola.hardware.frontcamera; ignoring!
+W/PackageManager(  156): Package com.skype.raider desires unavailable shared library com.sprint.hardware.twinCamDevice; ignoring!
+I/PackageManager(  156): Time to scan packages: 5.862 seconds
+W/PackageManager(  156): Unknown permission com.android.vending.permission.UPDATE_MARKET_FAILURE in package com.android.vending.updater
+W/PackageManager(  156): Unknown permission android.permission.ADD_SYSTEM_SERVICE in package com.android.phone
+W/PackageManager(  156): Unknown permission com.android.vending.billing.IBillingAccountService.BIND2 in package com.google.android.gsf.login
+W/PackageManager(  156): Not granting permission android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS to package com.android.browser (protectionLevel=2 flags=0x9be45)
+W/PackageManager(  156): Not granting permission android.permission.CALL_PRIVILEGED to package com.skype.raider (protectionLevel=3 flags=0x8be44)
+W/PackageManager(  156): Unknown permission android.permission.READ_OWNER_DATA in package com.google.android.setupwizard
+W/PackageManager(  156): Unknown permission android.permission.WRITE_OWNER_DATA in package com.google.android.setupwizard
+W/PackageManager(  156): Unknown permission android.permission.WRITE_CDMA_CARRIER_SETTINGS in package com.android.sprintmenu
+W/PackageManager(  156): Unknown permission android.permission.CHANGE_DUN_STATE in package com.android.sprintmenu
+W/PackageManager(  156): Unknown permission android.permission.READ_EXTERNAL_STORAGE in package com.android.videoeditor
+W/PackageManager(  156): Unknown permission android.permission.READ_EXTERNAL_STORAGE in package com.android.vending
+W/PackageManager(  156): Not granting permission com.google.android.voicesearch.AUDIO_FILE_ACCESS to package com.google.android.gm (protectionLevel=2 flags=0x9be64)
+W/PackageManager(  156): Unknown permission com.estrongs.android.pop.PERMISSION in package com.estrongs.android.pop
+W/PackageManager(  156): Unknown permission com.sprint.internal.permission.CONNECTIONMANAGER in package com.samsung.update
+W/PackageManager(  156): Unknown permission com.sprint.internal.permission.SYSTEMPROPERTIES in package com.samsung.update
+W/PackageManager(  156): Unknown permission com.sprint.internal.permission.SYSTEMPROPERTIES_WRITE in package com.samsung.update
+W/PackageManager(  156): Unknown permission com.android.providers.im.permission.READ_ONLY in package com.google.android.apps.maps
+W/PackageManager(  156): Not granting permission android.permission.DEVICE_POWER to package com.android.deskclock (protectionLevel=2 flags=0x8be45)
+W/PackageManager(  156): Unknown permission android.permission.FLAG_RECEIVER_REGISTERED_ONLY_BEFORE_BOOT in package com.samsung.wimax
+W/PackageManager(  156): Not granting permission android.permission.ACCESS_CHECKIN_PROPERTIES to package com.google.android.apps.googlevoice (protectionLevel=3 flags=0x8be44)
+W/PackageManager(  156): Unknown permission com.google.android.apps.googlevoice.REMOTE_INTENT in package com.google.android.apps.googlevoice
+W/PackageManager(  156): Unknown permission com.google.android.permission.RECEIVE_DATA_MESSAGE in package com.google.android.apps.googlevoice
+W/PackageManager(  156): Unknown permission com.google.android.permission.SEND_DATA_MESSAGE in package com.google.android.apps.googlevoice
+W/PackageManager(  156): Unknown permission com.android.providers.voicemail.permission.READ_WRITE_ALL_VOICEMAIL in package com.google.android.apps.googlevoice
+W/PackageManager(  156): Unknown permission com.android.providers.voicemail.permission.READ_WRITE_OWN_VOICEMAIL in package com.google.android.apps.googlevoice
+D/dalvikvm(  156): GC_CONCURRENT freed 375K, 4% free 11080K/11527K, paused 7ms+2ms
+D/dalvikvm(  156): GC_EXPLICIT freed 80K, 5% free 11000K/11527K, paused 2ms+2ms
+I/SystemServer(  156): Account Manager
+D/PackageManager(  156): generateServicesMap(android.accounts.AccountAuthenticator): 4 services unchanged
+I/SystemServer(  156): Content Manager
+D/PackageManager(  156): generateServicesMap(android.content.SyncAdapter): 12 services unchanged
+I/ActivityThread(  156): Pub settings: com.android.providers.settings.SettingsProvider
+I/SystemServer(  156): System Content Providers
+D/SettingsProvider(  156): cache for settings table 'secure' rows=49; fullycached=true
+D/SettingsProvider(  156): cache for settings table 'system' rows=54; fullycached=true
+D/dalvikvm(  156): GC_CONCURRENT freed 271K, 4% free 11238K/11591K, paused 2ms+3ms
+I/SystemServer(  156): Lights Service
+I/SystemServer(  156): Battery Service
+I/SystemServer(  156): Vibrator Service
+I/power   (  156): *** set_screen_state 1
+D/AlarmManagerService(  156): Kernel timezone updated to 240 minutes west of GMT
+I/SystemServer(  156): Alarm Manager
+I/SystemServer(  156): Init Watchdog
+I/SystemServer(  156): Window Manager
+I/InputManager(  156): Initializing input manager
+W/StatusBarManager(  156): warning: no STATUS_BAR_SERVICE
+E/Sensors (  156): Could not change sensor state (No such device)
+E/SensorService(  156): Error activating sensor 0 (No such device)
+I/WindowManager(  156): Enabled StrictMode for PolicyThread's Looper
+I/InputManager(  156): Starting input manager
+I/WindowManager(  156): Enabled StrictMode logging for WMThread's Looper
+I/SystemServer(  156): Bluetooth Service
+I/BluetoothProfileState(  156): Message:Entering Stable State
+D/EventHub(  156): No input device configuration file found for device 'cypress-touchkey'.
+I/EventHub(  156): New device: id=1, fd=109, path='/dev/input/event5', name='cypress-touchkey', classes=0x1, configuration='', keyLayout='/system/usr/keylayout/cypress-touchkey.kl', keyCharacterMap='/system/usr/keychars/cypress-touchkey.kcm', builtinKeyboard=false
+D/EventHub(  156): No input device configuration file found for device 'lightsensor-level'.
+D/EventHub(  156): No input device configuration file found for device 'proximity'.
+D/EventHub(  156): No input device configuration file found for device 'herring-keypad'.
+I/EventHub(  156): New device: id=4, fd=110, path='/dev/input/event2', name='herring-keypad', classes=0x1, configuration='', keyLayout='/system/usr/keylayout/herring-keypad.kl', keyCharacterMap='/system/usr/keychars/herring-keypad.kcm', builtinKeyboard=false
+D/EventHub(  156): No input device configuration file found for device 'gyro'.
+I/BluetoothProfileState(  156): Message:Entering Stable State
+I/BluetoothProfileState(  156): Message:Entering Stable State
+I/EventHub(  156): New device: id=6, fd=118, path='/dev/input/event0', name='mxt224_ts_input', classes=0x14, configuration='/system/usr/idc/mxt224_ts_input.idc', keyLayout='', keyCharacterMap='', builtinKeyboard=false
+I/InputReader(  156):   Touch device 'mxt224_ts_input' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+I/InputReader(  156): Device added: id=6, name='mxt224_ts_input', sources=0x00001002
+I/InputReader(  156): Device added: id=4, name='herring-keypad', sources=0x00000101
+I/InputReader(  156): Device added: id=1, name='cypress-touchkey', sources=0x00000101
+I/SystemServer(  156): Input Method Service
+D/BluetoothAdapterStateMachine(  156): PowerOff process message: 5
+W/InputManagerService(  156): Couldn't create dir.: /data/system/inputmethod
+W/ResourceType(  156): Failure getting entry for 0x7f060000 (t=5 e=0) in package 0 (error -75)
+I/SystemServer(  156): Accessibility Manager
+I/InputReader(  156): Reconfiguring input devices.  changes=0x00000004
+I/InputReader(  156): Device reconfigured: id=6, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+I/ActivityManager(  156): Config changed: {1.0 0mcc0mnc en_US layoutdir=0 sw320dp w320dp h508dp nrml long port ?uimode ?night finger -keyb/v/h -nav/h s.2}
+D/PermissionCache(   78): checking android.permission.ACCESS_SURFACE_FLINGER for uid=1000 => granted (387 us)
+I/SystemServer(  156): Device Policy
+I/SystemServer(  156): Status Bar
+I/SystemServer(  156): Clipboard Service
+I/SystemServer(  156): NetworkManagement Service
+I/SystemServer(  156): Text Service Manager Service
+I/SystemServer(  156): NetworkStats Service
+I/SystemServer(  156): NetworkPolicy Service
+I/SystemServer(  156): Wi-Fi P2pService
+I/SystemServer(  156): Wi-Fi Service
+E/CommandListener(   75): Failed to open /proc/sys/net/ipv6/conf/wlan0/disable_ipv6: No such file or directory
+E/WifiStateMachine(  156): Failed to disable IPv6: java.lang.IllegalStateException: Unable to communicate to native daemon for disabling ipv6
+I/SystemServer(  156): Connectivity Service
+D/ConnectivityService(  156): ConnectivityService starting up
+E/ConnectivityService(  156): Ignoring protectedNetwork 10
+E/ConnectivityService(  156): Ignoring protectedNetwork 11
+E/ConnectivityService(  156): Ignoring protectedNetwork 12
+D/ConnectivityService(  156): wimaxJarLocation: /vendor/lib/wimax_service.jar
+I/bluedroid(  156): Starting hciattach daemon
+I/bluedroid(  156): bt_enable: ret: -1, errno: 19
+D/dalvikvm(  156): DexOpt: --- BEGIN 'wimax_service.jar' (bootstrap=0) ---
+D/dalvikvm(  156): GC_CONCURRENT freed 404K, 5% free 11421K/11911K, paused 2ms+4ms
+I/bluedroid(  156): bt_enable: ret: -1, errno: 19
+D/dalvikvm(  213): DexOpt: load 8ms, verify+opt 69ms
+D/dalvikvm(  156): DexOpt: --- END 'wimax_service.jar' (success) ---
+D/dalvikvm(  156): DEX prep '/vendor/lib/wimax_service.jar': unzip in 51ms, rewrite 173ms
+I/bluedroid(  156): bt_enable: ret: -1, errno: 19
+D/ConnectivityService(  156): Starting Wimax Service... 
+I/dalvikvm(  156): Could not find method android.net.InterfaceConfiguration.setLinkAddress, referenced from method android.net.fourG.wimax.WimaxStateTracker.configureInterface
+W/dalvikvm(  156): VFY: unable to resolve virtual method 45: Landroid/net/InterfaceConfiguration;.setLinkAddress (Landroid/net/LinkAddress;)V
+D/dalvikvm(  156): VFY: replacing opcode 0x6e at 0x0042
+E/MobileDataStateTracker(  156): default: Ignoring feature request because could not acquire PhoneService
+E/MobileDataStateTracker(  156): default: Could not enable APN type "default"
+D/NetworkManagementService(  156): Registering observer
+D/NetworkManagementService(  156): Registering observer
+I/WifiService(  156): WifiService starting up with Wi-Fi enabled
+I/SystemServer(  156): Throttle Service
+I/SystemServer(  156): Mount Service
+D/MountService(  156): got storage path: /mnt/sdcard description: USB storage primary: true removable: false emulated: false mtpReserve: 0 allowMassStorage: true maxFileSize: 4294967296
+I/SystemServer(  156): Notification Manager
+I/SystemServer(  156): Device Storage Monitor
+I/SystemServer(  156): Location Manager
+I/SystemServer(  156): Country Detector
+I/SystemServer(  156): Search Service
+I/SystemServer(  156): DropBox Service
+I/SystemServer(  156): Wallpaper Service
+I/SystemServer(  156): Audio Service
+D/VoldCmdListener(   72): volume list
+I/bluedroid(  156): bt_enable: ret: -1, errno: 19
+I/PackageManager(  156): Updating external media status from unmounted to unmounted
+D/MountService(  156): volume state changed for /mnt/sdcard (null -> unmounted)
+D/AudioHardware(   81): ### setVoiceVolume_l
+I/SystemServer(  156): Dock Observer
+I/SystemServer(  156): Wired Accessory Observer
+I/SystemServer(  156): USB Service
+I/SystemServer(  156): UI Mode Manager Service
+I/SystemServer(  156): Backup Service
+V/BackupManagerService(  156): Initializing package tracking
+I/bluedroid(  156): bt_enable: ret: -1, errno: 19
+I/bluedroid(  156): bt_enable: ret: -1, errno: 19
+I/bluedroid(  156): bt_enable: ret: -1, errno: 19
+D/dalvikvm(  156): GC_CONCURRENT freed 236K, 3% free 11788K/12103K, paused 2ms+3ms
+V/BackupManagerService(  156): addPackageParticipantsLocked: all
+V/BackupManagerService(  156): Registering transport android/com.android.internal.backup.LocalTransport = com.android.internal.backup.LocalTransport@4154ca98
+V/BackupManagerService(  156): Starting with transport android/com.android.internal.backup.LocalTransport
+V/BackupManagerService(  156): Binding to Google transport
+I/BackupManagerService(  156): Backup enabled => true
+I/SystemServer(  156): AppWidget Service
+I/SystemServer(  156): Recognition Service
+I/SystemServer(  156): DiskStats Service
+I/SystemServer(  156): SamplingProfiler Service
+I/WindowManager(  156): SAFE MODE not enabled
+D/dalvikvm(  156): JIT started for system_server
+I/SystemServer(  156): NetworkTimeUpdateService
+D/PowerManagerService(  156): system ready!
+I/bluedroid(  156): bt_enable: ret: -1, errno: 19
+I/ActivityManager(  156): System now ready
+I/SystemServer(  156): Making services ready
+D/SystemServer(  156): Starting service: Intent { cmp=com.android.systemui/.SystemUIService }
+I/Zygote  (  156): Process: zygote socket opened
+I/ActivityManager(  156): Start proc com.android.systemui for service com.android.systemui/.SystemUIService: pid=225 uid=1000 gids={1015, 3002, 3001, 3003, 3007}

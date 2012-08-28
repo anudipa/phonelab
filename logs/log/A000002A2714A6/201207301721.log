@@ -1,0 +1,404 @@
+I/PhoneLab-LoggerService(  531): Checking Threshold
+I/qtaguid (  289): Failed write_ctrl(u 76) res=-1 errno=22
+I/qtaguid (  289): Untagging socket 76 failed errno=-22
+W/NetworkManagementSocketTagger(  289): untagSocket(76) failed with errno -22
+D/ConnectivityService(  156): handleInetConditionChange: net=0 != default=1 - ignore
+I/PhoneLab-LoggerService(  531): Starting to rename files
+I/PhoneLab-LoggerService(  531): Files found .. 26
+I/PhoneLab-LoggerService(  531): File 22 log.out.1
+I/PhoneLab-LoggerService(  531): Renamed successfully
+I/PhoneLab-LoggerService(  531): File 23 log.out.3
+I/PhoneLab-LoggerService(  531): Renamed successfully
+I/PhoneLab-LoggerService(  531): File 24 log.out.2
+I/PhoneLab-LoggerService(  531): Renamed successfully
+I/PhoneLab-LoggerService(  531): File 25 log.out.4
+I/PhoneLab-LoggerService(  531): Renamed successfully
+D/Tethering(  156): MasterInitialState.processMessage what=3
+I/GTalkService/c(  289): [AndroidEndpoint@1095284640] connect: acct=1000000, state=CONNECTING
+D/PicasaSyncManager( 1072): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/PicasaSyncManager( 1072): background data: true
+D/Tethering(  156): MasterInitialState.processMessage what=3
+I/GTalkService/c(  289): [GTalkConnection@1095278592] connect: acct=1, state=CONNECTING
+D/Tethering(  156): MasterInitialState.processMessage what=3
+I/GTalkService/c(  289): [GTalkConnection@1095023744] connect: acct=2, state=CONNECTING
+I/MediaUploader( 1103): No need to wake up
+I/MediaUploader( 1103): No need to wake up
+I/MediaUploader( 1103): No need to wake up
+D/PicasaSyncManager( 1072): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/PicasaSyncManager( 1072): background data: true
+I/AudioService(  156):  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593fc8
+D/dalvikvm(  289): GC_CONCURRENT freed 390K, 7% free 9976K/10631K, paused 5ms+3ms
+I/ActivityManager(  156): START {act=android.intent.action.VIEW dat=content://com.google.android.providers.talk/messagesByAccount/2 flg=0x34000000 cmp=com.google.android.talk/.SigningInActivity bnds=[96,119][480,215] (has extras)} from pid -1
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+W/KeyguardViewMediator(  156): verifyUnlock called when not externally disabled
+D/ConnectivityService(  156): handleInetConditionHoldEnd: net=1, condition=100, published condition=0
+D/OpenGLRenderer(  389): Flushing caches (mode 1)
+D/vclib:CallStateClient(  897): startListening
+I/Process (  156): Sending signal. PID: 897 SIG: 3
+I/dalvikvm(  897): threadid=3: reacting to signal 3
+D/OpenGLRenderer(  389): Flushing caches (mode 0)
+I/dalvikvm(  897): Wrote stack traces to '/data/anr/traces.txt'
+D/dalvikvm(  897): GC_CONCURRENT freed 364K, 5% free 9550K/9991K, paused 2ms+4ms
+D/dalvikvm(  156): GC_CONCURRENT freed 597K, 15% free 12789K/14983K, paused 3ms+9ms
+D/dalvikvm(  226): GC_FOR_ALLOC freed 463K, 8% free 10151K/11015K, paused 62ms
+D/libEGL  (  897): loaded /system/lib/egl/libGLES_android.so
+D/libEGL  (  897): loaded /vendor/lib/egl/libEGL_POWERVR_SGX540_120.so
+D/libEGL  (  897): loaded /vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so
+D/libEGL  (  897): loaded /vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so
+I/Process (  156): Sending signal. PID: 897 SIG: 3
+I/dalvikvm(  897): threadid=3: reacting to signal 3
+I/dalvikvm(  897): Wrote stack traces to '/data/anr/traces.txt'
+D/OpenGLRenderer(  897): Enabling debug mode 0
+D/dalvikvm(  897): GC_CONCURRENT freed 242K, 4% free 9766K/10119K, paused 3ms+5ms
+D/dalvikvm(  289): GC_CONCURRENT freed 347K, 6% free 10013K/10631K, paused 2ms+3ms
+I/Process (  156): Sending signal. PID: 897 SIG: 3
+I/dalvikvm(  897): threadid=3: reacting to signal 3
+I/dalvikvm(  897): Wrote stack traces to '/data/anr/traces.txt'
+I/ActivityManager(  156): Displayed com.google.android.talk/.SigningInActivity: +1s721ms
+D/dalvikvm(  897): GC_CONCURRENT freed 270K, 4% free 9935K/10311K, paused 3ms+3ms
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/dalvikvm(  332): GC_CONCURRENT freed 148K, 3% free 10082K/10311K, paused 2ms+2ms
+D/dalvikvm(  332): GC_CONCURRENT freed 200K, 4% free 10370K/10695K, paused 1ms+5ms
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm(  332): GC_FOR_ALLOC freed 44K, 4% free 10331K/10695K, paused 147ms
+D/dalvikvm(  897): GC_CONCURRENT freed 399K, 5% free 10003K/10503K, paused 33ms+11ms
+I/dalvikvm-heap(  332): Grow heap (frag case) to 10.709MB for 577936-byte allocation
+D/dalvikvm(  226): GC_CONCURRENT freed 280K, 7% free 10317K/11015K, paused 2ms+7ms
+D/dalvikvm(  332): GC_CONCURRENT freed <1K, 4% free 10895K/11271K, paused 2ms+22ms
+D/dalvikvm(  226): GC_FOR_ALLOC freed 338K, 9% free 10118K/11015K, paused 76ms
+W/InputManagerService(  156): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@415ec1a0
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/dalvikvm(  289): GC_CONCURRENT freed 341K, 6% free 10059K/10631K, paused 2ms+3ms
+D/dalvikvm(  455): GC_CONCURRENT freed 346K, 5% free 9510K/9991K, paused 2ms+3ms
+D/dalvikvm(  156): GC_EXPLICIT freed 593K, 16% free 12698K/14983K, paused 13ms+6ms
+D/dalvikvm(  289): GC_CONCURRENT freed 403K, 6% free 10091K/10631K, paused 21ms+3ms
+D/dalvikvm(  226): GC_FOR_ALLOC freed 378K, 9% free 10110K/11015K, paused 45ms
+D/dalvikvm(  897): GC_CONCURRENT freed 430K, 6% free 10066K/10631K, paused 2ms+4ms
+D/dalvikvm(  226): GC_CONCURRENT freed 387K, 9% free 10111K/11015K, paused 1ms+5ms
+D/AlarmManagerService(  156): Kernel timezone updated to 240 minutes west of GMT
+W/InputManagerService(  156): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@4162bdf8 (uid=10044 pid=897)
+W/IInputConnectionWrapper(  897): showStatusIcon on inactive InputConnection
+D/OpenGLRenderer(  897): Flushing caches (mode 0)
+D/OpenGLRenderer(  897): Flushing caches (mode 1)
+D/vclib:CallStateClient(  897): stopListening
+I/Gmail   (  940): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2779039, normalSync: true
+D/dalvikvm(  940): GC_CONCURRENT freed 343K, 5% free 9640K/10119K, paused 2ms+4ms
+D/dalvikvm(  940): GC_EXPLICIT freed 64K, 5% free 9628K/10119K, paused 2ms+3ms
+I/Gmail   (  940): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2779111, normalSync: true
+D/dalvikvm(  940): GC_EXPLICIT freed 322K, 5% free 9676K/10119K, paused 4ms+3ms
+I/Gmail   (  940): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2779132, normalSync: true
+I/Gmail   (  940): lowestBackward conversation id 0
+W/Gmail   (  940): Scheduling index for 300000 ms from now
+I/Gmail   (  940): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+I/Gmail   (  940): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^iim (has extras) }
+W/Gmail   (  940): Showing notification with unreadCount of 14 and unseenCount of 3
+I/AudioService(  156):  AudioFocus  requestAudioFocus() from android.media.AudioManager@41593fc8
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm(  226): GC_CONCURRENT freed 260K, 6% free 10362K/11015K, paused 3ms+4ms
+D/dalvikvm(  226): GC_FOR_ALLOC freed 361K, 8% free 10199K/11015K, paused 23ms
+I/AudioService(  156):  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41593fc8
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+I/Gmail   (  940): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2779132, normalSync: true
+D/dalvikvm(  940): GC_CONCURRENT freed 388K, 6% free 9730K/10247K, paused 3ms+3ms
+D/dalvikvm(  940): GC_EXPLICIT freed 475K, 6% free 9691K/10247K, paused 3ms+2ms
+I/Gmail   (  940): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2779170, normalSync: true
+I/Gmail   (  940): lowestBackward conversation id 0
+W/Gmail   (  940): Scheduling index for 300000 ms from now
+I/Gmail   (  940): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+W/Gmail   (  940): Showing notification with unreadCount of 15 and unseenCount of 3
+I/power   (  156): *** set_screen_state 0
+D/SurfaceFlinger(   78): About to give-up screen, flinger = 0x181f918
+W/ActivityManager(  156): Timeout of broadcast BroadcastRecord{41737830 android.intent.action.SCREEN_OFF} - receiver=android.app.LoadedApk$ReceiverDispatcher$InnerReceiver@416d0c38, started 10000ms ago
+W/ActivityManager(  156): Receiver during timeout: BroadcastFilter{416d0e40 ReceiverList{416d0dc8 156 system/1000 local:416d0c38}}
+D/NfcService(  366): NFC-C OFF, disconnect
+D/dalvikvm(  156): GC_CONCURRENT freed 692K, 14% free 12909K/14983K, paused 9ms+6ms
+V/TransportControlView(  156): Create TCV com.android.internal.widget.TransportControlView@417a2ca8
+D/PhoneStatusBar(  226): disable: < expand icons alerts ticker system_info back home RECENT* clock >
+D/PhoneStatusBar(  226): disable: < expand icons alerts ticker system_info BACK* HOME* RECENT CLOCK* >
+I/PhoneLab-(  531): Service Running
+I/PhoneLab-LoggerService(  531): app_36    1159  531   1440   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  531): Logcat pid from database 1159
+I/PhoneLab-LoggerService(  531): Logcat process found 1159
+I/PhoneLab-LoggerService(  531): Checking Threshold
+I/PhoneLab-LoggerService(  531): Starting to rename files
+I/PhoneLab-LoggerService(  531): Files found .. 26
+W/ActivityManager(  156): finishReceiver called but no pending broadcasts
+D/dalvikvm(  156): GC_CONCURRENT freed 186K, 10% free 13571K/14983K, paused 2ms+4ms
+D/AlarmManagerService(  156): Kernel timezone updated to 240 minutes west of GMT
+I/PhoneLab-PeriodicCheckService(  531): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  531): Post URI is:: http://107.22.187.240/devicestatus/
+I/PhoneLab-PeriodicCheckService(  531): Heartbeat message successfully sent : 
+I/PhoneLab-PeriodicCheckService(  531): Rescheduling periodic checking...
+I/PhoneLab-Locks(  531): wake lock released
+D/dalvikvm(  531): GC_CONCURRENT freed 403K, 7% free 9209K/9799K, paused 13ms+1ms
+I/EventLogService(  289): Aggregate from 1343679496210 (log), 1343679496210 (data)
+W/EventLogAggregator(  289): Unknown tag: facelock_activated
+W/EventLogAggregator(  289): Unknown tag: facelock_fail
+W/EventLogAggregator(  289): Unknown tag: facelock_success
+I/PhoneLab-(  531): Service Running
+I/PhoneLab-LoggerService(  531): app_36    1159  531   1440   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  531): Logcat pid from database 1159
+I/PhoneLab-LoggerService(  531): Logcat process found 1159
+I/PhoneLab-LoggerService(  531): Checking Threshold
+I/PhoneLab-LoggerService(  531): Starting to rename files
+I/PhoneLab-LoggerService(  531): Files found .. 26
+I/PhoneLab-(  531): Service Running
+I/PhoneLab-LoggerService(  531): app_36    1159  531   1440   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  531): Logcat pid from database 1159
+I/PhoneLab-LoggerService(  531): Logcat process found 1159
+I/PhoneLab-LoggerService(  531): Checking Threshold
+I/PhoneLab-LoggerService(  531): Starting to rename files
+I/PhoneLab-LoggerService(  531): Files found .. 26
+I/PhoneLab-(  531): Service Running
+I/PhoneLab-LoggerService(  531): app_36    1159  531   1440   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  531): Logcat pid from database 1159
+I/PhoneLab-LoggerService(  531): Logcat process found 1159
+I/PhoneLab-LoggerService(  531): Checking Threshold
+I/PhoneLab-LoggerService(  531): Starting to rename files
+I/PhoneLab-LoggerService(  531): Files found .. 26
+D/dalvikvm(  226): GC_CONCURRENT freed 248K, 7% free 10340K/11015K, paused 21ms+2ms
+I/PhoneLab-Locks(  531): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  531): User info is synched
+I/PhoneLab-PeriodicCheckService(  531): Logger Service is running
+I/PhoneLab-Locks(  531): wake lock acquired
+I/PhoneLab-StatusMonitor(  531): Status Monitoring is started
+E/PhoneLab-PhoneLabManifest(  531): java.io.FileNotFoundException: /data/data/edu.buffalo.cse.phonelab.phonelabservices/files/manifest.xml: open failed: ENOENT (No such file or directory)
+I/PhoneLab-Locks(  531): wake lock released
+I/PhoneLab-Locks(  531): wake lock acquired
+V/PhoneLab-PeriodicCheckService(  531): Sleeping for  162000
+I/PhoneLab-UploadLogs(  531): Transfering log files now
+V/PhoneLab-UploadLogs(  531): Posting logs now 
+D/dalvikvm(  531): GC_CONCURRENT freed 458K, 6% free 9263K/9799K, paused 1ms+2ms
+I/PhoneLab-UploadLogs(  531): OnStartCommand
+D/dalvikvm(  531): GC_FOR_ALLOC freed 311K, 7% free 9235K/9863K, paused 46ms
+I/PhoneLab-(  531): 1343681075559.log is deleted
+I/PhoneLab-(  531): Response: {"data": "done", "err": ""}
+V/PhoneLab-UploadLogs(  531): Posting logs now 
+D/dalvikvm(  531): GC_FOR_ALLOC freed 345K, 7% free 9212K/9863K, paused 13ms
+D/dalvikvm(  531): GC_CONCURRENT freed 420K, 7% free 9238K/9863K, paused 12ms+2ms
+I/PhoneLab-(  531): 1343681075583.log is deleted
+I/PhoneLab-(  531): Response: {"data": "done", "err": ""}
+V/PhoneLab-UploadLogs(  531): Posting logs now 
+D/dalvikvm(  531): GC_CONCURRENT freed 435K, 6% free 9294K/9863K, paused 2ms+2ms
+I/PhoneLab-(  531): 1343681075534.log is deleted
+I/PhoneLab-(  531): Response: {"data": "done", "err": ""}
+V/PhoneLab-UploadLogs(  531): Posting logs now 
+D/dalvikvm(  531): GC_CONCURRENT freed 547K, 7% free 9256K/9927K, paused 1ms+2ms
+I/PhoneLab-(  531): 1343681075544.log is deleted
+I/PhoneLab-(  531): Response: {"data": "done", "err": ""}
+I/PhoneLab-UploadLogs(  531): No log files to transfer
+I/PhoneLab-Locks(  531): wake lock released
+I/PhoneLab-(  531): Service Running
+I/PhoneLab-LoggerService(  531): app_36    1159  531   1440   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  531): Logcat pid from database 1159
+I/PhoneLab-LoggerService(  531): Logcat process found 1159
+I/PhoneLab-LoggerService(  531): Checking Threshold
+I/PhoneLab-PeriodicCheckService(  531): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  531): Post URI is:: http://107.22.187.240/devicestatus/
+D/dalvikvm(  531): GC_CONCURRENT freed 463K, 8% free 9182K/9927K, paused 12ms+2ms
+I/wpa_supplicant( 1218): wlan0: CTRL-EVENT-DISCONNECTED bssid=00:02:6f:d1:9c:24 reason=0
+D/CommandListener(   75): Clearing all IP addresses on wlan0
+D/ConnectivityService(  156): ConnectivityChange for WIFI: DISCONNECTED/DISCONNECTED
+D/ConnectivityService(  156): Attempting to switch to mobile
+D/ConnectivityService(  156): Attempting to switch to WIMAX
+D/ConnectivityService(  156): Attempting to switch to BLUETOOTH_TETHER
+D/NetUtils(  156): android_net_utils_resetConnections in env=0x16351c0 clazz=0x70b00001 iface=wlan0 mask=0x3
+E/ConnectivityService(  156): Exception trying to remove a route: java.lang.IllegalStateException: Unable to communicate with native dameon to add routes - com.android.server.NativeDaemonConnectorException: Cmd {interface route remove wlan0 default 192.168.0.1 32 0.0.0.0} failed with code 400 : {Failed to remove route from default table (No such process)}
+E/ConnectivityService(  156): Exception trying to remove a route: java.lang.IllegalStateException: Unable to communicate with native dameon to add routes - com.android.server.NativeDaemonConnectorException: Cmd {interface route remove wlan0 default 0.0.0.0 0 192.168.0.1} failed with code 400 : {Failed to remove route from default table (No such process)}
+D/ConnectivityService(  156): resetConnections(wlan0, 3)
+W/System.err(  531): org.apache.http.conn.HttpHostConnectException: Connection to http://107.22.187.240 refused
+W/Smack/Packet(  289): notify conn break (IOEx), close connection
+W/System.err(  531): 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:183)
+W/System.err(  531): 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:164)
+W/System.err(  531): 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:119)
+D/dalvikvm(  356): GC_CONCURRENT freed 437K, 6% free 9506K/10055K, paused 2ms+6ms
+D/dalvikvm(  156): GC_CONCURRENT freed 1005K, 10% free 13621K/14983K, paused 2ms+4ms
+W/System.err(  531): 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:360)
+W/System.err(  531): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:555)
+W/System.err(  531): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:653)
+W/System.err(  531): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:627)
+W/System.err(  531): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:616)
+W/System.err(  531): 	at edu.buffalo.cse.phonelab.phonelabservices.PeriodicCheckService.onHandleIntent(PeriodicCheckService.java:169)
+W/System.err(  531): 	at android.app.IntentService$ServiceHandler.handleMessage(IntentService.java:65)
+W/System.err(  531): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+W/System.err(  531): 	at android.os.Looper.loop(Looper.java:137)
+W/System.err(  531): 	at android.os.HandlerThread.run(HandlerThread.java:60)
+W/System.err(  531): Caused by: java.net.ConnectException: failed to connect to /107.22.187.240 (port 80): connect failed: ETIMEDOUT (Connection timed out)
+W/System.err(  531): 	at libcore.io.IoBridge.connect(IoBridge.java:114)
+W/System.err(  531): 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:192)
+W/System.err(  531): 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:459)
+W/System.err(  531): 	at java.net.Socket.connect(Socket.java:842)
+W/System.err(  531): 	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:119)
+W/System.err(  531): 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:144)
+W/System.err(  531): 	... 12 more
+W/System.err(  531): Caused by: libcore.io.ErrnoException: connect failed: ETIMEDOUT (Connection timed out)
+W/System.err(  531): 	at libcore.io.Posix.connect(Native Method)
+W/System.err(  531): 	at libcore.io.BlockGuardOs.connect(BlockGuardOs.java:85)
+W/System.err(  531): 	at libcore.io.IoBridge.connectErrno(IoBridge.java:127)
+W/System.err(  531): 	at libcore.io.IoBridge.connect(IoBridge.java:112)
+W/System.err(  531): 	... 17 more
+I/PhoneLab-PeriodicCheckService(  531): Rescheduling periodic checking...
+I/PhoneLab-Locks(  531): wake lock released
+I/qtaguid (  289): Failed write_ctrl(u 76) res=-1 errno=22
+I/qtaguid (  289): Untagging socket 76 failed errno=-22
+W/NetworkManagementSocketTagger(  289): untagSocket(76) failed with errno -22
+D/ConnectivityService(  156): handleInetConditionChange: no active default network - ignore
+D/dalvikvm(  289): GC_CONCURRENT freed 330K, 5% free 10166K/10631K, paused 1ms+5ms
+I/wpa_supplicant( 1218): wlan0: Trying to associate with 00:02:6f:d1:9c:24 (SSID='Hidden' freq=2427 MHz)
+I/wpa_supplicant( 1218): wlan0: Associated with 00:02:6f:d1:9c:24
+I/wpa_supplicant( 1218): wlan0: WPA: Key negotiation completed with 00:02:6f:d1:9c:24 [PTK=TKIP GTK=TKIP]
+I/wpa_supplicant( 1218): wlan0: CTRL-EVENT-CONNECTED - Connection to 00:02:6f:d1:9c:24 completed (reauth) [id=0 id_str=]
+D/Tethering(  156): MasterInitialState.processMessage what=3
+D/PicasaSyncManager( 1072): active network: null
+D/dalvikvm(  289): GC_EXPLICIT freed 175K, 6% free 10029K/10631K, paused 2ms+6ms
+I/MediaUploader( 1103): No need to wake up
+I/PhoneLab-WiFiReceiver(  531): Wi-Fi is disconnected!
+D/PicasaSyncManager( 1072): background data: true
+D/dalvikvm( 1072): GC_CONCURRENT freed 295K, 5% free 9302K/9735K, paused 1ms+3ms
+D/DhcpInfoInternal(  156): makeLinkProperties with empty dns2!
+D/DhcpInfoInternal(  156): makeLinkProperties with empty dns2!
+D/ConnectivityService(  156): ConnectivityChange for WIFI: CONNECTED/CONNECTED
+I/PhoneLab-WiFiReceiver(  531): Wi-Fi is connected!
+I/PhoneLab-WiFiReceiver(  531): SSID: Hidden BSSID: 00:02:6f:d1:9c:24 RSSI: -200 LinkSpeed: -1
+I/PhoneLab-Locks(  531): wake lock acquired
+I/PhoneLab-UploadLogs(  531): Transfering log files now
+I/PhoneLab-UploadLogs(  531): No log files to transfer
+I/PhoneLab-Locks(  531): wake lock released
+I/PhoneLab-UploadLogs(  531): OnStartCommand
+W/NetworkStats(  156): dropping UID delta from unknown iface: iface=wlan0 uid=0 set=DEFAULT tag=0x0 rxBytes=0 rxPackets=0 txBytes=76 txPackets=1 operations=0
+D/ConnectivityService(  156): NetTransition Wakelock for WifiStateMachine released by timeout
+D/Tethering(  156): MasterInitialState.processMessage what=3
+I/GTalkService/c(  289): [AndroidEndpoint@1095284640] connect: acct=1000000, state=CONNECTING
+I/GTalkService/c(  289): [GTalkConnection@1095278592] connect: acct=1, state=CONNECTING
+I/GTalkService/c(  289): [GTalkConnection@1095023744] connect: acct=2, state=CONNECTING
+D/dalvikvm(  472): GC_CONCURRENT freed 1222K, 13% free 9207K/10567K, paused 2ms+3ms
+D/PicasaSyncManager( 1072): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/PicasaSyncManager( 1072): background data: true
+D/dalvikvm(  156): GC_EXPLICIT freed 535K, 10% free 13606K/14983K, paused 2ms+6ms
+I/MediaUploader( 1103): No need to wake up
+D/ConnectivityService(  156): ConnectivityChange for mobile: CONNECTED/CONNECTED
+D/ConnectivityService(  156): ConnectivityChange for mobile: DISCONNECTED/DISCONNECTED
+D/ConnectivityService(  156): Attempting to switch to WIFI
+D/ConnectivityService(  156): Attempting to switch to WIMAX
+D/ConnectivityService(  156): Attempting to switch to BLUETOOTH_TETHER
+D/NetUtils(  156): android_net_utils_resetConnections in env=0x16351c0 clazz=0x84800001 iface=rmnet0 mask=0x3
+D/ConnectivityService(  156): resetConnections(rmnet0, 3)
+D/dalvikvm(  289): GC_CONCURRENT freed 351K, 6% free 10072K/10631K, paused 17ms+2ms
+D/ConnectivityService(  156): handleInetConditionHoldEnd: net=1, condition=100, published condition=0
+D/Tethering(  156): MasterInitialState.processMessage what=3
+D/Tethering(  156): MasterInitialState.processMessage what=3
+I/MediaUploader( 1103): No need to wake up
+I/MediaUploader( 1103): No need to wake up
+D/PicasaSyncManager( 1072): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/PicasaSyncManager( 1072): background data: true
+D/dalvikvm(  289): GC_CONCURRENT freed 392K, 5% free 10109K/10631K, paused 4ms+2ms
+D/dalvikvm(  455): GC_CONCURRENT freed 433K, 6% free 9493K/10055K, paused 3ms+5ms
+D/ConnectivityService(  156): handleInetConditionHoldEnd: net=1, condition=100, published condition=100
+I/PhoneLab-(  531): Service Running
+I/PhoneLab-LoggerService(  531): app_36    1159  531   1440   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  531): Logcat pid from database 1159
+I/PhoneLab-LoggerService(  531): Logcat process found 1159
+I/PhoneLab-LoggerService(  531): Checking Threshold
+W/Gmail   (  940): Successful index run, cancel next scheduled index run
+W/ActivityManager(  156): Timeout of broadcast BroadcastRecord{4175c5e8 com.android.server.action.NETWORK_STATS_POLL} - receiver=android.app.LoadedApk$ReceiverDispatcher$InnerReceiver@41630108, started 10001ms ago
+W/ActivityManager(  156): Receiver during timeout: BroadcastFilter{41630310 ReceiverList{41630298 156 system/1000 local:41630108}}
+W/ActivityManager(  156): finishReceiver called but no pending broadcasts
+D/dalvikvm(  995): GC_CONCURRENT freed 360K, 5% free 10270K/10759K, paused 2ms+3ms
+I/PhoneLab-(  531): Service Running
+I/PhoneLab-LoggerService(  531): app_36    1159  531   1440   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  531): Logcat pid from database 1159
+I/PhoneLab-LoggerService(  531): Logcat process found 1159
+I/PhoneLab-LoggerService(  531): Checking Threshold
+I/PhoneLab-(  531): Service Running
+I/PhoneLab-LoggerService(  531): app_36    1159  531   1440   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  531): Logcat pid from database 1159
+I/PhoneLab-LoggerService(  531): Logcat process found 1159
+I/PhoneLab-LoggerService(  531): Checking Threshold
+D/dalvikvm(  156): GC_CONCURRENT freed 1020K, 10% free 13631K/14983K, paused 17ms+5ms
+I/PhoneLab-Locks(  531): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  531): User info is synched
+I/PhoneLab-PeriodicCheckService(  531): Logger Service is running
+I/PhoneLab-Locks(  531): wake lock acquired
+I/PhoneLab-StatusMonitor(  531): Status Monitoring is started
+E/PhoneLab-PhoneLabManifest(  531): java.io.FileNotFoundException: /data/data/edu.buffalo.cse.phonelab.phonelabservices/files/manifest.xml: open failed: ENOENT (No such file or directory)
+I/PhoneLab-Locks(  531): wake lock released
+I/PhoneLab-Locks(  531): wake lock acquired
+V/PhoneLab-PeriodicCheckService(  531): Sleeping for  287000
+I/PhoneLab-UploadLogs(  531): Transfering log files now
+I/PhoneLab-UploadLogs(  531): No log files to transfer
+I/PhoneLab-Locks(  531): wake lock released
+I/PhoneLab-UploadLogs(  531): OnStartCommand
+I/PhoneLab-(  531): Service Running
+I/PhoneLab-LoggerService(  531): app_36    1159  531   1440   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  531): Logcat pid from database 1159
+I/PhoneLab-LoggerService(  531): Logcat process found 1159
+I/PhoneLab-LoggerService(  531): Checking Threshold
+D/dalvikvm(  531): GC_CONCURRENT freed 402K, 8% free 9178K/9927K, paused 2ms+2ms
+I/dalvikvm(  156): Jit: resizing JitTable from 8192 to 16384
+I/PhoneLab-(  531): Service Running
+I/PhoneLab-LoggerService(  531): app_36    1159  531   1440   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  531): Logcat pid from database 1159
+I/PhoneLab-LoggerService(  531): Logcat process found 1159
+I/PhoneLab-LoggerService(  531): Checking Threshold
+I/PhoneLab-(  531): Service Running
+I/PhoneLab-LoggerService(  531): app_36    1159  531   1440   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  531): Logcat pid from database 1159
+I/PhoneLab-LoggerService(  531): Logcat process found 1159
+I/PhoneLab-LoggerService(  531): Checking Threshold
+I/PhoneLab-PeriodicCheckService(  531): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  531): Post URI is:: http://107.22.187.240/devicestatus/
+I/PhoneLab-PeriodicCheckService(  531): Heartbeat message successfully sent : 
+I/PhoneLab-PeriodicCheckService(  531): Rescheduling periodic checking...
+I/PhoneLab-Locks(  531): wake lock released
+I/PhoneLab-(  531): Service Running
+I/PhoneLab-LoggerService(  531): app_36    1159  531   1440   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  531): Logcat pid from database 1159
+I/PhoneLab-LoggerService(  531): Logcat process found 1159
+I/PhoneLab-LoggerService(  531): Checking Threshold
+I/Gmail   (  940): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2779170, normalSync: true
+D/dalvikvm(  940): GC_CONCURRENT freed 359K, 5% free 9753K/10247K, paused 14ms+3ms
+D/dalvikvm(  940): GC_EXPLICIT freed 266K, 6% free 9707K/10247K, paused 3ms+3ms
+I/Gmail   (  940): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2779223, normalSync: true
+D/dalvikvm(  940): GC_EXPLICIT freed 171K, 6% free 9727K/10247K, paused 2ms+3ms
+I/Gmail   (  940): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2779223, normalSync: true
+I/Gmail   (  940): lowestBackward conversation id 0
+W/Gmail   (  940): Scheduling index for 300000 ms from now
+I/Gmail   (  940): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+W/Gmail   (  940): Showing notification with unreadCount of 16 and unseenCount of 4
+D/dalvikvm(  226): GC_CONCURRENT freed 326K, 6% free 10414K/11015K, paused 12ms+3ms
+I/PhoneLab-(  531): Service Running
+I/PhoneLab-LoggerService(  531): app_36    1159  531   1440   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  531): Logcat pid from database 1159
+I/PhoneLab-LoggerService(  531): Logcat process found 1159
+I/PhoneLab-LoggerService(  531): Checking Threshold
+D/dalvikvm( 1006): GC_CONCURRENT freed 253K, 4% free 9980K/10311K, paused 1ms+8ms
+D/dalvikvm( 1006): GC_FOR_ALLOC freed 19K, 4% free 10160K/10567K, paused 26ms
+I/dalvikvm-heap( 1006): Grow heap (frag case) to 10.190MB for 204816-byte allocation
+D/dalvikvm( 1006): GC_FOR_ALLOC freed 0K, 5% free 10360K/10823K, paused 16ms
+D/dalvikvm( 1006): GC_FOR_ALLOC freed 116K, 4% free 10439K/10823K, paused 16ms
+D/dalvikvm( 1006): GC_FOR_ALLOC freed 25K, 4% free 10645K/11079K, paused 16ms
+I/dalvikvm-heap( 1006): Grow heap (frag case) to 10.664MB for 204816-byte allocation
+D/dalvikvm( 1006): GC_FOR_ALLOC freed <1K, 5% free 10844K/11335K, paused 20ms
+W/ActivityManager(  156): finishReceiver called but no pending broadcasts
+D/dalvikvm(  995): GC_CONCURRENT freed 372K, 5% free 10439K/10887K, paused 2ms+3ms
+W/ActivityManager(  156): finishReceiver called but no pending broadcasts
+D/dalvikvm(  995): GC_CONCURRENT freed 559K, 6% free 10441K/11079K, paused 2ms+3ms
+W/ActivityManager(  156): finishReceiver called but no pending broadcasts
+D/dalvikvm(  995): GC_CONCURRENT freed 524K, 6% free 10428K/11079K, paused 2ms+3ms
+I/PhoneLab-(  531): Service Running
+I/PhoneLab-LoggerService(  531): app_36    1159  531   1440   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  531): Logcat pid from database 1159
+I/PhoneLab-LoggerService(  531): Logcat process found 1159
+I/PhoneLab-LoggerService(  531): Checking Threshold
+I/ActivityManager(  156): No longer want com.google.android.apps.googlevoice (pid 962): hidden #16
+I/ActivityManager(  156): No longer want com.google.android.apps.maps:NetworkLocationService (pid 995): hidden #17
+I/ActivityManager(  156): No longer want com.android.voicedialer (pid 922): hidden #18
+I/ActivityManager(  156): No longer want com.android.sprintmenu (pid 749): hidden #19
+D/dalvikvm(  156): GC_CONCURRENT freed 1274K, 10% free 13513K/14983K, paused 3ms+6ms
+W/ActivityManager(  156): Scheduling restart of crashed service com.android.sprintmenu/.HiddenPhoneService in 5000ms

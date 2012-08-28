@@ -146,7 +146,7 @@ def getlowlevel(path):
                                                 newdate = data[0] + '-12 ' + data[1]
                                                 t = datetime.strptime(newdate,'%m-%d-%y %H:%M:%S.%f')
 						lowdata[t] = int(temp)
-		log.close()
+			log.close()
 	return lowdata
 
 

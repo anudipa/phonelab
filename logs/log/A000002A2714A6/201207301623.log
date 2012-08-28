@@ -1,0 +1,302 @@
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm(  156): GC_FOR_ALLOC freed 920K, 14% free 13278K/15431K, paused 55ms
+I/ActivityManager(  156): Start proc com.android.browser for activity com.android.browser/.BrowserActivity: pid=1803 uid=10003 gids={3003, 1015}
+D/dalvikvm( 1803): Debugger has detached; object registry had 1 entries
+D/OpenGLRenderer(  380): Flushing caches (mode 1)
+I/ActivityThread( 1803): Pub com.android.browser;browser: com.android.browser.provider.BrowserProvider2
+I/ActivityThread( 1803): Pub com.android.browser.home: com.android.browser.homepages.HomeProvider
+I/ActivityThread( 1803): Pub com.android.browser.snapshots: com.android.browser.provider.SnapshotProvider
+D/OpenGLRenderer(  380): Flushing caches (mode 0)
+I/Process (  156): Sending signal. PID: 1803 SIG: 3
+I/dalvikvm( 1803): threadid=3: reacting to signal 3
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 272K, 4% free 9241K/9607K, paused 45ms
+I/dalvikvm( 1803): Wrote stack traces to '/data/anr/traces.txt'
+D/dalvikvm( 1803): GC_CONCURRENT freed 113K, 5% free 9469K/9863K, paused 7ms+6ms
+I/PhoneLab-Locks(  512): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  512): User info is synched
+I/PhoneLab-PeriodicCheckService(  512): Logger Service is running
+I/PhoneLab-Locks(  512): wake lock acquired
+I/PhoneLab-StatusMonitor(  512): Status Monitoring is started
+I/PhoneLab-Locks(  512): wake lock acquired
+V/PhoneLab-PeriodicCheckService(  512): Sleeping for  104000
+E/PhoneLab-PhoneLabManifest(  512): java.io.FileNotFoundException: /data/data/edu.buffalo.cse.phonelab.phonelabservices/files/manifest.xml: open failed: ENOENT (No such file or directory)
+I/PhoneLab-Locks(  512): wake lock released
+I/PhoneLab-UploadLogs(  512): Transfering log files now
+D/dalvikvm(  512): GC_CONCURRENT freed 429K, 8% free 9190K/9927K, paused 2ms+2ms
+V/PhoneLab-UploadLogs(  512): Posting logs now 
+I/PhoneLab-UploadLogs(  512): OnStartCommand
+D/dalvikvm(  512): GC_CONCURRENT freed 420K, 8% free 9214K/9927K, paused 1ms+22ms
+E/libEGL  ( 1803): call to OpenGL ES API with no current context (logged once per thread)
+D/ShaderProgram( 1803): couldn't load the vertex shader!
+E/libEGL  ( 1803): call to OpenGL ES API with no current context (logged once per thread)
+D/ShaderProgram( 1803): couldn't load the vertex shader!
+E/libEGL  ( 1803): call to OpenGL ES API with no current context (logged once per thread)
+D/ShaderProgram( 1803): couldn't load the vertex shader!
+E/libEGL  ( 1803): call to OpenGL ES API with no current context (logged once per thread)
+D/ShaderProgram( 1803): couldn't load the vertex shader!
+E/libEGL  ( 1803): call to OpenGL ES API with no current context (logged once per thread)
+D/ShaderProgram( 1803): couldn't load the vertex shader!
+I/Process (  156): Sending signal. PID: 1803 SIG: 3
+I/dalvikvm( 1803): threadid=3: reacting to signal 3
+I/PhoneLab-(  512): 1343678887966.log is deleted
+I/PhoneLab-(  512): Response: {"data": "done", "err": ""}
+I/PhoneLab-UploadLogs(  512): No log files to transfer
+I/PhoneLab-Locks(  512): wake lock released
+I/dalvikvm( 1803): Wrote stack traces to '/data/anr/traces.txt'
+D/dalvikvm( 1803): GC_CONCURRENT freed 333K, 5% free 9544K/9991K, paused 18ms+2ms
+D/WebViewTimersControl( 1803): onBrowserActivityResume
+D/WebViewTimersControl( 1803): Resuming webview timers, view=com.android.browser.BrowserWebView@4136c438
+W/BaseUi  ( 1803): mMainView is already attached to wrapper in attachTabToContentView!
+W/BaseUi  ( 1803): mContainer is already attached to content in attachTabToContentView!
+D/libEGL  ( 1803): loaded /system/lib/egl/libGLES_android.so
+D/libEGL  ( 1803): loaded /vendor/lib/egl/libEGL_POWERVR_SGX540_120.so
+D/libEGL  ( 1803): loaded /vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so
+I/Process (  156): Sending signal. PID: 1803 SIG: 3
+I/dalvikvm( 1803): threadid=3: reacting to signal 3
+D/libEGL  ( 1803): loaded /vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so
+I/dalvikvm( 1803): Wrote stack traces to '/data/anr/traces.txt'
+D/OpenGLRenderer( 1803): Enabling debug mode 0
+I/Process (  156): Sending signal. PID: 1803 SIG: 3
+I/dalvikvm( 1803): threadid=3: reacting to signal 3
+I/Process (  156): Sending signal. PID: 1803 SIG: 3
+I/dalvikvm( 1803): Wrote stack traces to '/data/anr/traces.txt'
+I/dalvikvm( 1803): threadid=3: reacting to signal 3
+I/dalvikvm( 1803): Wrote stack traces to '/data/anr/traces.txt'
+I/ActivityManager(  156): Displayed com.android.browser/.BrowserActivity: +2s852ms
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/dalvikvm( 1803): GC_CONCURRENT freed 217K, 4% free 9781K/10119K, paused 43ms+7ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 23K, 4% free 9939K/10247K, paused 18ms
+I/dalvikvm-heap( 1803): Grow heap (frag case) to 10.401MB for 656656-byte allocation
+D/dalvikvm( 1803): GC_CONCURRENT freed 2K, 4% free 10578K/10951K, paused 2ms+2ms
+D/dalvikvm(  156): GC_EXPLICIT freed 151K, 14% free 13419K/15431K, paused 3ms+11ms
+D/Finsky  ( 1561): [1] 1.run: Exiting process due to toc change
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 344K, 5% free 10597K/11143K, paused 58ms
+I/WindowManager(  156): WIN DEATH: Window{416d0828 com.android.vending/com.android.vending.AssetBrowserActivity paused=false}
+I/ActivityManager(  156): Process com.android.vending (pid 1561) has died.
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm( 1803): GC_CONCURRENT freed 304K, 4% free 10725K/11143K, paused 3ms+9ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 156K, 3% free 10997K/11335K, paused 38ms
+D/dalvikvm(  332): GC_FOR_ALLOC freed 172K, 6% free 10968K/11591K, paused 45ms
+D/dalvikvm(  225): GC_CONCURRENT freed 237K, 8% free 10578K/11399K, paused 2ms+3ms
+D/dalvikvm(  225): GC_FOR_ALLOC freed 199K, 9% free 10378K/11399K, paused 21ms
+D/dalvikvm( 1803): GC_CONCURRENT freed 563K, 6% free 11031K/11719K, paused 2ms+110ms
+D/dalvikvm(  225): GC_FOR_ALLOC freed 374K, 9% free 10377K/11399K, paused 31ms
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+I/QSB.QsbApplication( 1735): allowSuggestionLoginCreation
+D/androidNetworkLocationListeners(  287): Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@413a70f0
+D/androidNetworkLocationListeners(  287): Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@413a70f0
+D/androidNetworkLocationListeners(  287): Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@413a70f0
+D/androidNetworkLocationListeners(  287): Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@413a70f0
+I/QSB.GenieClient( 1735): request: chars=1;feeds=[qs, ns];loc=true;auth=false
+D/dalvikvm( 1735): GC_CONCURRENT freed 281K, 4% free 9189K/9543K, paused 13ms+17ms
+I/QSB.GenieClient( 1735): response: suggestions=0;0;0;0;0;0;0;
+I/QSB.QsbApplication( 1735): allowSuggestionLoginCreation
+I/QSB.GenieClient( 1735): request: chars=2;feeds=[qs, ns];loc=true;auth=false
+I/QSB.GenieClient( 1735): response: suggestions=0;0;0;0;0;0;0;
+D/dalvikvm( 1803): GC_CONCURRENT freed 436K, 5% free 11186K/11719K, paused 9ms+6ms
+I/QSB.QsbApplication( 1735): allowSuggestionLoginCreation
+I/QSB.GenieClient( 1735): request: chars=3;feeds=[qs, ns];loc=true;auth=false
+D/androidNetworkLocationListeners(  287): Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@413a70f0
+D/dalvikvm( 1735): GC_CONCURRENT freed 343K, 5% free 9259K/9735K, paused 4ms+2ms
+I/QSB.GenieClient( 1735): response: suggestions=0;0;0;0;0;0;0;
+I/QSB.QsbApplication( 1735): allowSuggestionLoginCreation
+I/QSB.GenieClient( 1735): request: chars=4;feeds=[qs, ns];loc=true;auth=false
+I/QSB.GenieClient( 1735): response: suggestions=0;0;0;0;0;0;0;
+D/dalvikvm( 1803): GC_CONCURRENT freed 675K, 7% free 11199K/11975K, paused 3ms+3ms
+I/QSB.QsbApplication( 1735): allowSuggestionLoginCreation
+E/browser ( 1803): Console: Uncaught SyntaxError: Unexpected token ILLEGAL http://optimized-by.rubiconproject.com/a/9204/15740/46228-9.js?cb=0.6702281571924686:2
+I/QSB.GenieClient( 1735): request: chars=5;feeds=[qs, ns];loc=true;auth=false
+I/QSB.GenieClient( 1735): response: suggestions=0;0;0;0;0;0;0;
+D/dalvikvm(  287): GC_CONCURRENT freed 557K, 6% free 10300K/10951K, paused 106ms+10ms
+D/dalvikvm( 1803): GC_CONCURRENT freed 699K, 7% free 11210K/12039K, paused 5ms+4ms
+I/QSB.QsbApplication( 1735): allowSuggestionLoginCreation
+I/QSB.GenieClient( 1735): request: chars=6;feeds=[qs, ns];loc=true;auth=false
+I/ActivityManager(  156): Process com.google.android.talk (pid 930) has died.
+I/QSB.GenieClient( 1735): response: suggestions=0;0;0;0;0;0;0;
+I/QSB.QsbApplication( 1735): allowSuggestionLoginCreation
+I/QSB.GenieClient( 1735): request: chars=7;feeds=[qs, ns];loc=true;auth=false
+E/browser ( 1803): Console: Uncaught SyntaxError: Unexpected token ILLEGAL http://tag.admeld.com/match?admeld_adprovider_id=99&expiration=1343765727&external_user_id=667940120235538335,1CAESEDyXJ_zdCr3nqG072qGqVBg:1
+E/browser ( 1803): Console: Uncaught SyntaxError: Unexpected token ILLEGAL http://cm.netseer.com/redirect?ex=13&admeld_user_id=16737128-de33-47c4-b097-e9211d6df33d&admeld_adprovider_id=622&admeld_call_type=js&admeld_callback=http://tag.admeld.com/match:1
+E/browser ( 1803): Console: Uncaught SyntaxError: Unexpected token ILLEGAL http://dis.criteo.com/dis/usersync.aspx?r=2&p=1&cp=Admeld&cu=1&url=http%3A%2F%2Ftag.admeld.com%2Fmatch%3Fadmeld_adprovider_id%3D227%26external_user_id%3D%40%40CRITEO_USERID%40%40&admeld_user_id=16737128-de33-47c4-b097-e9211d6df33d&admeld_adprovider_id=227&admeld_call_type=js&admeld_callback=http://tag.admeld.com/match:1
+D/dalvikvm( 1735): GC_CONCURRENT freed 388K, 6% free 9279K/9799K, paused 1ms+2ms
+D/dalvikvm( 1803): GC_CONCURRENT freed 661K, 7% free 11208K/12039K, paused 2ms+3ms
+I/QSB.GenieClient( 1735): response: suggestions=5;0;0;0;0;0;0;
+I/QSB.QsbApplication( 1735): allowSuggestionLoginCreation
+I/QSB.GenieClient( 1735): request: chars=8;feeds=[qs, ns];loc=true;auth=false
+E/browser ( 1803): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=exSuR-F61D97FK5H4XrUPwAAAMCfGu8_exSuR-F61D97FK5H4XrUP50Db--qWBRQC4sVUNHVGVhf6xZQAAAAAAYDCwCWAQAAlgEAAAIAAACZwRAAVTICAAAAAABVU0QAVVNEANgCWgDoQQAAEiQAAgQCAQUAAIIAyCL3cQAAAAA.&cnd=%212SP8PgjP9AwQmYNDGAAg1eQIMAA46IMFQANIlgNQhoYsWABgM2gAcAZ47DyAAQaIAew8kAEBmAEBoAEBqAEAsAEAuQF7FK5H4XrUP8EBexSuR-F61D_JASAb2NX3JPY_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+39900%2C+1343679327%29%3Buf%28%27c%27%2C+211535%2C+1343679327%29%3Buf%28%27r%27%2C+1098137%2C+1343679327%29%3B&ccd=%21QwWHKwjP9AwQmYNDGNXkCCAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1803):  null:1
+E/browser ( 1803): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=exSuR-F61D97FK5H4XrUPwAAAMCfGu8_exSuR-F61D97FK5H4XrUP50Db--qWBRQC4sVUNHVGVhf6xZQAAAAAAYDCwCWAQAAlgEAAAIAAACZwRAAVTICAAAAAABVU0QAVVNEANgCWgDoQQAAEiQAAgQCAQUAAIIAyCL3cQAAAAA.&cnd=%212SP8PgjP9AwQmYNDGAAg1eQIMAA46IMFQANIlgNQhoYsWABgM2gAcAZ47DyAAQaIAew8kAEBmAEBoAEBqAEAsAEAuQF7FK5H4XrUP8EBexSuR-F61D_JASAb2NX3JPY_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+39900%2C+1343679327%29%3Buf%28%27c%27%2C+211535%2C+1343679327%29%3Buf%28%27r%27%2C+1098137%2C+1343679327%29%3B&ccd=%21QwWHKwjP9AwQmYNDGNXkCCAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1803):  null:1
+E/browser ( 1803): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=exSuR-F61D97FK5H4XrUPwAAAMCfGu8_exSuR-F61D97FK5H4XrUP50Db--qWBRQC4sVUNHVGVhf6xZQAAAAAAYDCwCWAQAAlgEAAAIAAACZwRAAVTICAAAAAABVU0QAVVNEANgCWgDoQQAAEiQAAgQCAQUAAIIAyCL3cQAAAAA.&cnd=%212SP8PgjP9AwQmYNDGAAg1eQIMAA46IMFQANIlgNQhoYsWABgM2gAcAZ47DyAAQaIAew8kAEBmAEBoAEBqAEAsAEAuQF7FK5H4XrUP8EBexSuR-F61D_JASAb2NX3JPY_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+39900%2C+1343679327%29%3Buf%28%27c%27%2C+211535%2C+1343679327%29%3Buf%28%27r%27%2C+1098137%2C+1343679327%29%3B&ccd=%21QwWHKwjP9AwQmYNDGNXkCCAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1803):  null:1
+E/browser ( 1803): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=exSuR-F61D97FK5H4XrUPwAAAMCfGu8_exSuR-F61D97FK5H4XrUP50Db--qWBRQC4sVUNHVGVhf6xZQAAAAAAYDCwCWAQAAlgEAAAIAAACZwRAAVTICAAAAAABVU0QAVVNEANgCWgDoQQAAEiQAAgQCAQUAAIIAyCL3cQAAAAA.&cnd=%212SP8PgjP9AwQmYNDGAAg1eQIMAA46IMFQANIlgNQhoYsWABgM2gAcAZ47DyAAQaIAew8kAEBmAEBoAEBqAEAsAEAuQF7FK5H4XrUP8EBexSuR-F61D_JASAb2NX3JPY_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+39900%2C+1343679327%29%3Buf%28%27c%27%2C+211535%2C+1343679327%29%3Buf%28%27r%27%2C+1098137%2C+1343679327%29%3B&ccd=%21QwWHKwjP9AwQmYNDGNXkCCAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1803):  null:1
+I/QSB.GenieClient( 1735): response: suggestions=5;0;0;0;0;0;0;
+I/QSB.QsbApplication( 1735): allowSuggestionLoginCreation
+E/browser ( 1803): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=exSuR-F61D97FK5H4XrUPwAAAMCfGu8_exSuR-F61D97FK5H4XrUP50Db--qWBRQC4sVUNHVGVhf6xZQAAAAAAYDCwCWAQAAlgEAAAIAAACZwRAAVTICAAAAAABVU0QAVVNEANgCWgDoQQAAEiQAAgQCAQUAAIIAyCL3cQAAAAA.&cnd=%212SP8PgjP9AwQmYNDGAAg1eQIMAA46IMFQANIlgNQhoYsWABgM2gAcAZ47DyAAQaIAew8kAEBmAEBoAEBqAEAsAEAuQF7FK5H4XrUP8EBexSuR-F61D_JASAb2NX3JPY_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+39900%2C+1343679327%29%3Buf%28%27c%27%2C+211535%2C+1343679327%29%3Buf%28%27r%27%2C+1098137%2C+1343679327%29%3B&ccd=%21QwWHKwjP9AwQmYNDGNXkCCAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1803):  null:1
+D/dalvikvm( 1803): GC_CONCURRENT freed 610K, 7% free 11219K/12039K, paused 1ms+9ms
+E/browser ( 1803): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=exSuR-F61D97FK5H4XrUPwAAAMCfGu8_exSuR-F61D97FK5H4XrUP50Db--qWBRQC4sVUNHVGVhf6xZQAAAAAAYDCwCWAQAAlgEAAAIAAACZwRAAVTICAAAAAABVU0QAVVNEANgCWgDoQQAAEiQAAgQCAQUAAIIAyCL3cQAAAAA.&cnd=%212SP8PgjP9AwQmYNDGAAg1eQIMAA46IMFQANIlgNQhoYsWABgM2gAcAZ47DyAAQaIAew8kAEBmAEBoAEBqAEAsAEAuQF7FK5H4XrUP8EBexSuR-F61D_JASAb2NX3JPY_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+39900%2C+1343679327%29%3Buf%28%27c%27%2C+211535%2C+1343679327%29%3Buf%28%27r%27%2C+1098137%2C+1343679327%29%3B&ccd=%21QwWHKwjP9AwQmYNDGNXkCCAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1803):  null:1
+E/browser ( 1803): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=exSuR-F61D97FK5H4XrUPwAAAMCfGu8_exSuR-F61D97FK5H4XrUP50Db--qWBRQC4sVUNHVGVhf6xZQAAAAAAYDCwCWAQAAlgEAAAIAAACZwRAAVTICAAAAAABVU0QAVVNEANgCWgDoQQAAEiQAAgQCAQUAAIIAyCL3cQAAAAA.&cnd=%212SP8PgjP9AwQmYNDGAAg1eQIMAA46IMFQANIlgNQhoYsWABgM2gAcAZ47DyAAQaIAew8kAEBmAEBoAEBqAEAsAEAuQF7FK5H4XrUP8EBexSuR-F61D_JASAb2NX3JPY_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+39900%2C+1343679327%29%3Buf%28%27c%27%2C+211535%2C+1343679327%29%3Buf%28%27r%27%2C+1098137%2C+1343679327%29%3B&ccd=%21QwWHKwjP9AwQmYNDGNXkCCAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1803):  null:1
+E/browser ( 1803): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=exSuR-F61D97FK5H4XrUPwAAAMCfGu8_exSuR-F61D97FK5H4XrUP50Db--qWBRQC4sVUNHVGVhf6xZQAAAAAAYDCwCWAQAAlgEAAAIAAACZwRAAVTICAAAAAABVU0QAVVNEANgCWgDoQQAAEiQAAgQCAQUAAIIAyCL3cQAAAAA.&cnd=%212SP8PgjP9AwQmYNDGAAg1eQIMAA46IMFQANIlgNQhoYsWABgM2gAcAZ47DyAAQaIAew8kAEBmAEBoAEBqAEAsAEAuQF7FK5H4XrUP8EBexSuR-F61D_JASAb2NX3JPY_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+39900%2C+1343679327%29%3Buf%28%27c%27%2C+211535%2C+1343679327%29%3Buf%28%27r%27%2C+1098137%2C+1343679327%29%3B&ccd=%21QwWHKwjP9AwQmYNDGNXkCCAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1803):  null:1
+I/QSB.GenieClient( 1735): request: chars=9;feeds=[qs, ns];loc=true;auth=false
+I/QSB.GenieClient( 1735): response: suggestions=5;0;0;0;0;0;0;
+I/QSB.QsbApplication( 1735): allowSuggestionLoginCreation
+I/QSB.GenieClient( 1735): request: chars=10;feeds=[qs, ns];loc=true;auth=false
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 595K, 7% free 11216K/12039K, paused 20ms
+I/dalvikvm-heap( 1803): Grow heap (frag case) to 11.128MB for 111372-byte allocation
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 7K, 7% free 11318K/12167K, paused 19ms
+I/QSB.GenieClient( 1735): response: suggestions=5;0;0;0;0;0;0;
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm(  225): GC_CONCURRENT freed 382K, 8% free 10494K/11399K, paused 2ms+3ms
+I/QSB.QsbApplication( 1735): allowSuggestionLoginCreation
+I/QSB.GenieClient( 1735): request: chars=11;feeds=[qs, ns];loc=true;auth=false
+I/QSB.GenieClient( 1735): response: suggestions=5;0;0;0;0;0;0;
+I/QSB.QsbApplication( 1735): allowSuggestionLoginCreation
+I/QSB.GenieClient( 1735): request: chars=12;feeds=[qs, ns];loc=true;auth=false
+D/dalvikvm( 1735): GC_CONCURRENT freed 375K, 6% free 9290K/9799K, paused 96ms+2ms
+I/QSB.GenieClient( 1735): response: suggestions=5;0;0;0;0;0;0;
+I/QSB.QsbApplication( 1735): allowSuggestionLoginCreation
+I/QSB.GenieClient( 1735): request: chars=13;feeds=[qs, ns];loc=true;auth=false
+I/QSB.GenieClient( 1735): response: suggestions=0;0;0;0;0;0;0;
+I/QSB.QsbApplication( 1735): allowSuggestionLoginCreation
+I/QSB.GenieClient( 1735): request: chars=14;feeds=[qs, ns];loc=true;auth=false
+E/browser ( 1803): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ad.doubleclick.net/adi/N339.456584.XAXIS.COM1/B6826674.44;sz=160x600;pc=[TPAS_ID];click=http://va.px.invitemedia.com/pixel?returnType=redirect&key=Click&b=ri203.ovq.wiz.cebq2&message=eJwVzDkOAyEQRNG7VAxSbzTQt7FYotFkjqy5..CwnlT_B0ZAx_xwnyN7nyvbEMpdF.e.R.Ht3OpeSCgIaywJFSGtsSYIwhMcUUmME_QAOxHpf5w0mzidryHu73UdPCq9aXleACYbjw--&redirectURL=;ord=3cda19dc-69de-4c20-93e1-9fc51f6187fe?. Domains, protocols and ports must match.
+E/browser ( 1803):  null:1
+I/QSB.GenieClient( 1735): response: suggestions=0;0;0;0;0;0;0;
+E/browser ( 1803): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ad.doubleclick.net/adi/N7285.274835.XPLUSONE.COM/B6823681.3;sz=728x90;click=http://bn.xp1.ru4.com/bclick?_f=b6209af6-fdab-44b3-a3b3-7c3a15b4e698&_o=15755&_eo=52787&_et=1343679330&_a=50534427&_s=0&_d=37621514&_c=590277&_pm=52787&_pn=50537227&_xt=1c0296b5-539c1896-19f8e928-18b74071&redirect=;ord=5081182?. Domains, protocols and ports must match.
+E/browser ( 1803):  null:1
+I/QSB.QsbApplication( 1735): allowSuggestionLoginCreation
+I/QSB.GenieClient( 1735): request: chars=15;feeds=[qs, ns];loc=true;auth=false
+I/QSB.GenieClient( 1735): response: suggestions=0;0;0;0;0;0;0;
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 479K, 9% free 11135K/12167K, paused 37ms
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 161K, 9% free 11089K/12167K, paused 81ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 168K, 8% free 11231K/12167K, paused 29ms
+I/dalvikvm-heap( 1803): Grow heap (frag case) to 11.143MB for 111696-byte allocation
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 13K, 8% free 11327K/12295K, paused 103ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 125K, 9% free 11218K/12295K, paused 30ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 129K, 9% free 11219K/12295K, paused 37ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 129K, 9% free 11219K/12295K, paused 62ms
+I/ActivityManager(  156): Process com.google.android.gm (pid 969) has died.
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 276K, 9% free 11241K/12295K, paused 32ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 127K, 9% free 11239K/12295K, paused 29ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 134K, 9% free 11241K/12295K, paused 35ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 170K, 9% free 11279K/12295K, paused 44ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 303K, 9% free 11251K/12295K, paused 40ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 139K, 9% free 11242K/12295K, paused 44ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 133K, 9% free 11244K/12295K, paused 46ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 147K, 9% free 11244K/12295K, paused 60ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 294K, 9% free 11277K/12295K, paused 36ms
+I/ActivityManager(  156): Process android.process.media (pid 447) has died.
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 251K, 9% free 11272K/12295K, paused 36ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 164K, 9% free 11278K/12295K, paused 23ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 308K, 9% free 11281K/12295K, paused 30ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 151K, 9% free 11275K/12295K, paused 35ms
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 134K, 9% free 11273K/12295K, paused 39ms
+I/ActivityManager(  156): Process com.google.android.gallery3d (pid 1029) has died.
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 134K, 9% free 11275K/12295K, paused 38ms
+I/ActivityManager(  156): Process com.android.musicfx (pid 1691) has died.
+I/ActivityManager(  156): Process com.google.android.partnersetup (pid 1677) has died.
+I/ActivityManager(  156): Process com.svox.pico (pid 1705) has died.
+I/ActivityManager(  156): Process com.android.voicedialer (pid 1722) has died.
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 206K, 9% free 11309K/12295K, paused 44ms
+I/ActivityManager(  156): Process com.android.quicksearchbox (pid 1749) has died.
+I/ActivityManager(  156): Process com.android.defcontainer (pid 1662) has died.
+I/ActivityManager(  156): Process com.google.process.gapps (pid 287) has died.
+W/ActivityManager(  156): Scheduling restart of crashed service com.google.android.gsf/.gtalkservice.service.GTalkService in 5000ms
+W/ActivityManager(  156): Scheduling restart of crashed service com.google.android.location/.NetworkLocationService in 15000ms
+W/ActivityManager(  156): Scheduling restart of crashed service com.google.android.location/.internal.server.NetworkLocationService in 25000ms
+I/ActivityManager(  156): Kill com.google.android.apps.maps:NetworkLocationService (pid 1300): provider com.google.android.gsf.settings.GoogleSettingsProvider in dying process com.google.process.gapps
+I/ActivityManager(  156): Process com.google.android.apps.maps:NetworkLocationService (pid 1300) has died.
+W/ActivityManager(  156): Scheduling restart of crashed service com.google.android.apps.maps/com.google.android.location.internal.server.NetworkLocationService in 34849ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 238K, 9% free 11282K/12295K, paused 58ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 142K, 9% free 11274K/12295K, paused 51ms
+I/PhoneLab-(  512): Service Running
+I/PhoneLab-LoggerService(  512): app_36    1156  512   1444   1072  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  512): Logcat pid from database 1156
+I/PhoneLab-LoggerService(  512): Logcat process found 1156
+I/PhoneLab-LoggerService(  512): Checking Threshold
+I/PhoneLab-LoggerService(  512): Starting to rename files
+I/PhoneLab-LoggerService(  512): Files found .. 23
+I/PhoneLab-LoggerService(  512): File 22 log.out.1
+I/PhoneLab-LoggerService(  512): Renamed successfully
+I/ActivityManager(  156): Start proc com.google.process.gapps for service com.google.android.gsf/.gtalkservice.service.GTalkService: pid=1988 uid=10009 gids={3003, 1015, 1007, 2001, 3006}
+D/dalvikvm(   79): GC_EXPLICIT freed 37K, 4% free 9031K/9347K, paused 1ms+5ms
+D/dalvikvm(   79): GC_EXPLICIT freed <1K, 4% free 9031K/9347K, paused 7ms+8ms
+D/dalvikvm(   79): GC_EXPLICIT freed <1K, 4% free 9031K/9347K, paused 8ms+2ms
+I/ActivityThread( 1988): Pub com.google.settings: com.google.android.gsf.settings.GoogleSettingsProvider
+I/ActivityThread( 1988): Pub subscribedfeeds: com.google.android.gsf.subscribedfeeds.SubscribedFeedsProvider
+D/OpenGLRenderer(  380): Flushing caches (mode 2)
+I/ActivityThread( 1988): Pub com.google.contacts.gal.provider: com.google.android.syncadapters.contacts.GalProvider
+I/ActivityThread( 1988): Pub com.google.android.gsf.gservices: com.google.android.gsf.gservices.GservicesProvider
+I/GservicesProvider( 1988): Gservices pushing to system: true; secure: true
+I/ActivityThread( 1988): Pub com.google.android.providers.talk: com.google.android.gsf.talk.TalkProvider
+D/dalvikvm( 1988): GC_CONCURRENT freed 320K, 5% free 9215K/9607K, paused 23ms+2ms
+I/ActivityManager(  156): Start proc com.google.android.talk for broadcast com.google.android.talk/.McsConnectionStartedReceiver: pid=2006 uid=10044 gids={3003, 1015, 1006, 3002}
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 138K, 9% free 11274K/12295K, paused 80ms
+I/ActivityThread( 2006): Pub com.google.android.talk.SuggestionProvider: com.google.android.talk.SuggestionsProvider
+D/dalvikvm( 1988): GC_CONCURRENT freed 328K, 5% free 9275K/9735K, paused 2ms+2ms
+D/vclib:CallStateClient( 2006): startListening
+D/SyncManager(  156): setSyncAutomatically: , provider subscribedfeeds -> true
+D/SyncManager(  156): setSyncAutomatically: already set to true, doing nothing
+D/SyncManager(  156): setSyncAutomatically: , provider subscribedfeeds -> true
+D/SyncManager(  156): setSyncAutomatically: already set to true, doing nothing
+I/browser ( 1803): Console: Received message of type object from https://s-static.ak.facebook.com, expected a string http://connect.facebook.net/en_US/all.js:44
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 141K, 9% free 11274K/12295K, paused 60ms
+I/talk    ( 2006): onMcsConnectionStarted
+D/OpenGLRenderer(  380): Flushing caches (mode 0)
+D/ConnectivityService(  156): handleInetConditionHoldEnd: net=1, condition=0, published condition=100
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 159K, 9% free 11279K/12295K, paused 18ms
+D/dalvikvm( 1988): GC_CONCURRENT freed 491K, 6% free 9301K/9863K, paused 2ms+241ms
+I/GTalkService/c( 1988): [AndroidEndpoint@1094335080] connect: acct=1000000, state=CONNECTING
+D/dalvikvm( 2006): GC_CONCURRENT freed 178K, 3% free 9326K/9607K, paused 234ms+5ms
+I/ActivityManager(  156): Process android.process.acore (pid 459) has died.
+D/CountryDetector(  156): No listener is left
+I/GTalkService/c( 1988): [GTalkConnection@1094565904] connect: acct=1, state=CONNECTING
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 144K, 9% free 11276K/12295K, paused 36ms
+I/GTalkService/c( 1988): [GTalkConnection@1094613840] connect: acct=2, state=CONNECTING
+I/ActivityManager(  156): Start proc android.process.media for content provider com.android.providers.media/.MediaProvider: pid=2037 uid=10012 gids={1015, 1023, 1024, 2001, 3003, 3007}
+I/ActivityThread( 2037): Pub media: com.android.providers.media.MediaProvider
+I/ActivityThread( 2037): Pub downloads: com.android.providers.downloads.DownloadProvider
+I/ActivityThread( 2037): Pub drm: com.android.providers.drm.DrmProvider
+I/DownloadManager( 2037): in removeSpuriousFiles
+D/dalvikvm( 2037): GC_CONCURRENT freed 349K, 5% free 9157K/9607K, paused 2ms+2ms
+I/DownloadManager( 2037): in removeSpuriousFiles, preserving file /data/data/com.android.providers.downloads/cache/metadata-1.json
+I/DownloadManager( 2037): in removeSpuriousFiles, preserving file /data/data/com.android.providers.downloads/cache/metadata.json
+I/DownloadManager( 2037): in removeSpuriousFiles, preserving file /data/data/com.android.providers.downloads/cache/en_general.htm
+I/DownloadManager( 2037): deleting spurious file /cache/backup
+I/DownloadManager( 2037): deleting spurious file /data/data/com.android.providers.downloads/cache/downloadfile.apk
+D/dalvikvm(  156): JIT code cache reset in 12 ms (1048552 bytes 1/0)
+D/dalvikvm(  156): GC_CONCURRENT freed 941K, 13% free 13503K/15431K, paused 26ms+29ms
+D/dalvikvm(  156): GC_EXPLICIT freed 121K, 14% free 13382K/15431K, paused 3ms+11ms
+E/browser ( 1803): Console: Unsafe JavaScript attempt to access frame with URL http://www.stream2watch.me/olympic-games/hockey-great-britain-vs-argentina-live-stream from frame with URL http://www.youtube.com/embed/vLmFSloPmk8?controls=1&wmode=opaque&rel=0&fs=0&autoplay=0&showinfo=0&hd=0&enablejsapi=1&origin=http%3A%2F%2Fvideo.feedcompany.com. Domains, protocols and ports must match.
+E/browser ( 1803):  null:1
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 159K, 9% free 11279K/12295K, paused 48ms
+D/dalvikvm( 1803): GC_FOR_ALLOC freed 149K, 9% free 11271K/12295K, paused 47ms
+E/browser ( 1803): Console: Unsafe JavaScript attempt to access frame with URL http://www.stream2watch.me/olympic-games/hockey-great-britain-vs-argentina-live-stream from frame with URL http://www.youtube.com/embed/vLmFSloPmk8?controls=1&wmode=opaque&rel=0&fs=0&autoplay=0&showinfo=0&hd=0&enablejsapi=1&origin=http%3A%2F%2Fvideo.feedcompany.com. Domains, protocols and ports must match.
+E/browser ( 1803):  null:1
+D/NetworkLocationService( 1988): onCreate com.google.android.location.NetworkLocationService@41337b00
+D/NetworkLocationClient( 1988): ANDROID minProtocolVersion 1 maxProtocolVersion 1 releaseVersion -1
+D/NetworkLocationClient( 1988): binding to Intent { act=com.google.android.location.internal.ANDROID_NLP }
+D/dalvikvm( 1988): GC_CONCURRENT freed 349K, 5% free 9488K/9927K, paused 3ms+4ms
+D/NetworkLocationService( 1988): onBind com.google.android.location.NetworkLocationProvidercom.google.android.location.NetworkLocationService@41337b00
+D/NetworkLocationService( 1988): onBind com.google.android.location.GeocodeProvidercom.google.android.location.NetworkLocationService@41337b00
+D/androidInternalNlpService( 1988): onCreate com.google.android.location.internal.server.NetworkLocationService@413b6320
+D/NetworkLocationRealOs( 1988): NLPv2 file already exists; ignoring any NLPv1 files
+D/androidNlpServiceThread( 1988): ANDROID minProtocolVersion 1 maxProtocolVersion 1 releaseVersion -1
+D/NetworkLocationClient( 1988): onServiceConnected to ComponentInfo{com.google.android.location/com.google.android.location.internal.server.NetworkLocationService}
+D/androidNetworkLocationListeners( 1988): Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@413abf10

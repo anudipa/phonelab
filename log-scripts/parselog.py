@@ -148,25 +148,38 @@ def forall(path):
 
 
 def getLinesforTag(path,keyword):
-	myfile  = open('/home/phonelab/logs/'+keyword+'.log','w')
-	fileList = [os.path.join(path, fi) for fi in os.listdir(path)]
-        for f in fileList:
-                try:
-                        log = open(f, 'r')
-                except IOError:
-                        print 'File doesnot exist'
-                        break
-                for line in log:
-                        data = line.split()
-                        n = len(data)
-                        if n < 5:
-                                print line + f
-                        else:
-                        	identifier = data[4]
-                        	tag = data[5]
-				if tag.startswith(keyword):
-					myfile.write(line)
-					myfile.write('\n')
-		log.close()
-	myfile.close()
+	name = keyword + '.txt'
+	fname = os.path.join(path,name)
+	try:
+		myfile = open(fname,'w')
+	except IOError:
+		print 'Cannot open myfile'
+		return 0
+	for root,dirs,files in os.walk(path):
+		filelist = []
+		for name in files:
+			filelist.append(os.path.join(root,name))
+		filelist.sort(key=os.path.getmtime)
+		print 'Checking ----> ',root
+	        for f in filelist:
+        	        try:
+                	        log = open(f, 'r')
+	                except IOError:
+        	                print 'File doesnot exist'
+                	        break
+	                for line in log:
+        	                data = line.split()
+                	        n = len(data)
+                        	if n < 6:
+                                	pass
+	                        else:
+        	                	identifier = data[4]
+                	        	tag = data[5]
+					if tag.startswith(keyword):
+						myfile.write(line)
+						myfile.write('\n')
+			log.close()
+	
 	print '---------Done-------------'
+	myfile.close()
+

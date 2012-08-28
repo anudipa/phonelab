@@ -91,9 +91,10 @@ def endofday(path):
 		levels = []
 		timelist = []
 		t = []
-		print 'Now Checking ', device[-1]
-		batterydata = getbatterylevel(root)
-		lowlvldata = getlowlevel(root)
+		print 'Now Checking ', device[-1], '-->',root
+		if len(device[-1]) > 1:
+			batterydata = getbatterylevel(root)
+			lowlvldata = getlowlevel(root)
 		temp = 0
 		last = 0
 		last_date = 0
@@ -104,7 +105,7 @@ def endofday(path):
 		n = []
 #Working with low level data. finding out when device's battery charge falls into low level
 		if len(lowlvldata) > 0:
-			print 'Low level data \n', lowlvldata, '\n***********************\n'
+#			print 'Low level data \n', lowlvldata, '\n***********************\n'
 			for item in sorted(lowlvldata.items()):
 				if temp == 0:
 					temp = item[0]
@@ -116,17 +117,18 @@ def endofday(path):
 						ui.append(item[0].hour)
                                        	 	t.append(item[0])
 			for i in xrange(0,len(t)):
-				if t[i].weekday < 5:
+				print t[i].date(), 'is ',t[i].weekday(),ui[i]
+				if t[i].weekday() < 5:
 					m.append(ui[i])
 				else:
 					n.append(ui[i])
 #			print m
 #			print n
 			if len(m) > 0:
-				print 'For Weekdays',len(m)
+				print 'For Weekdays',len(m), m
 	                        fig5 = figure(c,dpi=10)
         	                c = c+1
-				hist(m,bins=20,color=mpl.cm.hsv(random()))
+				hist(m,color=mpl.cm.hsv(random()))
 				grid()
 				title('When %s hits low battery level on Weekdays' % device[-1])
 				xlabel('Time in hours')
@@ -135,10 +137,10 @@ def endofday(path):
 				close()
 				fig5.clear()
 			if len(n) > 0:
-				print 'For Weekends', len(n)
+				print 'For Weekends', len(n), n
 	                        fig6 = figure(c,dpi=10)
         	                c = c+1
-                	        hist(n,bins=20,color=mpl.cm.hsv(random()))
+                	        hist(n,color=mpl.cm.hsv(random()))
 				grid()
 	                        title('When %s hits low battery level on Weekends' % device[-1])
         	                xlabel('Time in hours')
@@ -157,7 +159,7 @@ def endofday(path):
 					last = item[1]
 					last_date = item[0]
 					total_days += 1
-                                        print 'Debug',last_date
+#                                        print 'Debug',last_date
                                 if item[0].date() == temp.date():
 #                                       print 'Same Day'
 					if flag == 0:
@@ -183,19 +185,20 @@ def endofday(path):
                                 last = item[1]
                                 last_date = item[0]        
 
+			print '\nTotal number of days = ',total_days
 
-			print '\n**************\nTotal number of days = ',total_days
 #			print 'Time for charging',timelist
-			fig1 = figure(c,dpi=10)
-			c += 1
-			hist(timelist,bins=20,color=mpl.cm.hsv(random()))
-			grid()
-			title('Time of the day when %s is charged' % device[-1])
-			xlabel('Time')
-			ylabel('Number of occurrences')
-			pp1.savefig(fig1)
-			close()
-			fig1.clear()
+			if len(timelist) > 0:
+				fig1 = figure(c,dpi=10)
+				c += 1
+				hist(timelist,bins=20,color=mpl.cm.hsv(random()))
+				grid()
+				title('Time of the day when %s is charged' % device[-1])
+				xlabel('Time')
+				ylabel('Number of occurrences')
+				pp1.savefig(fig1)
+				close()
+				fig1.clear()
 			a = []
 			b = []
 			for i in xrange(0,len(t)):
@@ -229,16 +232,17 @@ def endofday(path):
 				fig12.clear()
 
 #			print 'Charge left at end of day',levels,timestamp
-			fig2 = figure(c,dpi=10)
-			c += 1
-                        hist(levels,bins=20,color=mpl.cm.hsv(random()))
-                        grid()
-                        title('Charge at the end of day for %s' % device[-1])
-                        xlabel('Battery Level')
-                        ylabel('Number of occurrences')
-                        pp2.savefig(fig2)
-                        close()
-                        fig2.clear()
+			if len(levels) > 0:
+				fig2 = figure(c,dpi=10)
+				c += 1
+                	        hist(levels,bins=20,color=mpl.cm.hsv(random()))
+                        	grid()
+	                        title('Charge at the end of day for %s' % device[-1])
+        	                xlabel('Battery Level')
+                	        ylabel('Number of occurrences')
+                        	pp2.savefig(fig2)
+	                        close()
+        	                fig2.clear()
 			x = []
 			y = []
 #			print timestamp
@@ -247,29 +251,31 @@ def endofday(path):
 					x.append(levels[i])
 				else:
 					y.append(levels[i])
-			fig3 = figure(c,dpi=10)
-			c += 1
-			hist(y,bins=20,color=mpl.cm.hsv(random()))
-			grid()
-			title('Charge at end of weekends for %s' % device[-1])
-			xlabel('Battery Level')
-			ylabel('Number of occurrences')
-			pp3.savefig(fig3)
-			close()
-			fig3.clear()
-                        fig4 = figure(c,dpi=10)
-			c += 1
-                        hist(x,bins=20,color=mpl.cm.hsv(random()))
-                        grid()
-                        title('Charge at end of weekdays for %s' % device[-1])
-                        xlabel('Battery Level')
-                        ylabel('Number of occurrences')
-                        pp4.savefig(fig4)
-                        close()
-                        fig4.clear()
+			if len(y) > 0:
+				fig3 = figure(c,dpi=10)
+				c += 1
+				hist(y,bins=20,color=mpl.cm.hsv(random()))
+				grid()
+				title('Charge at end of weekends for %s' % device[-1])
+				xlabel('Battery Level')
+				ylabel('Number of occurrences')
+				pp3.savefig(fig3)
+				close()
+				fig3.clear()
+			if len(x) > 0:
+	                        fig4 = figure(c,dpi=10)
+				c += 1
+                	        hist(x,bins=20,color=mpl.cm.hsv(random()))
+                        	grid()
+	                        title('Charge at end of weekdays for %s' % device[-1])
+        	                xlabel('Battery Level')
+                	        ylabel('Number of occurrences')
+                        	pp4.savefig(fig4)
+	                        close()
+        	                fig4.clear()
 
 #			print '\n**************\nTotal number of days = ',total_days
-
+#		print'\n*******************\n'
 				
 	pp1.close()		
 	pp2.close()

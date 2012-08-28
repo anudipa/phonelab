@@ -1,0 +1,341 @@
+D/dalvikvm(  390): GC_CONCURRENT freed 200K, 3% free 9656K/9927K, paused 2ms+4ms
+I/ActivityManager(  166): No longer want com.android.contacts (pid 830): hidden #16
+E/GoogleVoice( 1070): BackedUpCircularLog: Failed to close checkin logs file. open failed: EACCES (Permission denied)
+E/GoogleVoice( 1070): BackedUpCircularLog: Failed to close checkin logs file. open failed: EACCES (Permission denied)
+E/GoogleVoice( 1070): BackedUpCircularLog: Failed to close checkin logs file. open failed: EACCES (Permission denied)
+D/dalvikvm( 1103): GC_CONCURRENT freed 189K, 3% free 9699K/9991K, paused 3ms+35ms
+I/ActivityManager(  166): No longer want com.android.providers.calendar (pid 706): hidden #16
+I/talk    ( 1016): onMcsConnectionStarted
+I/ActivityManager(  166): Start proc com.android.calendar for broadcast com.android.calendar/.widget.CalendarAppWidgetProvider: pid=1159 uid=10005 gids={3003}
+I/ActivityThread( 1159): Pub com.android.calendar.CalendarRecentSuggestionsProvider: com.android.calendar.CalendarRecentSuggestionsProvider
+I/ActivityManager(  166): No longer want com.android.exchange (pid 902): hidden #16
+I/System.out( 1070): [INFO:662]: LogSource: Running flush
+I/System.out( 1070): [INFO:749]: LogSource: Sending payload [bytes=505]
+I/ActivityManager(  166): Start proc com.google.android.apps.uploader for broadcast com.google.android.apps.uploader/.ConnectivityBroadcastReceiver: pid=1182 uid=10029 gids={3003}
+I/dalvikvm( 1182): Turning on JNI app bug workarounds for target SDK version 11...
+D/dalvikvm( 1182): Debugger has detached; object registry had 1 entries
+I/ActivityThread( 1182): Pub com.google.android.apps.uploader: com.google.android.apps.uploader.UploadsContentProvider
+I/ActivityThread( 1182): Pub com.google.photos.provider.Album: com.google.android.apps.uploader.clients.picasa.AlbumProvider
+D/MediaUploader( 1182): UploaderApplication.onCreate
+D/MediaUploader( 1182): nonWifiLimit=20971520, default=20971520
+I/MediaUploader( 1182): No need to wake up
+I/ActivityManager(  166): No longer want com.google.android.apps.genie.geniewidget (pid 923): hidden #16
+I/ActivityManager(  166): Start proc com.google.android.gallery3d for broadcast com.google.android.gallery3d/com.google.android.picasasync.ConnectivityReceiver: pid=1199 uid=10016 gids={3003, 1015}
+D/dalvikvm(   79): GC_EXPLICIT freed 37K, 4% free 9031K/9347K, paused 2ms+4ms
+D/dalvikvm(   79): GC_EXPLICIT freed <1K, 4% free 9031K/9347K, paused 5ms+3ms
+I/ActivityThread( 1199): Pub com.google.android.gallery3d.GooglePhotoProvider: com.google.android.picasasync.PicasaContentProvider
+D/dalvikvm(   79): GC_EXPLICIT freed <1K, 4% free 9031K/9347K, paused 4ms+7ms
+D/dalvikvm( 1199): GC_CONCURRENT freed 418K, 6% free 9118K/9607K, paused 2ms+3ms
+I/ActivityThread( 1199): Pub com.google.android.gallery3d.provider: com.android.gallery3d.provider.GalleryProvider
+D/dalvikvm( 1199): GC_CONCURRENT freed 406K, 6% free 9194K/9735K, paused 1ms+7ms
+D/UploadsManager( 1199): load newPhotoTracker: null
+D/UploadsManager( 1199): load all accounts: null
+D/UploadsManager( 1199): load all account-album pairs: null
+V/PicasaContentProvider( 1199): querySettings: defaults: {sync_on_wifi_only=1, auto_upload_account_type=null, sync_on_battery=1, sync_picasa_on_wifi_only=1, auto_upload_enabled=0, video_upload_wifi_only=1, sync_on_roaming=0, auto_upload_account_name=null}
+D/UploadsManager( 1199):    settings not changed
+D/PicasaSync( 1199): sync account database
+I/MediaUploader( 1182): No need to wake up
+I/ActivityManager(  166): Start proc com.google.android.apps.maps:LocationFriendService for broadcast com.google.android.apps.maps/com.google.googlenav.friend.reporting.LocationReportingIntentReceiver: pid=1216 uid=10058 gids={3003, 1015}
+I/ActivityManager(  166): No longer want com.google.android.partnersetup (pid 657): hidden #16
+D/dalvikvm( 1216): GC_CONCURRENT freed 153K, 3% free 9383K/9607K, paused 2ms+2ms
+D/dalvikvm( 1070): GC_CONCURRENT freed 380K, 5% free 9399K/9863K, paused 5ms+23ms
+W/CursorWrapperInner( 1070): Cursor finalized without prior close()
+W/CursorWrapperInner( 1070): Cursor finalized without prior close()
+W/CursorWrapperInner( 1070): Cursor finalized without prior close()
+D/dalvikvm( 1216): GC_CONCURRENT freed 206K, 4% free 9690K/9991K, paused 3ms+5ms
+I/ActivityManager(  166): Start proc com.android.providers.calendar for broadcast com.android.providers.calendar/.CalendarProviderBroadcastReceiver: pid=1235 uid=10006 gids={3003, 1015}
+I/ActivityManager(  166): No longer want com.android.chrome (pid 844): hidden #16
+I/ActivityManager(  166): No longer want com.android.email (pid 886): hidden #17
+I/ActivityThread( 1235): Pub com.android.calendar: com.android.providers.calendar.CalendarProvider2
+D/dalvikvm(  410): GC_CONCURRENT freed 368K, 5% free 9510K/9991K, paused 1ms+2ms
+D/dalvikvm(  166): GC_CONCURRENT freed 893K, 12% free 13360K/15047K, paused 2ms+8ms
+I/ActivityManager(  166): No longer want com.android.mms (pid 969): hidden #16
+D/CountryDetector(  166): No listener is left
+D/dalvikvm( 1103): GC_CONCURRENT freed 152K, 3% free 10084K/10311K, paused 2ms+24ms
+I/ActivityManager(  166): No longer want com.google.android.onetimeinitializer (pid 1001): hidden #16
+D/PicasaSync( 1199): accounts in DB=2
+I/System.out( 1070): [INFO:3086]: LogSource: Response [http=200,length=22]
+I/System.out( 1070): [INFO:3088]: LogSource: Read id 1, status code 200
+E/GoogleVoice( 1070): BackedUpCircularLog: Failed to close checkin logs file. open failed: EACCES (Permission denied)
+E/GoogleVoice( 1070): BackedUpCircularLog: Failed to close checkin logs file. open failed: EACCES (Permission denied)
+E/GoogleVoice( 1070): BackedUpCircularLog: Failed to close checkin logs file. open failed: EACCES (Permission denied)
+E/GoogleVoice( 1070): BackedUpCircularLog: Failed to close checkin logs file. open failed: EACCES (Permission denied)
+V/PicasaContentProvider( 1199): querySettings: defaults: {sync_on_wifi_only=1, auto_upload_account_type=null, sync_on_battery=1, sync_picasa_on_wifi_only=1, auto_upload_enabled=0, video_upload_wifi_only=1, sync_on_roaming=0, auto_upload_account_name=null}
+I/GTalkService/c(  693): [GTalkConnection@1094382480] connect: acct=1, state=CONNECTING
+D/dalvikvm( 1103): GC_CONCURRENT freed 654K, 8% free 9887K/10631K, paused 5ms+10ms
+D/PicasaSyncManager( 1199): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/PicasaSyncManager( 1199): background data: true
+I/GTalkService/c(  693): [GTalkConnection@1094815256] connect: acct=2, state=CONNECTING
+D/dalvikvm( 1216): GC_CONCURRENT freed 272K, 4% free 9876K/10247K, paused 2ms+28ms
+I//system/bin/fsck_msdos(   72): ** Phase 2 - Check Cluster Chains
+I/CalendarProvider2( 1235): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://com.android.calendar }
+D/dalvikvm(  693): GC_CONCURRENT freed 324K, 5% free 10066K/10503K, paused 2ms+6ms
+W/ContentResolver( 1235): Failed to get type for: content://com.android.calendar (Unknown URL content://com.android.calendar)
+W/EventLogAggregator(  693): Unknown tag: facelock_activated
+W/EventLogAggregator(  693): Unknown tag: facelock_fail
+W/EventLogAggregator(  693): Unknown tag: facelock_success
+I/Gmail   ( 1053): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+I/Gmail   ( 1053): calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+D/dalvikvm(  166): GC_EXPLICIT freed 174K, 12% free 13299K/15047K, paused 6ms+6ms
+I/Gmail   ( 1053): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^iim (has extras) }
+I/Gmail   ( 1053): calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+D/dalvikvm(  611): GC_CONCURRENT freed 230K, 4% free 9242K/9543K, paused 3ms+2ms
+D/PicasaSyncManager( 1199): battery info: true
+I/Gmail   ( 1053): calculateUnknownSyncRationalesAndPurgeInBackground: running
+I/Gmail   ( 1053): calculateUnknownSyncRationalesAndPurgeInBackground: running
+D/dalvikvm( 1053): GC_CONCURRENT freed 217K, 4% free 9460K/9799K, paused 2ms+2ms
+I//system/bin/fsck_msdos(   72): ** Phase 3 - Checking Directories
+D/dalvikvm( 1103): GC_CONCURRENT freed 210K, 5% free 10105K/10631K, paused 7ms+2ms
+D/dalvikvm(  443): GC_CONCURRENT freed 261K, 4% free 11590K/11975K, paused 3ms+4ms
+I/Gmail   ( 1053): calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  565): User info is synched
+W/PhoneLab-PeriodicCheckService(  565): Logger Service is not running starting now...
+I/Gmail   ( 1053): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  565): Sending Heartbeat message 
+I/PhoneLab-LoggerService(  565): Start Logger Service
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-UploadLogs(  565): Transfering log files now
+I/PhoneLab-UploadLogs(  565): No log files to transfer
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-PeriodicCheckService(  565): Post URI is:: http://107.22.187.240/devicestatus/
+I/PhoneLab-UploadLogs(  565): OnStartCommand
+I/PhoneLab-StatusMonitor(  565): Status Monitoring is started
+I/Gmail   ( 1053): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^iim (has extras) }
+I/Gmail   ( 1053): calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+I//system/bin/fsck_msdos(   72): ** Phase 4 - Checking for Lost Files
+D/libEGL  (  693): loaded /system/lib/egl/libGLES_android.so
+I/PhoneLab-LoggerService(  565): Logcat pid from database 9555
+E/PhoneLab-PhoneLabManifest(  565): java.io.FileNotFoundException: /data/data/edu.buffalo.cse.phonelab.phonelabservices/files/manifest.xml: open failed: ENOENT (No such file or directory)
+I/PhoneLab-LoggerService(  565): Logcat process not found, starting process
+I/PhoneLab-LoggerService(  565): Changing Access to LOG_DIR
+I/PhoneLab-Locks(  565): wake lock released
+I/System.out(  565): /mnt/sdcard/.log/
+D/PhoneLab-LoggerService(  565): Logcat COMMAND logcat  -f /mnt/sdcard/.log/log.out  -r 30 -n 20 *:V &
+W/System.err(  565): java.util.NoSuchElementException
+W/System.err(  565): 	at java.util.ArrayList$ArrayListIterator.next(ArrayList.java:572)
+W/System.err(  565): 	at edu.buffalo.cse.phonelab.datalogger.LoggerService.startLogcat(LoggerService.java:269)
+W/System.err(  565): 	at edu.buffalo.cse.phonelab.datalogger.LoggerService.checkLogCatProcess(LoggerService.java:95)
+W/System.err(  565): 	at edu.buffalo.cse.phonelab.datalogger.LoggerService.access$000(LoggerService.java:30)
+W/System.err(  565): 	at edu.buffalo.cse.phonelab.datalogger.LoggerService$1.run(LoggerService.java:57)
+W/System.err(  565): 	at java.util.Timer$TimerImpl.run(Timer.java:284)
+E/PhoneLab-LoggerService(  565): java.util.NoSuchElementException
+D/dalvikvm(  565): GC_CONCURRENT freed 380K, 5% free 9149K/9607K, paused 3ms+4ms
+D/ConnectivityService(  166): handleInetConditionHoldEnd: net=1, condition=100, published condition=0
+D/dalvikvm( 1103): GC_CONCURRENT freed 293K, 4% free 10226K/10631K, paused 12ms+4ms
+D/libEGL  (  693): loaded /vendor/lib/egl/libEGL_POWERVR_SGX540_120.so
+D/libEGL  (  693): loaded /vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so
+D/libEGL  (  693): loaded /vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so
+I//system/bin/fsck_msdos(   72): Next free cluster in FSInfo block (1137569) not free
+I//system/bin/fsck_msdos(   72): FIXED
+I//system/bin/fsck_msdos(   72): 2051 files, 1012656 free (2350316 clusters)
+I/Gmail   ( 1053): calculateUnknownSyncRationalesAndPurgeInBackground: running
+I/Gmail   ( 1053): calculateUnknownSyncRationalesAndPurgeInBackground: running
+I/Vold    (   72): Filesystem check completed OK
+I/Vold    (   72): Device /dev/block/vold/179:3, target /mnt/sdcard mounted @ /mnt/secure/staging
+D/Vold    (   72): Volume sdcard state changing 3 (Checking) -> 4 (Mounted)
+I/PackageManager(  166): Updating external media status from unmounted to mounted
+D/MountService(  166): volume state changed for /mnt/sdcard (checking -> mounted)
+W/System.err(  565): org.apache.http.client.HttpResponseException: INTERNAL SERVER ERROR
+D/MountService(  166): sendStorageIntent Intent { act=android.intent.action.MEDIA_MOUNTED dat=file:///mnt/sdcard (has extras) }
+I/StorageNotification(  326): Media {/mnt/sdcard} state changed from {checking} -> {mounted}
+D/MediaScannerReceiver(  611): action: android.intent.action.MEDIA_MOUNTED path: /mnt/sdcard
+I/MediaUploader( 1182): No need to wake up
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:71)
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:59)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:657)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:627)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:616)
+W/System.err(  565): 	at edu.buffalo.cse.phonelab.phonelabservices.PeriodicCheckService.onHandleIntent(PeriodicCheckService.java:148)
+W/System.err(  565): 	at android.app.IntentService$ServiceHandler.handleMessage(IntentService.java:65)
+W/System.err(  565): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+W/System.err(  565): 	at android.os.Looper.loop(Looper.java:137)
+W/System.err(  565): 	at android.os.HandlerThread.run(HandlerThread.java:60)
+I/PhoneLab-PeriodicCheckService(  565): Rescheduling periodic checking...
+I/PhoneLab-Locks(  565): wake lock released
+D/VoldCmdListener(   72): asec list
+I/PackageManager(  166): No secure containers on sdcard
+D/dalvikvm(  326): GC_CONCURRENT freed 207K, 6% free 10191K/10823K, paused 3ms+3ms
+D/dalvikvm(  326): GC_FOR_ALLOC freed 202K, 7% free 10165K/10823K, paused 16ms
+D/dalvikvm(  326): GC_FOR_ALLOC freed 352K, 7% free 10110K/10823K, paused 16ms
+W/PackageManager(  166): Unknown permission com.android.vending.permission.UPDATE_MARKET_FAILURE in package com.android.vending.updater
+W/PackageManager(  166): Unknown permission android.permission.ADD_SYSTEM_SERVICE in package com.android.phone
+D/dalvikvm( 1103): GC_CONCURRENT freed 354K, 5% free 10284K/10759K, paused 2ms+9ms
+W/PackageManager(  166): Unknown permission com.android.vending.billing.IBillingAccountService.BIND2 in package com.google.android.gsf.login
+W/PackageManager(  166): Not granting permission android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS to package com.android.browser (protectionLevel=2 flags=0x9be45)
+W/PackageManager(  166): Not granting permission android.permission.CALL_PRIVILEGED to package com.skype.raider (protectionLevel=3 flags=0x8be44)
+W/PackageManager(  166): Unknown permission android.permission.READ_OWNER_DATA in package com.google.android.setupwizard
+W/PackageManager(  166): Unknown permission android.permission.WRITE_OWNER_DATA in package com.google.android.setupwizard
+W/PackageManager(  166): Unknown permission android.permission.WRITE_CDMA_CARRIER_SETTINGS in package com.android.sprintmenu
+W/PackageManager(  166): Unknown permission android.permission.CHANGE_DUN_STATE in package com.android.sprintmenu
+W/PackageManager(  166): Unknown permission android.permission.READ_EXTERNAL_STORAGE in package com.android.videoeditor
+W/PackageManager(  166): Unknown permission android.permission.READ_EXTERNAL_STORAGE in package com.android.vending
+W/PackageManager(  166): Not granting permission com.google.android.voicesearch.AUDIO_FILE_ACCESS to package com.google.android.gm (protectionLevel=2 flags=0x9be64)
+W/PackageManager(  166): Unknown permission com.estrongs.android.pop.PERMISSION in package com.estrongs.android.pop
+W/PackageManager(  166): Unknown permission com.sprint.internal.permission.CONNECTIONMANAGER in package com.samsung.update
+W/PackageManager(  166): Unknown permission com.sprint.internal.permission.SYSTEMPROPERTIES in package com.samsung.update
+W/PackageManager(  166): Unknown permission com.sprint.internal.permission.SYSTEMPROPERTIES_WRITE in package com.samsung.update
+W/PackageManager(  166): Unknown permission com.android.providers.im.permission.READ_ONLY in package com.google.android.apps.maps
+W/PackageManager(  166): Not granting permission android.permission.DEVICE_POWER to package com.android.deskclock (protectionLevel=2 flags=0x8be45)
+W/PackageManager(  166): Unknown permission android.permission.FLAG_RECEIVER_REGISTERED_ONLY_BEFORE_BOOT in package com.samsung.wimax
+W/PackageManager(  166): Not granting permission android.permission.ACCESS_CHECKIN_PROPERTIES to package com.google.android.apps.googlevoice (protectionLevel=3 flags=0x8be44)
+W/PackageManager(  166): Unknown permission com.google.android.apps.googlevoice.REMOTE_INTENT in package com.google.android.apps.googlevoice
+W/PackageManager(  166): Unknown permission com.google.android.permission.RECEIVE_DATA_MESSAGE in package com.google.android.apps.googlevoice
+W/PackageManager(  166): Unknown permission com.google.android.permission.SEND_DATA_MESSAGE in package com.google.android.apps.googlevoice
+W/PackageManager(  166): Unknown permission com.android.providers.voicemail.permission.READ_WRITE_ALL_VOICEMAIL in package com.google.android.apps.googlevoice
+W/PackageManager(  166): Unknown permission com.android.providers.voicemail.permission.READ_WRITE_OWN_VOICEMAIL in package com.google.android.apps.googlevoice
+D/dalvikvm(  443): GC_CONCURRENT freed 440K, 5% free 11922K/12487K, paused 2ms+3ms
+D/dalvikvm(  693): GC_CONCURRENT freed 355K, 5% free 10151K/10631K, paused 2ms+3ms
+D/dalvikvm(  611): GC_CONCURRENT freed 303K, 5% free 9371K/9799K, paused 2ms+2ms
+I/CheckinTask(  693): Sending checkin request (11312 bytes)
+D/dalvikvm(  693): GC_CONCURRENT freed 340K, 5% free 10261K/10759K, paused 2ms+4ms
+D/dalvikvm(  611): GC_CONCURRENT freed 46K, 2% free 9751K/9927K, paused 2ms+3ms
+D/dalvikvm( 1016): GC_CONCURRENT freed 409K, 6% free 9398K/9927K, paused 2ms+3ms
+W/MediaScanner(  611): Error opening directory '/mnt/sdcard/.android_secure/', skipping: Permission denied.
+I/RegisteredComponentCache(  428): ComponentInfo: ResolveInfo{4138cf20 com.android.apps.tag.TagViewer p=0 o=0 m=0x108000}, techs: android.nfc.tech.Ndef, 
+D/PackageManager(  166): generateServicesMap(android.accounts.AccountAuthenticator): 4 services unchanged
+D/PackageManager(  166): generateServicesMap(android.content.SyncAdapter): 12 services unchanged
+I/ActivityManager(  166): Start proc com.android.vending for broadcast com.android.vending/com.google.android.finsky.receivers.PackageMonitorReceiver$RegisteredReceiver: pid=1281 uid=10045 gids={3003, 1015}
+I/ActivityThread( 1281): Pub com.google.android.finsky.QSBSuggestionsProvider: com.google.android.finsky.providers.QSBSuggestionsProvider
+D/dalvikvm(  166): GC_CONCURRENT freed 886K, 11% free 13456K/15047K, paused 2ms+7ms
+I/ActivityThread( 1281): Pub com.google.android.finsky.AppIconProvider: com.google.android.finsky.providers.AppIconProvider
+I/ActivityThread( 1281): Pub com.google.android.finsky.RecentSuggestionsProvider: com.google.android.finsky.providers.RecentSuggestionsProvider
+D/dalvikvm( 1199): GC_CONCURRENT freed 348K, 6% free 9294K/9799K, paused 2ms+3ms
+D/dalvikvm(  326): GC_CONCURRENT freed 372K, 7% free 10147K/10823K, paused 1ms+10ms
+D/dalvikvm( 1281): GC_CONCURRENT freed 238K, 4% free 9298K/9607K, paused 3ms+3ms
+D/Finsky  ( 1281): [1] DailyHygiene.goMakeHygieneIfDirty: No need to run daily hygiene.
+D/dalvikvm( 1281): GC_CONCURRENT freed 413K, 6% free 9401K/9927K, paused 3ms+3ms
+I/ActivityManager(  166): Start proc com.google.android.googlequicksearchbox for broadcast com.google.android.googlequicksearchbox/.SourceUpdateReceiver: pid=1315 uid=10021 gids={3003}
+I/ActivityManager(  166): No longer want com.google.android.apps.maps (pid 1130): hidden #16
+I/ActivityThread( 1315): Pub com.google.android.googlequicksearchbox.shortcuts: com.google.android.googlequicksearchbox.WebHistoryProvider
+I/ActivityThread( 1315): Pub com.google.android.googlequicksearchbox.google: com.google.android.googlequicksearchbox.google.GoogleSuggestionProvider
+I/ActivityManager(  166): Start proc com.android.quicksearchbox for broadcast com.android.quicksearchbox/.CorporaUpdateReceiver: pid=1329 uid=10039 gids={3003}
+I/ActivityManager(  166): No longer want com.android.deskclock (pid 642): hidden #16
+E/jdwp    ( 1329): Failed sending reply to debugger: Broken pipe
+D/dalvikvm( 1329): Debugger has detached; object registry had 1 entries
+I/ActivityThread( 1329): Pub com.android.quicksearchbox.google: com.android.quicksearchbox.google.GoogleSuggestionProvider
+I/ActivityThread( 1329): Pub com.android.quicksearchbox.shortcuts: com.android.quicksearchbox.ShortcutsProvider
+I/ActivityManager(  166): No longer want com.android.settings (pid 1110): hidden #16
+D/dalvikvm(  503): GC_CONCURRENT freed 409K, 6% free 9460K/9991K, paused 3ms+3ms
+D/Finsky  ( 1281): [1] 2.run: Loaded library for account: [IbGkTYR9rtNnJO6ZCz6nt8keDY8]
+D/Finsky  ( 1281): [1] 2.run: Loaded library for account: [S-B5rchX7JuujL15dbfR13irF50]
+D/Finsky  ( 1281): [1] 2.run: Finished loading 2 libraries.
+D/dalvikvm( 1281): GC_CONCURRENT freed 431K, 6% free 9487K/9991K, paused 2ms+5ms
+D/dalvikvm(  693): GC_CONCURRENT freed 381K, 5% free 10308K/10823K, paused 2ms+5ms
+D/dalvikvm(  611): GC_CONCURRENT freed 123K, 3% free 10055K/10311K, paused 2ms+3ms
+D/dalvikvm(  611): GC_CONCURRENT freed 452K, 6% free 10045K/10631K, paused 3ms+2ms
+D/dalvikvm(  611): GC_CONCURRENT freed 384K, 6% free 10046K/10631K, paused 2ms+2ms
+D/dalvikvm(  503): GC_CONCURRENT freed 343K, 5% free 9516K/9991K, paused 2ms+3ms
+D/dalvikvm(  611): GC_CONCURRENT freed 368K, 6% free 10062K/10631K, paused 2ms+4ms
+D/dalvikvm(  166): GC_EXPLICIT freed 733K, 12% free 13304K/15047K, paused 3ms+6ms
+D/MediaProvider(  611): object removed 62
+D/MediaProvider(  611): object removed 68
+I/ActivityManager(  166): No longer want com.google.android.gsf.login (pid 739): hidden #16
+D/dalvikvm(  693): GC_CONCURRENT freed 405K, 5% free 10358K/10887K, paused 16ms+4ms
+D/dalvikvm(  693): GC_CONCURRENT freed 540K, 7% free 10222K/10951K, paused 2ms+6ms
+D/dalvikvm(  693): GC_FOR_ALLOC freed 60K, 6% free 10387K/10951K, paused 21ms
+I/dalvikvm-heap(  693): Grow heap (frag case) to 10.311MB for 102620-byte allocation
+D/dalvikvm(  693): GC_FOR_ALLOC freed 47K, 6% free 10440K/11079K, paused 20ms
+D/dalvikvm(  693): GC_FOR_ALLOC freed 3K, 6% free 10436K/11079K, paused 20ms
+I/dalvikvm-heap(  693): Grow heap (frag case) to 10.325MB for 66491-byte allocation
+D/dalvikvm(  693): GC_FOR_ALLOC freed <1K, 7% free 10501K/11207K, paused 24ms
+I/CheckinTask(  693): Sending checkin request (14422 bytes)
+D/dalvikvm(  693): GC_CONCURRENT freed 646K, 9% free 10309K/11207K, paused 2ms+4ms
+I/CheckinTask(  693): Sending checkin request (16626 bytes)
+D/dalvikvm(  693): GC_CONCURRENT freed 540K, 10% free 10155K/11207K, paused 2ms+4ms
+D/dalvikvm(  693): GC_CONCURRENT freed 169K, 8% free 10398K/11207K, paused 2ms+3ms
+I/CheckinTask(  693): Sending checkin request (11094 bytes)
+D/dalvikvm(  693): GC_EXPLICIT freed 369K, 10% free 10149K/11207K, paused 3ms+3ms
+D/dalvikvm(  693): GC_CONCURRENT freed 166K, 8% free 10375K/11207K, paused 3ms+5ms
+I/CheckinTask(  693): Sending checkin request (12267 bytes)
+D/dalvikvm(  693): GC_CONCURRENT freed 479K, 9% free 10286K/11207K, paused 3ms+3ms
+I/CheckinTask(  693): Sending checkin request (20434 bytes)
+D/dalvikvm(  693): GC_CONCURRENT freed 326K, 7% free 10423K/11207K, paused 2ms+3ms
+D/dalvikvm(  693): GC_CONCURRENT freed 476K, 8% free 10351K/11207K, paused 2ms+3ms
+I/CheckinTask(  693): Sending checkin request (16020 bytes)
+D/dalvikvm(  693): GC_CONCURRENT freed 532K, 9% free 10256K/11207K, paused 3ms+3ms
+I/CheckinTask(  693): Sending checkin request (27211 bytes)
+D/dalvikvm(  693): GC_CONCURRENT freed 491K, 10% free 10151K/11207K, paused 3ms+4ms
+I/CheckinTask(  693): Sending checkin request (5746 bytes)
+D/dalvikvm(  693): GC_CONCURRENT freed 359K, 10% free 10177K/11207K, paused 3ms+3ms
+I/CheckinTask(  693): Checkin success: https://android.clients.google.com/checkin (9 requests sent)
+I/power   (  166): *** set_screen_state 0
+D/SurfaceFlinger(   78): About to give-up screen, flinger = 0xad2918
+V/TransportControlView(  166): Create TCV com.android.internal.widget.TransportControlView@4174b758
+D/dalvikvm(  166): GC_CONCURRENT freed 793K, 11% free 13457K/15047K, paused 9ms+5ms
+I/power   (  166): *** set_screen_state 1
+I/WindowManager(  166): Lock screen displayed!
+D/SurfaceFlinger(   78): Screen about to return, flinger = 0xad2918
+W/ActivityManager(  166): Timeout of broadcast BroadcastRecord{4181f7b8 android.intent.action.SCREEN_OFF} - receiver=android.app.LoadedApk$ReceiverDispatcher$InnerReceiver@417291d8, started 10000ms ago
+W/ActivityManager(  166): Receiver during timeout: BroadcastFilter{41729420 ReceiverList{417293a8 166 system/1000 local:417291d8}}
+I/power   (  166): *** set_screen_state 0
+D/SurfaceFlinger(   78): About to give-up screen, flinger = 0xad2918
+D/dalvikvm(  166): GC_FOR_ALLOC freed 369K, 10% free 13649K/15047K, paused 43ms
+D/dalvikvm(  166): GC_FOR_ALLOC freed 11K, 9% free 13741K/15047K, paused 42ms
+I/dalvikvm-heap(  166): Grow heap (frag case) to 13.592MB for 104992-byte allocation
+D/dalvikvm(  166): GC_FOR_ALLOC freed <1K, 9% free 13843K/15175K, paused 41ms
+D/dalvikvm(  166): GC_FOR_ALLOC freed <1K, 9% free 13845K/15175K, paused 45ms
+I/dalvikvm-heap(  166): Grow heap (frag case) to 13.695MB for 104992-byte allocation
+D/dalvikvm(  166): GC_FOR_ALLOC freed <1K, 9% free 13947K/15303K, paused 41ms
+V/TransportControlView(  166): Create TCV com.android.internal.widget.TransportControlView@415d37e8
+W/ActivityManager(  166): Timeout of broadcast BroadcastRecord{4182bce8 android.intent.action.SCREEN_ON} - receiver=android.app.LoadedApk$ReceiverDispatcher$InnerReceiver@417291d8, started 10000ms ago
+W/ActivityManager(  166): Receiver during timeout: BroadcastFilter{41729420 ReceiverList{417293a8 166 system/1000 local:417291d8}}
+W/ActivityManager(  166): Timeout of broadcast BroadcastRecord{4159c628 android.intent.action.SCREEN_OFF} - receiver=android.app.LoadedApk$ReceiverDispatcher$InnerReceiver@417291d8, started 10000ms ago
+W/ActivityManager(  166): Receiver during timeout: BroadcastFilter{41729420 ReceiverList{417293a8 166 system/1000 local:417291d8}}
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): Logcat pid from database 9555
+I/PhoneLab-LoggerService(  565): Logcat process not found, starting process
+I/System.out(  565): /mnt/sdcard/.log/
+D/PhoneLab-LoggerService(  565): Logcat COMMAND logcat  -f /mnt/sdcard/.log/log.out  -r 30 -n 20 *:V &
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1376   1008  00000000 00009a62 R logcat
+I/PhoneLab-LoggerService(  565): PID to db 1356
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777596, normalSync: true
+I/ActivityManager(  166): Start proc com.google.android.gsf.login for service com.google.android.gsf.login/com.google.android.gsf.loginservice.GoogleLoginService: pid=1361 uid=10009 gids={3003, 1015, 1007, 2001, 3006}
+D/dalvikvm( 1361): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1053): GC_CONCURRENT freed 273K, 5% free 9589K/9991K, paused 2ms+3ms
+D/dalvikvm( 1053): GC_CONCURRENT freed 408K, 6% free 9604K/10119K, paused 2ms+3ms
+D/dalvikvm( 1053): GC_EXPLICIT freed 106K, 6% free 9609K/10119K, paused 2ms+2ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777629, normalSync: true
+D/dalvikvm( 1053): GC_EXPLICIT freed 281K, 5% free 9654K/10119K, paused 4ms+3ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777629, normalSync: true
+I/Gmail   ( 1053): lowestBackward conversation id 0
+W/Gmail   ( 1053): Scheduling index for 300000 ms from now
+I/Gmail   ( 1053): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+W/Gmail   ( 1053): Showing notification with unreadCount of 21 and unseenCount of 7
+I/ActivityManager(  166): No longer want com.google.android.apps.maps:FriendService (pid 1084): hidden #16
+I/AudioService(  166):  AudioFocus  requestAudioFocus() from android.media.AudioManager@41544280
+D/dalvikvm(  166): GC_FOR_ALLOC freed 1107K, 12% free 13473K/15303K, paused 65ms
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm(  326): GC_CONCURRENT freed 154K, 5% free 10381K/10823K, paused 1ms+2ms
+D/dalvikvm(  326): GC_FOR_ALLOC freed 580K, 8% free 10184K/10951K, paused 18ms
+I/AudioService(  166):  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41544280
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+I/PhoneLab-LoggerService(  565): Starting to rename files
+I/PhoneLab-LoggerService(  565): Files found .. 26
+I/PhoneLab-LoggerService(  565): File 22 log.out.1
+I/PhoneLab-LoggerService(  565): Renamed successfully
+I/PhoneLab-LoggerService(  565): File 23 log.out.2
+I/PhoneLab-LoggerService(  565): Renamed successfully
+I/PhoneLab-LoggerService(  565): File 24 log.out.3
+I/PhoneLab-LoggerService(  565): Renamed successfully
+I/PhoneLab-LoggerService(  565): File 25 log.out.4
+I/PhoneLab-LoggerService(  565): Renamed successfully
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  565): User info is synched
+I/PhoneLab-PeriodicCheckService(  565): Logger Service is running
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-StatusMonitor(  565): Status Monitoring is started
+E/PhoneLab-PhoneLabManifest(  565): java.io.FileNotFoundException: /data/data/edu.buffalo.cse.phonelab.phonelabservices/files/manifest.xml: open failed: ENOENT (No such file or directory)
+I/PhoneLab-Locks(  565): wake lock released

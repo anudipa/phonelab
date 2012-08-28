@@ -1,0 +1,398 @@
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-UploadLogs(  565): Transfering log files now
+I/PhoneLab-PeriodicCheckService(  565): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  565): Post URI is:: http://107.22.187.240/devicestatus/
+V/PhoneLab-UploadLogs(  565): Posting logs now 
+D/dalvikvm(  565): GC_CONCURRENT freed 454K, 6% free 9200K/9735K, paused 2ms+2ms
+I/PhoneLab-UploadLogs(  565): OnStartCommand
+D/dalvikvm(  565): GC_FOR_ALLOC freed 302K, 6% free 9247K/9799K, paused 24ms
+I/PhoneLab-(  565): 1343661092998.log is deleted
+I/PhoneLab-(  565): Response: {"data": "done", "err": ""}
+V/PhoneLab-UploadLogs(  565): Posting logs now 
+D/dalvikvm(  565): GC_CONCURRENT freed 468K, 7% free 9270K/9863K, paused 2ms+2ms
+D/dalvikvm(  565): GC_FOR_ALLOC freed 179K, 6% free 9337K/9863K, paused 15ms
+I/dalvikvm-heap(  565): Grow heap (frag case) to 9.429MB for 254548-byte allocation
+D/dalvikvm(  565): GC_FOR_ALLOC freed 120K, 7% free 9465K/10119K, paused 16ms
+I/dalvikvm-heap(  565): Grow heap (frag case) to 9.804MB for 516692-byte allocation
+D/dalvikvm(  565): GC_CONCURRENT freed 248K, 9% free 9720K/10631K, paused 2ms+2ms
+D/dalvikvm(  565): GC_FOR_ALLOC freed 55K, 9% free 9699K/10631K, paused 40ms
+I/dalvikvm-heap(  565): Grow heap (frag case) to 10.030MB for 513840-byte allocation
+D/dalvikvm(  565): GC_CONCURRENT freed 501K, 13% free 9699K/11143K, paused 2ms+2ms
+D/dalvikvm(  565): GC_FOR_ALLOC freed 502K, 13% free 9699K/11143K, paused 13ms
+D/dalvikvm(  565): GC_CONCURRENT freed 502K, 13% free 9700K/11143K, paused 2ms+2ms
+W/System.err(  565): org.apache.http.client.HttpResponseException: INTERNAL SERVER ERROR
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:71)
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:59)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:657)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:627)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:616)
+W/System.err(  565): 	at edu.buffalo.cse.phonelab.phonelabservices.PeriodicCheckService.onHandleIntent(PeriodicCheckService.java:148)
+W/System.err(  565): 	at android.app.IntentService$ServiceHandler.handleMessage(IntentService.java:65)
+W/System.err(  565): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+D/dalvikvm(  565): GC_CONCURRENT freed 6K, 9% free 10205K/11143K, paused 21ms+2ms
+W/System.err(  565): 	at android.os.Looper.loop(Looper.java:137)
+W/System.err(  565): 	at android.os.HandlerThread.run(HandlerThread.java:60)
+I/PhoneLab-PeriodicCheckService(  565): Rescheduling periodic checking...
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-(  565): 1343661093022.log is deleted
+I/PhoneLab-(  565): Response: {"data": "done", "err": ""}
+V/PhoneLab-UploadLogs(  565): Posting logs now 
+D/dalvikvm(  565): GC_CONCURRENT freed 1398K, 17% free 9294K/11143K, paused 2ms+2ms
+I/PhoneLab-(  565): 1343661092984.log is deleted
+I/PhoneLab-(  565): Response: {"data": "done", "err": ""}
+V/PhoneLab-UploadLogs(  565): Posting logs now 
+D/dalvikvm(  565): GC_CONCURRENT freed 563K, 18% free 9242K/11143K, paused 2ms+3ms
+I/PhoneLab-(  565): 1343661092991.log is deleted
+I/PhoneLab-(  565): Response: {"data": "done", "err": ""}
+I/PhoneLab-UploadLogs(  565): No log files to transfer
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+I/PhoneLab-LoggerService(  565): Starting to rename files
+I/PhoneLab-LoggerService(  565): Files found .. 23
+I/PhoneLab-LoggerService(  565): File 22 log.out.1
+I/PhoneLab-LoggerService(  565): Renamed successfully
+D/dalvikvm(  565): GC_CONCURRENT freed 477K, 18% free 9161K/11143K, paused 2ms+2ms
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+I/PhoneLab-LoggerService(  565): Starting to rename files
+I/PhoneLab-LoggerService(  565): Files found .. 23
+I/EventLogService(  693): Aggregate from 1343660849905 (log), 1343659559747 (data)
+D/dalvikvm(  693): GC_CONCURRENT freed 432K, 10% free 10169K/11207K, paused 2ms+4ms
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+I/PhoneLab-LoggerService(  565): Starting to rename files
+I/PhoneLab-LoggerService(  565): Files found .. 23
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  565): User info is synched
+I/PhoneLab-PeriodicCheckService(  565): Logger Service is running
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-UploadLogs(  565): Transfering log files now
+I/PhoneLab-PeriodicCheckService(  565): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  565): Post URI is:: http://107.22.187.240/devicestatus/
+V/PhoneLab-UploadLogs(  565): Posting logs now 
+D/dalvikvm(  565): GC_CONCURRENT freed 441K, 18% free 9219K/11143K, paused 2ms+2ms
+I/PhoneLab-UploadLogs(  565): OnStartCommand
+I/PhoneLab-(  565): 1343661212987.log is deleted
+I/PhoneLab-(  565): Response: {"data": "done", "err": ""}
+I/PhoneLab-UploadLogs(  565): No log files to transfer
+I/PhoneLab-Locks(  565): wake lock released
+W/System.err(  565): org.apache.http.client.HttpResponseException: INTERNAL SERVER ERROR
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:71)
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:59)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:657)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:627)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:616)
+W/System.err(  565): 	at edu.buffalo.cse.phonelab.phonelabservices.PeriodicCheckService.onHandleIntent(PeriodicCheckService.java:148)
+W/System.err(  565): 	at android.app.IntentService$ServiceHandler.handleMessage(IntentService.java:65)
+W/System.err(  565): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+W/System.err(  565): 	at android.os.Looper.loop(Looper.java:137)
+W/System.err(  565): 	at android.os.HandlerThread.run(HandlerThread.java:60)
+I/PhoneLab-PeriodicCheckService(  565): Rescheduling periodic checking...
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-(  565): Service Running
+D/dalvikvm(  565): GC_CONCURRENT freed 400K, 18% free 9204K/11143K, paused 2ms+6ms
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+D/dalvikvm(  166): GC_CONCURRENT freed 1108K, 13% free 13374K/15303K, paused 19ms+4ms
+W/Gmail   ( 1053): Successful index run, cancel next scheduled index run
+W/ActivityManager(  166): Timeout of broadcast BroadcastRecord{41822778 com.android.server.action.NETWORK_STATS_POLL} - receiver=android.app.LoadedApk$ReceiverDispatcher$InnerReceiver@41718290, started 10003ms ago
+W/ActivityManager(  166): Receiver during timeout: BroadcastFilter{417184d8 ReceiverList{41718460 166 system/1000 local:41718290}}
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+D/dalvikvm(  326): GC_CONCURRENT freed 256K, 6% free 10312K/10951K, paused 1ms+2ms
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  565): User info is synched
+I/PhoneLab-PeriodicCheckService(  565): Logger Service is running
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-StatusMonitor(  565): Status Monitoring is started
+E/PhoneLab-PhoneLabManifest(  565): java.io.FileNotFoundException: /data/data/edu.buffalo.cse.phonelab.phonelabservices/files/manifest.xml: open failed: ENOENT (No such file or directory)
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-UploadLogs(  565): Transfering log files now
+I/PhoneLab-PeriodicCheckService(  565): Sending Heartbeat message 
+I/PhoneLab-UploadLogs(  565): No log files to transfer
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-PeriodicCheckService(  565): Post URI is:: http://107.22.187.240/devicestatus/
+I/PhoneLab-UploadLogs(  565): OnStartCommand
+W/System.err(  565): org.apache.http.client.HttpResponseException: INTERNAL SERVER ERROR
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:71)
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:59)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:657)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:627)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:616)
+W/System.err(  565): 	at edu.buffalo.cse.phonelab.phonelabservices.PeriodicCheckService.onHandleIntent(PeriodicCheckService.java:148)
+W/System.err(  565): 	at android.app.IntentService$ServiceHandler.handleMessage(IntentService.java:65)
+W/System.err(  565): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+W/System.err(  565): 	at android.os.Looper.loop(Looper.java:137)
+W/System.err(  565): 	at android.os.HandlerThread.run(HandlerThread.java:60)
+I/PhoneLab-PeriodicCheckService(  565): Rescheduling periodic checking...
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+D/dalvikvm( 1103): GC_CONCURRENT freed 364K, 5% free 10326K/10823K, paused 18ms+2ms
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1103): GC_CONCURRENT freed 422K, 6% free 10394K/10951K, paused 2ms+2ms
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1103): GC_CONCURRENT freed 550K, 6% free 10391K/11015K, paused 2ms+2ms
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1103): GC_CONCURRENT freed 485K, 6% free 10418K/11015K, paused 2ms+3ms
+I/power   (  166): *** set_screen_state 1
+I/WindowManager(  166): Lock screen displayed!
+D/SurfaceFlinger(   78): Screen about to return, flinger = 0xad2918
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info BACK HOME recent* CLOCK >
+D/NfcService(  428): NFC-C ON
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info back* home* recent clock* >
+D/dalvikvm(  503): GC_CONCURRENT freed 407K, 6% free 9517K/10055K, paused 6ms+4ms
+D/dalvikvm(  166): GC_EXPLICIT freed 608K, 13% free 13371K/15303K, paused 2ms+6ms
+I/AudioService(  166):  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41544280
+I/ActivityManager(  166): START {act=android.intent.action.VIEW dat=content://gmail-ls/account/anandatirtha@gmail.com/label/^i typ=application/gmail-ls flg=0x10008000 cmp=com.google.android.gm/.ConversationListActivityGmail bnds=[96,119][480,215] (has extras)} from pid -1
+W/KeyguardViewMediator(  166): verifyUnlock called when not externally disabled
+D/dalvikvm(  326): GC_FOR_ALLOC freed 245K, 8% free 10121K/10951K, paused 45ms
+D/dalvikvm( 1053): GC_CONCURRENT freed 273K, 4% free 9811K/10183K, paused 13ms+3ms
+D/OpenGLRenderer(  443): Flushing caches (mode 1)
+D/OpenGLRenderer(  443): Flushing caches (mode 0)
+I/Process (  166): Sending signal. PID: 1053 SIG: 3
+I/dalvikvm( 1053): threadid=3: reacting to signal 3
+I/dalvikvm( 1053): Wrote stack traces to '/data/anr/traces.txt'
+D/libEGL  ( 1053): loaded /system/lib/egl/libGLES_android.so
+D/libEGL  ( 1053): loaded /vendor/lib/egl/libEGL_POWERVR_SGX540_120.so
+D/libEGL  ( 1053): loaded /vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so
+D/libEGL  ( 1053): loaded /vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so
+D/OpenGLRenderer( 1053): Enabling debug mode 0
+I/ActivityManager(  166): Displayed com.google.android.gm/.ConversationListActivityGmail: +832ms (total +19m32s181ms)
+D/dalvikvm( 1053): GC_CONCURRENT freed 195K, 3% free 10134K/10439K, paused 3ms+6ms
+D/dalvikvm( 1053): GC_CONCURRENT freed 388K, 5% free 10251K/10759K, paused 3ms+3ms
+I/Gmail   ( 1053): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm( 1053): GC_CONCURRENT freed 328K, 4% free 10409K/10823K, paused 2ms+10ms
+D/dalvikvm( 1053): GC_CONCURRENT freed 480K, 6% free 10419K/11015K, paused 2ms+4ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777629, normalSync: true
+D/dalvikvm( 1053): GC_CONCURRENT freed 408K, 5% free 10469K/11015K, paused 2ms+5ms
+D/dalvikvm( 1053): GC_CONCURRENT freed 426K, 5% free 10474K/11015K, paused 5ms+4ms
+D/dalvikvm( 1053): GC_FOR_ALLOC freed 150K, 6% free 10412K/11015K, paused 27ms
+I/dalvikvm-heap( 1053): Grow heap (frag case) to 10.970MB for 768016-byte allocation
+D/dalvikvm( 1053): GC_FOR_ALLOC freed 4K, 6% free 11157K/11783K, paused 27ms
+D/dalvikvm( 1053): GC_CONCURRENT freed 17K, 5% free 11233K/11783K, paused 2ms+5ms
+W/webcore ( 1053): java.lang.Throwable: EventHub.removeMessages(int what = 107) is not supported before the WebViewCore is set up.
+W/webcore ( 1053): 	at android.webkit.WebViewCore$EventHub.removeMessages(WebViewCore.java:1683)
+W/webcore ( 1053): 	at android.webkit.WebViewCore$EventHub.access$7900(WebViewCore.java:926)
+W/webcore ( 1053): 	at android.webkit.WebViewCore.removeMessages(WebViewCore.java:1795)
+W/webcore ( 1053): 	at android.webkit.WebView.sendOurVisibleRect(WebView.java:2917)
+W/webcore ( 1053): 	at android.webkit.ZoomManager.setZoomScale(ZoomManager.java:593)
+W/webcore ( 1053): 	at android.webkit.ZoomManager.access$1700(ZoomManager.java:49)
+W/webcore ( 1053): 	at android.webkit.ZoomManager$PostScale.run(ZoomManager.java:984)
+W/webcore ( 1053): 	at android.os.Handler.handleCallback(Handler.java:605)
+W/webcore ( 1053): 	at android.os.Handler.dispatchMessage(Handler.java:92)
+W/webcore ( 1053): 	at android.os.Looper.loop(Looper.java:137)
+W/webcore ( 1053): 	at android.app.ActivityThread.main(ActivityThread.java:4424)
+W/webcore ( 1053): 	at java.lang.reflect.Method.invokeNative(Native Method)
+W/webcore ( 1053): 	at java.lang.reflect.Method.invoke(Method.java:511)
+W/webcore ( 1053): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:784)
+W/webcore ( 1053): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:551)
+W/webcore ( 1053): 	at dalvik.system.NativeStart.main(Native Method)
+D/dalvikvm(  693): GC_CONCURRENT freed 396K, 10% free 10168K/11207K, paused 4ms+8ms
+D/dalvikvm( 1053): GC_CONCURRENT freed 339K, 4% free 11566K/12039K, paused 2ms+4ms
+D/dalvikvm( 1053): GC_CONCURRENT freed 761K, 7% free 11561K/12423K, paused 2ms+5ms
+D/dalvikvm( 1053): GC_EXPLICIT freed 507K, 7% free 11632K/12423K, paused 2ms+5ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777685, normalSync: true
+I/Gmail   ( 1053): lowestBackward conversation id 0
+W/Gmail   ( 1053): Scheduling index for 300000 ms from now
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777685, normalSync: true
+I/dalvikvm( 1053): Jit: resizing JitTable from 4096 to 8192
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/dalvikvm( 1053): GC_CONCURRENT freed 695K, 7% free 11793K/12615K, paused 4ms+9ms
+I/Gmail   ( 1053): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^iim (has extras) }
+D/dalvikvm(  166): GC_EXPLICIT freed 1222K, 17% free 12790K/15303K, paused 3ms+13ms
+D/dalvikvm( 1053): GC_FOR_ALLOC freed 275K, 7% free 11767K/12615K, paused 29ms
+I/dalvikvm-heap( 1053): Grow heap (frag case) to 12.297MB for 768016-byte allocation
+D/dalvikvm( 1053): GC_FOR_ALLOC freed 13K, 7% free 12503K/13383K, paused 26ms
+D/dalvikvm( 1053): GC_EXPLICIT freed 57K, 6% free 12587K/13383K, paused 3ms+5ms
+D/dalvikvm( 1053): GC_FOR_ALLOC freed 1377K, 13% free 12163K/13895K, paused 27ms
+D/dalvikvm( 1053): GC_EXPLICIT freed 771K, 14% free 11956K/13895K, paused 8ms+13ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777703, normalSync: true
+D/dalvikvm( 1053): GC_EXPLICIT freed 834K, 14% free 12085K/13895K, paused 3ms+9ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777726, normalSync: true
+I/Gmail   ( 1053): lowestBackward conversation id 0
+W/Gmail   ( 1053): Scheduling index for 300000 ms from now
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777726, normalSync: true
+D/dalvikvm( 1053): GC_EXPLICIT freed 455K, 13% free 12115K/13895K, paused 5ms+16ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777726, normalSync: true
+I/Gmail   ( 1053): lowestBackward conversation id 0
+W/Gmail   ( 1053): Scheduling index for 300000 ms from now
+D/webviewglue( 1053): nativeDestroy view: 0xe32b88
+D/webviewglue( 1053): nativeDestroy view: 0xe90310
+W/InputManagerService(  166): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@4162e358 (uid=10053 pid=1053)
+D/OpenGLRenderer( 1053): Flushing caches (mode 0)
+D/OpenGLRenderer( 1053): Flushing caches (mode 1)
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+D/dalvikvm(  565): GC_CONCURRENT freed 426K, 18% free 9182K/11143K, paused 2ms+2ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777726, normalSync: true
+I/Gmail   ( 1053): lowestBackward conversation id 0
+W/Gmail   ( 1053): Scheduling index for 300000 ms from now
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  565): User info is synched
+I/PhoneLab-PeriodicCheckService(  565): Logger Service is running
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-UploadLogs(  565): Transfering log files now
+I/PhoneLab-UploadLogs(  565): No log files to transfer
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-UploadLogs(  565): OnStartCommand
+I/PhoneLab-PeriodicCheckService(  565): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  565): Post URI is:: http://107.22.187.240/devicestatus/
+W/System.err(  565): org.apache.http.client.HttpResponseException: INTERNAL SERVER ERROR
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:71)
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:59)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:657)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:627)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:616)
+W/System.err(  565): 	at edu.buffalo.cse.phonelab.phonelabservices.PeriodicCheckService.onHandleIntent(PeriodicCheckService.java:148)
+W/System.err(  565): 	at android.app.IntentService$ServiceHandler.handleMessage(IntentService.java:65)
+W/System.err(  565): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+W/System.err(  565): 	at android.os.Looper.loop(Looper.java:137)
+W/System.err(  565): 	at android.os.HandlerThread.run(HandlerThread.java:60)
+I/PhoneLab-PeriodicCheckService(  565): Rescheduling periodic checking...
+I/PhoneLab-Locks(  565): wake lock released
+I/power   (  166): *** set_screen_state 0
+D/SurfaceFlinger(   78): About to give-up screen, flinger = 0xad2918
+D/NfcService(  428): NFC-C OFF, disconnect
+D/dalvikvm(  166): GC_CONCURRENT freed 622K, 15% free 13072K/15303K, paused 2ms+4ms
+V/TransportControlView(  166): Create TCV com.android.internal.widget.TransportControlView@415aa878
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info back home RECENT* clock >
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info BACK* HOME* RECENT CLOCK* >
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1103): GC_CONCURRENT freed 524K, 6% free 10406K/11015K, paused 6ms+2ms
+D/dalvikvm(  326): GC_CONCURRENT freed 427K, 8% free 10081K/10951K, paused 1ms+3ms
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1103): GC_CONCURRENT freed 520K, 6% free 10397K/11015K, paused 2ms+2ms
+D/dalvikvm(  166): GC_CONCURRENT freed 314K, 11% free 13650K/15303K, paused 18ms+4ms
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  565): User info is synched
+I/PhoneLab-PeriodicCheckService(  565): Logger Service is running
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-UploadLogs(  565): Transfering log files now
+I/PhoneLab-UploadLogs(  565): No log files to transfer
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-UploadLogs(  565): OnStartCommand
+I/PhoneLab-PeriodicCheckService(  565): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  565): Post URI is:: http://107.22.187.240/devicestatus/
+W/System.err(  565): org.apache.http.client.HttpResponseException: INTERNAL SERVER ERROR
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:71)
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:59)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:657)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:627)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:616)
+W/System.err(  565): 	at edu.buffalo.cse.phonelab.phonelabservices.PeriodicCheckService.onHandleIntent(PeriodicCheckService.java:148)
+W/System.err(  565): 	at android.app.IntentService$ServiceHandler.handleMessage(IntentService.java:65)
+W/System.err(  565): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+W/System.err(  565): 	at android.os.Looper.loop(Looper.java:137)
+W/System.err(  565): 	at android.os.HandlerThread.run(HandlerThread.java:60)
+I/PhoneLab-PeriodicCheckService(  565): Rescheduling periodic checking...
+I/PhoneLab-Locks(  565): wake lock released
+D/dalvikvm(  166): GC_EXPLICIT freed 135K, 11% free 13630K/15303K, paused 2ms+4ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777726, normalSync: true
+D/dalvikvm( 1053): GC_CONCURRENT freed 1797K, 20% free 11253K/13895K, paused 3ms+7ms
+D/dalvikvm( 1053): GC_EXPLICIT freed 820K, 24% free 10604K/13895K, paused 2ms+4ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777756, normalSync: true
+D/dalvikvm( 1053): GC_CONCURRENT freed 333K, 24% free 10687K/13895K, paused 2ms+3ms
+D/dalvikvm( 1053): GC_EXPLICIT freed 430K, 24% free 10635K/13895K, paused 2ms+4ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777756, normalSync: true
+I/Gmail   ( 1053): lowestBackward conversation id 0
+W/Gmail   ( 1053): Scheduling index for 300000 ms from now
+I/Gmail   ( 1053): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+W/Gmail   ( 1053): Showing notification with unreadCount of 15 and unseenCount of 1
+I/AudioService(  166):  AudioFocus  requestAudioFocus() from android.media.AudioManager@41544280
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm(  326): GC_CONCURRENT freed 91K, 5% free 10420K/10951K, paused 2ms+2ms
+D/dalvikvm(  326): GC_FOR_ALLOC freed 511K, 8% free 10222K/11015K, paused 27ms
+I/AudioService(  166):  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41544280
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+I/power   (  166): *** set_screen_state 1
+I/WindowManager(  166): Lock screen displayed!
+D/SurfaceFlinger(   78): Screen about to return, flinger = 0xad2918
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info BACK HOME recent* CLOCK >
+D/NfcService(  428): NFC-C ON
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+W/InputManagerService(  166): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@4159e820
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info back* home* recent clock* >
+I/AudioService(  166):  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41544280
+I/ActivityManager(  166): START {act=android.intent.action.VIEW dat=content://gmail-ls/account/anandatirtha@gmail.com/label/^i/conversationId/1408392327506468974/maxServerMessageId/1408932141581502603/labels/anandatirtha%40gmail.com^*^2^*^^i^*^Inbox^*^0^*^0^**^anandatirtha%40gmail.com^*^3^*^^u^*^Unread^*^0^*^1^**^anandatirtha%40gmail.com^*^-505^*^^^unseen-^i^*^^*^2147483647^*^1 typ=application/gmail-ls flg=0x10008000 cmp=com.google.android.gm/.ConversationListActivityGmail bnds=[96,119][480,215] (has extras)} from pid -1
+W/KeyguardViewMediator(  166): verifyUnlock called when not externally disabled
+I/dalvikvm(  166): Jit: resizing JitTable from 8192 to 16384
+D/OpenGLRenderer(  443): Flushing caches (mode 1)
+D/dalvikvm(  326): GC_CONCURRENT freed 335K, 7% free 10308K/11015K, paused 2ms+2ms
+D/OpenGLRenderer(  443): Flushing caches (mode 0)
+D/dalvikvm( 1053): GC_CONCURRENT freed 271K, 22% free 10858K/13895K, paused 7ms+7ms
+D/dalvikvm( 1053): GC_FOR_ALLOC freed 62K, 22% free 10840K/13895K, paused 34ms
+I/dalvikvm-heap( 1053): Grow heap (frag case) to 11.392MB for 768016-byte allocation
+I/Process (  166): Sending signal. PID: 1053 SIG: 3
+I/dalvikvm( 1053): threadid=3: reacting to signal 3
+I/dalvikvm( 1053): Wrote stack traces to '/data/anr/traces.txt'
+D/dalvikvm( 1053): GC_CONCURRENT freed 9K, 17% free 11580K/13895K, paused 4ms+3ms
+I/ActivityManager(  166): Displayed com.google.android.gm/.ConversationListActivityGmail: +824ms
+D/dalvikvm( 1361): GC_CONCURRENT freed 300K, 4% free 9170K/9543K, paused 2ms+5ms
+D/dalvikvm( 1053): GC_CONCURRENT freed 371K, 14% free 12064K/13895K, paused 3ms+4ms
+D/dalvikvm(  503): GC_CONCURRENT freed 410K, 6% free 9512K/10055K, paused 2ms+3ms
+D/dalvikvm( 1053): GC_CONCURRENT freed 884K, 13% free 12110K/13895K, paused 2ms+5ms
+I/Gmail   ( 1053): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+D/dalvikvm( 1053): GC_FOR_ALLOC freed 288K, 13% free 12133K/13895K, paused 31ms
+I/dalvikvm-heap( 1053): Grow heap (frag case) to 12.655MB for 768016-byte allocation
+D/dalvikvm( 1053): GC_FOR_ALLOC freed 51K, 13% free 12832K/14663K, paused 28ms
+D/dalvikvm( 1053): GC_CONCURRENT freed 1651K, 16% free 12326K/14663K, paused 3ms+5ms
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/webviewglue( 1053): nativeDestroy view: 0x10281b8
+D/webviewglue( 1053): nativeDestroy view: 0x107a600
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777756, normalSync: true
+D/dalvikvm( 1053): GC_EXPLICIT freed 1631K, 21% free 11619K/14663K, paused 3ms+11ms

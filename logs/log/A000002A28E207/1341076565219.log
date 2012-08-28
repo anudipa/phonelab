@@ -1,0 +1,1162 @@
+06-30 13:05:55.395   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:05:56.286   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:05:56.290   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:05:56.524   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:05:56.630 19359 19361 D dalvikvm: GC_CONCURRENT freed 1079K, 22% free 11427K/14599K, paused 5ms+5ms
+06-30 13:05:56.739 19359 19361 D dalvikvm: GC_CONCURRENT freed 562K, 21% free 11588K/14599K, paused 2ms+4ms
+06-30 13:05:56.798 19359 19361 D dalvikvm: GC_CONCURRENT freed 528K, 19% free 11867K/14599K, paused 2ms+4ms
+06-30 13:05:56.907 19359 19361 D dalvikvm: GC_CONCURRENT freed 1135K, 20% free 11681K/14599K, paused 3ms+25ms
+06-30 13:05:57.020   142   173 D dalvikvm: GC_EXPLICIT freed 161K, 37% free 14493K/22727K, paused 3ms+14ms
+06-30 13:05:57.567 19103 19103 I PhoneLab-Locks: wake lock acquired
+06-30 13:05:57.575 19103 19103 I PhoneLab-StatusMonitor: Status Monitoring is started
+06-30 13:05:57.723 19359 19361 D dalvikvm: GC_CONCURRENT freed 702K, 20% free 11795K/14599K, paused 2ms+5ms
+06-30 13:05:57.806 19103 19106 D dalvikvm: GC_CONCURRENT freed 350K, 5% free 9143K/9607K, paused 3ms+2ms
+06-30 13:05:57.864 19103 19103 I PhoneLab-StatusMonitor: Value: 10 - unit: min
+06-30 13:05:57.864 19103 19103 I PhoneLab-StatusMonitor: Running interval: 600000
+06-30 13:05:57.876 19103 19103 I PhoneLab-StatusMonitor: Rescheduling status monitoring...
+06-30 13:05:57.880 19103 19103 I PhoneLab-Locks: wake lock released
+06-30 13:05:57.884 19103 19103 I PhoneLab-StatusMonitorLocation: Learning Location
+06-30 13:05:57.888 19103 19103 I PhoneLab-Locks: wake lock acquired
+06-30 13:05:57.907   342   342 D SAN_SERVICE: *******************************************
+06-30 13:05:57.907   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:05:57.907   342   342 D SAN_SERVICE: *******************************************
+06-30 13:05:57.970 19103 19103 I PhoneLab-Locks: wake lock acquired
+06-30 13:05:58.020 19103 19103 I PhoneLab-StatusMonitorLocation: Learning Signal Strgth
+06-30 13:05:58.020 19103 19103 I PhoneLab-Locks: wake lock acquired
+06-30 13:05:58.044 19359 19361 D dalvikvm: GC_CONCURRENT freed 656K, 18% free 12038K/14599K, paused 7ms+4ms
+06-30 13:05:58.102 19359 19359 D dalvikvm: GC_FOR_ALLOC freed 1108K, 20% free 11823K/14599K, paused 35ms
+06-30 13:05:58.114 18712 18742 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@4133b9e8
+06-30 13:05:58.165   342   342 D SAN_SERVICE: *******************************************
+06-30 13:05:58.165   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:05:58.165   342   342 D SAN_SERVICE: *******************************************
+06-30 13:05:58.208 19359 19361 D dalvikvm: GC_CONCURRENT freed 520K, 17% free 12176K/14599K, paused 2ms+4ms
+06-30 13:05:58.251 19359 19359 D dalvikvm: GC_FOR_ALLOC freed 998K, 19% free 11946K/14599K, paused 31ms
+06-30 13:05:58.306 19359 19359 D dalvikvm: GC_FOR_ALLOC freed 1K, 16% free 12399K/14599K, paused 31ms
+06-30 13:05:58.309 19359 19359 I dalvikvm-heap: Grow heap (frag case) to 12.621MB for 459160-byte allocation
+06-30 13:05:58.337 18712 18742 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@4133b9e8
+06-30 13:05:58.341 19359 19359 D dalvikvm: GC_FOR_ALLOC freed <1K, 15% free 12847K/15111K, paused 31ms
+06-30 13:05:58.677 18712 18735 D WifiLocator: Too many no-location APs. Will not compute a location nor go to the server. hasLocation=0 noLocation=0 cacheMiss=0
+06-30 13:05:58.970 18712 18735 D WifiLocator: Too many no-location APs. Will not compute a location nor go to the server. hasLocation=0 noLocation=0 cacheMiss=0
+06-30 13:05:59.024 19103 19103 I PhoneLab-StatusMonitorBattery: Battery_level: 60
+06-30 13:05:59.032 19103 19103 I PhoneLab-Locks: wake lock released
+06-30 13:05:59.067 19103 19103 I PhoneLab-StatusMonitorSignal: Signal_Strength: -86 asu: 14
+06-30 13:05:59.067 19103 19103 I PhoneLab-Locks: wake lock released
+06-30 13:05:59.274   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:05:59.622 19103 19103 I PhoneLab-StatusMonitorLocation: Location_Latitude: 42.9315681 Longitude: -78.7521491 Accuracy: 2012.0
+06-30 13:05:59.669 19103 19103 I PhoneLab-Locks: wake lock released
+06-30 13:05:59.669 18712 18742 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@4133b9e8
+06-30 13:05:59.743 19103 19103 I PhoneLab-StatusMonitorLocation: Location_Latitude: 42.9315681 Longitude: -78.7521491 Accuracy: 2012.0
+06-30 13:05:59.743 19103 19103 I PhoneLab-Locks: wake lock released
+06-30 13:05:59.774 18712 18735 D WifiLocator: Too many no-location APs. Will not compute a location nor go to the server. hasLocation=0 noLocation=0 cacheMiss=0
+06-30 13:06:00.114   213   216 D dalvikvm: GC_CONCURRENT freed 331K, 61% free 10206K/25991K, paused 1ms+6ms
+06-30 13:06:00.380   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:06:00.552 19359 19453 I Gmail   : MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 1037884, normalSync: true
+06-30 13:06:03.208   342   342 D SAN_SERVICE: *******************************************
+06-30 13:06:03.208   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:06:03.208   342   342 D SAN_SERVICE: *******************************************
+06-30 13:06:08.223   342   342 D SAN_SERVICE: *******************************************
+06-30 13:06:08.223   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:06:08.227   342   342 D SAN_SERVICE: *******************************************
+06-30 13:06:24.181    81 19393 I NuCachedSource2: ERROR_END_OF_STREAM
+06-30 13:06:31.739 19103 19116 I PhoneLab-: Service Running
+06-30 13:06:31.813 19103 19116 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-30 13:06:31.813 19103 19116 I PhoneLab-LoggerService: app_38    30500 1     1064   624   c00f181c 400107b4 S logcat
+06-30 13:06:31.813 19103 19116 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-30 13:06:31.813 19103 19116 I PhoneLab-LoggerService: Logcat process found 2630
+06-30 13:06:31.813 19103 19116 I PhoneLab-LoggerService: Checking Threshold
+06-30 13:06:31.813 19103 19116 I PhoneLab-LoggerService: Starting to rename files
+06-30 13:06:31.817 19103 19116 I PhoneLab-LoggerService: Files found .. 6
+06-30 13:06:31.817 19103 19116 I PhoneLab-LoggerService: File 1 log.out.1
+06-30 13:06:31.821 19103 19116 I PhoneLab-LoggerService: Renamed successfully
+06-30 13:06:38.317 18712 19455 I EventLogService: Aggregate from 1341074198204 (log), 1341074198204 (data)
+06-30 13:06:54.763   142   179 I InputReader: Reconfiguring input devices.  changes=0x00000004
+06-30 13:06:54.763   142   179 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+06-30 13:06:54.802   142   158 I ActivityManager: Config changed: {1.0 310mcc120mnc en_US layoutdir=0 sw320dp w533dp h294dp nrml long land finger -keyb/v/h -nav/h s.91}
+06-30 13:06:54.813 19359 19359 D OpenGLRenderer: Flushing caches (mode 0)
+06-30 13:06:54.927 19359 19359 D webviewglue: nativeDestroy view: 0x223ef38
+06-30 13:06:54.942 19359 19359 D webviewglue: nativeDestroy view: 0x1afc060
+06-30 13:06:54.958 19359 19359 D webviewglue: nativeDestroy view: 0x22c22f0
+06-30 13:06:55.024   213   213 D dalvikvm: GC_FOR_ALLOC freed 413K, 61% free 10143K/25991K, paused 42ms
+06-30 13:06:55.110 19359 19359 D dalvikvm: GC_EXPLICIT freed 1696K, 23% free 11727K/15111K, paused 8ms+17ms
+06-30 13:06:55.192 19359 19359 W PhoneWindow: Previously focused view reported id 2131689606 during save, but can't be found during restore.
+06-30 13:06:55.208   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:06:55.376   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:06:55.817   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:06:56.040 19359 19361 D dalvikvm: GC_CONCURRENT freed 751K, 23% free 11765K/15111K, paused 10ms+11ms
+06-30 13:06:56.098 19359 19359 D webviewglue: nativeDestroy view: 0x1afc060
+06-30 13:06:56.239   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:06:56.309   142   179 I InputReader: Reconfiguring input devices.  changes=0x00000004
+06-30 13:06:56.309   142   179 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+06-30 13:06:56.341   142   158 I ActivityManager: Config changed: {1.0 310mcc120mnc en_US layoutdir=0 sw320dp w320dp h508dp nrml long port finger -keyb/v/h -nav/h s.92}
+06-30 13:06:56.384   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:06:56.434 19359 19359 D OpenGLRenderer: Flushing caches (mode 0)
+06-30 13:06:56.524   321   324 D dalvikvm: GC_CONCURRENT freed 1478K, 25% free 11335K/14919K, paused 21ms+5ms
+06-30 13:06:56.649 19359 19359 D dalvikvm: GC_EXPLICIT freed 879K, 27% free 11135K/15111K, paused 2ms+3ms
+06-30 13:06:56.723   213   213 D dalvikvm: GC_FOR_ALLOC freed 343K, 61% free 10146K/25991K, paused 46ms
+06-30 13:06:56.841   142   970 D dalvikvm: GC_EXPLICIT freed 472K, 37% free 14526K/22727K, paused 3ms+8ms
+06-30 13:06:57.040   321 30933 E AndroidSpellCheckerService: Can't re-insert a dictionary into its pool
+06-30 13:06:57.141   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:06:57.321   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:06:57.462   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:06:57.571   321   324 D dalvikvm: GC_CONCURRENT freed 833K, 25% free 11273K/14919K, paused 2ms+5ms
+06-30 13:06:57.708   321 30933 E AndroidSpellCheckerService: Can't re-insert a dictionary into its pool
+06-30 13:06:58.165   142   179 I InputReader: Reconfiguring input devices.  changes=0x00000004
+06-30 13:06:58.165   142   179 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+06-30 13:06:58.223   142   158 I ActivityManager: Config changed: {1.0 310mcc120mnc en_US layoutdir=0 sw320dp w533dp h294dp nrml long land finger -keyb/v/h -nav/h s.93}
+06-30 13:06:58.251 19359 19359 D OpenGLRenderer: Flushing caches (mode 0)
+06-30 13:06:58.333   213   216 D dalvikvm: GC_CONCURRENT freed 326K, 61% free 10212K/25991K, paused 6ms+6ms
+06-30 13:06:58.348 19359 19361 D dalvikvm: GC_CONCURRENT freed 366K, 25% free 11354K/15111K, paused 3ms+13ms
+06-30 13:06:58.399 19359 19359 D dalvikvm: GC_EXPLICIT freed 345K, 28% free 11008K/15111K, paused 5ms+5ms
+06-30 13:06:58.579   213   213 D dalvikvm: GC_FOR_ALLOC freed 389K, 61% free 10141K/25991K, paused 41ms
+06-30 13:06:58.755   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:07:01.091   142   173 D dalvikvm: GC_EXPLICIT freed 198K, 37% free 14510K/22727K, paused 20ms+7ms
+06-30 13:07:05.938   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:05.938   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:05.938   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:07.364   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:07.364   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:07.364   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:07.415   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:07.415   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:07.415   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:07.598   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:07.598   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:07.598   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:07.833   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:07.833   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:07.833   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:09.841   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:09.841   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:09.841   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:09.895 18712 18713 D dalvikvm: GC_CONCURRENT freed 242K, 5% free 10117K/10567K, paused 8ms+4ms
+06-30 13:07:10.075   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:10.075   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:10.075   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:10.845   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:10.845   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:10.845   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:11.091   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:11.091   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:11.091   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:11.384   142   179 I InputReader: Reconfiguring input devices.  changes=0x00000004
+06-30 13:07:11.384   142   179 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+06-30 13:07:11.559   142   343 W InputManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@41630668
+06-30 13:07:12.059   142   970 D AlarmManagerService: Kernel timezone updated to 240 minutes west of GMT
+06-30 13:07:12.071   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:12.071   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:12.071   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:12.235   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:12.235   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:12.235   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:12.989   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:12.989   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:12.989   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:13.493   142   179 I InputReader: Reconfiguring input devices.  changes=0x00000004
+06-30 13:07:13.493   142   179 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+06-30 13:07:13.524   142   158 I ActivityManager: Config changed: {1.0 310mcc120mnc en_US layoutdir=0 sw320dp w320dp h508dp nrml long port finger -keyb/v/h -nav/h s.94}
+06-30 13:07:13.567 19359 19359 E Gmail   : Unable to correlate recent label: null
+06-30 13:07:13.649 19359 19361 D dalvikvm: GC_CONCURRENT freed 465K, 27% free 11093K/15111K, paused 2ms+5ms
+06-30 13:07:13.735 19359 19359 D OpenGLRenderer: Flushing caches (mode 0)
+06-30 13:07:13.809   213   213 D dalvikvm: GC_FOR_ALLOC freed 373K, 61% free 10152K/25991K, paused 45ms
+06-30 13:07:13.985 19359 19359 D dalvikvm: GC_EXPLICIT freed 145K, 27% free 11175K/15111K, paused 2ms+4ms
+06-30 13:07:14.208   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:07:14.216 19359 19380 D dalvikvm: GC_EXPLICIT freed 127K, 25% free 11353K/15111K, paused 3ms+8ms
+06-30 13:07:14.220   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:07:14.317   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:07:14.681   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:07:14.712   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:14.712   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:14.712   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:14.993   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:14.993   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:14.993   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:15.927 19359 19361 D dalvikvm: GC_CONCURRENT freed 454K, 23% free 11670K/15111K, paused 2ms+9ms
+06-30 13:07:16.036   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:07:16.126   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:07:16.407 19359 19366 I dalvikvm: Jit: resizing JitTable from 8192 to 16384
+06-30 13:07:16.528   142   173 D dalvikvm: GC_EXPLICIT freed 282K, 37% free 14538K/22727K, paused 3ms+12ms
+06-30 13:07:16.786   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:07:16.817   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:07:17.356 19359 19359 V webview : hitTestResult use fallback
+06-30 13:07:19.868   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:19.868   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:19.868   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:20.876   142   179 I InputReader: Reconfiguring input devices.  changes=0x00000004
+06-30 13:07:20.876   142   179 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+06-30 13:07:20.919   142   158 I ActivityManager: Config changed: {1.0 310mcc120mnc en_US layoutdir=0 sw320dp w533dp h294dp nrml long land finger -keyb/v/h -nav/h s.95}
+06-30 13:07:21.001   213   216 D dalvikvm: GC_CONCURRENT freed 336K, 61% free 10212K/25991K, paused 8ms+3ms
+06-30 13:07:21.040 19359 19359 D OpenGLRenderer: Flushing caches (mode 0)
+06-30 13:07:21.075 19359 19359 D webviewglue: nativeDestroy view: 0x1aba2a8
+06-30 13:07:21.091 19359 19359 D webviewglue: nativeDestroy view: 0x1e33ed0
+06-30 13:07:21.126 19359 19359 D webviewglue: nativeDestroy view: 0x20140d8
+06-30 13:07:21.169 19359 19361 D dalvikvm: GC_CONCURRENT freed 542K, 22% free 11887K/15111K, paused 3ms+14ms
+06-30 13:07:21.192   213   213 D dalvikvm: GC_FOR_ALLOC freed 390K, 61% free 10141K/25991K, paused 51ms
+06-30 13:07:21.239 19359 19359 D dalvikvm: GC_EXPLICIT freed 193K, 23% free 11694K/15111K, paused 3ms+6ms
+06-30 13:07:21.278 19359 19359 F libc    : @@@ ABORTING: HEAP MEMORY CORRUPTION IN dlfree
+06-30 13:07:21.278 19359 19359 F libc    : Fatal signal 11 (SIGSEGV) at 0xdeadbaad (code=1)
+06-30 13:07:21.688 10434 10434 I DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+06-30 13:07:21.688 10434 10434 I DEBUG   : Build fingerprint: 'Android/full_crespo4g/crespo4g:4.0.4/IMM76D/eng.ans25.20120619.171206:userdebug/test-keys'
+06-30 13:07:21.688 10434 10434 I DEBUG   : pid: 19359, tid: 19359  >>> com.google.android.gm <<<
+06-30 13:07:21.688 10434 10434 I DEBUG   : signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr deadbaad
+06-30 13:07:21.688 10434 10434 I DEBUG   :  r0 deadbaad  r1 00000001  r2 40000000  r3 00000000
+06-30 13:07:21.688 10434 10434 I DEBUG   :  r4 00000000  r5 00000027  r6 400b2d19  r7 01dfdc17
+06-30 13:07:21.688 10434 10434 I DEBUG   :  r8 01cfb3f0  r9 00000004  10 4cf3ef3e  fp be8286e4
+06-30 13:07:21.688 10434 10434 I DEBUG   :  ip ffffffff  sp be8284a8  lr 40093f41  pc 400906a0  cpsr 60000030
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d0  0000000000000030  d1  00000000000000f1
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d2  0000000000000302  d3  5002f13000000050
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d4  006500690076002e  d5  00490049002e0077
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d6  00ec1fe00070006e  d7  3f8000004e8ec005
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d8  3f00000000000000  d9  000001e00000006e
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d10 0000024d000002bb  d11 0000000000000000
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d12 0000000000000000  d13 0000000000000000
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d14 0000000000000000  d15 0000000000000000
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d16 fba0001940aa0808  d17 3ff0000000000000
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d18 0000000000000000  d19 3ff0000000000000
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d20 4028000000000000  d21 c014000000000000
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d22 3ff0000000000000  d23 0000000000000000
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d24 0000000000000000  d25 3ff0000000000000
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d26 c014000000000000  d27 3ff0000000000000
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d28 0000000000000000  d29 bfe7a21e80000000
+06-30 13:07:21.688 10434 10434 I DEBUG   :  d30 0000000000000000  d31 0000000000000000
+06-30 13:07:21.688 10434 10434 I DEBUG   :  scr 60000017
+06-30 13:07:21.688 10434 10434 I DEBUG   : 
+06-30 13:07:22.239 10434 10434 I DEBUG   :          #00  pc 000176a0  /system/lib/libc.so
+06-30 13:07:22.243 10434 10434 I DEBUG   :          #01  pc 0001352a  /system/lib/libc.so
+06-30 13:07:22.243 10434 10434 I DEBUG   :          #02  pc 00015304  /system/lib/libc.so (dlfree)
+06-30 13:07:22.243 10434 10434 I DEBUG   :          #03  pc 00015ee0  /system/lib/libc.so (free)
+06-30 13:07:22.243 10434 10434 I DEBUG   :          #04  pc 000009ac  /system/lib/libstdc++.so (_ZdlPvRKSt9nothrow_t)
+06-30 13:07:22.247 10434 10434 I DEBUG   :          #05  pc 0000fdfc  /system/lib/libui.so (_ZN7android13GraphicBufferD0Ev)
+06-30 13:07:22.247 10434 10434 I DEBUG   :          #06  pc 000190c2  /system/lib/libgui.so
+06-30 13:07:22.247 10434 10434 I DEBUG   :          #07  pc 0001ccec  /system/lib/libgui.so (_ZN7android20SurfaceTextureClient14freeAllBuffersEv)
+06-30 13:07:22.251 10434 10434 I DEBUG   :          #08  pc 0001cf20  /system/lib/libgui.so (_ZN7android20SurfaceTextureClient10disconnectEi)
+06-30 13:07:22.251 10434 10434 I DEBUG   :          #09  pc 0001ca18  /system/lib/libgui.so (_ZN7android20SurfaceTextureClient18dispatchDisconnectESt9__va_list)
+06-30 13:07:22.251 10434 10434 I DEBUG   :          #10  pc 0001cb38  /system/lib/libgui.so (_ZN7android20SurfaceTextureClient7performEiSt9__va_list)
+06-30 13:07:22.251 10434 10434 I DEBUG   :          #11  pc 0001d55a  /system/lib/libgui.so (_ZN7android20SurfaceTextureClient12hook_performEP13ANativeWindowiz)
+06-30 13:07:22.255 10434 10434 I DEBUG   :          #12  pc 0000c96e  /system/lib/libEGL.so
+06-30 13:07:22.255 10434 10434 I DEBUG   :          #13  pc 0000c9a4  /system/lib/libEGL.so
+06-30 13:07:22.255 10434 10434 I DEBUG   :          #14  pc 0000b21c  /system/lib/libEGL.so
+06-30 13:07:22.255 10434 10434 I DEBUG   :          #15  pc 0000c3c2  /system/lib/libEGL.so (eglDestroySurface)
+06-30 13:07:22.259 10434 10434 I DEBUG   :          #16  pc 000461c4  /system/lib/libandroid_runtime.so
+06-30 13:07:22.259 10434 10434 I DEBUG   :          #17  pc 0001ec30  /system/lib/libdvm.so (dvmPlatformInvoke)
+06-30 13:07:22.259 10434 10434 I DEBUG   :          #18  pc 00058c70  /system/lib/libdvm.so (_Z16dvmCallJNIMethodPKjP6JValuePK6MethodP6Thread)
+06-30 13:07:22.259 10434 10434 I DEBUG   : 
+06-30 13:07:22.259 10434 10434 I DEBUG   : code around pc:
+06-30 13:07:22.259 10434 10434 I DEBUG   : 40090680 4623b15c 2c006824 e026d1fb b12368db  \.#F$h.,..&..h#.
+06-30 13:07:22.259 10434 10434 I DEBUG   : 40090690 21014a17 6011447a 48124798 24002527  .J.!zD.`.G.H'%.$
+06-30 13:07:22.263 10434 10434 I DEBUG   : 400906a0 f7f47005 2106ef60 effcf7f5 460aa901  .p..`..!.......F
+06-30 13:07:22.263 10434 10434 I DEBUG   : 400906b0 f04f2006 94015380 94029303 ebb8f7f5  . O..S..........
+06-30 13:07:22.263 10434 10434 I DEBUG   : 400906c0 4622a905 f7f52002 f7f4ebc2 2106ef4c  .."F. ......L..!
+06-30 13:07:22.263 10434 10434 I DEBUG   : 
+06-30 13:07:22.263 10434 10434 I DEBUG   : code around lr:
+06-30 13:07:22.263 10434 10434 I DEBUG   : 40093f20 41f0e92d 46804c0c 447c2600 68a56824  -..A.L.F.&|D$h.h
+06-30 13:07:22.263 10434 10434 I DEBUG   : 40093f30 e0076867 300cf9b5 dd022b00 47c04628  gh.....0.+..(F.G
+06-30 13:07:22.263 10434 10434 I DEBUG   : 40093f40 35544306 37fff117 6824d5f4 d1ee2c00  .CT5...7..$h.,..
+06-30 13:07:22.263 10434 10434 I DEBUG   : 40093f50 e8bd4630 bf0081f0 000285ba 41f0e92d  0F..........-..A
+06-30 13:07:22.263 10434 10434 I DEBUG   : 40093f60 fb01b086 9004f602 461f4815 4615460c  .........H.F.F.F
+06-30 13:07:22.263 10434 10434 I DEBUG   : 
+06-30 13:07:22.263 10434 10434 I DEBUG   : memory map around addr deadbaad:
+06-30 13:07:22.263 10434 10434 I DEBUG   : be808000-be829000 [stack]
+06-30 13:07:22.263 10434 10434 I DEBUG   : (no map for address)
+06-30 13:07:22.263 10434 10434 I DEBUG   : ffff0000-ffff1000 [vectors]
+06-30 13:07:22.266 10434 10434 I DEBUG   : 
+06-30 13:07:22.266 10434 10434 I DEBUG   : stack:
+06-30 13:07:22.266 10434 10434 I DEBUG   :     be828468  00000001  
+06-30 13:07:22.266 10434 10434 I DEBUG   :     be82846c  be8284a8  [stack]
+06-30 13:07:22.266 10434 10434 I DEBUG   :     be828470  400bc778  /system/lib/libc.so
+06-30 13:07:22.266 10434 10434 I DEBUG   :     be828474  0000000c  
+06-30 13:07:22.266 10434 10434 I DEBUG   :     be828478  400bc70c  /system/lib/libc.so
+06-30 13:07:22.266 10434 10434 I DEBUG   :     be82847c  400c1808  
+06-30 13:07:22.266 10434 10434 I DEBUG   :     be828480  00000000  
+06-30 13:07:22.266 10434 10434 I DEBUG   :     be828484  40093f41  /system/lib/libc.so
+06-30 13:07:22.266 10434 10434 I DEBUG   :     be828488  00000000  
+06-30 13:07:22.266 10434 10434 I DEBUG   :     be82848c  be8284bc  [stack]
+06-30 13:07:22.266 10434 10434 I DEBUG   :     be828490  400b2d19  /system/lib/libc.so
+06-30 13:07:22.266 10434 10434 I DEBUG   :     be828494  01dfdc17  [heap]
+06-30 13:07:22.278 10434 10434 I DEBUG   :     be828498  01cfb3f0  [heap]
+06-30 13:07:22.278 10434 10434 I DEBUG   :     be82849c  400930ad  /system/lib/libc.so
+06-30 13:07:22.278 10434 10434 I DEBUG   :     be8284a0  df0027ad  
+06-30 13:07:22.278 10434 10434 I DEBUG   :     be8284a4  00000000  
+06-30 13:07:22.278 10434 10434 I DEBUG   : #00 be8284a8  be8284a4  [stack]
+06-30 13:07:22.278 10434 10434 I DEBUG   :     be8284ac  00000001  
+06-30 13:07:22.278 10434 10434 I DEBUG   :     be8284b0  400b2d14  /system/lib/libc.so
+06-30 13:07:22.278 10434 10434 I DEBUG   :     be8284b4  00000005  
+06-30 13:07:22.278 10434 10434 I DEBUG   :     be8284b8  be8284d4  [stack]
+06-30 13:07:22.278 10434 10434 I DEBUG   :     be8284bc  fffffbdf  
+06-30 13:07:22.278 10434 10434 I DEBUG   :     be8284c0  be8284d4  [stack]
+06-30 13:07:22.278 10434 10434 I DEBUG   :     be8284c4  be8284d4  [stack]
+06-30 13:07:22.282 10434 10434 I DEBUG   :     be8284c8  400b626c  /system/lib/libc.so
+06-30 13:07:22.282 10434 10434 I DEBUG   :     be8284cc  4008c52f  /system/lib/libc.so
+06-30 13:07:22.282 10434 10434 I DEBUG   : #01 be8284d0  be8284dc  [stack]
+06-30 13:07:22.282 10434 10434 I DEBUG   :     be8284d4  20404040  
+06-30 13:07:22.282 10434 10434 I DEBUG   :     be8284d8  524f4241  
+06-30 13:07:22.282 10434 10434 I DEBUG   :     be8284dc  474e4954  /dev/ashmem/dalvik-heap (deleted)
+06-30 13:07:22.282 10434 10434 I DEBUG   :     be8284e0  4548203a  /dev/ashmem/dalvik-heap (deleted)
+06-30 13:07:22.282 10434 10434 I DEBUG   :     be8284e4  4d205041  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+06-30 13:07:22.282 10434 10434 I DEBUG   :     be8284e8  524f4d45  
+06-30 13:07:22.282 10434 10434 I DEBUG   :     be8284ec  4f432059  /system/lib/libwebcore.so
+06-30 13:07:22.282 10434 10434 I DEBUG   :     be8284f0  50555252  /data/dalvik-cache/system@app@Gmail.apk@classes.dex
+06-30 13:07:22.282 10434 10434 I DEBUG   :     be8284f4  4e4f4954  /system/lib/libstagefright.so
+06-30 13:07:22.282 10434 10434 I DEBUG   :     be8284f8  204e4920  
+06-30 13:07:22.282 10434 10434 I DEBUG   :     be8284fc  72666c64  
+06-30 13:07:22.286 10434 10434 I DEBUG   :     be828500  01006565  
+06-30 13:07:22.286 10434 10434 I DEBUG   :     be828504  c01c6715  
+06-30 13:07:22.286 10434 10434 I DEBUG   :     be828508  0000001c  
+06-30 13:07:22.286 10434 10434 I DEBUG   :     be82850c  be828530  [stack]
+06-30 13:07:22.286 10434 10434 I DEBUG   :     be828510  01fc8488  [heap]
+06-30 13:07:22.286 10434 10434 I DEBUG   :     be828514  400c14d8  
+06-30 13:07:22.286 10434 10434 I DEBUG   :     be828518  01bc7fd0  [heap]
+06-30 13:07:22.286 10434 10434 I DEBUG   :     be82851c  01bc8008  [heap]
+06-30 13:07:22.286 10434 10434 I DEBUG   :     be828520  51ce8fb8  /system/vendor/lib/hw/gralloc.s5pc110.so
+06-30 13:07:22.286 10434 10434 I DEBUG   :     be828524  400c1498  
+06-30 13:07:22.286 10434 10434 I DEBUG   :     be828528  4cf3ef3e  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+06-30 13:07:22.286 10434 10434 I DEBUG   :     be82852c  4008da1d  /system/lib/libc.so
+06-30 13:07:22.290 10434 10434 I DEBUG   :     be828530  00000005  
+06-30 13:07:22.290 10434 10434 I DEBUG   :     be828534  00000202  
+06-30 13:07:22.290 10434 10434 I DEBUG   :     be828538  52e56000  
+06-30 13:07:22.290 10434 10434 I DEBUG   :     be82853c  00000000  
+06-30 13:07:22.290 10434 10434 I DEBUG   :     be828540  00998000  
+06-30 13:07:22.290 10434 10434 I DEBUG   :     be828544  00000000  
+06-30 13:07:22.290 10434 10434 I DEBUG   :     be828548  1201420b  
+06-30 13:07:22.290 10434 10434 I DEBUG   :     be82854c  0000003c  
+06-30 13:07:22.290 10434 10434 I DEBUG   :     be828550  01c6c2a0  [heap]
+06-30 13:07:22.294 10434 10434 I DEBUG   :     be828554  400c14b8  
+06-30 13:07:22.294 10434 10434 I DEBUG   :     be828558  0229a8d0  [heap]
+06-30 13:07:22.294 10434 10434 I DEBUG   :     be82855c  0229a8e8  [heap]
+06-30 13:07:22.294 10434 10434 I DEBUG   :     be828560  019e1b94  [heap]
+06-30 13:07:22.294 10434 10434 I DEBUG   :     be828564  400c1498  
+06-30 13:07:22.294 10434 10434 I DEBUG   :     be828568  4cf3ef3e  /data/dalvik-cache/system@framework@framework.jar@classes.dex
+06-30 13:07:22.294 10434 10434 I DEBUG   :     be82856c  4008da1d  /system/lib/libc.so
+06-30 13:07:22.294 10434 10434 I DEBUG   :     be828570  400c1354  
+06-30 13:07:22.294 10434 10434 I DEBUG   :     be828574  00000000  
+06-30 13:07:22.298 10434 10434 I DEBUG   :     be828578  00004c16  
+06-30 13:07:22.298 10434 10434 I DEBUG   :     be82857c  51cea460  /system/vendor/lib/hw/gralloc.s5pc110.so
+06-30 13:07:22.298 10434 10434 I DEBUG   :     be828580  00100000  
+06-30 13:07:22.298 10434 10434 I DEBUG   :     be828584  4008b7d4  /system/lib/libc.so
+06-30 13:07:22.298 10434 10434 I DEBUG   :     be828588  ffffffff  
+06-30 13:07:22.298 10434 10434 I DEBUG   :     be82858c  00000001  
+06-30 13:07:22.298 10434 10434 I DEBUG   :     be828590  0000001c  
+06-30 13:07:22.298 10434 10434 I DEBUG   :     be828594  51ce8278  /system/vendor/lib/hw/gralloc.s5pc110.so
+06-30 13:07:22.298 10434 10434 I DEBUG   :     be828598  0229a8d0  [heap]
+06-30 13:07:22.298 10434 10434 I DEBUG   :     be82859c  0229a8d0  [heap]
+06-30 13:07:22.298 10434 10434 I DEBUG   :     be8285a0  0000001c  
+06-30 13:07:22.298 10434 10434 I DEBUG   :     be8285a4  51ce8278  /system/vendor/lib/hw/gralloc.s5pc110.so
+06-30 13:07:22.298 10434 10434 I DEBUG   :     be8285a8  51cea460  /system/vendor/lib/hw/gralloc.s5pc110.so
+06-30 13:07:22.298 10434 10434 I DEBUG   :     be8285ac  4008db9b  /system/lib/libc.so
+06-30 13:07:22.302 10434 10434 I DEBUG   :     be8285b0  01c8fb04  [heap]
+06-30 13:07:22.302 10434 10434 I DEBUG   :     be8285b4  019e1b80  [heap]
+06-30 13:07:22.302 10434 10434 I DEBUG   :     be8285b8  01c8faf0  [heap]
+06-30 13:07:22.302 10434 10434 I DEBUG   :     be8285bc  400c14d0  
+06-30 13:07:22.302 10434 10434 I DEBUG   :     be8285c0  00000038  
+06-30 13:07:22.302 10434 10434 I DEBUG   :     be8285c4  400c1474  
+06-30 13:07:22.302 10434 10434 I DEBUG   :     be8285c8  01ad6e18  [heap]
+06-30 13:07:22.302 10434 10434 I DEBUG   :     be8285cc  01d8c9c4  [heap]
+06-30 13:07:22.302 10434 10434 I DEBUG   :     be8285d0  01d8c948  [heap]
+06-30 13:07:22.302 10434 10434 I DEBUG   :     be8285d4  d38b8921  
+06-30 13:07:22.302 10434 10434 I DEBUG   :     be8285d8  01ad6df0  [heap]
+06-30 13:07:22.302 10434 10434 I DEBUG   :     be8285dc  01ad6e90  [heap]
+06-30 13:07:22.302 10434 10434 I DEBUG   :     be8285e0  000000a0  
+06-30 13:07:22.306 10434 10434 I DEBUG   :     be8285e4  4008e309  /system/lib/libc.so
+06-30 13:07:25.954   142   173 W WindowManager: App freeze timeout expired.
+06-30 13:07:25.954   142   173 W WindowManager: Force clearing freeze: AppWindowToken{4172aac8 token=Token{41775308 ActivityRecord{415212c8 com.google.android.gm/.GmailActivity}}}
+06-30 13:07:27.497   142   164 I BootReceiver: Copying /data/tombstones/tombstone_01 to DropBox (SYSTEM_TOMBSTONE)
+06-30 13:07:27.556   142   320 I ActivityManager: Process com.google.android.gm (pid 19359) has died.
+06-30 13:07:27.556   142   320 W ActivityManager: Force removing ActivityRecord{415212c8 com.google.android.gm/.GmailActivity}: app died, no saved state
+06-30 13:07:27.571   142   178 W InputDispatcher: channel '414f1fd8 com.google.android.gm/com.google.android.gm.GmailActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x8
+06-30 13:07:27.571   142   178 E InputDispatcher: channel '414f1fd8 com.google.android.gm/com.google.android.gm.GmailActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+06-30 13:07:27.595    79    79 D Zygote  : Process 19359 terminated by signal (11)
+06-30 13:07:27.688   142   357 I WindowManager: WIN DEATH: Window{4165cb78 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+06-30 13:07:27.708   142   178 W InputDispatcher: Attempted to unregister already unregistered input channel '414f1fd8 com.google.android.gm/com.google.android.gm.GmailActivity (server)'
+06-30 13:07:27.708   142   178 I WindowManager: WINDOW DIED Window{414f1fd8 com.google.android.gm/com.google.android.gm.GmailActivity paused=false}
+06-30 13:07:27.716   142   178 I InputDispatcher: Dropped event because the current application is not responding and the user has started interacting with a different application.
+06-30 13:07:27.716   142   178 I InputDispatcher: Dropped event because the current application is not responding and the user has started interacting with a different application.
+06-30 13:07:27.716   142   178 I InputDispatcher: Dropped event because the current application is not responding and the user has started interacting with a different application.
+06-30 13:07:27.716   142   178 I InputDispatcher: Dropped event because the current application is not responding and the user has started interacting with a different application.
+06-30 13:07:27.723   142   971 W WindowManager: Failed looking up window
+06-30 13:07:27.723   142   971 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@414cf350 does not exist
+06-30 13:07:27.723   142   971 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7163)
+06-30 13:07:27.723   142   971 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:7154)
+06-30 13:07:27.723   142   971 W WindowManager: 	at com.android.server.wm.WindowState$DeathRecipient.binderDied(WindowState.java:1545)
+06-30 13:07:27.723   142   971 W WindowManager: 	at android.os.BinderProxy.sendDeathNotice(Binder.java:417)
+06-30 13:07:27.723   142   971 W WindowManager: 	at dalvik.system.NativeStart.run(Native Method)
+06-30 13:07:27.723   142   971 I WindowManager: WIN DEATH: null
+06-30 13:07:27.880   142   320 I ActivityManager: Start proc com.google.android.gm for activity com.google.android.gm/.GmailActivity: pid=19479 uid=10019 gids={3003, 1015}
+06-30 13:07:28.071   142   144 D dalvikvm: GC_CONCURRENT freed 1000K, 35% free 14899K/22727K, paused 24ms+20ms
+06-30 13:07:28.138 19479 19479 I ActivityThread: Pub gmail-ls: com.google.android.gm.provider.MailProvider
+06-30 13:07:28.149 19479 19479 I ActivityThread: Pub com.google.android.gmail.SuggestionProvider: com.google.android.gm.SuggestionsProvider
+06-30 13:07:28.153 19479 19479 I ActivityThread: Pub com.google.android.gm: com.google.android.gm.provider.PublicContentProvider
+06-30 13:07:28.259 19479 19481 D dalvikvm: GC_CONCURRENT freed 250K, 4% free 9252K/9607K, paused 3ms+2ms
+06-30 13:07:28.446   142   158 I Process : Sending signal. PID: 19479 SIG: 3
+06-30 13:07:28.446 19479 19483 I dalvikvm: threadid=3: reacting to signal 3
+06-30 13:07:28.489 19479 19483 I dalvikvm: Wrote stack traces to '/data/anr/traces.txt'
+06-30 13:07:29.098   142   158 I Process : Sending signal. PID: 19479 SIG: 3
+06-30 13:07:29.102 19479 19483 I dalvikvm: threadid=3: reacting to signal 3
+06-30 13:07:29.161 19479 19483 I dalvikvm: Wrote stack traces to '/data/anr/traces.txt'
+06-30 13:07:29.485   142   158 I Process : Sending signal. PID: 19479 SIG: 3
+06-30 13:07:29.485 19479 19483 I dalvikvm: threadid=3: reacting to signal 3
+06-30 13:07:29.493 19479 19483 I dalvikvm: Wrote stack traces to '/data/anr/traces.txt'
+06-30 13:07:29.864   142   173 D dalvikvm: GC_EXPLICIT freed 405K, 36% free 14569K/22727K, paused 4ms+9ms
+06-30 13:07:29.911 19479 19481 D dalvikvm: GC_CONCURRENT freed 218K, 3% free 9573K/9863K, paused 2ms+3ms
+06-30 13:07:29.946   142   158 I Process : Sending signal. PID: 19479 SIG: 3
+06-30 13:07:29.946 19479 19483 I dalvikvm: threadid=3: reacting to signal 3
+06-30 13:07:29.962 19479 19483 I dalvikvm: Wrote stack traces to '/data/anr/traces.txt'
+06-30 13:07:30.016 19479 19481 D dalvikvm: GC_CONCURRENT freed 331K, 4% free 9780K/10183K, paused 2ms+4ms
+06-30 13:07:30.098 19479 19481 D dalvikvm: GC_CONCURRENT freed 366K, 5% free 9937K/10375K, paused 1ms+3ms
+06-30 13:07:30.181 19479 19481 D dalvikvm: GC_CONCURRENT freed 333K, 4% free 10162K/10567K, paused 2ms+2ms
+06-30 13:07:30.302 19479 19481 D dalvikvm: GC_CONCURRENT freed 823K, 9% free 9814K/10759K, paused 2ms+2ms
+06-30 13:07:30.325 19479 19496 I Gmail   : calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+06-30 13:07:30.337 19479 19496 I Gmail   : calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+06-30 13:07:30.368 19479 19496 I Gmail   : calculateUnknownSyncRationalesAndPurgeInBackground: running
+06-30 13:07:30.372 19479 19496 I Gmail   : calculateUnknownSyncRationalesAndPurgeInBackground: running
+06-30 13:07:30.446   142   158 I Process : Sending signal. PID: 19479 SIG: 3
+06-30 13:07:30.446 19479 19483 I dalvikvm: threadid=3: reacting to signal 3
+06-30 13:07:30.454 19479 19483 I dalvikvm: Wrote stack traces to '/data/anr/traces.txt'
+06-30 13:07:30.501   142   142 D dalvikvm: GC_EXPLICIT freed 41K, 36% free 14551K/22727K, paused 7ms+10ms
+06-30 13:07:30.657 19479 19481 D dalvikvm: GC_CONCURRENT freed 565K, 10% free 9705K/10759K, paused 2ms+4ms
+06-30 13:07:30.712   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:07:30.735   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:07:30.747 19479 19479 D libEGL  : loaded /system/lib/egl/libGLES_android.so
+06-30 13:07:30.751 19479 19479 D libEGL  : loaded /vendor/lib/egl/libEGL_POWERVR_SGX540_120.so
+06-30 13:07:30.759 19479 19479 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so
+06-30 13:07:30.763 19479 19479 D libEGL  : loaded /vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so
+06-30 13:07:30.817 19479 19479 D OpenGLRenderer: Enabling debug mode 0
+06-30 13:07:30.907   142   173 I ActivityManager: Displayed com.google.android.gm/.GmailActivity: +3s81ms
+06-30 13:07:31.157 19479 19507 I Gmail   : MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 1037884, normalSync: true
+06-30 13:07:31.333 19479 19481 D dalvikvm: GC_CONCURRENT freed 274K, 9% free 9892K/10759K, paused 4ms+4ms
+06-30 13:07:31.727   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:07:31.833   142   423 W InputManagerService: Got RemoteException sending setActive(false) notification to pid 19359 uid 10019
+06-30 13:07:32.501   142   178 I ActivityManager: START {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher} from pid 142
+06-30 13:07:32.598   142   179 I InputReader: Reconfiguring input devices.  changes=0x00000004
+06-30 13:07:32.598   142   179 I InputReader: Device reconfigured: id=7, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+06-30 13:07:32.606   142   423 I ActivityManager: Config changed: {1.0 310mcc120mnc en_US layoutdir=0 sw320dp w320dp h508dp nrml long port finger -keyb/v/h -nav/h s.96}
+06-30 13:07:32.684 19479 19479 D OpenGLRenderer: Flushing caches (mode 0)
+06-30 13:07:32.704 19479 19479 D OpenGLRenderer: Flushing caches (mode 0)
+06-30 13:07:32.817   213   213 D dalvikvm: GC_FOR_ALLOC freed 355K, 61% free 10159K/25991K, paused 43ms
+06-30 13:07:32.954   142   423 W InputManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@41963cb0 (uid=10019 pid=19479)
+06-30 13:07:32.958   142   178 I ActivityManager: START {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher} from pid 142
+06-30 13:07:32.981   142   178 I ActivityManager: START {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher} from pid 142
+06-30 13:07:33.087 19479 19479 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:07:33.641 19479 19481 D dalvikvm: GC_CONCURRENT freed 366K, 8% free 9958K/10759K, paused 32ms+20ms
+06-30 13:07:35.122   142   173 D dalvikvm: GC_EXPLICIT freed 342K, 37% free 14533K/22727K, paused 4ms+14ms
+06-30 13:07:35.407 19479 19507 D dalvikvm: GC_EXPLICIT freed 194K, 8% free 9964K/10759K, paused 5ms+4ms
+06-30 13:07:35.431 19479 19507 I Gmail   : MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 1037896, normalSync: true
+06-30 13:07:35.618   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:35.618   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:35.622   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:36.309   372   373 D dalvikvm: GC_CONCURRENT freed 567K, 44% free 11361K/19975K, paused 17ms+6ms
+06-30 13:07:36.575   142   179 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 249.022ms.  keyCode=4, scanCode=158
+06-30 13:07:44.704   142   179 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+06-30 13:07:45.473   142   179 I InputReader: Dropping virtual key from device cypress-touchkey because virtual keys are temporarily disabled for the next 235.809ms.  keyCode=4, scanCode=158
+06-30 13:07:45.657   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:45.657   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:45.657   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:45.704   142   179 I InputReader: Dropping key up from device cypress-touchkey because the key was not down.  keyCode=4, scanCode=158
+06-30 13:07:45.751   213   216 D dalvikvm: GC_CONCURRENT freed 337K, 61% free 10208K/25991K, paused 2ms+5ms
+06-30 13:07:45.872 19479 19517 I Gmail   : MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 1037896, normalSync: true
+06-30 13:07:45.903   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:45.903   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:45.903   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:46.696   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:46.696   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:07:46.696   342   342 D SAN_SERVICE: *******************************************
+06-30 13:07:51.145   142   178 I ActivityManager: START {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher} from pid 142
+06-30 13:07:52.899   142   320 I ActivityManager: START {cmp=com.pandora.android/.activity.NowPlaying bnds=[0,119][480,215]} from pid -1
+06-30 13:07:52.911   142   320 W ActivityManager: startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { cmp=com.pandora.android/.activity.NowPlaying bnds=[0,119][480,215] }
+06-30 13:07:52.985   142   357 W KeyguardViewMediator: verifyUnlock called when not externally disabled
+06-30 13:07:53.110   372   372 D OpenGLRenderer: Flushing caches (mode 1)
+06-30 13:07:53.325   372   372 D OpenGLRenderer: Flushing caches (mode 0)
+06-30 13:07:53.493   142   158 I Process : Sending signal. PID: 17926 SIG: 3
+06-30 13:07:53.493 17926 17930 I dalvikvm: threadid=3: reacting to signal 3
+06-30 13:07:53.567 17926 17930 I dalvikvm: Wrote stack traces to '/data/anr/traces.txt'
+06-30 13:07:53.626   213   213 V PhoneStatusBar: setLightsOn(true)
+06-30 13:07:53.716   142   173 I ActivityManager: Displayed com.pandora.android/.activity.NowPlaying: +725ms
+06-30 13:07:54.548   142   343 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41378f98com.pandora.android.activity.MusicPlayerFocusHelperA8$1@41323998
+06-30 13:07:54.657 18775 18778 D dalvikvm: GC_CONCURRENT freed 447K, 6% free 10178K/10759K, paused 24ms+5ms
+06-30 13:07:54.677   213   213 D dalvikvm: GC_FOR_ALLOC freed 554K, 62% free 10022K/25991K, paused 42ms
+06-30 13:07:54.770   213   216 D dalvikvm: GC_CONCURRENT freed 388K, 62% free 10132K/25991K, paused 2ms+4ms
+06-30 13:07:55.630 17926 17964 D dalvikvm: GC_FOR_ALLOC freed 733K, 19% free 14711K/18055K, paused 37ms
+06-30 13:07:55.665 17926 17926 D webviewglue: nativeDestroy view: 0x1b9d058
+06-30 13:07:55.665 17926 17926 D webviewglue: nativeDestroy view: 0x1bb1068
+06-30 13:07:57.626    81   121 D AudioHardware: AudioHardware pcm playback is going to standby.
+06-30 13:07:57.626    81   121 D AudioHardware: closePcmOut_l() mPcmOpenCnt: 1
+06-30 13:07:57.790   142   170 I power   : *** set_screen_state 0
+06-30 13:07:57.829    78   118 D SurfaceFlinger: About to give-up screen, flinger = 0x153918
+06-30 13:07:57.966   360   402 D NfcService: NFC-C OFF, disconnect
+06-30 13:07:58.024   142   144 D dalvikvm: GC_CONCURRENT freed 589K, 33% free 15245K/22727K, paused 2ms+9ms
+06-30 13:07:58.032   142   174 V TransportControlView: Create TCV com.android.internal.widget.TransportControlView@414f1798
+06-30 13:07:58.075   213   213 D PhoneStatusBar: disable: < expand icons alerts ticker system_info back home RECENT* clock >
+06-30 13:07:58.095    81   121 D AudioHardware: AudioHardware pcm playback is exiting standby.
+06-30 13:07:58.095    81   121 D AudioHardware: openPcmOut_l() mPcmOpenCnt: 0
+06-30 13:07:58.106   213   213 D PhoneStatusBar: disable: < expand icons alerts ticker system_info BACK* HOME* RECENT CLOCK* >
+06-30 13:08:01.134   142   174 I power   : *** set_screen_state 1
+06-30 13:08:01.239   142   174 I WindowManager: Lock screen displayed!
+06-30 13:08:01.270    81   121 D AudioHardware: AudioHardware pcm playback is going to standby.
+06-30 13:08:01.270    81   121 D AudioHardware: closePcmOut_l() mPcmOpenCnt: 1
+06-30 13:08:01.360    78   118 D SurfaceFlinger: Screen about to return, flinger = 0x153918
+06-30 13:08:03.665   142   170 I power   : *** set_screen_state 0
+06-30 13:08:03.700    78   118 D SurfaceFlinger: About to give-up screen, flinger = 0x153918
+06-30 13:08:03.763   142   174 V TransportControlView: Create TCV com.android.internal.widget.TransportControlView@4162e178
+06-30 13:08:05.187 17926 17928 D dalvikvm: GC_CONCURRENT freed 3366K, 28% free 13115K/18055K, paused 34ms+3ms
+06-30 13:08:39.043 18712 18845 W GTalkService: onGotBatchPresence but idle, screenIsOn false
+06-30 13:08:41.675   342   342 D SAN_SERVICE: *******************************************
+06-30 13:08:41.675   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:08:41.675   342   342 D SAN_SERVICE: *******************************************
+06-30 13:08:41.922   342   342 D SAN_SERVICE: *******************************************
+06-30 13:08:41.922   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:08:41.922   342   342 D SAN_SERVICE: *******************************************
+06-30 13:11:43.273 19040 19042 D dalvikvm: GC_CONCURRENT freed 429K, 5% free 10571K/11079K, paused 2ms+3ms
+06-30 13:14:58.500 19103 19103 I PhoneLab-Locks: wake lock acquired
+06-30 13:14:58.531 19103 19542 I PhoneLab-PeriodicCheckService: User info is synched
+06-30 13:14:58.531 19103 19542 I PhoneLab-PeriodicCheckService: Logger Service is running
+06-30 13:14:58.535 19103 19542 I PhoneLab-PeriodicCheckService: Rescheduling periodic checking...
+06-30 13:14:58.535 19103 19542 I PhoneLab-Locks: wake lock released
+06-30 13:15:57.929 19103 19103 I PhoneLab-Locks: wake lock acquired
+06-30 13:15:57.941 19103 19103 I PhoneLab-StatusMonitor: Status Monitoring is started
+06-30 13:15:57.984 19103 19106 D dalvikvm: GC_CONCURRENT freed 455K, 6% free 9206K/9735K, paused 2ms+2ms
+06-30 13:15:58.015 19103 19103 I PhoneLab-StatusMonitor: Value: 10 - unit: min
+06-30 13:15:58.015 19103 19103 I PhoneLab-StatusMonitor: Running interval: 600000
+06-30 13:15:58.019 19103 19103 I PhoneLab-StatusMonitor: Rescheduling status monitoring...
+06-30 13:15:58.023 19103 19103 I PhoneLab-Locks: wake lock released
+06-30 13:15:58.027 19103 19103 I PhoneLab-StatusMonitorLocation: Learning Location
+06-30 13:15:58.027 19103 19103 I PhoneLab-Locks: wake lock acquired
+06-30 13:15:58.031 19103 19103 I PhoneLab-Locks: wake lock acquired
+06-30 13:15:58.031 18712 18742 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@4133b9e8
+06-30 13:15:58.035 19103 19103 I PhoneLab-StatusMonitorLocation: Learning Signal Strgth
+06-30 13:15:58.035 19103 19103 I PhoneLab-Locks: wake lock acquired
+06-30 13:15:58.043 18712 18742 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@4133b9e8
+06-30 13:15:58.043 19103 19103 I PhoneLab-StatusMonitorBattery: Battery_level: 58
+06-30 13:15:58.046 18712 18735 D WifiLocator: Too many no-location APs. Will not compute a location nor go to the server. hasLocation=0 noLocation=0 cacheMiss=0
+06-30 13:15:58.046 19103 19103 I PhoneLab-Locks: wake lock released
+06-30 13:15:58.050 19103 19103 I PhoneLab-StatusMonitorSignal: Signal_Strength: -76 asu: 19
+06-30 13:15:58.050 19103 19103 I PhoneLab-Locks: wake lock released
+06-30 13:15:58.058 18712 18735 D WifiLocator: Too many no-location APs. Will not compute a location nor go to the server. hasLocation=0 noLocation=0 cacheMiss=0
+06-30 13:15:58.066 19103 19103 I PhoneLab-StatusMonitorLocation: Location_Latitude: 42.9271658 Longitude: -78.7379594 Accuracy: 2012.0
+06-30 13:15:58.066 18712 18742 D androidNetworkLocationListeners: Still have listener com.google.android.location.internal.client.NetworkLocationClient$1@4133b9e8
+06-30 13:15:58.070 19103 19103 I PhoneLab-Locks: wake lock released
+06-30 13:15:58.078 18712 18735 D WifiLocator: Too many no-location APs. Will not compute a location nor go to the server. hasLocation=0 noLocation=0 cacheMiss=0
+06-30 13:15:58.382   342   342 D SAN_SERVICE: *******************************************
+06-30 13:15:58.382   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:15:58.382   342   342 D SAN_SERVICE: *******************************************
+06-30 13:15:59.199   342   342 D SAN_SERVICE: *******************************************
+06-30 13:15:59.199   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:15:59.199   342   342 D SAN_SERVICE: *******************************************
+06-30 13:16:01.007   142   174 I power   : *** set_screen_state 1
+06-30 13:16:01.066   142   174 I WindowManager: Lock screen displayed!
+06-30 13:16:01.242    78   118 D SurfaceFlinger: Screen about to return, flinger = 0x153918
+06-30 13:16:02.816   213   213 D PhoneStatusBar: disable: < expand icons alerts ticker system_info BACK HOME recent* CLOCK >
+06-30 13:16:02.820   360  1284 D NfcService: NFC-C ON
+06-30 13:16:02.832   142   357 W InputManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@4163b578
+06-30 13:16:02.836    81   121 D AudioHardware: AudioHardware pcm playback is exiting standby.
+06-30 13:16:02.836    81   121 D AudioHardware: openPcmOut_l() mPcmOpenCnt: 0
+06-30 13:16:02.843   213   213 D PhoneStatusBar: disable: < expand icons alerts ticker system_info back* home* recent clock* >
+06-30 13:16:02.949   342   342 D SAN_SERVICE: *******************************************
+06-30 13:16:02.949   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:16:02.949   342   342 D SAN_SERVICE: *******************************************
+06-30 13:16:03.804 19087 19089 D dalvikvm: GC_CONCURRENT freed 322K, 6% free 9714K/10311K, paused 2ms+3ms
+06-30 13:16:04.570   142   178 I ActivityManager: START {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher} from pid 142
+06-30 13:16:05.090 19103 19116 I PhoneLab-: Service Running
+06-30 13:16:05.195 19103 19116 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-30 13:16:05.195 19103 19116 I PhoneLab-LoggerService: app_38    30500 1     1064   628   c00f181c 400107b4 S logcat
+06-30 13:16:05.199 19103 19116 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-30 13:16:05.199 19103 19116 I PhoneLab-LoggerService: Logcat process found 2630
+06-30 13:16:05.199 19103 19116 I PhoneLab-LoggerService: Checking Threshold
+06-30 13:16:05.199 19103 19116 I PhoneLab-LoggerService: Starting to rename files
+06-30 13:16:05.215 19103 19116 I PhoneLab-LoggerService: Files found .. 7
+06-30 13:16:05.215 19103 19116 I PhoneLab-LoggerService: File 1 log.out.1
+06-30 13:16:05.230 19103 19116 I PhoneLab-LoggerService: Renamed successfully
+06-30 13:16:05.234 19103 19116 I PhoneLab-: Service Running
+06-30 13:16:05.261 19103 19106 D dalvikvm: GC_CONCURRENT freed 454K, 6% free 9152K/9735K, paused 2ms+3ms
+06-30 13:16:05.308 19103 19116 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-30 13:16:05.308 19103 19116 I PhoneLab-LoggerService: app_38    30500 1     1064   628   c00f181c 400107b4 S logcat
+06-30 13:16:05.308 19103 19116 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-30 13:16:05.308 19103 19116 I PhoneLab-LoggerService: Logcat process found 2630
+06-30 13:16:05.308 19103 19116 I PhoneLab-LoggerService: Checking Threshold
+06-30 13:16:05.312 19103 19116 I PhoneLab-LoggerService: Starting to rename files
+06-30 13:16:05.312 19103 19116 I PhoneLab-LoggerService: Files found .. 7
+06-30 13:16:05.320 19103 19116 I PhoneLab-: Service Running
+06-30 13:16:05.359 19103 19116 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-30 13:16:05.359 19103 19116 I PhoneLab-LoggerService: app_38    30500 1     1064   628   c00f181c 400107b4 S logcat
+06-30 13:16:05.359 19103 19116 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-30 13:16:05.359 19103 19116 I PhoneLab-LoggerService: Logcat process found 2630
+06-30 13:16:05.359 19103 19116 I PhoneLab-LoggerService: Checking Threshold
+06-30 13:16:05.359 19103 19116 I PhoneLab-LoggerService: Starting to rename files
+06-30 13:16:05.363 19103 19116 I PhoneLab-LoggerService: Files found .. 7
+06-30 13:16:05.363 19103 19116 I PhoneLab-: Service Running
+06-30 13:16:05.410 19103 19116 I PhoneLab-LoggerService: app_38    2630  1     924    488   c00f181c 400107b4 S logcat
+06-30 13:16:05.410 19103 19116 I PhoneLab-LoggerService: app_38    30500 1     1064   628   c00f181c 400107b4 S logcat
+06-30 13:16:05.410 19103 19116 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-30 13:16:05.414 19103 19116 I PhoneLab-LoggerService: Logcat process found 2630
+06-30 13:16:05.414 19103 19116 I PhoneLab-LoggerService: Checking Threshold
+06-30 13:16:05.414 19103 19116 I PhoneLab-LoggerService: Starting to rename files
+06-30 13:16:05.414 19103 19116 I PhoneLab-LoggerService: Files found .. 7
+06-30 13:16:06.011    81   121 D AudioHardware: AudioHardware pcm playback is going to standby.
+06-30 13:16:06.011    81   121 D AudioHardware: closePcmOut_l() mPcmOpenCnt: 1
+06-30 13:16:06.390   142   144 D dalvikvm: GC_CONCURRENT freed 1366K, 33% free 15326K/22727K, paused 3ms+12ms
+06-30 13:16:07.058   142   491 W InputManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@41756e80
+06-30 13:16:07.187   342   342 D SAN_SERVICE: *******************************************
+06-30 13:16:07.191   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:16:07.191   342   342 D SAN_SERVICE: *******************************************
+06-30 13:16:07.898   342   342 D SAN_SERVICE: *******************************************
+06-30 13:16:07.898   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:16:07.898   342   342 D SAN_SERVICE: *******************************************
+06-30 13:16:08.047   142   423 W InputManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@416a6420
+06-30 13:16:11.105   142   168 V WiredAccessoryObserver: Headset UEVENT: {SUBSYSTEM=switch, SWITCH_STATE=0, DEVPATH=/devices/virtual/switch/h2w, SEQNUM=35132, ACTION=change, SWITCH_NAME=h2w}
+06-30 13:16:11.105   142   168 V WiredAccessoryObserver: newState = 0, headsetState = 0,mHeadsetState = 2
+06-30 13:16:11.160   142   159 I ActivityManager: Start proc com.android.music for broadcast com.android.music/.MediaButtonIntentReceiver: pid=19553 uid=10033 gids={3003, 1015}
+06-30 13:16:11.164 19553 19553 I dalvikvm: Turning on JNI app bug workarounds for target SDK version 9...
+06-30 13:16:11.246   142  4767 I ActivityManager: Start proc com.google.android.music:main for broadcast com.google.android.music/.MediaButtonIntentReceiver: pid=19566 uid=10069 gids={3003, 1015}
+06-30 13:16:11.254   142   154 I AudioService:   Remote Control   registerMediaButtonIntent() for PendingIntent{41646058: PendingIntentRecord{416f3698 com.android.music broadcastIntent}}
+06-30 13:16:11.316    79    79 D dalvikvm: GC_EXPLICIT freed 37K, 4% free 9031K/9347K, paused 1ms+6ms
+06-30 13:16:11.382    79    79 D dalvikvm: GC_EXPLICIT freed <1K, 4% free 9031K/9347K, paused 2ms+5ms
+06-30 13:16:11.429    79    79 D dalvikvm: GC_EXPLICIT freed <1K, 4% free 9031K/9347K, paused 4ms+2ms
+06-30 13:16:11.554 19566 19568 D dalvikvm: GC_CONCURRENT freed 179K, 3% free 9357K/9607K, paused 2ms+2ms
+06-30 13:16:11.648 19566 19566 I ActivityThread: Pub com.google.android.music.MusicContent: com.google.android.music.store.MusicContentProvider
+06-30 13:16:11.715 19566 19566 I MusicStore: Database version: 37
+06-30 13:16:11.746 19566 19566 I AsyncCursor1:1: Initialized for content://com.google.android.music.MusicContent/playlists, proj:_id#name, sel: 'null', args: null, order: null
+06-30 13:16:11.781   142   860 W ActivityManager: Permission denied: checkComponentPermission() owningUid=10069
+06-30 13:16:11.785   142   860 W ActivityManager: Permission Denial: broadcasting Intent { act=com.android.music.queuechanged flg=0x10 (has extras) } from com.android.music (pid=19553, uid=10033) is not exported from uid 10069 due to receiver com.google.android.music/com.google.android.music.dl.MusicCommunicator
+06-30 13:16:11.785   142   159 W ActivityManager: Permission denied: checkComponentPermission() owningUid=10069
+06-30 13:16:11.785   142   159 W ActivityManager: Permission Denial: broadcasting Intent { act=com.android.music.queuechanged flg=0x10 (has extras) } from com.android.music (pid=19553, uid=10033) is not exported from uid 10069 due to receiver com.google.android.music/com.google.android.music.store.RecentItemsManager$Receiver
+06-30 13:16:11.800 19566 19568 D dalvikvm: GC_CONCURRENT freed 198K, 3% free 9639K/9927K, paused 1ms+3ms
+06-30 13:16:11.945   142   153 D dalvikvm: GC_EXPLICIT freed 966K, 37% free 14545K/22727K, paused 4ms+7ms
+06-30 13:16:12.011 18712 18713 D dalvikvm: GC_CONCURRENT freed 467K, 6% free 10092K/10695K, paused 2ms+5ms
+06-30 13:16:12.050 19566 19583 D MusicStore: Disabled WAL
+06-30 13:16:12.070 19566 19566 I MusicDL : DownloadManager binded via: Intent { cmp=com.google.android.music/.dl.DownloadManager$DownloadManagerService }
+06-30 13:16:12.070 19566 19583 D MusicStore: Database opened
+06-30 13:16:12.086 19566 19566 I NetworkMonitor: Network Type: 0 isConnected: true
+06-30 13:16:12.093 19566 19566 I NetworkMonitor: Network changed: type(0) name(mobile) isConnected : true noData: false bitrate:192
+06-30 13:16:12.093 19566 19566 I MusicDL : Creating a new DownloadExecutor (was originally null)
+06-30 13:16:12.136   142   158 V WiredAccessoryObserver: Intent.ACTION_HEADSET_PLUG: state: 0 name: h2w mic: 0
+06-30 13:16:12.152 19566 19588 I MusicCache: Cached file or directory "/mnt/sdcard/Android/data/com.google.android.music/cache/music" does not exist.
+06-30 13:16:12.164 19566 19588 I MusicCache: Cached file or directory "/data/data/com.google.android.music/cache/music" does not exist.
+06-30 13:16:12.238 19566 19582 I KeepOnScheduler: Not doing predictive downloading because KeepOnScheduler is disabled
+06-30 13:16:12.238 19566 19582 I MusicDL : The download queue is empty.
+06-30 13:16:12.254   142   320 I AudioService:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@413de758com.google.android.music.MusicPlaybackService$8@4135bbd0
+06-30 13:16:12.289   142   159 I ActivityManager: Start proc com.android.musicfx for broadcast com.android.musicfx/.ControlPanelReceiver: pid=19592 uid=10034 gids={3003, 3002}
+06-30 13:16:12.300 19566 19566 I MusicDL : DownloadManager.onDestroy
+06-30 13:16:12.359 19592 19592 V MusicFXControlPanelReceiver: onReceive
+06-30 13:16:12.359 19592 19592 V MusicFXControlPanelReceiver: Action: android.media.action.CLOSE_AUDIO_EFFECT_CONTROL_SESSION
+06-30 13:16:12.359 19592 19592 V MusicFXControlPanelReceiver: Package name: com.google.android.music
+06-30 13:16:12.359 19592 19592 V MusicFXControlPanelReceiver: Audio session: 1556
+06-30 13:16:12.359 19592 19592 V MusicFXControlPanelEffect: closeSession(android.app.ReceiverRestrictedContext@41321560, com.google.android.music, 1556)
+06-30 13:16:12.398   342   342 D SAN_SERVICE: *******************************************
+06-30 13:16:12.398   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:16:12.398   342   342 D SAN_SERVICE: *******************************************
+06-30 13:16:12.937   342   342 D SAN_SERVICE: *******************************************
+06-30 13:16:12.937   342   342 D SAN_SERVICE: DM App Phone Service State - 0
+06-30 13:16:12.937   342   342 D SAN_SERVICE: *******************************************
+06-30 13:16:13.398   213   213 D PhoneStatusBar: disable: < EXPAND* icons alerts ticker system_info back home recent clock >
+06-30 13:16:14.386    81   121 D AudioHardware: AudioStreamOutALSA::setParameters() routing=2
+06-30 13:16:14.386   142   174 D ShutdownThread: Notifying thread to start shutdown longPressBehavior=1
+06-30 13:16:14.398    81   121 D AudioHardware: AudioHardware pcm playback is exiting standby.
+06-30 13:16:14.398    81   121 D AudioHardware: openPcmOut_l() mPcmOpenCnt: 0
+06-30 13:16:14.511   213   213 D PhoneStatusBar: disable: < expand* icons alerts ticker system_info back home recent clock >
+06-30 13:16:15.215   142 19608 I ShutdownThread: Sending shutdown broadcast...
+06-30 13:16:15.215   142   158 W SyncManager: Writing sync state before shutdown...
+06-30 13:16:15.367   142 19608 I ShutdownThread: Shutting down activity manager...
+06-30 13:16:15.707   142   144 D dalvikvm: JIT code cache reset in 4 ms (1048568 bytes 53/0)
+06-30 13:16:15.746   142   144 D dalvikvm: GC_CONCURRENT freed 940K, 35% free 14959K/22727K, paused 3ms+13ms
+06-30 13:16:15.781   142   158 W ActivityManager: finishReceiver called but no pending broadcasts
+06-30 13:16:15.816   142 19608 I UsageStats: Writing usage stats before shutdown...
+06-30 13:16:15.875   142 19608 W BatteryStats: Writing battery stats before shutdown...
+06-30 13:16:15.992   142 19608 W ShutdownThread: Turning off radio...
+06-30 13:16:16.054   142 19608 I ShutdownThread: Waiting for Bluetooth and Radio...
+06-30 13:16:16.769   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:16.785   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:16.832   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:16.882   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:16.894   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:16.894   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:16.910   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:16.910   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:16.925   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:16.941   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:16.953   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:16.968   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.000   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.015   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.031   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.031   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.047   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.078   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.093   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.093   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.109   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.125   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.125   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.144   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.160   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.175   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.191   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.211   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.226   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.242   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.273   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.289   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.293   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.320   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.340   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.355   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.371   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.386   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.406   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.422   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.437   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.453   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.468   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.484   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.484   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.500   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.511   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.527   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.527   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.543   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.558   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.570   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.586   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.601   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.617   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.629   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.648   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.660   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.675   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.691   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.703   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.718   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.750   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.765   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.777   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.793   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.808   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.824   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.840   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.855   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.867   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.882   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.898   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.914   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.929   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.941   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.957   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.972   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:17.988   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.000   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.015   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.058   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.074   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.086   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.101   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.117   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.132   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.144   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.160   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.175   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.191   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.222   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.238   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.254    81   121 D AudioHardware: AudioHardware pcm playback is going to standby.
+06-30 13:16:18.254    81   121 D AudioHardware: closePcmOut_l() mPcmOpenCnt: 1
+06-30 13:16:18.297   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.355   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.402   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.414   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.445   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.461   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.488   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.504   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.519   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.535   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.550   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.562   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.582   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.593   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.609   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.625   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.640   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.656   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.668   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.683   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.699   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.730   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.742   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.757   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.773   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.789   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.804   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.832   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.847   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.863   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.879   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.890   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.906   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.922   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.937   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.953   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.968   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.984   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.996   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:18.996   142   199 D ConnectivityService: ConnectivityChange for mobile: DISCONNECTED/DISCONNECTED
+06-30 13:16:18.996   142   199 D ConnectivityService: Attempting to switch to WIFI
+06-30 13:16:19.011   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.027   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.039   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.039   142   199 D ConnectivityService: Attempting to switch to WIMAX
+06-30 13:16:19.039   142   199 D ConnectivityService: Attempting to switch to BLUETOOTH_TETHER
+06-30 13:16:19.054   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.054   142   199 D NetUtils: android_net_utils_resetConnections in env=0x19b1900 clazz=0x1b00001 iface=rmnet0 mask=0x3
+06-30 13:16:19.054   142   199 E ConnectivityService: Exception trying to remove a route: java.lang.IllegalStateException: Unable to communicate with native dameon to add routes - com.android.server.NativeDaemonConnectorException: Cmd {interface route remove rmnet0 default 0.0.0.0 0 21.47.82.1} failed with code 400 : {Failed to remove route from default table (No such process)}
+06-30 13:16:19.054   142   199 D ConnectivityService: resetConnections(rmnet0, 3)
+06-30 13:16:19.070   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.086   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.086   142 19608 I ShutdownThread: Radio and Bluetooth shutdown complete.
+06-30 13:16:19.086   142 19608 I ShutdownThread: Shutting down MountService
+06-30 13:16:19.086   142 19608 I MountService: Shutting down
+06-30 13:16:19.093   142   206 I PackageManager: Updating external media status from mounted to unmounted
+06-30 13:16:19.097   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.129   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.144   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.148   342   346 D dalvikvm: GC_CONCURRENT freed 874K, 9% free 12010K/13063K, paused 3ms+4ms
+06-30 13:16:19.148 18712 18735 D NetworkLocator: null cell state delivered
+06-30 13:16:19.160   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.175   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.175   342   342 D SAN_SERVICE: *******************************************
+06-30 13:16:19.175   342   342 D SAN_SERVICE: DM App Phone Service State - 3
+06-30 13:16:19.175   342   342 D SAN_SERVICE: *******************************************
+06-30 13:16:19.191   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.195   142   159 I ActivityManager: Start proc com.google.android.partnersetup for broadcast com.google.android.partnersetup/.PhoneStateReceiver: pid=19625 uid=10022 gids={3003}
+06-30 13:16:19.207   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.222   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.238   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.297   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.328   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.340 18712 18735 D NetworkLocator: null cell state delivered
+06-30 13:16:19.340 19625 19625 I ActivityThread: Pub com.google.android.partnersetup.rlzprovider: com.google.android.partnersetup.RlzProvider
+06-30 13:16:19.351 19625 19625 I ActivityThread: Pub com.google.android.partnersetup.rlzappprovider: com.google.android.partnersetup.RlzAppProvider
+06-30 13:16:19.367 18712 18735 D NetworkLocator: null cell state delivered
+06-30 13:16:19.375    72   100 D VoldCmdListener: asec list
+06-30 13:16:19.379   142   162 I PackageManager: No secure containers on sdcard
+06-30 13:16:19.437   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.468   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.527   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.601   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.644   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.660   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.660 18712 18843 W Smack/Packet: notify conn break (IOEx), close connection
+06-30 13:16:19.664    72   100 D VoldCmdListener: storage users /mnt/sdcard
+06-30 13:16:19.675   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.730   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.746   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.757   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.773   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.789   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.832 18712 18843 I qtaguid : Failed write_ctrl(u 81) res=-1 errno=22
+06-30 13:16:19.843 18712 18843 I qtaguid : Untagging socket 81 failed errno=-22
+06-30 13:16:19.847 18712 18843 W NetworkManagementSocketTagger: untagSocket(81) failed with errno -22
+06-30 13:16:19.847   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.863   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.875   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.906   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.922   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.929   142   206 W ActivityManager: Killing processes unmount media at adjustment 8
+06-30 13:16:19.929   142   206 W ActivityManager: Killing ProcessRecord{41787e50 19245:com.google.android.apps.maps/10061} (adj 8): unmount media
+06-30 13:16:19.929    72   100 D VoldCmdListener: storage users /mnt/sdcard
+06-30 13:16:19.933   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.949   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.965   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.980   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:19.992   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:20.023   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:20.050   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:20.066   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:20.082   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:20.097   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:20.117   142   206 I MountService: Retrying to kill storage users again
+06-30 13:16:20.121   142   519 W ActivityManager: Scheduling restart of crashed service com.google.android.apps.maps/com.google.googlenav.prefetch.android.PrefetcherService in 5000ms
+06-30 13:16:20.136   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:20.148    72   100 D VoldCmdListener: storage users /mnt/sdcard
+06-30 13:16:20.281   142   199 D ConnectivityService: handleInetConditionChange: no active default network - ignore
+06-30 13:16:20.379   142   206 W ActivityManager: Killing processes unmount media at adjustment 0
+06-30 13:16:20.382    72   100 D VoldCmdListener: storage users /mnt/sdcard
+06-30 13:16:20.554   142   206 I MountService: Retrying to kill storage users again
+06-30 13:16:20.586    72   100 D VoldCmdListener: storage users /mnt/sdcard
+06-30 13:16:20.750   142   206 W ActivityManager: Killing processes unmount media at adjustment 0
+06-30 13:16:20.754    72   100 D VoldCmdListener: storage users /mnt/sdcard
+06-30 13:16:20.914   142   206 I MountService: Retrying to kill storage users again
+06-30 13:16:20.945    72   100 D VoldCmdListener: storage users /mnt/sdcard
+06-30 13:16:21.113   142   206 W ActivityManager: Killing processes unmount media at adjustment 0
+06-30 13:16:21.117    72   100 D VoldCmdListener: storage users /mnt/sdcard
+06-30 13:16:21.281   142   206 I MountService: Retrying to kill storage users again
+06-30 13:16:21.312    72   100 D VoldCmdListener: storage users /mnt/sdcard
+06-30 13:16:21.480   142   206 W ActivityManager: Killing processes unmount media at adjustment 0
+06-30 13:16:21.480    72   100 D VoldCmdListener: storage users /mnt/sdcard
+06-30 13:16:21.640   142   206 I MountService: Failed to unmount media inspite of 4 retries. Forcibly killing processes now
+06-30 13:16:21.746   142   206 D dalvikvm: GC_EXPLICIT freed 1411K, 37% free 14344K/22727K, paused 3ms+7ms
+06-30 13:16:21.746   142   206 I PackageManager: Updating external media status from unmounted to unmounted
+06-30 13:16:21.746    72   100 D VoldCmdListener: volume unmount /mnt/sdcard force
+06-30 13:16:21.746    72   100 D Vold    : Volume sdcard state changing 4 (Mounted) -> 5 (Unmounting)
+06-30 13:16:21.746   142   208 D MountService: sendStorageIntent Intent { act=android.intent.action.MEDIA_EJECT dat=file:///mnt/sdcard (has extras) }
+06-30 13:16:21.754   142   159 W ActivityManager: Permission denied: checkComponentPermission() owningUid=10069
+06-30 13:16:21.754   142   159 W ActivityManager: Permission Denial: broadcasting Intent { act=com.android.music.queuechanged flg=0x10 (has extras) } from com.android.music (pid=19553, uid=10033) is not exported from uid 10069 due to receiver com.google.android.music/com.google.android.music.dl.MusicCommunicator
+06-30 13:16:21.754   142   159 W ActivityManager: Permission denied: checkComponentPermission() owningUid=10069
+06-30 13:16:21.754   142   159 W ActivityManager: Permission Denial: broadcasting Intent { act=com.android.music.queuechanged flg=0x10 (has extras) } from com.android.music (pid=19553, uid=10033) is not exported from uid 10069 due to receiver com.google.android.music/com.google.android.music.store.RecentItemsManager$Receiver
+06-30 13:16:22.242   142   203 D Tethering: MasterInitialState.processMessage what=3
+06-30 13:16:22.300   142   519 I ActivityManager: Start proc com.google.android.gallery3d for broadcast com.google.android.gallery3d/com.google.android.picasasync.ConnectivityReceiver: pid=19638 uid=10017 gids={3003, 1015}
+06-30 13:16:22.343   372   372 I Launcher: setLoadOnResume
+06-30 13:16:22.347   360   360 I RegisteredComponentCache: ComponentInfo: ResolveInfo{41321c10 com.android.apps.tag.TagViewer p=0 o=0 m=0x108000}, techs: android.nfc.tech.Ndef, 
+06-30 13:16:22.449   142   158 D PackageManager: generateServicesMap(android.accounts.AccountAuthenticator): 4 services unchanged
+06-30 13:16:22.687   142   158 D PackageManager: generateServicesMap(android.content.SyncAdapter): 12 services unchanged
+06-30 13:16:22.847   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:22.910   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:22.925   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:22.941   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:22.957   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:22.972   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:22.984   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:22.992    72   100 I Vold    : /mnt/secure/staging/.android_secure sucessfully unmounted
+06-30 13:16:22.992    72   100 I Vold    : /mnt/secure/asec sucessfully unmounted
+06-30 13:16:22.992    72   100 W Vold    : Failed to unmount /mnt/secure/staging (Device or resource busy, retries 9, action 0)
+06-30 13:16:23.015   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.031   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.062   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.093   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.129    72   100 E ProcessKiller: Process logcat (2630) has open file /mnt/secure/staging/.log/1341076565219.log
+06-30 13:16:23.140   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.144 19638 19638 I ActivityThread: Pub com.google.android.gallery3d.GooglePhotoProvider: com.google.android.picasasync.PicasaContentProvider
+06-30 13:16:23.187   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.215   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.230   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.261   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.277   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.324   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.371   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.386 19638 19640 D dalvikvm: GC_CONCURRENT freed 418K, 6% free 9118K/9607K, paused 2ms+4ms
+06-30 13:16:23.402   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.418   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.429   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.445   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.465   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.496   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.507   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.535 19638 19638 I ActivityThread: Pub com.google.android.gallery3d.provider: com.android.gallery3d.provider.GalleryProvider
+06-30 13:16:23.539   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.547    72   100 E ProcessKiller: Process logcat (30500) has open file /mnt/secure/staging/.log/log.out
+06-30 13:16:23.617   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.660 19638 19640 D dalvikvm: GC_CONCURRENT freed 399K, 5% free 9196K/9671K, paused 3ms+14ms
+06-30 13:16:23.679   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.687 19638 19638 D UploadsManager: load newPhotoTracker: null
+06-30 13:16:23.687 19638 19638 D UploadsManager: load all accounts: null
+06-30 13:16:23.687 19638 19638 D UploadsManager: load all account-album pairs: null
+06-30 13:16:23.691 19638 19638 V PicasaContentProvider: querySettings: defaults: {sync_on_wifi_only=1, auto_upload_account_type=null, sync_on_battery=1, sync_picasa_on_wifi_only=1, auto_upload_enabled=0, video_upload_wifi_only=1, sync_on_roaming=0, auto_upload_account_name=null}
+06-30 13:16:23.695   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.699 19638 19638 D UploadsManager:    settings not changed
+06-30 13:16:23.707   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.738   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.785   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.828   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.882 19638 19651 D PicasaSync: sync account database
+06-30 13:16:23.922   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.937   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.968   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:23.996   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.011   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.015   372   373 D dalvikvm: GC_CONCURRENT freed 721K, 44% free 11348K/19975K, paused 2ms+13ms
+06-30 13:16:24.027   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.043   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.058   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.058   142   423 I ActivityManager: Start proc com.google.android.apps.uploader for broadcast com.google.android.apps.uploader/.ConnectivityBroadcastReceiver: pid=19654 uid=10031 gids={3003}
+06-30 13:16:24.090   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.090 19654 19654 I dalvikvm: Turning on JNI app bug workarounds for target SDK version 11...
+06-30 13:16:24.172 19654 19654 I ActivityThread: Pub com.google.android.apps.uploader: com.google.android.apps.uploader.UploadsContentProvider
+06-30 13:16:24.175 19654 19654 I ActivityThread: Pub com.google.photos.provider.Album: com.google.android.apps.uploader.clients.picasa.AlbumProvider
+06-30 13:16:24.300 19654 19654 D MediaUploader: UploaderApplication.onCreate
+06-30 13:16:24.379   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.398 19654 19654 D MediaUploader: nonWifiLimit=20971520, default=20971520
+06-30 13:16:24.406 19654 19654 I MediaUploader: No need to wake up
+06-30 13:16:24.472   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.480 19638 19651 D PicasaSync: accounts in DB=1
+06-30 13:16:24.484 19638 19651 V PicasaContentProvider: querySettings: defaults: {sync_on_wifi_only=1, auto_upload_account_type=null, sync_on_battery=1, sync_picasa_on_wifi_only=1, auto_upload_enabled=0, video_upload_wifi_only=1, sync_on_roaming=0, auto_upload_account_name=null}
+06-30 13:16:24.484 19638 19651 D PicasaSyncManager: active network: null
+06-30 13:16:24.484 19638 19651 D PicasaSyncManager: background data: true
+06-30 13:16:24.504   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.519   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.519   142  5110 I ActivityManager: Start proc com.android.vending for broadcast com.android.vending/com.google.android.finsky.receivers.PackageMonitorReceiver$RegisteredReceiver: pid=19670 uid=10048 gids={3003, 1015}
+06-30 13:16:24.535   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.550   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.550    72   100 W Vold    : Failed to unmount /mnt/secure/staging (Device or resource busy, retries 8, action 0)
+06-30 13:16:24.566   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.582   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.597   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.613   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.625   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.644   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.660   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.703   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.750   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.781   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.816    72   100 E ProcessKiller: Process logcat (2630) has open file /mnt/secure/staging/.log/1341076565219.log
+06-30 13:16:24.828   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.828 19670 19670 I ActivityThread: Pub com.google.android.finsky.QSBSuggestionsProvider: com.google.android.finsky.providers.QSBSuggestionsProvider
+06-30 13:16:24.843   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.847 19670 19670 I ActivityThread: Pub com.google.android.finsky.AppIconProvider: com.google.android.finsky.providers.AppIconProvider
+06-30 13:16:24.851 19670 19670 I ActivityThread: Pub com.google.android.finsky.RecentSuggestionsProvider: com.google.android.finsky.providers.RecentSuggestionsProvider
+06-30 13:16:24.875   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.906   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.937   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.953   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.980   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:24.996   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.011   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.031   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.043   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.058   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.062 19670 19672 D dalvikvm: GC_CONCURRENT freed 221K, 4% free 9303K/9607K, paused 2ms+10ms
+06-30 13:16:25.074   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.090   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.105   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.121   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.136   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.140    72   100 E ProcessKiller: Process logcat (30500) has open file /mnt/secure/staging/.log/log.out
+06-30 13:16:25.152   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.211   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.230   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.242   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.257   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.273   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.289   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.304   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.320   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.336   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.351   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.371   142   159 I ActivityManager: Start proc com.google.android.apps.maps for service com.google.android.apps.maps/com.google.googlenav.prefetch.android.PrefetcherService: pid=19695 uid=10061 gids={3003, 1015}
+06-30 13:16:25.375 19670 19672 D dalvikvm: GC_CONCURRENT freed 402K, 5% free 9454K/9927K, paused 11ms+4ms
+06-30 13:16:25.386 19670 19670 D Finsky  : [1] DailyHygiene.goMakeHygieneIfDirty: No need to run daily hygiene.
+06-30 13:16:25.394   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.457   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.472   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.504   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.535   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.562   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.593   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.629   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.656   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.672   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.687   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.703   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.707   142   142 I ActivityManager: Start proc com.android.voicedialer for broadcast com.android.voicedialer/.VoiceDialerReceiver: pid=19714 uid=10051 gids={3002}
+06-30 13:16:25.718   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.734   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.750   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.761   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.777   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.793 19695 19700 D dalvikvm: GC_CONCURRENT freed 161K, 3% free 9374K/9607K, paused 2ms+13ms
+06-30 13:16:25.793   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.808   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.828   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.840   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.855   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.871   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.890   142   519 I ActivityManager: Start proc com.google.android.googlequicksearchbox for broadcast com.google.android.googlequicksearchbox/.SourceUpdateReceiver: pid=19727 uid=10023 gids={3003}
+06-30 13:16:25.894   142   519 I ActivityManager: No longer want com.google.android.talk (pid 19125): hidden #16
+06-30 13:16:25.902   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.918   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.933   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.949   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.976   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:25.984 19695 19695 I ActivityThread: Pub com.google.android.maps.LayerInfoProvider: com.google.googlenav.layer.LayerInfoProvider
+06-30 13:16:25.992   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.011   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.027   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.043   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.054   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.070   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.086   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.101 19695 19695 I ActivityThread: Pub com.google.android.maps.TrafficAppWidgetProvider: com.google.googlenav.appwidget.traffic.TrafficAppWidgetProvider
+06-30 13:16:26.101   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.117   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.125 19727 19727 I ActivityThread: Pub com.google.android.googlequicksearchbox.shortcuts: com.google.android.googlequicksearchbox.WebHistoryProvider
+06-30 13:16:26.129 19727 19727 I ActivityThread: Pub com.google.android.googlequicksearchbox.google: com.google.android.googlequicksearchbox.google.GoogleSuggestionProvider
+06-30 13:16:26.132   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.136   372   372 I Launcher: setLoadOnResume
+06-30 13:16:26.140 19695 19695 I ActivityThread: Pub com.google.android.maps.LocalActivePlacesProvider: com.google.googlenav.provider.LocalActivePlacesProvider
+06-30 13:16:26.140 19695 19695 I ActivityThread: Pub com.google.android.maps.StarredItemProvider: com.google.googlenav.provider.StarredItemProvider
+06-30 13:16:26.140    72   100 W Vold    : Failed to unmount /mnt/secure/staging (Device or resource busy, retries 7, action 0)
+06-30 13:16:26.148   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.164   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.179   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.195   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.211   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.226   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.242   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.257   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.269   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.285   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.289   372   372 I Launcher: setLoadOnResume
+06-30 13:16:26.300   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.308   142   860 I ActivityManager: Start proc com.android.quicksearchbox for broadcast com.android.quicksearchbox/.CorporaUpdateReceiver: pid=19742 uid=10042 gids={3003}
+06-30 13:16:26.312   142   860 I ActivityManager: No longer want com.android.deskclock (pid 19299): hidden #16
+06-30 13:16:26.316   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.336   372   372 I Launcher: setLoadOnResume
+06-30 13:16:26.355   142   178 I InputDispatcher: Dropped event because input dispatch is disabled.
+06-30 13:16:26.488   372   372 I Launcher: setLoadOnResume
+06-30 13:16:26.504   142   158 I Process : Sending signal. PID: 372 SIG: 3
+06-30 13:16:26.504   372   377 I dalvikvm: threadid=3: reacting to signal 3
+06-30 13:16:26.543 19695 19700 D dalvikvm: GC_CONCURRENT freed 167K, 3% free 9717K/9991K, paused 3ms+3ms
+06-30 13:16:26.586 19742 19742 I ActivityThread: Pub com.android.quicksearchbox.google: com.android.quicksearchbox.google.GoogleSuggestionProvider
+06-30 13:16:26.601    72   100 E ProcessKiller: Process logcat (2630) has open file /mnt/secure/staging/.log/1341076565219.log
+06-30 13:16:26.617 19742 19742 I ActivityThread: Pub com.android.quicksearchbox.shortcuts: com.android.quicksearchbox.ShortcutsProvider
+06-30 13:16:26.754   372   377 I dalvikvm: Wrote stack traces to '/data/anr/traces.txt'
+06-30 13:16:26.785   372   372 I Launcher: setLoadOnResume
+06-30 13:16:26.797   142   423 I ActivityManager: No longer want com.android.providers.calendar (pid 19311): hidden #16
+06-30 13:16:26.937   372   372 I Launcher: setLoadOnResume
+06-30 13:16:26.937   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.004   142   158 I Process : Sending signal. PID: 372 SIG: 3
+06-30 13:16:27.004   372   377 I dalvikvm: threadid=3: reacting to signal 3
+06-30 13:16:27.031 19695 19695 I ActivityThread: Pub com.google.android.maps.LocalSuggestionProvider: com.google.googlenav.provider.LocalSuggestionProvider
+06-30 13:16:27.031 19695 19695 I ActivityThread: Pub com.google.android.maps.SearchHistoryProvider: com.google.googlenav.provider.SearchHistoryProvider
+06-30 13:16:27.035 19695 19695 I ActivityThread: Pub com.google.android.maps.NavigationAvailabilityProvider: com.google.googlenav.provider.NavigationAvailabilityProvider
+06-30 13:16:27.035 19695 19695 I ActivityThread: Pub com.google.android.maps.SuggestionProvider: com.google.googlenav.suggest.android.SuggestContentProvider
+06-30 13:16:27.043    72   100 E ProcessKiller: Process logcat (30500) has open file /mnt/secure/staging/.log/log.out
+06-30 13:16:27.062 19670 19672 D dalvikvm: GC_CONCURRENT freed 428K, 6% free 9492K/10055K, paused 6ms+1030ms
+06-30 13:16:27.093   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.129   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.144   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.172   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.187   372   377 I dalvikvm: Wrote stack traces to '/data/anr/traces.txt'
+06-30 13:16:27.199   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.226   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.265   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.433 19695 19700 D dalvikvm: GC_CONCURRENT freed 240K, 4% free 9916K/10247K, paused 1ms+9ms
+06-30 13:16:27.457   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.531   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.566   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.586   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.605   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.644   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.656   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.656   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.672   372   372 I Launcher: setLoadOnResume
+06-30 13:16:27.757 19670 19670 D Finsky  : [1] 1.onPostExecute: Attempt recovery of content://downloads/my_downloads/1802 200
+06-30 13:16:27.761 19670 19670 D Finsky  : [1] 1.onPostExecute: Releasing content://downloads/my_downloads/1802 200
+06-30 13:16:27.824 19638 19651 D PicasaSyncManager: battery info: false
+06-30 13:16:28.043    72   100 W Vold    : Failed to unmount /mnt/secure/staging (Device or resource busy, retries 6, action 0)
+06-30 13:16:28.121    72   100 E ProcessKiller: Process logcat (2630) has open file /mnt/secure/staging/.log/1341076565219.log
+06-30 13:16:28.129 19670 19672 D dalvikvm: GC_CONCURRENT freed 358K, 5% free 9627K/10055K, paused 3ms+4ms
+06-30 13:16:28.242    72   100 E ProcessKiller: Process logcat (30500) has open file /mnt/secure/staging/.log/log.out
+06-30 13:16:28.308 19670 19670 D Finsky  : [1] 2.run: Loaded library for account: [J3KLysvtQI3y2S1rgUj_S2DNb1s]
+06-30 13:16:28.308 19670 19670 D Finsky  : [1] 2.run: Finished loading 1 libraries.
+06-30 13:16:29.242    72   100 W Vold    : Failed to unmount /mnt/secure/staging (Device or resource busy, retries 5, action 0)
+06-30 13:16:29.386    72   100 E ProcessKiller: Process logcat (2630) has open file /mnt/secure/staging/.log/1341076565219.log
+06-30 13:16:29.488    72   100 E ProcessKiller: Process logcat (30500) has open file /mnt/secure/staging/.log/log.out
+06-30 13:16:30.488    72   100 W Vold    : Failed to unmount /mnt/secure/staging (Device or resource busy, retries 4, action 0)
+06-30 13:16:30.605    72   100 E ProcessKiller: Process logcat (2630) has open file /mnt/secure/staging/.log/1341076565219.log
+06-30 13:16:30.707    72   100 E ProcessKiller: Process logcat (30500) has open file /mnt/secure/staging/.log/log.out
+06-30 13:16:31.711    72   100 W Vold    : Failed to unmount /mnt/secure/staging (Device or resource busy, retries 3, action 0)
+06-30 13:16:31.777 19103 19116 I PhoneLab-: Service Running
+06-30 13:16:31.832    72   100 E ProcessKiller: Process logcat (2630) has open file /mnt/secure/staging/.log/1341076565219.log
+06-30 13:16:31.949    72   100 E ProcessKiller: Process logcat (30500) has open file /mnt/secure/staging/.log/log.out
+06-30 13:16:32.023 19103 19116 I PhoneLab-LoggerService: app_38    2630  1     924    484   c00f181c 400107b4 S logcat
+06-30 13:16:32.023 19103 19116 I PhoneLab-LoggerService: app_38    30500 1     1064   624   c00f181c 400107b4 S logcat
+06-30 13:16:32.023 19103 19116 I PhoneLab-LoggerService: Logcat pid from database 2630
+06-30 13:16:32.023 19103 19116 I PhoneLab-LoggerService: Logcat process found 2630
+06-30 13:16:32.023 19103 19116 I PhoneLab-LoggerService: Checking Threshold
+06-30 13:16:32.949    72   100 W Vold    : Failed to unmount /mnt/secure/staging (Device or resource busy, retries 2, action 1)
+06-30 13:16:33.054    72   100 E ProcessKiller: Process logcat (2630) has open file /mnt/secure/staging/.log/1341076565219.log

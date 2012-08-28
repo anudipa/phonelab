@@ -1,0 +1,427 @@
+D/PicasaSyncManager( 2922): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/PicasaSyncManager( 2922): background data: true
+D/Tethering(  167): MasterInitialState.processMessage what=3
+I/GTalkService/c(  696): [GTalkConnection@1094706800] connect: acct=1, state=CONNECTING
+D/Tethering(  167): MasterInitialState.processMessage what=3
+I/GTalkService/c(  696): [GTalkConnection@1094800744] connect: acct=2, state=CONNECTING
+I/MediaUploader( 2939): No need to wake up
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+I/MediaUploader( 2939): No need to wake up
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+I/MediaUploader( 2939): No need to wake up
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm(  167): GC_EXPLICIT freed 297K, 13% free 14054K/16071K, paused 6ms+5ms
+D/PicasaSyncManager( 2922): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/PicasaSyncManager( 2922): background data: true
+D/dalvikvm(  696): GC_CONCURRENT freed 412K, 6% free 10724K/11399K, paused 6ms+3ms
+D/ConnectivityService(  167): handleInetConditionHoldEnd: net=1, condition=100, published condition=0
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm( 2962): GC_CONCURRENT freed 417K, 6% free 9345K/9863K, paused 3ms+2ms
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+I/PhoneLab-PeriodicCheckService(  605): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  605): Post URI is:: http://107.22.187.240/devicestatus/
+I/PhoneLab-PeriodicCheckService(  605): Heartbeat message successfully sent : 
+I/PhoneLab-PeriodicCheckService(  605): Rescheduling periodic checking...
+I/PhoneLab-Locks(  605): wake lock released
+D/dalvikvm( 2621): GC_CONCURRENT freed 715K, 14% free 10418K/11975K, paused 17ms+2ms
+I/PhoneLab-(  605): Service Running
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1408  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 37
+I/PhoneLab-LoggerService(  605): File 24 log.out.1
+I/PhoneLab-LoggerService(  605): Renamed successfully
+I/PhoneLab-(  605): Service Running
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1408  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 37
+I/PhoneLab-Locks(  605): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  605): User info is synched
+I/PhoneLab-PeriodicCheckService(  605): Logger Service is running
+V/PhoneLab-PeriodicCheckService(  605): Sleeping for  264000
+I/PhoneLab-(  605): Service Running
+D/dalvikvm(  605): GC_CONCURRENT freed 371K, 6% free 9185K/9735K, paused 2ms+2ms
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1408  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 37
+I/power   (  167): *** set_screen_state 1
+I/WindowManager(  167): Lock screen displayed!
+D/SurfaceFlinger(   78): Screen about to return, flinger = 0x7c9918
+D/NfcService(  419): NFC-C ON
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info BACK HOME recent* CLOCK >
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+W/InputManagerService(  167): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@413b5a28
+W/IInputConnectionWrapper(  435): showStatusIcon on inactive InputConnection
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info back* home* recent clock* >
+W/InputManagerService(  167): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@416240c8 (uid=10003 pid=1608)
+D/dalvikvm(  696): GC_CONCURRENT freed 440K, 6% free 10740K/11399K, paused 5ms+6ms
+D/dalvikvm( 2744): GC_CONCURRENT freed 430K, 6% free 9501K/10055K, paused 2ms+2ms
+D/dalvikvm(  435): GC_CONCURRENT freed 807K, 8% free 11972K/12935K, paused 8ms+6ms
+D/dalvikvm(  435): GC_FOR_ALLOC freed 129K, 7% free 12126K/12935K, paused 47ms
+D/dalvikvm(  435): GC_FOR_ALLOC freed 306K, 8% free 12248K/13191K, paused 24ms
+I/dalvikvm-heap(  435): Grow heap (frag case) to 12.908MB for 925072-byte allocation
+D/dalvikvm(  435): GC_FOR_ALLOC freed 1K, 8% free 13149K/14151K, paused 23ms
+I/ActivityManager(  167): Process com.google.android.apps.maps:FriendService (pid 2642) has died.
+D/dalvikvm(  435): GC_FOR_ALLOC freed 914K, 13% free 12349K/14151K, paused 25ms
+D/dalvikvm(  435): GC_CONCURRENT freed 9K, 6% free 13436K/14151K, paused 24ms+12ms
+I/ActivityManager(  167): START {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.calendar/.AllInOneActivity} from pid 435
+D/dalvikvm(  435): GC_FOR_ALLOC freed 1371K, 14% free 12643K/14599K, paused 52ms
+D/dalvikvm(  167): GC_CONCURRENT freed 1148K, 12% free 14166K/16071K, paused 21ms+6ms
+I/dalvikvm-heap(  435): Grow heap (frag case) to 13.639MB for 1286224-byte allocation
+D/dalvikvm(  435): GC_FOR_ALLOC freed 4K, 13% free 13895K/15879K, paused 26ms
+I/PhoneLab-(  605): Service Running
+I/ActivityManager(  167): Process com.google.android.gm (pid 1052) has died.
+D/dalvikvm(  435): GC_CONCURRENT freed <1K, 13% free 13897K/15879K, paused 2ms+4ms
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1408  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 37
+I/ActivityManager(  167): Start proc com.android.calendar for activity com.android.calendar/.AllInOneActivity: pid=3037 uid=10005 gids={3003}
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm(  435): GC_FOR_ALLOC freed 1261K, 20% free 12754K/15879K, paused 101ms
+I/dalvikvm-heap(  435): Grow heap (frag case) to 13.747MB for 1286224-byte allocation
+I/ActivityThread( 3037): Pub com.android.calendar.CalendarRecentSuggestionsProvider: com.android.calendar.CalendarRecentSuggestionsProvider
+D/dalvikvm(  435): GC_FOR_ALLOC freed <1K, 12% free 14009K/15879K, paused 53ms
+I/ActivityManager(  167): Start proc com.android.providers.calendar for content provider com.android.providers.calendar/.CalendarProvider2: pid=3053 uid=10006 gids={3003, 1015}
+D/OpenGLRenderer(  435): Flushing caches (mode 1)
+I/ActivityThread( 3053): Pub com.android.calendar: com.android.providers.calendar.CalendarProvider2
+D/dalvikvm( 3037): GC_CONCURRENT freed 267K, 4% free 9235K/9607K, paused 25ms+4ms
+I/Process (  167): Sending signal. PID: 3037 SIG: 3
+I/dalvikvm( 3037): threadid=3: reacting to signal 3
+I/dalvikvm( 3037): Wrote stack traces to '/data/anr/traces.txt'
+D/OpenGLRenderer(  435): Flushing caches (mode 0)
+D/dalvikvm(  435): GC_CONCURRENT freed 582K, 16% free 13429K/15879K, paused 17ms+12ms
+D/libEGL  ( 3037): loaded /system/lib/egl/libGLES_android.so
+D/libEGL  ( 3037): loaded /vendor/lib/egl/libEGL_POWERVR_SGX540_120.so
+D/libEGL  ( 3037): loaded /vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so
+D/libEGL  ( 3037): loaded /vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so
+D/OpenGLRenderer( 3037): Enabling debug mode 0
+W/InputManagerService(  167): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@41772100 (uid=10025 pid=435)
+I/Process (  167): Sending signal. PID: 3037 SIG: 3
+I/dalvikvm( 3037): threadid=3: reacting to signal 3
+I/dalvikvm( 3037): Wrote stack traces to '/data/anr/traces.txt'
+I/ActivityManager(  167): Displayed com.android.calendar/.AllInOneActivity: +1s222ms
+D/OpenGLRenderer(  435): Flushing caches (mode 1)
+I/CalendarProvider2( 3053): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://com.android.calendar }
+W/ContentResolver( 3053): Failed to get type for: content://com.android.calendar (Unknown URL content://com.android.calendar)
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/dalvikvm( 3037): null clazz in OP_INSTANCE_OF, single-stepping
+D/dalvikvm( 3053): GC_CONCURRENT freed 320K, 5% free 9151K/9543K, paused 2ms+2ms
+D/dalvikvm( 3037): GC_CONCURRENT freed 258K, 5% free 9407K/9799K, paused 14ms+5ms
+W/CursorWrapperInner( 3037): Cursor finalized without prior close()
+D/OpenGLRenderer(  435): Flushing caches (mode 1)
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm(  747): GC_CONCURRENT freed 373K, 6% free 9356K/9863K, paused 29ms+10ms
+I/power   (  167): *** set_screen_state 0
+D/SurfaceFlinger(   78): About to give-up screen, flinger = 0x7c9918
+D/dalvikvm(  167): GC_FOR_ALLOC freed 1113K, 14% free 13922K/16071K, paused 49ms
+V/TransportControlView(  167): Create TCV com.android.internal.widget.TransportControlView@41659100
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info back home RECENT* clock >
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info BACK* HOME* RECENT CLOCK* >
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/NfcService(  419): NFC-C OFF, disconnect
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer(  435): Flushing caches (mode 1)
+D/OpenGLRenderer(  435): Flushing caches (mode 1)
+D/OpenGLRenderer(  435): Flushing caches (mode 1)
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer(  435): Flushing caches (mode 1)
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer(  435): Flushing caches (mode 1)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+I/wpa_supplicant(  307): wlan0: CTRL-EVENT-DISCONNECTED bssid=d0:c2:82:67:e7:61 reason=0
+D/CommandListener(   75): Clearing all IP addresses on wlan0
+D/ConnectivityService(  167): ConnectivityChange for WIFI: DISCONNECTED/DISCONNECTED
+D/ConnectivityService(  167): Attempting to switch to mobile
+D/ConnectivityService(  167): Attempting to switch to WIMAX
+D/ConnectivityService(  167): Attempting to switch to BLUETOOTH_TETHER
+E/ConnectivityService(  167): Exception trying to remove a route: java.lang.IllegalStateException: Unable to communicate with native dameon to add routes - com.android.server.NativeDaemonConnectorException: Cmd {interface route remove wlan0 default 67.20.205.254 32 0.0.0.0} failed with code 400 : {Failed to remove route from default table (No such process)}
+E/ConnectivityService(  167): Exception trying to remove a route: java.lang.IllegalStateException: Unable to communicate with native dameon to add routes - com.android.server.NativeDaemonConnectorException: Cmd {interface route remove wlan0 default 0.0.0.0 0 67.20.205.254} failed with code 400 : {Failed to remove route from default table (No such process)}
+D/NetUtils(  167): android_net_utils_resetConnections in env=0x20a9fc8 clazz=0x5bd00001 iface=wlan0 mask=0x3
+D/ConnectivityService(  167): resetConnections(wlan0, 3)
+W/Smack/Packet(  696): notify conn break (IOEx), close connection
+I/qtaguid (  696): Failed write_ctrl(u 29) res=-1 errno=22
+I/qtaguid (  696): Untagging socket 29 failed errno=-22
+W/NetworkManagementSocketTagger(  696): untagSocket(29) failed with errno -22
+D/ConnectivityService(  167): handleInetConditionChange: no active default network - ignore
+I/wpa_supplicant(  307): wlan0: Trying to associate with 00:02:6f:d1:9c:24 (SSID='Hidden' freq=2427 MHz)
+I/wpa_supplicant(  307): wlan0: Associated with 00:02:6f:d1:9c:24
+I/wpa_supplicant(  307): wlan0: WPA: Key negotiation completed with 00:02:6f:d1:9c:24 [PTK=TKIP GTK=TKIP]
+I/wpa_supplicant(  307): wlan0: CTRL-EVENT-CONNECTED - Connection to 00:02:6f:d1:9c:24 completed (reauth) [id=0 id_str=]
+D/Tethering(  167): MasterInitialState.processMessage what=3
+D/OpenGLRenderer(  435): Flushing caches (mode 1)
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer(  435): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm(  167): GC_EXPLICIT freed 611K, 12% free 14193K/16071K, paused 4ms+5ms
+D/DhcpInfoInternal(  167): makeLinkProperties with empty dns2!
+D/DhcpInfoInternal(  167): makeLinkProperties with empty dns2!
+D/ConnectivityService(  167): ConnectivityChange for WIFI: CONNECTED/CONNECTED
+W/NetworkStats(  167): dropping UID delta from unknown iface: iface=wlan0 uid=0 set=DEFAULT tag=0x0 rxBytes=775 rxPackets=2 txBytes=196 txPackets=3 operations=0
+D/PicasaSyncManager( 2922): active network: null
+I/MediaUploader( 2939): No need to wake up
+I/PhoneLab-WiFiReceiver(  605): Wi-Fi is disconnected!
+I/PhoneLab-WiFiReceiver(  605): Wi-Fi is connected!
+I/PhoneLab-WiFiReceiver(  605): SSID: Hidden BSSID: 00:02:6f:d1:9c:24 RSSI: -200 LinkSpeed: -1
+D/PicasaSyncManager( 2922): background data: true
+D/OpenGLRenderer(  435): Flushing caches (mode 0)
+D/dalvikvm(  696): GC_CONCURRENT freed 485K, 6% free 10731K/11399K, paused 2ms+12ms
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/ConnectivityService(  167): NetTransition Wakelock for WifiStateMachine released by timeout
+D/Tethering(  167): MasterInitialState.processMessage what=3
+I/GTalkService/c(  696): [AndroidEndpoint@1094992480] connect: acct=1000000, state=CONNECTING
+I/GTalkService/c(  696): [GTalkConnection@1094706800] connect: acct=1, state=CONNECTING
+I/GTalkService/c(  696): [GTalkConnection@1094800744] connect: acct=2, state=CONNECTING
+D/dalvikvm(  696): GC_EXPLICIT freed 136K, 7% free 10620K/11399K, paused 2ms+3ms
+D/PicasaSyncManager( 2922): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/PicasaSyncManager( 2922): background data: true
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+I/MediaUploader( 2939): No need to wake up
+D/ConnectivityService(  167): ConnectivityChange for mobile: CONNECTED/CONNECTED
+D/NetUtils(  167): android_net_utils_resetConnections in env=0x20a9fc8 clazz=0x70e00001 iface=rmnet0 mask=0x3
+D/ConnectivityService(  167): ConnectivityChange for mobile: DISCONNECTED/DISCONNECTED
+D/ConnectivityService(  167): Attempting to switch to WIFI
+D/ConnectivityService(  167): Attempting to switch to WIMAX
+D/ConnectivityService(  167): Attempting to switch to BLUETOOTH_TETHER
+D/ConnectivityService(  167): resetConnections(rmnet0, 3)
+D/ConnectivityService(  167): handleInetConditionHoldEnd: net=1, condition=100, published condition=0
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/Tethering(  167): MasterInitialState.processMessage what=3
+D/Tethering(  167): MasterInitialState.processMessage what=3
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/PicasaSyncManager( 2922): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/PicasaSyncManager( 2922): background data: true
+I/MediaUploader( 2939): No need to wake up
+D/dalvikvm(  696): GC_CONCURRENT freed 350K, 6% free 10719K/11399K, paused 2ms+4ms
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+I/MediaUploader( 2939): No need to wake up
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/PicasaSyncManager( 2922): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/PicasaSyncManager( 2922): background data: true
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/ConnectivityService(  167): handleInetConditionHoldEnd: net=1, condition=100, published condition=100
+D/dalvikvm( 2744): GC_CONCURRENT freed 438K, 6% free 9486K/10055K, paused 4ms+13ms
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm(  409): GC_CONCURRENT freed 432K, 6% free 9488K/10055K, paused 2ms+3ms
+I/PhoneLab-(  605): Service Running
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1408  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 37
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm(  167): GC_CONCURRENT freed 1134K, 12% free 14229K/16071K, paused 2ms+5ms
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+I/ActivityManager(  167): Start proc com.google.android.gm for service com.google.android.gm/.provider.MailSyncAdapterService: pid=3119 uid=10053 gids={3003, 1015}
+I/ActivityThread( 3119): Pub gmail-ls: com.google.android.gm.provider.MailProvider
+I/ActivityThread( 3119): Pub com.google.android.gmail.SuggestionProvider: com.google.android.gm.SuggestionsProvider
+I/ActivityThread( 3119): Pub com.google.android.gm: com.google.android.gm.provider.PublicContentProvider
+D/dalvikvm( 3119): GC_CONCURRENT freed 215K, 4% free 9263K/9607K, paused 4ms+2ms
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+I/Gmail   ( 3119): calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+I/Gmail   ( 3119): calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+I/Gmail   ( 3119): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778468, normalSync: true
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+I/Gmail   ( 3119): calculateUnknownSyncRationalesAndPurgeInBackground: running
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+I/Gmail   ( 3119): calculateUnknownSyncRationalesAndPurgeInBackground: running
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm( 3119): GC_CONCURRENT freed 195K, 4% free 9472K/9799K, paused 2ms+2ms
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm( 3119): GC_CONCURRENT freed 359K, 5% free 9499K/9991K, paused 3ms+4ms
+D/dalvikvm( 3119): GC_EXPLICIT freed 362K, 5% free 9535K/9991K, paused 2ms+2ms
+I/Gmail   ( 3119): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778540, normalSync: true
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm( 3119): GC_EXPLICIT freed 168K, 5% free 9580K/9991K, paused 2ms+3ms
+I/Gmail   ( 3119): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2778540, normalSync: true
+I/Gmail   ( 3119): lowestBackward conversation id 0
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+W/Gmail   ( 3119): Scheduling index for 300000 ms from now
+I/Gmail   ( 3119): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+W/Gmail   ( 3119): Showing notification with unreadCount of 14 and unseenCount of 1
+D/dalvikvm(  326): GC_CONCURRENT freed 375K, 12% free 9713K/11015K, paused 1ms+3ms
+I/AudioService(  167):  AudioFocus  requestAudioFocus() from android.media.AudioManager@4159db98
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm(  326): GC_CONCURRENT freed 217K, 10% free 9962K/11015K, paused 1ms+2ms
+D/dalvikvm(  326): GC_CONCURRENT freed 543K, 11% free 9810K/11015K, paused 2ms+2ms
+I/AudioService(  167):  AudioFocus  abandonAudioFocus() from android.media.AudioManager@4159db98
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+I/power   (  167): *** set_screen_state 1
+I/PhoneLab-PowerOnReceiver(  605): Power is plugged in!
+I/PhoneLab-PowerOnReceiver(  605): Rescheduling periodic checking...
+I/WindowManager(  167): Lock screen displayed!
+W/PowerUI (  326): unknown intent: Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x10000010 }
+I/PhoneLab-Locks(  605): wake lock acquired
+D/dalvikvm(  605): GC_CONCURRENT freed 454K, 6% free 9153K/9735K, paused 3ms+2ms
+I/PhoneLab-UploadLogs(  605): Transfering log files now
+D/SurfaceFlinger(   78): Screen about to return, flinger = 0x7c9918
+V/PhoneLab-UploadLogs(  605): Posting logs now 
+D/dalvikvm(  326): GC_CONCURRENT freed 218K, 9% free 10036K/11015K, paused 1ms+4ms
+I/StorageNotification(  326): UMS connection changed to true (media state mounted)
+I/PhoneLab-UploadLogs(  605): OnStartCommand
+D/dalvikvm(  605): GC_CONCURRENT freed 399K, 6% free 9258K/9799K, paused 2ms+6ms
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm(  326): GC_CONCURRENT freed 269K, 8% free 10244K/11015K, paused 8ms+11ms
+I/StorageNotification(  326): UMS connection changed to true (media state mounted)
+D/dalvikvm(  326): GC_FOR_ALLOC freed 267K, 8% free 10188K/11015K, paused 35ms
+D/dalvikvm(  326): GC_FOR_ALLOC freed 254K, 8% free 10172K/11015K, paused 38ms
+D/dalvikvm(  605): GC_FOR_ALLOC freed 159K, 7% free 9220K/9863K, paused 158ms
+I/PhoneLab-(  605): 1343666678699.log is deleted
+I/PhoneLab-(  605): Response: {"data": "done", "err": ""}
+V/PhoneLab-UploadLogs(  605): Posting logs now 
+D/dalvikvm(  605): GC_CONCURRENT freed 441K, 6% free 9290K/9863K, paused 2ms+12ms
+I/dalvikvm( 1608): Jit: resizing JitTable from 4096 to 8192
+I/PhoneLab-(  605): 1343666678722.log is deleted
+I/PhoneLab-(  605): Response: {"data": "done", "err": ""}
+V/PhoneLab-UploadLogs(  605): Posting logs now 
+D/dalvikvm(  605): GC_CONCURRENT freed 585K, 7% free 9240K/9927K, paused 1ms+2ms
+I/PhoneLab-(  605): 1343666678683.log is deleted
+I/PhoneLab-(  605): Response: {"data": "done", "err": ""}
+V/PhoneLab-UploadLogs(  605): Posting logs now 
+D/dalvikvm(  605): GC_CONCURRENT freed 527K, 8% free 9225K/9927K, paused 4ms+2ms
+D/dalvikvm(  605): GC_CONCURRENT freed 420K, 8% free 9224K/9927K, paused 12ms+2ms
+I/PhoneLab-(  605): 1343666678691.log is deleted
+I/PhoneLab-(  605): Response: {"data": "done", "err": ""}
+V/PhoneLab-UploadLogs(  605): Posting logs now 
+D/dalvikvm(  605): GC_CONCURRENT freed 438K, 7% free 9282K/9927K, paused 4ms+3ms
+I/PhoneLab-(  605): 1343667278628.log is deleted
+I/PhoneLab-(  605): Response: {"data": "done", "err": ""}

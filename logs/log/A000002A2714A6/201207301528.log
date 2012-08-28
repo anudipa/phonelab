@@ -1,0 +1,347 @@
+I/ActivityManager(  156): Start proc com.google.android.apps.genie.geniewidget for broadcast com.google.android.apps.genie.geniewidget/.miniwidget.MiniWidgetProvider: pid=832 uid=10017 gids={3003, 1015}
+D/ExchangeService(  810): !!! EAS ExchangeService, onStartCommand, startingUp = true, running = false
+I/dalvikvm(  832): Turning on JNI app bug workarounds for target SDK version 11...
+I/AccountTypeManager(  736): Loaded meta-data for 3 account types, 3 accounts in 1824ms(wall) 22ms(cpu)
+D/Eas Debug(  810): Logging: 
+D/dalvikvm(  225): GC_FOR_ALLOC freed 112K, 5% free 10104K/10631K, paused 22ms
+I/dalvikvm-heap(  225): Grow heap (frag case) to 10.108MB for 184336-byte allocation
+D/dalvikvm(  225): GC_FOR_ALLOC freed <1K, 5% free 10284K/10823K, paused 20ms
+D/dalvikvm(  225): GC_FOR_ALLOC freed 181K, 7% free 10102K/10823K, paused 15ms
+D/StopWatch(  309): StopWatch calcFileSHA1 time (us): 203924 
+I/ActivityThread(  832): Pub com.google.android.apps.genie.geniewidget.weather: com.google.android.apps.genie.geniewidget.providers.WeatherProvider
+I/ActivityThread(  832): Pub com.google.android.apps.genie.geniewidget.newsimage: com.google.android.apps.genie.geniewidget.providers.NewsImageProvider
+D/dalvikvm(  225): GC_FOR_ALLOC freed 399K, 9% free 9883K/10823K, paused 17ms
+D/StopWatch(  309): StopWatch calcFileSHA1 time (us): 116531 
+D/ExchangeService(  810): Received deviceId from Email app: androidc965998870
+D/ExchangeService(  810): Reconciling accounts...
+D/bcc     (  309): Read object file size 5824
+D/StopWatch(  309): StopWatch bcc: PrepareExecutable time (us): 24323 
+E/bcc     (  309): Symbol not found: init
+D/dalvikvm(  309): GC_FOR_ALLOC freed 86K, 3% free 9098K/9347K, paused 57ms
+W/Genie   (  832): Cache file not found: java.io.FileNotFoundException: /data/data/com.google.android.apps.genie.geniewidget/cache/genie_masfcache: open failed: ENOENT (No such file or directory)
+W/Genie   (  832): Cache file not found: java.io.FileNotFoundException: /data/data/com.google.android.apps.genie.geniewidget/cache/genie_iconcache: open failed: ENOENT (No such file or directory)
+I/dalvikvm-heap(  309): Grow heap (frag case) to 11.879MB for 3072016-byte allocation
+D/dalvikvm(  832): GC_CONCURRENT freed 353K, 5% free 9183K/9607K, paused 6ms+12ms
+W/CursorWrapperInner(  832): Cursor finalized without prior close()
+W/CursorWrapperInner(  832): Cursor finalized without prior close()
+D/dalvikvm(  309): GC_CONCURRENT freed 2K, 3% free 12096K/12359K, paused 2ms+2ms
+I/SurfaceFlinger(   78): Boot is finished (28745 ms)
+D/ExchangeService(  810): !!! EAS ExchangeService, onStartCommand, startingUp = true, running = false
+D/SAN_SERVICE(  352): *******************************************
+D/SAN_SERVICE(  352): DM App Phone Service State - 0
+D/SAN_SERVICE(  352): *******************************************
+D/dalvikvm(  156): GC_FOR_ALLOC freed 622K, 10% free 13192K/14599K, paused 50ms
+D/Eas Debug(  810): Logging: 
+D/dalvikvm(  576): GC_CONCURRENT freed 361K, 6% free 9117K/9607K, paused 2ms+4ms
+D/ChromeBrowserSyncAdapter(  749): delaying sync
+D/dalvikvm(  749): GC_CONCURRENT freed 231K, 4% free 9261K/9607K, paused 1ms+6ms
+I/RlzPingService(  576): Setting next ping for 1344280677195
+I/SystemUpdateService(  287): checking for post-install intent
+I/SystemUpdateService(  287): cancelUpdate (empty URL)
+I/ActivityManager(  156): Start proc com.android.mms for broadcast com.android.mms/.transaction.MmsSystemEventReceiver: pid=890 uid=10030 gids={3003, 1015}
+I/ActivityThread(  890): Pub mms_temp_file: com.android.mms.TempFileProvider
+I/ActivityThread(  890): Pub com.android.mms.SuggestionsProvider: com.android.mms.SuggestionsProvider
+D/CountryDetector(  156): The first listener is added
+V/MmsConfig(  890): mnc/mcc: 310120
+V/MmsConfig(  890): tag: bool value: enabledMMS - true
+V/MmsConfig(  890): tag: int value: maxMessageSize - 307200
+V/MmsConfig(  890): tag: int value: maxImageHeight - 480
+V/MmsConfig(  890): tag: int value: maxImageWidth - 640
+V/MmsConfig(  890): tag: int value: defaultSMSMessagesPerThread - 500
+V/MmsConfig(  890): tag: int value: defaultMMSMessagesPerThread - 50
+V/MmsConfig(  890): tag: int value: minMessageCountPerThread - 10
+V/MmsConfig(  890): tag: int value: maxMessageCountPerThread - 5000
+V/MmsConfig(  890): tag: string value: uaProfUrl - http://www.google.com/oha/rdf/ua-profile-kila.xml
+V/MmsConfig(  890): tag: int value: recipientLimit - -1
+V/MmsConfig(  890): tag: int value: smsToMmsTextThreshold - 4
+V/MmsConfig(  890): tag: bool value: enableMultipartSMS - true
+V/MmsConfig(  890): tag: bool value: enableSlideDuration - true
+V/MmsConfig(  890): tag: int value: maxMessageTextSize - -1
+D/MmsSmsDatabaseHelper(  352): [MmsSmsDb] tableName: threads hasAutoIncrement: CREATE TABLE threads (_id INTEGER PRIMARY KEY AUTOINCREMENT,date INTEGER DEFAULT 0,message_count INTEGER DEFAULT 0,recipient_ids TEXT,snippet TEXT,snippet_cs INTEGER DEFAULT 0,read INTEGER DEFAULT 1,type INTEGER DEFAULT 0,error INTEGER DEFAULT 0,has_attachment INTEGER DEFAULT 0) result: true
+D/MmsSmsDatabaseHelper(  352): [MmsSmsDb] tableName: canonical_addresses hasAutoIncrement: CREATE TABLE canonical_addresses (_id INTEGER PRIMARY KEY AUTOINCREMENT,address TEXT) result: true
+D/MmsSmsDatabaseHelper(  352): [getWritableDatabase] hasAutoIncrementThreads: true hasAutoIncrementAddresses: true
+D/dalvikvm(  890): GC_CONCURRENT freed 297K, 4% free 9239K/9607K, paused 2ms+4ms
+W/ActivityManager(  156): Permission Denial: receiving Intent { act=android.intent.action.BOOT_COMPLETED flg=0x10 } to com.android.musicfx requires android.permission.RECEIVE_BOOT_COMPLETED due to sender null (uid 1000)
+I/ActivityManager(  156): Start proc com.google.android.onetimeinitializer for broadcast com.google.android.onetimeinitializer/.OneTimeInitializerReceiver: pid=914 uid=10033 gids={}
+D/dalvikvm(  914): Debugger has detached; object registry had 1 entries
+V/OneTimeInitializerReceiver(  914): OneTimeInitializerReceiver.onReceive
+I/PhoneLab-OnBootReceiver(  512): Device is booted!
+I/PhoneLab-OnBootReceiver(  512): Rescheduling periodic checking...
+V/OneTimeService(  914): OneTimeService.onHandleIntent
+I/ActivityManager(  156): Start proc com.google.android.talk for broadcast com.google.android.talk/.videochat.BootCompleteReceiver: pid=930 uid=10044 gids={3003, 1015, 1006, 3002}
+I/ActivityThread(  930): Pub com.google.android.talk.SuggestionProvider: com.google.android.talk.SuggestionsProvider
+D/vclib:CallStateClient(  930): startListening
+D/dalvikvm(  287): GC_CONCURRENT freed 279K, 6% free 9707K/10247K, paused 2ms+3ms
+D/dalvikvm(  722): GC_CONCURRENT freed 184K, 3% free 10056K/10311K, paused 2ms+63ms
+D/dalvikvm(  930): GC_CONCURRENT freed 143K, 3% free 9341K/9607K, paused 12ms+2ms
+I/talk    (  930): Refresh the supported camera state
+I/ActivityManager(  156): Start proc com.android.voicedialer for broadcast com.android.voicedialer/.VoiceDialerReceiver: pid=953 uid=10048 gids={3002}
+I/talk    (  930): supported front camera true
+I/ActivityManager(  156): Start proc com.google.android.gm for broadcast com.google.android.gm/.GoogleMailDeviceStartupReceiver: pid=969 uid=10053 gids={3003, 1015}
+D/dalvikvm(  287): GC_CONCURRENT freed 483K, 6% free 9759K/10311K, paused 2ms+6ms
+D/dalvikvm(   79): GC_EXPLICIT freed 37K, 4% free 9031K/9347K, paused 1ms+3ms
+D/dalvikvm(   79): GC_EXPLICIT freed <1K, 4% free 9031K/9347K, paused 2ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed <1K, 4% free 9031K/9347K, paused 2ms+21ms
+I/ActivityThread(  969): Pub gmail-ls: com.google.android.gm.provider.MailProvider
+I/ActivityThread(  969): Pub com.google.android.gmail.SuggestionProvider: com.google.android.gm.SuggestionsProvider
+I/ActivityThread(  969): Pub com.google.android.gm: com.google.android.gm.provider.PublicContentProvider
+I/ActivityManager(  156): Start proc com.google.android.apps.googlevoice for broadcast com.google.android.apps.googlevoice/.BootUpReceiver: pid=989 uid=10057 gids={3003, 1015}
+D/dalvikvm(  156): GC_FOR_ALLOC freed 669K, 9% free 13342K/14599K, paused 52ms
+D/dalvikvm(  156): GC_FOR_ALLOC freed 147K, 9% free 13383K/14599K, paused 55ms
+I/dalvikvm-heap(  156): Grow heap (frag case) to 13.271MB for 134888-byte allocation
+D/dalvikvm(  156): GC_FOR_ALLOC freed 0K, 9% free 13514K/14791K, paused 63ms
+I/ActivityManager(  156): Start proc com.google.android.apps.maps:FriendService for broadcast com.google.android.apps.maps/com.google.googlenav.friend.android.ServiceReceiver: pid=1004 uid=10058 gids={3003, 1015}
+D/dalvikvm(  989): GC_CONCURRENT freed 231K, 4% free 9305K/9607K, paused 2ms+13ms
+D/dalvikvm( 1004): GC_CONCURRENT freed 157K, 3% free 9379K/9607K, paused 2ms+2ms
+D/ConnectivityService(  156): ConnectivityChange for mobile: CONNECTED/CONNECTED
+D/dalvikvm( 1004): GC_CONCURRENT freed 186K, 3% free 9708K/9991K, paused 2ms+3ms
+D/dalvikvm(  352): GC_CONCURRENT freed 363K, 5% free 9499K/9991K, paused 9ms+6ms
+D/ConnectivityService(  156): ConnectivityChange for mobile: DISCONNECTED/DISCONNECTED
+D/ConnectivityService(  156): Attempting to switch to WIFI
+D/ConnectivityService(  156): Attempting to switch to WIMAX
+D/ConnectivityService(  156): Attempting to switch to BLUETOOTH_TETHER
+D/NetUtils(  156): android_net_utils_resetConnections in env=0x12b33b0 clazz=0x2ae00001 iface=rmnet0 mask=0x3
+D/ConnectivityService(  156): resetConnections(rmnet0, 3)
+W/NetworkStats(  156): dropping UID delta from unknown iface: iface=rmnet0 uid=0 set=DEFAULT tag=0x0 rxBytes=64 rxPackets=1 txBytes=40 txPackets=1 operations=0
+D/dalvikvm(  259): GC_CONCURRENT freed 271K, 5% free 9147K/9543K, paused 6ms+19ms
+D/dalvikvm(  969): GC_CONCURRENT freed 230K, 4% free 9274K/9607K, paused 2ms+5ms
+D/dalvikvm(  287): GC_EXPLICIT freed 272K, 6% free 9754K/10311K, paused 6ms+4ms
+D/dalvikvm(  722): GC_CONCURRENT freed 667K, 8% free 9888K/10695K, paused 5ms+2ms
+D/dalvikvm(  459): GC_CONCURRENT freed 193K, 4% free 9409K/9735K, paused 49ms+2ms
+D/dalvikvm(  156): GC_EXPLICIT freed 707K, 11% free 13258K/14791K, paused 8ms+5ms
+W/ActivityManager(  156): Permission Denial: receiving Intent { act=android.intent.action.BOOT_COMPLETED flg=0x10 } to com.skype.raider requires android.permission.RECEIVE_BOOT_COMPLETED due to sender null (uid 1000)
+I/GTalkService/c(  287): [AndroidEndpoint@1094342392] connect: acct=1000000, state=CONNECTING
+I/ActivityManager(  156): START {flg=0x10000000 cmp=com.google.android.gsf/.update.SystemUpdateInstallDialog} from pid 287
+D/PermissionCache(   78): checking android.permission.READ_FRAME_BUFFER for uid=1000 => granted (163 us)
+I//system/bin/fsck_msdos(   72): ** Phase 2 - Check Cluster Chains
+E/DefaultVoicemailNotifier(  736): No voicemails to notify about: clear the notification.
+I/ActivityManager(  156): START {flg=0x10000000 cmp=com.google.android.gsf/.update.SystemUpdateDownloadDialog} from pid 287
+V/SystemUpdateService(  287): onPostExecute: false
+I/ActivityManager(  156): Start proc com.google.android.gallery3d for broadcast com.google.android.gallery3d/com.google.android.picasasync.ConnectivityReceiver: pid=1029 uid=10016 gids={3003, 1015}
+I/ActivityThread( 1029): Pub com.google.android.gallery3d.GooglePhotoProvider: com.google.android.picasasync.PicasaContentProvider
+D/ConnectivityService(  156): handleInetConditionHoldEnd: net=1, condition=0, published condition=0
+D/dalvikvm( 1029): GC_CONCURRENT freed 418K, 6% free 9118K/9607K, paused 2ms+2ms
+I/ActivityThread( 1029): Pub com.google.android.gallery3d.provider: com.android.gallery3d.provider.GalleryProvider
+D/AlarmManagerService(  156): Kernel timezone updated to 240 minutes west of GMT
+I/ActivityManager(  156): No longer want com.google.android.inputmethod.latin.dictionarypack (pid 431): hidden #16
+D/dalvikvm( 1029): GC_CONCURRENT freed 378K, 6% free 9161K/9671K, paused 1ms+2ms
+I/Process (  156): Sending signal. PID: 287 SIG: 3
+I/dalvikvm(  287): threadid=3: reacting to signal 3
+I/dalvikvm(  287): Wrote stack traces to '/data/anr/traces.txt'
+I/ActivityManager(  156): Displayed com.android.launcher/com.android.launcher2.Launcher: +16s559ms
+I/ActivityManager(  156): No longer want com.google.android.apps.maps (pid 660): hidden #16
+D/UploadsManager( 1029): load newPhotoTracker: null
+D/UploadsManager( 1029): load all accounts: null
+D/UploadsManager( 1029): load all account-album pairs: null
+V/PicasaContentProvider( 1029): querySettings: defaults: {sync_on_wifi_only=1, auto_upload_account_type=null, sync_on_battery=1, sync_picasa_on_wifi_only=1, auto_upload_enabled=0, video_upload_wifi_only=1, sync_on_roaming=0, auto_upload_account_name=null}
+D/UploadsManager( 1029):    settings not changed
+D/PicasaSync( 1029): sync account database
+I/ActivityManager(  156): Start proc com.google.android.apps.uploader for broadcast com.google.android.apps.uploader/.ConnectivityBroadcastReceiver: pid=1046 uid=10029 gids={3003}
+I/dalvikvm( 1046): Turning on JNI app bug workarounds for target SDK version 11...
+D/dalvikvm(  722): GC_CONCURRENT freed 228K, 6% free 10109K/10695K, paused 2ms+15ms
+D/PicasaSync( 1029): accounts in DB=2
+V/PicasaContentProvider( 1029): querySettings: defaults: {sync_on_wifi_only=1, auto_upload_account_type=null, sync_on_battery=1, sync_picasa_on_wifi_only=1, auto_upload_enabled=0, video_upload_wifi_only=1, sync_on_roaming=0, auto_upload_account_name=null}
+D/PicasaSyncManager( 1029): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/dalvikvm(  626): GC_CONCURRENT freed 327K, 5% free 9144K/9543K, paused 152ms+2ms
+I/ActivityThread( 1046): Pub com.google.android.apps.uploader: com.google.android.apps.uploader.UploadsContentProvider
+I/ActivityThread( 1046): Pub com.google.photos.provider.Album: com.google.android.apps.uploader.clients.picasa.AlbumProvider
+D/MediaUploader( 1046): UploaderApplication.onCreate
+I/ActivityManager(  156): No longer want com.android.contacts (pid 736): hidden #16
+W/EventLogAggregator(  287): Unknown tag: facelock_activated
+W/EventLogAggregator(  287): Unknown tag: facelock_fail
+D/PicasaSyncManager( 1029): background data: true
+W/EventLogAggregator(  287): Unknown tag: facelock_success
+D/MediaUploader( 1046): nonWifiLimit=20971520, default=20971520
+I/MediaUploader( 1046): No need to wake up
+I/talk    (  930): onMcsConnectionStarted
+I/ActivityManager(  156): Start proc com.google.android.apps.maps:LocationFriendService for broadcast com.google.android.apps.maps/com.google.googlenav.friend.reporting.LocationReportingIntentReceiver: pid=1073 uid=10058 gids={3003, 1015}
+E/jdwp    ( 1073): Failed sending reply to debugger: Broken pipe
+D/dalvikvm( 1073): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1073): GC_CONCURRENT freed 163K, 3% free 9373K/9607K, paused 2ms+2ms
+D/dalvikvm( 1073): GC_CONCURRENT freed 211K, 4% free 9668K/9991K, paused 2ms+4ms
+D/Tethering(  156): MasterInitialState.processMessage what=3
+D/Tethering(  156): MasterInitialState.processMessage what=3
+D/dalvikvm(  287): GC_CONCURRENT freed 383K, 5% free 9812K/10311K, paused 64ms+3ms
+I/ActivityManager(  156): No longer want com.google.android.partnersetup (pid 576): hidden #16
+I/ActivityManager(  156): No longer want com.google.android.apps.genie.geniewidget (pid 832): hidden #17
+I/Gmail   (  969): calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+I/MediaUploader( 1046): No need to wake up
+D/dalvikvm(  156): GC_CONCURRENT freed 902K, 10% free 13321K/14791K, paused 2ms+6ms
+I/Gmail   (  969): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+I/Gmail   (  969): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^iim (has extras) }
+I/MediaUploader( 1046): No need to wake up
+D/dalvikvm( 1073): GC_CONCURRENT freed 272K, 4% free 9876K/10247K, paused 2ms+2ms
+I//system/bin/fsck_msdos(   72): ** Phase 3 - Checking Directories
+I/Gmail   (  969): calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+D/dalvikvm(  722): GC_CONCURRENT freed 366K, 5% free 10210K/10695K, paused 17ms+13ms
+D/PicasaSyncManager( 1029): battery info: true
+I/Gmail   (  969): calculateUnknownSyncRationalesAndPurgeInBackground: running
+I/Gmail   (  969): calculateUnknownSyncRationalesAndPurgeInBackground: running
+I/ActivityManager(  156): No longer want com.android.chrome (pid 749): hidden #16
+D/PicasaSyncManager( 1029): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/PicasaSyncManager( 1029): background data: true
+D/dalvikvm(  969): GC_CONCURRENT freed 211K, 4% free 9462K/9799K, paused 3ms+3ms
+D/dalvikvm(  447): GC_CONCURRENT freed 225K, 4% free 9247K/9607K, paused 3ms+3ms
+I/ActivityManager(  156): No longer want com.android.exchange (pid 810): hidden #16
+I/ActivityManager(  156): Start proc com.android.exchange for service com.android.exchange/.ExchangeService: pid=1102 uid=10014 gids={3003, 1015}
+D/dalvikvm( 1102): Debugger has detached; object registry had 1 entries
+I/ActivityManager(  156): No longer want com.android.email (pid 793): hidden #16
+I/ActivityThread( 1102): Pub com.android.exchange.directory.provider: com.android.exchange.provider.ExchangeDirectoryProvider
+D/ExchangeService( 1102): !!! EAS ExchangeService, onStartCommand, startingUp = false, running = false
+I/ActivityManager(  156): Start proc com.android.email for service com.android.email/.service.AccountService: pid=1117 uid=10013 gids={3003, 1015}
+I/ActivityThread( 1117): Pub com.android.email.provider;com.android.email.notifier: com.android.email.provider.EmailProvider
+D/dalvikvm(  380): GC_CONCURRENT freed 287K, 4% free 11572K/11975K, paused 2ms+3ms
+I/ActivityThread( 1117): Pub com.android.email.attachmentprovider: com.android.email.provider.AttachmentProvider
+I//system/bin/fsck_msdos(   72): ** Phase 4 - Checking for Lost Files
+D/Eas Debug( 1102): Logging: 
+D/ExchangeService( 1102): Received deviceId from Email app: androidc965998870
+D/ExchangeService( 1102): Reconciling accounts...
+D/dalvikvm(  332): GC_CONCURRENT freed 190K, 4% free 9627K/9927K, paused 6ms+4ms
+D/ExchangeService( 1102): !!! EAS ExchangeService, onStartCommand, startingUp = true, running = false
+I/Gmail   (  969): calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+D/Eas Debug( 1102): Logging: 
+I/Gmail   (  969): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+I/Gmail   (  969): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^iim (has extras) }
+I/ActivityManager(  156): No longer want com.android.mms (pid 890): hidden #16
+D/CountryDetector(  156): No listener is left
+I/Gmail   (  969): calculateUnknownSyncRationalesAndPurgeInBackground: queueing
+I/GTalkService/c(  287): [GTalkConnection@1095084064] connect: acct=1, state=CONNECTING
+I//system/bin/fsck_msdos(   72): Next free cluster in FSInfo block (1069703) not free
+I//system/bin/fsck_msdos(   72): FIXED
+I//system/bin/fsck_msdos(   72): 2051 files, 1013128 free (2350434 clusters)
+I/Gmail   (  969): calculateUnknownSyncRationalesAndPurgeInBackground: running
+I/Vold    (   72): Filesystem check completed OK
+I/Vold    (   72): Device /dev/block/vold/179:3, target /mnt/sdcard mounted @ /mnt/secure/staging
+I/PackageManager(  156): Updating external media status from unmounted to mounted
+D/Vold    (   72): Volume sdcard state changing 3 (Checking) -> 4 (Mounted)
+D/MountService(  156): volume state changed for /mnt/sdcard (checking -> mounted)
+I/StorageNotification(  225): Media {/mnt/sdcard} state changed from {checking} -> {mounted}
+D/MountService(  156): sendStorageIntent Intent { act=android.intent.action.MEDIA_MOUNTED dat=file:///mnt/sdcard (has extras) }
+D/MediaScannerReceiver(  447): action: android.intent.action.MEDIA_MOUNTED path: /mnt/sdcard
+I/MediaUploader( 1046): No need to wake up
+D/VoldCmdListener(   72): asec list
+I/PackageManager(  156): No secure containers on sdcard
+I/Gmail   (  969): calculateUnknownSyncRationalesAndPurgeInBackground: running
+D/dalvikvm(  225): GC_CONCURRENT freed 126K, 6% free 10186K/10823K, paused 1ms+3ms
+D/dalvikvm(  225): GC_FOR_ALLOC freed 199K, 7% free 10163K/10823K, paused 18ms
+D/dalvikvm(  225): GC_FOR_ALLOC freed 176K, 7% free 10163K/10823K, paused 15ms
+D/dalvikvm(  225): GC_FOR_ALLOC freed 424K, 7% free 10070K/10823K, paused 18ms
+W/PackageManager(  156): Unknown permission com.android.vending.permission.UPDATE_MARKET_FAILURE in package com.android.vending.updater
+W/PackageManager(  156): Unknown permission android.permission.ADD_SYSTEM_SERVICE in package com.android.phone
+W/PackageManager(  156): Unknown permission com.android.vending.billing.IBillingAccountService.BIND2 in package com.google.android.gsf.login
+W/PackageManager(  156): Not granting permission android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS to package com.android.browser (protectionLevel=2 flags=0x9be45)
+W/PackageManager(  156): Not granting permission android.permission.CALL_PRIVILEGED to package com.skype.raider (protectionLevel=3 flags=0x8be44)
+W/PackageManager(  156): Unknown permission android.permission.READ_OWNER_DATA in package com.google.android.setupwizard
+W/PackageManager(  156): Unknown permission android.permission.WRITE_OWNER_DATA in package com.google.android.setupwizard
+W/PackageManager(  156): Unknown permission android.permission.WRITE_CDMA_CARRIER_SETTINGS in package com.android.sprintmenu
+W/PackageManager(  156): Unknown permission android.permission.CHANGE_DUN_STATE in package com.android.sprintmenu
+W/PackageManager(  156): Unknown permission android.permission.READ_EXTERNAL_STORAGE in package com.android.videoeditor
+W/PackageManager(  156): Unknown permission android.permission.READ_EXTERNAL_STORAGE in package com.android.vending
+I/dalvikvm(  156): Jit: resizing JitTable from 4096 to 8192
+W/PackageManager(  156): Not granting permission com.google.android.voicesearch.AUDIO_FILE_ACCESS to package com.google.android.gm (protectionLevel=2 flags=0x9be64)
+W/PackageManager(  156): Unknown permission com.estrongs.android.pop.PERMISSION in package com.estrongs.android.pop
+W/PackageManager(  156): Unknown permission com.sprint.internal.permission.CONNECTIONMANAGER in package com.samsung.update
+W/PackageManager(  156): Unknown permission com.sprint.internal.permission.SYSTEMPROPERTIES in package com.samsung.update
+W/PackageManager(  156): Unknown permission com.sprint.internal.permission.SYSTEMPROPERTIES_WRITE in package com.samsung.update
+W/PackageManager(  156): Unknown permission com.android.providers.im.permission.READ_ONLY in package com.google.android.apps.maps
+W/PackageManager(  156): Not granting permission android.permission.DEVICE_POWER to package com.android.deskclock (protectionLevel=2 flags=0x8be45)
+W/PackageManager(  156): Unknown permission android.permission.FLAG_RECEIVER_REGISTERED_ONLY_BEFORE_BOOT in package com.samsung.wimax
+W/PackageManager(  156): Not granting permission android.permission.ACCESS_CHECKIN_PROPERTIES to package com.google.android.apps.googlevoice (protectionLevel=3 flags=0x8be44)
+W/PackageManager(  156): Unknown permission com.google.android.apps.googlevoice.REMOTE_INTENT in package com.google.android.apps.googlevoice
+W/PackageManager(  156): Unknown permission com.google.android.permission.RECEIVE_DATA_MESSAGE in package com.google.android.apps.googlevoice
+W/PackageManager(  156): Unknown permission com.google.android.permission.SEND_DATA_MESSAGE in package com.google.android.apps.googlevoice
+W/PackageManager(  156): Unknown permission com.android.providers.voicemail.permission.READ_WRITE_ALL_VOICEMAIL in package com.google.android.apps.googlevoice
+W/PackageManager(  156): Unknown permission com.android.providers.voicemail.permission.READ_WRITE_OWN_VOICEMAIL in package com.google.android.apps.googlevoice
+D/dalvikvm(  156): GC_EXPLICIT freed 565K, 10% free 13318K/14791K, paused 5ms+8ms
+I/GTalkService/c(  287): [GTalkConnection@1095074496] connect: acct=2, state=CONNECTING
+D/dalvikvm( 1117): GC_CONCURRENT freed 245K, 4% free 9244K/9607K, paused 3ms+2ms
+I/ActivityManager(  156): No longer want com.google.android.onetimeinitializer (pid 914): hidden #16
+I/ActivityManager(  156): No longer want com.android.voicedialer (pid 953): hidden #16
+D/dalvikvm(  380): GC_CONCURRENT freed 444K, 6% free 11919K/12551K, paused 2ms+3ms
+I/PhoneLab-Locks(  512): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  512): User info is synched
+W/PhoneLab-PeriodicCheckService(  512): Logger Service is not running starting now...
+I/PhoneLab-Locks(  512): wake lock acquired
+V/PhoneLab-PeriodicCheckService(  512): Sleeping for  257000
+I/PhoneLab-LoggerService(  512): Start Logger Service
+I/PhoneLab-Locks(  512): wake lock acquired
+I/PhoneLab-UploadLogs(  512): Transfering log files now
+I/PhoneLab-(  512): Service Running
+I/PhoneLab-UploadLogs(  512): No log files to transfer
+I/PhoneLab-Locks(  512): wake lock released
+I/PhoneLab-UploadLogs(  512): OnStartCommand
+I/PhoneLab-StatusMonitor(  512): Status Monitoring is started
+E/PhoneLab-PhoneLabManifest(  512): java.io.FileNotFoundException: /data/data/edu.buffalo.cse.phonelab.phonelabservices/files/manifest.xml: open failed: ENOENT (No such file or directory)
+I/PhoneLab-Locks(  512): wake lock released
+D/dalvikvm(  447): GC_CONCURRENT freed 309K, 5% free 9383K/9799K, paused 2ms+2ms
+I/PhoneLab-LoggerService(  512): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  512): Logcat process not found, starting process
+I/System.out(  512): /mnt/sdcard/.log/
+D/PhoneLab-LoggerService(  512): Logcat COMMAND logcat  -f /mnt/sdcard/.log/log.out  -r 30 -n 20 *:V &
+I/PhoneLab-LoggerService(  512): app_36    1156  512   1444   1076  00000000 40022d88 R logcat
+I/PhoneLab-LoggerService(  512): PID to db 1156
+D/dalvikvm(  447): GC_CONCURRENT freed 48K, 2% free 9749K/9927K, paused 2ms+3ms
+W/MediaScanner(  447): Error opening directory '/mnt/sdcard/.android_secure/', skipping: Permission denied.
+D/dalvikvm(  447): GC_CONCURRENT freed 137K, 3% free 10040K/10311K, paused 2ms+3ms
+D/dalvikvm(  447): GC_CONCURRENT freed 397K, 6% free 10037K/10567K, paused 1ms+2ms
+D/dalvikvm(  225): GC_CONCURRENT freed 369K, 7% free 10142K/10823K, paused 2ms+3ms
+D/dalvikvm(  447): GC_CONCURRENT freed 397K, 6% free 10037K/10567K, paused 3ms+2ms
+D/MediaProvider(  447): object removed 2154
+E/GTalkService(  287): connectionClosed: no XMPPConnection - That's strange!
+E/GTalkService(  287): connectionClosed: no XMPPConnection - That's strange!
+D/dalvikvm(  287): GC_CONCURRENT freed 397K, 6% free 9848K/10375K, paused 4ms+6ms
+E/GTalkService(  287): connectionClosed: no XMPPConnection - That's strange!
+D/ConnectivityService(  156): handleInetConditionHoldEnd: net=1, condition=0, published condition=0
+I/GTalkService/c(  287): [AndroidEndpoint@1094342392] connect: acct=1000000, state=CONNECTING
+I/GTalkService/c(  287): [GTalkConnection@1095084064] connect: acct=1, state=CONNECTING
+I/GTalkService/c(  287): [GTalkConnection@1095074496] connect: acct=2, state=CONNECTING
+E/GTalkService(  287): connectionClosed: no XMPPConnection - That's strange!
+D/dalvikvm(  459): GC_CONCURRENT freed 361K, 5% free 9432K/9927K, paused 2ms+3ms
+E/GTalkService(  287): connectionClosed: no XMPPConnection - That's strange!
+E/GTalkService(  287): connectionClosed: no XMPPConnection - That's strange!
+D/ConnectivityService(  156): handleInetConditionHoldEnd: net=1, condition=0, published condition=0
+I/power   (  156): *** set_screen_state 0
+D/SurfaceFlinger(   78): About to give-up screen, flinger = 0x167c918
+D/dalvikvm(  156): GC_CONCURRENT freed 730K, 8% free 13664K/14791K, paused 4ms+5ms
+V/TransportControlView(  156): Create TCV com.android.internal.widget.TransportControlView@416c2f50
+I/GTalkService/c(  287): [AndroidEndpoint@1094342392] connect: acct=1000000, state=CONNECTING
+I/GTalkService/c(  287): [GTalkConnection@1095084064] connect: acct=1, state=CONNECTING
+I/GTalkService/c(  287): [GTalkConnection@1095074496] connect: acct=2, state=CONNECTING
+E/GTalkService(  287): connectionClosed: no XMPPConnection - That's strange!
+E/GTalkService(  287): connectionClosed: no XMPPConnection - That's strange!
+E/GTalkService(  287): connectionClosed: no XMPPConnection - That's strange!
+D/ConnectivityService(  156): handleInetConditionHoldEnd: net=1, condition=0, published condition=0
+I/PhoneLab-(  512): Service Running
+I/GTalkService/c(  287): [AndroidEndpoint@1094342392] connect: acct=1000000, state=CONNECTING
+I/GTalkService/c(  287): [GTalkConnection@1095084064] connect: acct=1, state=CONNECTING
+I/GTalkService/c(  287): [GTalkConnection@1095074496] connect: acct=2, state=CONNECTING
+D/dalvikvm(  512): GC_CONCURRENT freed 370K, 6% free 9120K/9607K, paused 2ms+2ms
+I/PhoneLab-LoggerService(  512): app_36    1156  512   1444   1076  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  512): Logcat pid from database 1156
+I/PhoneLab-LoggerService(  512): Logcat process found 1156
+I/PhoneLab-LoggerService(  512): Checking Threshold
+I/PhoneLab-LoggerService(  512): Starting to rename files
+I/PhoneLab-LoggerService(  512): Files found .. 25
+I/PhoneLab-LoggerService(  512): File 22 log.out.1
+I/PhoneLab-LoggerService(  512): Renamed successfully
+I/PhoneLab-LoggerService(  512): File 23 log.out.2
+I/PhoneLab-LoggerService(  512): Renamed successfully
+I/PhoneLab-LoggerService(  512): File 24 log.out.3
+I/PhoneLab-LoggerService(  512): Renamed successfully
+E/GTalkService(  287): connectionClosed: no XMPPConnection - That's strange!
+E/GTalkService(  287): connectionClosed: no XMPPConnection - That's strange!
+E/GTalkService(  287): connectionClosed: no XMPPConnection - That's strange!
+D/ConnectivityService(  156): handleInetConditionHoldEnd: net=1, condition=0, published condition=0
+I/GTalkService/c(  287): [AndroidEndpoint@1094342392] connect: acct=1000000, state=CONNECTING
+I/GTalkService/c(  287): [GTalkConnection@1095084064] connect: acct=1, state=CONNECTING
+I/GTalkService/c(  287): [GTalkConnection@1095074496] connect: acct=2, state=CONNECTING
+I/PhoneLab-(  512): Service Running
+I/PhoneLab-LoggerService(  512): app_36    1156  512   1444   1076  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  512): Logcat pid from database 1156
+I/PhoneLab-LoggerService(  512): Logcat process found 1156
+I/PhoneLab-LoggerService(  512): Checking Threshold
+I/PhoneLab-LoggerService(  512): Starting to rename files
+I/PhoneLab-LoggerService(  512): Files found .. 25
+E/GTalkService(  287): connectionClosed: no XMPPConnection - That's strange!
+D/dalvikvm(  287): GC_CONCURRENT freed 375K, 5% free 9864K/10375K, paused 2ms+2ms
+E/GTalkService(  287): connectionClosed: no XMPPConnection - That's strange!

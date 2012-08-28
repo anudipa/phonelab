@@ -1,0 +1,401 @@
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777775, normalSync: true
+I/Gmail   ( 1053): lowestBackward conversation id 0
+W/Gmail   ( 1053): Scheduling index for 300000 ms from now
+D/dalvikvm(  166): GC_EXPLICIT freed 997K, 12% free 13580K/15303K, paused 4ms+7ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777775, normalSync: true
+D/dalvikvm( 1053): GC_EXPLICIT freed 265K, 21% free 11599K/14663K, paused 3ms+11ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777779, normalSync: true
+I/Gmail   ( 1053): lowestBackward conversation id 0
+W/Gmail   ( 1053): Scheduling index for 300000 ms from now
+I/power   (  166): *** set_screen_state 0
+D/SurfaceFlinger(   78): About to give-up screen, flinger = 0xad2918
+D/NfcService(  428): NFC-C OFF, disconnect
+D/dalvikvm(  166): GC_FOR_ALLOC freed 978K, 13% free 13371K/15303K, paused 46ms
+V/TransportControlView(  166): Create TCV com.android.internal.widget.TransportControlView@415d37e8
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info back home RECENT* clock >
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info BACK* HOME* RECENT CLOCK* >
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1103): GC_CONCURRENT freed 470K, 6% free 10439K/11015K, paused 2ms+3ms
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+I/PhoneLab-LoggerService(  565): Starting to rename files
+I/PhoneLab-LoggerService(  565): Files found .. 23
+I/PhoneLab-LoggerService(  565): File 22 log.out.1
+D/dalvikvm(  565): GC_CONCURRENT freed 360K, 18% free 9244K/11143K, paused 2ms+4ms
+I/PhoneLab-LoggerService(  565): Renamed successfully
+I/ActivityManager(  166): Start proc com.google.android.apps.maps for service com.google.android.apps.maps/com.google.googlenav.prefetch.android.PrefetcherService: pid=1499 uid=10058 gids={3003, 1015}
+D/dalvikvm( 1499): GC_CONCURRENT freed 163K, 3% free 9373K/9607K, paused 2ms+2ms
+I/ActivityThread( 1499): Pub com.google.android.maps.LayerInfoProvider: com.google.googlenav.layer.LayerInfoProvider
+I/ActivityThread( 1499): Pub com.google.android.maps.TrafficAppWidgetProvider: com.google.googlenav.appwidget.traffic.TrafficAppWidgetProvider
+I/ActivityThread( 1499): Pub com.google.android.maps.LocalActivePlacesProvider: com.google.googlenav.provider.LocalActivePlacesProvider
+I/ActivityThread( 1499): Pub com.google.android.maps.StarredItemProvider: com.google.googlenav.provider.StarredItemProvider
+D/dalvikvm( 1499): GC_CONCURRENT freed 181K, 4% free 9680K/9991K, paused 1ms+4ms
+I/ActivityThread( 1499): Pub com.google.android.maps.LocalSuggestionProvider: com.google.googlenav.provider.LocalSuggestionProvider
+I/ActivityThread( 1499): Pub com.google.android.maps.SearchHistoryProvider: com.google.googlenav.provider.SearchHistoryProvider
+I/ActivityThread( 1499): Pub com.google.android.maps.NavigationAvailabilityProvider: com.google.googlenav.provider.NavigationAvailabilityProvider
+I/ActivityThread( 1499): Pub com.google.android.maps.SuggestionProvider: com.google.googlenav.suggest.android.SuggestContentProvider
+D/dalvikvm( 1499): GC_CONCURRENT freed 223K, 4% free 9977K/10311K, paused 2ms+4ms
+D/dalvikvm( 1499): GC_FOR_ALLOC freed 51K, 5% free 10144K/10567K, paused 19ms
+I/dalvikvm-heap( 1499): Grow heap (frag case) to 10.170MB for 204816-byte allocation
+D/dalvikvm( 1499): GC_FOR_ALLOC freed <1K, 5% free 10344K/10823K, paused 20ms
+D/dalvikvm( 1499): GC_FOR_ALLOC freed 135K, 4% free 10437K/10823K, paused 20ms
+D/dalvikvm( 1499): GC_FOR_ALLOC freed 24K, 4% free 10643K/11079K, paused 17ms
+I/dalvikvm-heap( 1499): Grow heap (frag case) to 10.657MB for 204816-byte allocation
+D/dalvikvm( 1499): GC_FOR_ALLOC freed <1K, 5% free 10842K/11335K, paused 18ms
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+I/PhoneLab-LoggerService(  565): Starting to rename files
+I/PhoneLab-LoggerService(  565): Files found .. 23
+I/ActivityManager(  166): No longer want com.android.sprintmenu (pid 864): hidden #16
+I/ActivityManager(  166): No longer want com.google.android.apps.googlevoice (pid 1070): hidden #16
+I/ActivityManager(  166): No longer want com.google.android.apps.maps:NetworkLocationService (pid 1103): hidden #17
+W/ActivityManager(  166): Scheduling restart of crashed service com.android.sprintmenu/.HiddenPhoneService in 5000ms
+W/ActivityManager(  166): Scheduling restart of crashed service com.google.android.apps.googlevoice/.CallLogService in 14972ms
+W/ActivityManager(  166): Scheduling restart of crashed service com.google.android.apps.maps/com.google.android.location.internal.server.NetworkLocationService in 24937ms
+I/ActivityManager(  166): Start proc com.android.sprintmenu for service com.android.sprintmenu/.HiddenPhoneService: pid=1538 uid=1001 gids={3002, 3001, 3003, 1015}
+D/dalvikvm( 1538): Debugger has detached; object registry had 1 entries
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  565): User info is synched
+I/PhoneLab-PeriodicCheckService(  565): Logger Service is running
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-UploadLogs(  565): Transfering log files now
+I/PhoneLab-PeriodicCheckService(  565): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  565): Post URI is:: http://107.22.187.240/devicestatus/
+V/PhoneLab-UploadLogs(  565): Posting logs now 
+D/dalvikvm(  565): GC_CONCURRENT freed 499K, 17% free 9256K/11143K, paused 2ms+3ms
+I/PhoneLab-UploadLogs(  565): OnStartCommand
+D/dalvikvm(  166): GC_CONCURRENT freed 794K, 12% free 13541K/15303K, paused 2ms+5ms
+I/PhoneLab-(  565): 1343662532989.log is deleted
+I/PhoneLab-(  565): Response: {"data": "done", "err": ""}
+I/PhoneLab-UploadLogs(  565): No log files to transfer
+I/PhoneLab-Locks(  565): wake lock released
+W/System.err(  565): org.apache.http.client.HttpResponseException: INTERNAL SERVER ERROR
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:71)
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:59)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:657)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:627)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:616)
+W/System.err(  565): 	at edu.buffalo.cse.phonelab.phonelabservices.PeriodicCheckService.onHandleIntent(PeriodicCheckService.java:148)
+W/System.err(  565): 	at android.app.IntentService$ServiceHandler.handleMessage(IntentService.java:65)
+W/System.err(  565): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+W/System.err(  565): 	at android.os.Looper.loop(Looper.java:137)
+W/System.err(  565): 	at android.os.HandlerThread.run(HandlerThread.java:60)
+I/PhoneLab-PeriodicCheckService(  565): Rescheduling periodic checking...
+I/PhoneLab-Locks(  565): wake lock released
+I/ActivityManager(  166): Start proc com.google.android.apps.googlevoice for service com.google.android.apps.googlevoice/.CallLogService: pid=1557 uid=10057 gids={3003, 1015}
+D/dalvikvm( 1557): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1557): GC_CONCURRENT freed 294K, 4% free 9242K/9607K, paused 4ms+5ms
+D/dalvikvm(  693): GC_EXPLICIT freed 348K, 10% free 10174K/11207K, paused 9ms+3ms
+I/ActivityManager(  166): Start proc com.google.android.apps.maps:NetworkLocationService for service com.google.android.apps.maps/com.google.android.location.internal.server.NetworkLocationService: pid=1579 uid=10058 gids={3003, 1015}
+D/dalvikvm( 1579): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1579): GC_CONCURRENT freed 174K, 3% free 9362K/9607K, paused 2ms+2ms
+D/dalvikvm( 1579): GC_CONCURRENT freed 146K, 3% free 9700K/9927K, paused 2ms+1ms
+D/dalvikvm( 1579): GC_CONCURRENT freed 184K, 3% free 10055K/10311K, paused 1ms+2ms
+D/dalvikvm( 1579): GC_CONCURRENT freed 671K, 8% free 9887K/10695K, paused 2ms+2ms
+I/ActivityManager(  166): Start proc com.google.android.apps.maps:FriendService for broadcast com.google.android.apps.maps/com.google.googlenav.friend.android.ServiceReceiver: pid=1600 uid=10058 gids={3003, 1015}
+D/dalvikvm(   79): GC_EXPLICIT freed 38K, 4% free 9031K/9347K, paused 1ms+2ms
+D/dalvikvm(   79): GC_EXPLICIT freed <1K, 4% free 9031K/9347K, paused 2ms+6ms
+D/dalvikvm(   79): GC_EXPLICIT freed <1K, 4% free 9031K/9347K, paused 1ms+5ms
+D/dalvikvm( 1600): GC_CONCURRENT freed 178K, 3% free 9358K/9607K, paused 2ms+3ms
+D/dalvikvm( 1600): GC_CONCURRENT freed 201K, 3% free 9717K/9991K, paused 2ms+4ms
+I/dalvikvm( 1579): Total arena pages for JIT: 11
+I/dalvikvm( 1579): Total arena pages for JIT: 12
+I/dalvikvm( 1579): Total arena pages for JIT: 13
+I/dalvikvm( 1579): Total arena pages for JIT: 14
+I/dalvikvm( 1579): Total arena pages for JIT: 15
+I/dalvikvm( 1579): Total arena pages for JIT: 16
+I/dalvikvm( 1579): Total arena pages for JIT: 17
+D/dalvikvm( 1579): GC_CONCURRENT freed 267K, 6% free 10131K/10695K, paused 1ms+3ms
+D/dalvikvm( 1579): GC_CONCURRENT freed 439K, 5% free 10249K/10759K, paused 2ms+3ms
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1579): GC_CONCURRENT freed 438K, 5% free 10377K/10887K, paused 1ms+3ms
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1579): GC_CONCURRENT freed 561K, 6% free 10380K/11015K, paused 2ms+2ms
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1579): GC_CONCURRENT freed 513K, 6% free 10378K/11015K, paused 2ms+3ms
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+D/dalvikvm(  565): GC_CONCURRENT freed 452K, 18% free 9206K/11143K, paused 2ms+2ms
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1579): GC_CONCURRENT freed 520K, 6% free 10370K/11015K, paused 2ms+3ms
+D/dalvikvm(  166): GC_EXPLICIT freed 482K, 12% free 13562K/15303K, paused 3ms+5ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777779, normalSync: true
+D/dalvikvm( 1053): GC_CONCURRENT freed 1375K, 26% free 10968K/14663K, paused 2ms+4ms
+D/dalvikvm( 1053): GC_EXPLICIT freed 80K, 26% free 10901K/14663K, paused 3ms+4ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777806, normalSync: true
+D/dalvikvm( 1053): GC_EXPLICIT freed 441K, 26% free 10925K/14663K, paused 2ms+3ms
+I/Gmail   ( 1053): MainSyncRequestProto: lowestBkwdConvoId: 0, highestHandledServerOp: 2777806, normalSync: true
+I/Gmail   ( 1053): lowestBackward conversation id 0
+W/Gmail   ( 1053): Scheduling index for 300000 ms from now
+I/Gmail   ( 1053): Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://gmail-ls/unread/^i (has extras) }
+D/dalvikvm( 1053): GC_EXPLICIT freed 164K, 26% free 10932K/14663K, paused 2ms+4ms
+W/Gmail   ( 1053): Showing notification with unreadCount of 15 and unseenCount of 1
+I/AudioService(  166):  AudioFocus  requestAudioFocus() from android.media.AudioManager@41544280
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+D/dalvikvm(  326): GC_FOR_ALLOC freed 431K, 7% free 10252K/11015K, paused 16ms
+D/dalvikvm(  326): GC_CONCURRENT freed 329K, 6% free 10362K/11015K, paused 2ms+4ms
+I/AudioService(  166):  AudioFocus  abandonAudioFocus() from android.media.AudioManager@41544280
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  565): User info is synched
+I/PhoneLab-PeriodicCheckService(  565): Logger Service is running
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-StatusMonitor(  565): Status Monitoring is started
+I/PhoneLab-Locks(  565): wake lock acquired
+E/PhoneLab-PhoneLabManifest(  565): java.io.FileNotFoundException: /data/data/edu.buffalo.cse.phonelab.phonelabservices/files/manifest.xml: open failed: ENOENT (No such file or directory)
+I/PhoneLab-PeriodicCheckService(  565): Sending Heartbeat message 
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-UploadLogs(  565): Transfering log files now
+I/PhoneLab-UploadLogs(  565): No log files to transfer
+I/PhoneLab-PeriodicCheckService(  565): Post URI is:: http://107.22.187.240/devicestatus/
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-UploadLogs(  565): OnStartCommand
+W/System.err(  565): org.apache.http.client.HttpResponseException: INTERNAL SERVER ERROR
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:71)
+W/System.err(  565): 	at org.apache.http.impl.client.BasicResponseHandler.handleResponse(BasicResponseHandler.java:59)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:657)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:627)
+W/System.err(  565): 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:616)
+W/System.err(  565): 	at edu.buffalo.cse.phonelab.phonelabservices.PeriodicCheckService.onHandleIntent(PeriodicCheckService.java:148)
+W/System.err(  565): 	at android.app.IntentService$ServiceHandler.handleMessage(IntentService.java:65)
+W/System.err(  565): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+W/System.err(  565): 	at android.os.Looper.loop(Looper.java:137)
+W/System.err(  565): 	at android.os.HandlerThread.run(HandlerThread.java:60)
+I/PhoneLab-PeriodicCheckService(  565): Rescheduling periodic checking...
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1579): GC_CONCURRENT freed 467K, 6% free 10414K/11015K, paused 2ms+3ms
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+I/EventLogService(  693): Aggregate from 1343661359847 (log), 1343661359847 (data)
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1579): GC_CONCURRENT freed 516K, 6% free 10410K/11015K, paused 2ms+3ms
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  565): User info is synched
+I/PhoneLab-PeriodicCheckService(  565): Logger Service is running
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-UploadLogs(  565): Transfering log files now
+I/PhoneLab-UploadLogs(  565): No log files to transfer
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-UploadLogs(  565): OnStartCommand
+I/PhoneLab-PeriodicCheckService(  565): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  565): Post URI is:: http://107.22.187.240/devicestatus/
+I/PhoneLab-PeriodicCheckService(  565): Heartbeat message successfully sent : 
+I/PhoneLab-PeriodicCheckService(  565): Rescheduling periodic checking...
+I/PhoneLab-Locks(  565): wake lock released
+D/dalvikvm(  565): GC_CONCURRENT freed 409K, 18% free 9198K/11143K, paused 12ms+2ms
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1579): GC_CONCURRENT freed 561K, 6% free 10360K/11015K, paused 2ms+3ms
+D/dalvikvm(  326): GC_CONCURRENT freed 398K, 7% free 10347K/11015K, paused 1ms+3ms
+W/Gmail   ( 1053): Successful index run, cancel next scheduled index run
+W/ActivityManager(  166): Timeout of broadcast BroadcastRecord{417b0ae8 com.android.server.action.NETWORK_STATS_POLL} - receiver=android.app.LoadedApk$ReceiverDispatcher$InnerReceiver@41718290, started 10002ms ago
+W/ActivityManager(  166): Receiver during timeout: BroadcastFilter{417184d8 ReceiverList{41718460 166 system/1000 local:41718290}}
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+D/dalvikvm(  166): GC_CONCURRENT freed 991K, 11% free 13630K/15303K, paused 17ms+5ms
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  565): User info is synched
+I/PhoneLab-PeriodicCheckService(  565): Logger Service is running
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-UploadLogs(  565): Transfering log files now
+I/PhoneLab-UploadLogs(  565): No log files to transfer
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-UploadLogs(  565): OnStartCommand
+I/PhoneLab-PeriodicCheckService(  565): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  565): Post URI is:: http://107.22.187.240/devicestatus/
+I/PhoneLab-PeriodicCheckService(  565): Heartbeat message successfully sent : 
+I/PhoneLab-PeriodicCheckService(  565): Rescheduling periodic checking...
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+D/dalvikvm( 1579): GC_CONCURRENT freed 492K, 7% free 10255K/11015K, paused 1ms+2ms
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1579): GC_CONCURRENT freed 394K, 6% free 10372K/11015K, paused 2ms+3ms
+I/wpa_supplicant(  312): wlan0: CTRL-EVENT-DISCONNECTED bssid=00:02:6f:d1:9c:24 reason=0
+D/CommandListener(   75): Clearing all IP addresses on wlan0
+D/ConnectivityService(  166): ConnectivityChange for WIFI: DISCONNECTED/DISCONNECTED
+D/ConnectivityService(  166): Attempting to switch to mobile
+D/ConnectivityService(  166): Attempting to switch to WIMAX
+D/ConnectivityService(  166): Attempting to switch to BLUETOOTH_TETHER
+D/NetUtils(  166): android_net_utils_resetConnections in env=0xa609a0 clazz=0x42c00001 iface=wlan0 mask=0x3
+E/ConnectivityService(  166): Exception trying to remove a route: java.lang.IllegalStateException: Unable to communicate with native dameon to add routes - com.android.server.NativeDaemonConnectorException: Cmd {interface route remove wlan0 default 192.168.0.1 32 0.0.0.0} failed with code 400 : {Failed to remove route from default table (No such process)}
+E/ConnectivityService(  166): Exception trying to remove a route: java.lang.IllegalStateException: Unable to communicate with native dameon to add routes - com.android.server.NativeDaemonConnectorException: Cmd {interface route remove wlan0 default 0.0.0.0 0 192.168.0.1} failed with code 400 : {Failed to remove route from default table (No such process)}
+D/ConnectivityService(  166): resetConnections(wlan0, 3)
+W/Smack/Packet(  693): notify conn break (IOEx), close connection
+I/qtaguid (  693): Failed write_ctrl(u 81) res=-1 errno=22
+I/qtaguid (  693): Untagging socket 81 failed errno=-22
+W/NetworkManagementSocketTagger(  693): untagSocket(81) failed with errno -22
+D/ConnectivityService(  166): handleInetConditionChange: no active default network - ignore
+I/wpa_supplicant(  312): wlan0: Trying to associate with 00:02:6f:d1:9c:24 (SSID='Hidden' freq=2427 MHz)
+I/wpa_supplicant(  312): wlan0: Associated with 00:02:6f:d1:9c:24
+I/wpa_supplicant(  312): wlan0: WPA: Key negotiation completed with 00:02:6f:d1:9c:24 [PTK=TKIP GTK=TKIP]
+I/wpa_supplicant(  312): wlan0: CTRL-EVENT-CONNECTED - Connection to 00:02:6f:d1:9c:24 completed (reauth) [id=0 id_str=]
+D/DhcpInfoInternal(  166): makeLinkProperties with empty dns2!
+D/DhcpInfoInternal(  166): makeLinkProperties with empty dns2!
+D/ConnectivityService(  166): ConnectivityChange for WIFI: CONNECTED/CONNECTED
+I/PhoneLab-WiFiReceiver(  565): Wi-Fi is connected!
+I/PhoneLab-WiFiReceiver(  565): SSID: Hidden BSSID: 00:02:6f:d1:9c:24 RSSI: -200 LinkSpeed: -1
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-UploadLogs(  565): Transfering log files now
+I/PhoneLab-UploadLogs(  565): No log files to transfer
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-UploadLogs(  565): OnStartCommand
+W/NetworkStats(  166): dropping UID delta from unknown iface: iface=wlan0 uid=0 set=DEFAULT tag=0x0 rxBytes=64 rxPackets=1 txBytes=216 txPackets=3 operations=0
+D/Tethering(  166): MasterInitialState.processMessage what=3
+I/GTalkService/c(  693): [AndroidEndpoint@1094190864] connect: acct=1000000, state=CONNECTING
+I/GTalkService/c(  693): [GTalkConnection@1094382480] connect: acct=1, state=CONNECTING
+I/GTalkService/c(  693): [GTalkConnection@1094815256] connect: acct=2, state=CONNECTING
+I/MediaUploader( 1182): No need to wake up
+I/PhoneLab-WiFiReceiver(  565): Wi-Fi is disconnected!
+D/PicasaSyncManager( 1199): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/PicasaSyncManager( 1199): background data: true
+D/dalvikvm(  693): GC_CONCURRENT freed 407K, 10% free 10164K/11207K, paused 2ms+4ms
+D/ConnectivityService(  166): NetTransition Wakelock for WifiStateMachine released by timeout
+D/ConnectivityService(  166): handleInetConditionHoldEnd: net=1, condition=100, published condition=0
+D/dalvikvm(  693): GC_CONCURRENT freed 384K, 10% free 10174K/11207K, paused 4ms+6ms
+D/Tethering(  166): MasterInitialState.processMessage what=3
+D/PicasaSyncManager( 1199): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/PicasaSyncManager( 1199): background data: true
+D/dalvikvm(  166): GC_EXPLICIT freed 976K, 11% free 13651K/15303K, paused 3ms+7ms
+I/MediaUploader( 1182): No need to wake up
+D/ConnectivityService(  166): handleInetConditionHoldEnd: net=1, condition=100, published condition=100
+D/ConnectivityService(  166): ConnectivityChange for mobile: CONNECTED/CONNECTED
+D/NetUtils(  166): android_net_utils_resetConnections in env=0xa609a0 clazz=0x56e00001 iface=rmnet0 mask=0x3
+D/ConnectivityService(  166): ConnectivityChange for mobile: DISCONNECTED/DISCONNECTED
+D/ConnectivityService(  166): Attempting to switch to WIFI
+D/ConnectivityService(  166): Attempting to switch to WIMAX
+D/ConnectivityService(  166): Attempting to switch to BLUETOOTH_TETHER
+D/ConnectivityService(  166): resetConnections(rmnet0, 3)
+D/Tethering(  166): MasterInitialState.processMessage what=3
+D/Tethering(  166): MasterInitialState.processMessage what=3
+I/MediaUploader( 1182): No need to wake up
+D/PicasaSyncManager( 1199): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/PicasaSyncManager( 1199): background data: true
+D/PicasaSyncManager( 1199): active network: NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true
+D/PicasaSyncManager( 1199): background data: true
+I/MediaUploader( 1182): No need to wake up
+D/ConnectivityService(  166): handleInetConditionHoldEnd: net=1, condition=100, published condition=100
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1579): GC_CONCURRENT freed 499K, 6% free 10385K/11015K, paused 2ms+2ms
+I/PhoneLab-(  565): Service Running
+D/dalvikvm(  565): GC_CONCURRENT freed 393K, 18% free 9220K/11143K, paused 1ms+2ms
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  565): User info is synched
+I/PhoneLab-PeriodicCheckService(  565): Logger Service is running
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-UploadLogs(  565): Transfering log files now
+I/PhoneLab-UploadLogs(  565): No log files to transfer
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-UploadLogs(  565): OnStartCommand
+I/PhoneLab-PeriodicCheckService(  565): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  565): Post URI is:: http://107.22.187.240/devicestatus/
+I/PhoneLab-PeriodicCheckService(  565): Heartbeat message successfully sent : 
+I/PhoneLab-PeriodicCheckService(  565): Rescheduling periodic checking...
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1579): GC_CONCURRENT freed 527K, 6% free 10369K/11015K, paused 1ms+3ms
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+D/dalvikvm(  166): GC_CONCURRENT freed 1055K, 11% free 13644K/15303K, paused 2ms+5ms
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  565): User info is synched
+I/PhoneLab-PeriodicCheckService(  565): Logger Service is running
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-UploadLogs(  565): Transfering log files now
+I/PhoneLab-UploadLogs(  565): No log files to transfer
+I/PhoneLab-Locks(  565): wake lock released
+I/PhoneLab-UploadLogs(  565): OnStartCommand
+I/PhoneLab-PeriodicCheckService(  565): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  565): Post URI is:: http://107.22.187.240/devicestatus/
+I/PhoneLab-PeriodicCheckService(  565): Heartbeat message successfully sent : 
+I/PhoneLab-PeriodicCheckService(  565): Rescheduling periodic checking...
+I/PhoneLab-Locks(  565): wake lock released
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1579): GC_CONCURRENT freed 466K, 6% free 10414K/11015K, paused 2ms+2ms
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+D/dalvikvm(  565): GC_CONCURRENT freed 419K, 18% free 9189K/11143K, paused 2ms+2ms
+D/dalvikvm(  410): GC_CONCURRENT freed 425K, 6% free 9499K/10055K, paused 18ms+2ms
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+W/ActivityManager(  166): finishReceiver called but no pending broadcasts
+D/dalvikvm( 1579): GC_CONCURRENT freed 515K, 6% free 10410K/11015K, paused 2ms+4ms
+I/PhoneLab-(  565): Service Running
+I/PhoneLab-LoggerService(  565): app_36    1356  565   1768   1400  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  565): Logcat pid from database 1356
+I/PhoneLab-LoggerService(  565): Logcat process found 1356
+I/PhoneLab-LoggerService(  565): Checking Threshold
+I/ActivityManager(  166): No longer want com.android.calendar (pid 1159): hidden #16
+I/ActivityManager(  166): No longer want com.android.providers.calendar (pid 1235): hidden #16
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  565): User info is synched
+I/PhoneLab-PeriodicCheckService(  565): Logger Service is running
+I/PhoneLab-Locks(  565): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  565): Sending Heartbeat message 
+I/PhoneLab-UploadLogs(  565): Transfering log files now
+I/PhoneLab-UploadLogs(  565): No log files to transfer
+I/PhoneLab-Locks(  565): wake lock released

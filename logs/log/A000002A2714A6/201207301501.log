@@ -1,0 +1,334 @@
+I/PhoneLab-(  605): Service Running
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1408  c010c604 40010474 D logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 36
+I/PhoneLab-LoggerService(  605): File 24 log.out.1
+D/dalvikvm(  605): GC_CONCURRENT freed 481K, 6% free 9155K/9735K, paused 2ms+2ms
+I/PhoneLab-LoggerService(  605): Renamed successfully
+I/PhoneLab-Locks(  605): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  605): User info is synched
+I/PhoneLab-PeriodicCheckService(  605): Logger Service is running
+V/PhoneLab-PeriodicCheckService(  605): Sleeping for  123000
+I/PhoneLab-(  605): Service Running
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1408  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 36
+I/PhoneLab-PeriodicCheckService(  605): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  605): Post URI is:: http://107.22.187.240/devicestatus/
+I/PhoneLab-PeriodicCheckService(  605): Heartbeat message successfully sent : 
+I/PhoneLab-PeriodicCheckService(  605): Rescheduling periodic checking...
+I/PhoneLab-Locks(  605): wake lock released
+D/dalvikvm(  326): GC_CONCURRENT freed 588K, 13% free 9665K/11015K, paused 7ms+3ms
+I/PhoneLab-(  605): Service Running
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1408  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 36
+I/PhoneLab-(  605): Service Running
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1408  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 36
+I/power   (  167): *** set_screen_state 1
+I/WindowManager(  167): Lock screen displayed!
+D/SurfaceFlinger(   78): Screen about to return, flinger = 0x7c9918
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info BACK HOME recent* CLOCK >
+D/NfcService(  419): NFC-C ON
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+W/InputManagerService(  167): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@41376090
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info back* home* recent clock* >
+D/dalvikvm(  696): GC_CONCURRENT freed 330K, 5% free 10801K/11335K, paused 8ms+7ms
+D/dalvikvm( 2744): GC_CONCURRENT freed 373K, 6% free 9491K/9991K, paused 4ms+12ms
+D/dalvikvm( 2744): GC_CONCURRENT freed 388K, 6% free 9536K/10055K, paused 2ms+3ms
+D/WebViewTimersControl( 1608): onBrowserActivityResume
+D/WebViewTimersControl( 1608): Resuming webview timers, view=com.android.browser.BrowserWebView@4134d970
+W/BaseUi  ( 1608): mMainView is already attached to wrapper in attachTabToContentView!
+W/BaseUi  ( 1608): mContainer is already attached to content in attachTabToContentView!
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+D/dalvikvm(  167): GC_CONCURRENT freed 1132K, 13% free 13997K/16071K, paused 13ms+38ms
+W/InputManagerService(  167): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@416f9960 (uid=10053 pid=1052)
+D/OpenGLRenderer( 1052): Flushing caches (mode 0)
+D/OpenGLRenderer( 1052): Flushing caches (mode 1)
+I/ActivityManager(  167): Process com.google.android.gallery3d (pid 1891) has died.
+D/AudioHardware(   81): AudioHardware pcm playback is exiting standby.
+D/AudioHardware(   81): openPcmOut_l() mPcmOpenCnt: 0
+I/ActivityManager(  167): Process android.process.media (pid 1834) has died.
+D/dalvikvm( 1608): GC_FOR_ALLOC freed 361K, 8% free 10946K/11783K, paused 31ms
+I/dalvikvm-heap( 1608): Grow heap (frag case) to 10.923MB for 172816-byte allocation
+D/dalvikvm( 1608): GC_FOR_ALLOC freed 13K, 8% free 11101K/11975K, paused 25ms
+I/ActivityManager(  167): Process com.google.android.talk (pid 1929) has died.
+D/OpenGLRenderer( 1052): Flushing caches (mode 1)
+D/webviewglue( 1608): nativeDestroy view: 0x2315948
+D/AudioHardware(   81): AudioHardware pcm playback is going to standby.
+D/AudioHardware(   81): closePcmOut_l() mPcmOpenCnt: 1
+W/BaseUi  ( 1608): mMainView is already attached to wrapper in attachTabToContentView!
+W/BaseUi  ( 1608): mContainer is already attached to content in attachTabToContentView!
+D/dalvikvm( 1608): GC_FOR_ALLOC freed 468K, 8% free 11127K/11975K, paused 29ms
+I/ActivityManager(  167): START {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher} from pid 167
+I/PhoneLab-(  605): Service Running
+I/Process (  167): Sending signal. PID: 435 SIG: 3
+I/dalvikvm(  435): threadid=3: reacting to signal 3
+I/dalvikvm(  435): Wrote stack traces to '/data/anr/traces.txt'
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+D/dalvikvm( 1608): GC_FOR_ALLOC freed 246K, 8% free 11111K/11975K, paused 77ms
+I/ActivityManager(  167): Process com.google.android.apps.uploader (pid 1908) has died.
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 1)
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1404  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 36
+D/dalvikvm( 1608): GC_FOR_ALLOC freed 251K, 8% free 11117K/11975K, paused 44ms
+E/browser ( 1608): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=cT0K16Nw3T9xPQrXo3DdPwAAAMChRfY_cT0K16Nw3T9xPQrXo3DdP5La83jRvOhMC4sVUNHVGVjM1BZQAAAAAGRrCQCWAQAAlgEAAAIAAABXzxMAiWEBAAAAAABVU0QAVVNEANgCWgAuQAAA2S4AAgQCAQUAAIIAwSVQNwAAAAA.&cnd=%21yyNRMAjH4ggQ155PGAAgicMFMAA4roAFQANIlgNQ5NYlWABgM2gAcBB4qDuAARCIAag7kAEBmAEBoAEBqAEAsAEAuQFxPQrXo3DdP8EBcT0K16Nw3T_JAZqZmZmZmfE_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+33518%2C+1343673548%29%3Buf%28%27r%27%2C+1298263%2C+1343673548%29%3B&ccd=%21GgVsKwjH4ggQ155PGInDBSAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1608):  null:1
+E/browser ( 1608): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=cT0K16Nw3T9xPQrXo3DdPwAAAMChRfY_cT0K16Nw3T9xPQrXo3DdP5La83jRvOhMC4sVUNHVGVjM1BZQAAAAAGRrCQCWAQAAlgEAAAIAAABXzxMAiWEBAAAAAABVU0QAVVNEANgCWgAuQAAA2S4AAgQCAQUAAIIAwSVQNwAAAAA.&cnd=%21yyNRMAjH4ggQ155PGAAgicMFMAA4roAFQANIlgNQ5NYlWABgM2gAcBB4qDuAARCIAag7kAEBmAEBoAEBqAEAsAEAuQFxPQrXo3DdP8EBcT0K16Nw3T_JAZqZmZmZmfE_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+33518%2C+1343673548%29%3Buf%28%27r%27%2C+1298263%2C+1343673548%29%3B&ccd=%21GgVsKwjH4ggQ155PGInDBSAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1608):  null:1
+E/browser ( 1608): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=cT0K16Nw3T9xPQrXo3DdPwAAAMChRfY_cT0K16Nw3T9xPQrXo3DdP5La83jRvOhMC4sVUNHVGVjM1BZQAAAAAGRrCQCWAQAAlgEAAAIAAABXzxMAiWEBAAAAAABVU0QAVVNEANgCWgAuQAAA2S4AAgQCAQUAAIIAwSVQNwAAAAA.&cnd=%21yyNRMAjH4ggQ155PGAAgicMFMAA4roAFQANIlgNQ5NYlWABgM2gAcBB4qDuAARCIAag7kAEBmAEBoAEBqAEAsAEAuQFxPQrXo3DdP8EBcT0K16Nw3T_JAZqZmZmZmfE_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+33518%2C+1343673548%29%3Buf%28%27r%27%2C+1298263%2C+1343673548%29%3B&ccd=%21GgVsKwjH4ggQ155PGInDBSAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1608):  null:1
+E/browser ( 1608): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=cT0K16Nw3T9xPQrXo3DdPwAAAMChRfY_cT0K16Nw3T9xPQrXo3DdP5La83jRvOhMC4sVUNHVGVjM1BZQAAAAAGRrCQCWAQAAlgEAAAIAAABXzxMAiWEBAAAAAABVU0QAVVNEANgCWgAuQAAA2S4AAgQCAQUAAIIAwSVQNwAAAAA.&cnd=%21yyNRMAjH4ggQ155PGAAgicMFMAA4roAFQANIlgNQ5NYlWABgM2gAcBB4qDuAARCIAag7kAEBmAEBoAEBqAEAsAEAuQFxPQrXo3DdP8EBcT0K16Nw3T_JAZqZmZmZmfE_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+33518%2C+1343673548%29%3Buf%28%27r%27%2C+1298263%2C+1343673548%29%3B&ccd=%21GgVsKwjH4ggQ155PGInDBSAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1608):  null:1
+E/browser ( 1608): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=cT0K16Nw3T9xPQrXo3DdPwAAAMChRfY_cT0K16Nw3T9xPQrXo3DdP5La83jRvOhMC4sVUNHVGVjM1BZQAAAAAGRrCQCWAQAAlgEAAAIAAABXzxMAiWEBAAAAAABVU0QAVVNEANgCWgAuQAAA2S4AAgQCAQUAAIIAwSVQNwAAAAA.&cnd=%21yyNRMAjH4ggQ155PGAAgicMFMAA4roAFQANIlgNQ5NYlWABgM2gAcBB4qDuAARCIAag7kAEBmAEBoAEBqAEAsAEAuQFxPQrXo3DdP8EBcT0K16Nw3T_JAZqZmZmZmfE_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+33518%2C+1343673548%29%3Buf%28%27r%27%2C+1298263%2C+1343673548%29%3B&ccd=%21GgVsKwjH4ggQ155PGInDBSAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1608):  null:1
+E/browser ( 1608): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=cT0K16Nw3T9xPQrXo3DdPwAAAMChRfY_cT0K16Nw3T9xPQrXo3DdP5La83jRvOhMC4sVUNHVGVjM1BZQAAAAAGRrCQCWAQAAlgEAAAIAAABXzxMAiWEBAAAAAABVU0QAVVNEANgCWgAuQAAA2S4AAgQCAQUAAIIAwSVQNwAAAAA.&cnd=%21yyNRMAjH4ggQ155PGAAgicMFMAA4roAFQANIlgNQ5NYlWABgM2gAcBB4qDuAARCIAag7kAEBmAEBoAEBqAEAsAEAuQFxPQrXo3DdP8EBcT0K16Nw3T_JAZqZmZmZmfE_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+33518%2C+1343673548%29%3Buf%28%27r%27%2C+1298263%2C+1343673548%29%3B&ccd=%21GgVsKwjH4ggQ155PGInDBSAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1608):  null:1
+E/browser ( 1608): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=cT0K16Nw3T9xPQrXo3DdPwAAAMChRfY_cT0K16Nw3T9xPQrXo3DdP5La83jRvOhMC4sVUNHVGVjM1BZQAAAAAGRrCQCWAQAAlgEAAAIAAABXzxMAiWEBAAAAAABVU0QAVVNEANgCWgAuQAAA2S4AAgQCAQUAAIIAwSVQNwAAAAA.&cnd=%21yyNRMAjH4ggQ155PGAAgicMFMAA4roAFQANIlgNQ5NYlWABgM2gAcBB4qDuAARCIAag7kAEBmAEBoAEBqAEAsAEAuQFxPQrXo3DdP8EBcT0K16Nw3T_JAZqZmZmZmfE_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+33518%2C+1343673548%29%3Buf%28%27r%27%2C+1298263%2C+1343673548%29%3B&ccd=%21GgVsKwjH4ggQ155PGInDBSAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1608):  null:1
+E/browser ( 1608): Console: Unsafe JavaScript attempt to access frame with URL http://www.explosm.net/comics/2876/ from frame with URL http://ib.adnxs.com/if?enc=cT0K16Nw3T9xPQrXo3DdPwAAAMChRfY_cT0K16Nw3T9xPQrXo3DdP5La83jRvOhMC4sVUNHVGVjM1BZQAAAAAGRrCQCWAQAAlgEAAAIAAABXzxMAiWEBAAAAAABVU0QAVVNEANgCWgAuQAAA2S4AAgQCAQUAAIIAwSVQNwAAAAA.&cnd=%21yyNRMAjH4ggQ155PGAAgicMFMAA4roAFQANIlgNQ5NYlWABgM2gAcBB4qDuAARCIAag7kAEBmAEBoAEBqAEAsAEAuQFxPQrXo3DdP8EBcT0K16Nw3T_JAZqZmZmZmfE_2QEAAAAAAADwP-ABAA..&udj=uf%28%27a%27%2C+33518%2C+1343673548%29%3Buf%28%27r%27%2C+1298263%2C+1343673548%29%3B&ccd=%21GgVsKwjH4ggQ155PGInDBSAD&vpid=25&media_subtypes=1&dlo=1. Domains, protocols and ports must match.
+E/browser ( 1608):  null:1
+E/browser ( 1608): Console: Uncaught SyntaxError: Unexpected token ILLEGAL http://tag.admeld.com/match?admeld_adprovider_id=676&external_user_id=0&expiration=7days:1
+E/browser ( 1608): Console: Uncaught SyntaxError: Unexpected token ILLEGAL http://cm.netseer.com/redirect?ex=13&admeld_user_id=16737128-de33-47c4-b097-e9211d6df33d&admeld_adprovider_id=622&admeld_call_type=js&admeld_callback=http://tag.admeld.com/match:1
+E/browser ( 1608): Console: Uncaught SyntaxError: Unexpected token ILLEGAL http://dis.criteo.com/dis/usersync.aspx?r=2&p=1&cp=Admeld&cu=1&url=http%3A%2F%2Ftag.admeld.com%2Fmatch%3Fadmeld_adprovider_id%3D227%26external_user_id%3D%40%40CRITEO_USERID%40%40&admeld_user_id=16737128-de33-47c4-b097-e9211d6df33d&admeld_adprovider_id=227&admeld_call_type=js&admeld_callback=http://tag.admeld.com/match:1
+D/dalvikvm( 1608): GC_FOR_ALLOC freed 358K, 7% free 11140K/11975K, paused 23ms
+D/dalvikvm( 1608): GC_FOR_ALLOC freed 157K, 6% free 11299K/11975K, paused 34ms
+I/PhoneLab-Locks(  605): wake lock acquired
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+I/PhoneLab-PeriodicCheckService(  605): User info is synched
+I/PhoneLab-PeriodicCheckService(  605): Logger Service is running
+V/PhoneLab-PeriodicCheckService(  605): Sleeping for  121000
+I/power   (  167): *** set_screen_state 0
+D/SurfaceFlinger(   78): About to give-up screen, flinger = 0x7c9918
+D/NfcService(  419): NFC-C OFF, disconnect
+D/dalvikvm(  167): GC_FOR_ALLOC freed 1234K, 15% free 13794K/16071K, paused 70ms
+V/TransportControlView(  167): Create TCV com.android.internal.widget.TransportControlView@4133e4f0
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info back home RECENT* clock >
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+D/PhoneStatusBar(  326): disable: < expand icons alerts ticker system_info BACK* HOME* RECENT CLOCK* >
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm(  167): GC_EXPLICIT freed 79K, 13% free 14016K/16071K, paused 8ms+6ms
+I/PhoneLab-(  605): Service Running
+D/dalvikvm(  605): GC_CONCURRENT freed 456K, 6% free 9185K/9735K, paused 5ms+2ms
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1404  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 36
+I/PhoneLab-PeriodicCheckService(  605): Sending Heartbeat message 
+I/PhoneLab-PeriodicCheckService(  605): Post URI is:: http://107.22.187.240/devicestatus/
+I/PhoneLab-PeriodicCheckService(  605): Heartbeat message successfully sent : 
+I/PhoneLab-PeriodicCheckService(  605): Rescheduling periodic checking...
+I/PhoneLab-Locks(  605): wake lock released
+I/PhoneLab-(  605): Service Running
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1404  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 36
+V/BackupManagerService(  167): Running a backup pass
+V/BackupManagerService(  167): Backup requested but nothing pending
+D/dalvikvm(  696): GC_EXPLICIT freed 355K, 6% free 10741K/11335K, paused 3ms+4ms
+I/EventLogService(  696): Aggregate from 1343672160734 (log), 1343672160734 (data)
+I/PhoneLab-(  605): Service Running
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1404  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 36
+I/PhoneLab-(  605): Service Running
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1404  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 36
+I/PhoneLab-Locks(  605): wake lock acquired
+I/PhoneLab-PeriodicCheckService(  605): User info is synched
+I/PhoneLab-PeriodicCheckService(  605): Logger Service is running
+V/PhoneLab-PeriodicCheckService(  605): Sleeping for  246000
+I/PhoneLab-(  605): Service Running
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1404  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 36
+D/dalvikvm(  605): GC_CONCURRENT freed 485K, 7% free 9151K/9735K, paused 2ms+2ms
+I/wpa_supplicant(  307): wlan0: CTRL-EVENT-DISCONNECTED bssid=d0:c2:82:67:e7:61 reason=0
+D/CommandListener(   75): Clearing all IP addresses on wlan0
+D/ConnectivityService(  167): ConnectivityChange for WIFI: DISCONNECTED/DISCONNECTED
+D/ConnectivityService(  167): Attempting to switch to mobile
+D/ConnectivityService(  167): Attempting to switch to WIMAX
+D/ConnectivityService(  167): Attempting to switch to BLUETOOTH_TETHER
+E/ConnectivityService(  167): Exception trying to remove a route: java.lang.IllegalStateException: Unable to communicate with native dameon to add routes - com.android.server.NativeDaemonConnectorException: Cmd {interface route remove wlan0 default 67.20.205.254 32 0.0.0.0} failed with code 400 : {Failed to remove route from default table (No such process)}
+E/ConnectivityService(  167): Exception trying to remove a route: java.lang.IllegalStateException: Unable to communicate with native dameon to add routes - com.android.server.NativeDaemonConnectorException: Cmd {interface route remove wlan0 default 0.0.0.0 0 67.20.205.254} failed with code 400 : {Failed to remove route from default table (No such process)}
+D/NetUtils(  167): android_net_utils_resetConnections in env=0x20a9fc8 clazz=0x19b00001 iface=wlan0 mask=0x3
+D/ConnectivityService(  167): resetConnections(wlan0, 3)
+W/Smack/Packet(  696): notify conn break (IOEx), close connection
+I/qtaguid (  696): Failed write_ctrl(u 29) res=-1 errno=22
+I/qtaguid (  696): Untagging socket 29 failed errno=-22
+W/NetworkManagementSocketTagger(  696): untagSocket(29) failed with errno -22
+D/ConnectivityService(  167): handleInetConditionChange: no active default network - ignore
+I/wpa_supplicant(  307): wlan0: Trying to associate with d0:c2:82:2d:e5:b1 (SSID='UB_Secure' freq=2412 MHz)
+I/wpa_supplicant(  307): wlan0: Associated with d0:c2:82:2d:e5:b1
+I/wpa_supplicant(  307): wlan0: CTRL-EVENT-EAP-STARTED EAP authentication started
+I/wpa_supplicant(  307): wlan0: CTRL-EVENT-EAP-PROPOSED-METHOD vendor=0 method=4 -> NAK
+I/wpa_supplicant(  307): wlan0: CTRL-EVENT-EAP-PROPOSED-METHOD vendor=0 method=25
+I/wpa_supplicant(  307): wlan0: CTRL-EVENT-EAP-METHOD EAP vendor 0 method 25 (PEAP) selected
+I/wpa_supplicant(  307): wlan0: CTRL-EVENT-EAP-PEER-CERT depth=2 subject='/C=US/O=Entrust.net/OU=www.entrust.net/CPS incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Secure Server Certification Authority'
+I/wpa_supplicant(  307): wlan0: CTRL-EVENT-EAP-PEER-CERT depth=2 subject='/C=US/O=Entrust.net/OU=www.entrust.net/CPS incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Secure Server Certification Authority'
+I/wpa_supplicant(  307): wlan0: CTRL-EVENT-EAP-PEER-CERT depth=1 subject='/C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/CN=USERTrust Legacy Secure Server CA'
+I/wpa_supplicant(  307): wlan0: CTRL-EVENT-EAP-PEER-CERT depth=0 subject='/C=US/postalCode=14260/ST=New York/L=Buffalo/street=305 Computing Center/O=SUNY AT BUFFALO/OU=Office of the President/OU=Issued through UNIVERSITY AT BUFFALO E-PKI Manager/OU=PremiumSSL Legacy/CN=ubsecure.acsu.buffalo.edu'
+D/Tethering(  167): MasterInitialState.processMessage what=3
+I/ActivityManager(  167): Start proc android.process.media for broadcast com.android.providers.downloads/.DownloadReceiver: pid=2906 uid=10012 gids={1015, 1023, 1024, 2001, 3003, 3007}
+I/ActivityThread( 2906): Pub media: com.android.providers.media.MediaProvider
+I/ActivityThread( 2906): Pub downloads: com.android.providers.downloads.DownloadProvider
+I/ActivityThread( 2906): Pub drm: com.android.providers.drm.DrmProvider
+I/DownloadManager( 2906): in removeSpuriousFiles
+I/ActivityManager(  167): Start proc com.google.android.gallery3d for broadcast com.google.android.gallery3d/com.google.android.picasasync.ConnectivityReceiver: pid=2922 uid=10016 gids={3003, 1015}
+I/DownloadManager( 2906): in removeSpuriousFiles, preserving file /data/data/com.android.providers.downloads/cache/metadata-1.json
+I/DownloadManager( 2906): in removeSpuriousFiles, preserving file /data/data/com.android.providers.downloads/cache/metadata.json
+D/dalvikvm( 2906): GC_CONCURRENT freed 370K, 5% free 9166K/9607K, paused 6ms+2ms
+I/DownloadManager( 2906): in removeSpuriousFiles, preserving file /data/data/com.android.providers.downloads/cache/en_general.htm
+I/DownloadManager( 2906): deleting spurious file /cache/backup
+I/ActivityThread( 2922): Pub com.google.android.gallery3d.GooglePhotoProvider: com.google.android.picasasync.PicasaContentProvider
+D/dalvikvm( 2922): GC_CONCURRENT freed 418K, 6% free 9117K/9607K, paused 2ms+2ms
+I/ActivityThread( 2922): Pub com.google.android.gallery3d.provider: com.android.gallery3d.provider.GalleryProvider
+D/dalvikvm( 2922): GC_CONCURRENT freed 397K, 5% free 9189K/9671K, paused 2ms+2ms
+D/UploadsManager( 2922): load newPhotoTracker: null
+D/UploadsManager( 2922): load all accounts: null
+D/UploadsManager( 2922): load all account-album pairs: null
+V/PicasaContentProvider( 2922): querySettings: defaults: {sync_on_wifi_only=1, auto_upload_account_type=null, sync_on_battery=1, sync_picasa_on_wifi_only=1, auto_upload_enabled=0, video_upload_wifi_only=1, sync_on_roaming=0, auto_upload_account_name=null}
+D/UploadsManager( 2922):    settings not changed
+D/PicasaSync( 2922): sync account database
+I/ActivityManager(  167): Start proc com.google.android.apps.uploader for broadcast com.google.android.apps.uploader/.ConnectivityBroadcastReceiver: pid=2939 uid=10029 gids={3003}
+I/dalvikvm( 2939): Turning on JNI app bug workarounds for target SDK version 11...
+D/PicasaSync( 2922): accounts in DB=2
+V/PicasaContentProvider( 2922): querySettings: defaults: {sync_on_wifi_only=1, auto_upload_account_type=null, sync_on_battery=1, sync_picasa_on_wifi_only=1, auto_upload_enabled=0, video_upload_wifi_only=1, sync_on_roaming=0, auto_upload_account_name=null}
+D/PicasaSyncManager( 2922): active network: null
+D/PicasaSyncManager( 2922): background data: true
+I/ActivityThread( 2939): Pub com.google.android.apps.uploader: com.google.android.apps.uploader.UploadsContentProvider
+I/ActivityThread( 2939): Pub com.google.photos.provider.Album: com.google.android.apps.uploader.clients.picasa.AlbumProvider
+D/MediaUploader( 2939): UploaderApplication.onCreate
+D/MediaUploader( 2939): nonWifiLimit=20971520, default=20971520
+I/MediaUploader( 2939): No need to wake up
+I/PhoneLab-WiFiReceiver(  605): Wi-Fi is disconnected!
+D/PicasaSyncManager( 2922): battery info: false
+D/dalvikvm(  409): GC_CONCURRENT freed 447K, 6% free 9489K/10055K, paused 6ms+3ms
+D/dalvikvm(  167): GC_CONCURRENT freed 1070K, 13% free 14126K/16071K, paused 5ms+6ms
+D/ConnectivityService(  167): ConnectivityChange for mobile: CONNECTED/CONNECTED
+D/NetworkPolicy(  167): applying policy NetworkPolicy[NetworkTemplate: matchRule=MOBILE_ALL, subscriberId=valid]: cycleDay=27, warningBytes=2147483648, limitBytes=-1, lastSnooze=-1 to ifaces [rmnet0]
+D/ConnectivityService(  167): NetTransition Wakelock for WifiStateMachine released by timeout
+I/GTalkService/c(  696): [AndroidEndpoint@1094992480] connect: acct=1000000, state=CONNECTING
+I/GTalkService/c(  696): [GTalkConnection@1094706800] connect: acct=1, state=CONNECTING
+I/GTalkService/c(  696): [GTalkConnection@1094800744] connect: acct=2, state=CONNECTING
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/PicasaSyncManager( 2922): active network: NetworkInfo: type: mobile[CDMA - EvDo rev. A], state: CONNECTED/CONNECTED, reason: (unspecified), extra: , roaming: false, failover: true, isAvailable: true
+D/Tethering(  167): MasterInitialState.processMessage what=3
+I/MediaUploader( 2939): No need to wake up
+D/PicasaSyncManager( 2922): background data: true
+D/dalvikvm(  696): GC_CONCURRENT freed 570K, 7% free 10713K/11399K, paused 2ms+4ms
+D/ConnectivityService(  167): handleInetConditionHoldEnd: net=0, condition=100, published condition=0
+I/ActivityManager(  167): Start proc com.google.android.talk for broadcast com.google.android.talk/.ConnectionStateOnlineReceiver: pid=2962 uid=10044 gids={3003, 1015, 1006, 3002}
+I/ActivityThread( 2962): Pub com.google.android.talk.SuggestionProvider: com.google.android.talk.SuggestionsProvider
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/vclib:CallStateClient( 2962): startListening
+D/dalvikvm( 2962): GC_CONCURRENT freed 187K, 3% free 9332K/9607K, paused 15ms+30ms
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1
+D/dalvikvm(  696): GC_CONCURRENT freed 450K, 7% free 10702K/11399K, paused 16ms+4ms
+I/PhoneLab-(  605): Service Running
+I/PhoneLab-LoggerService(  605): app_36    1252  605   1776   1404  c00f181c 400107b4 S logcat
+I/PhoneLab-LoggerService(  605): Logcat pid from database 1252
+I/PhoneLab-LoggerService(  605): Logcat process found 1252
+I/PhoneLab-LoggerService(  605): Checking Threshold
+I/PhoneLab-LoggerService(  605): Starting to rename files
+I/PhoneLab-LoggerService(  605): Files found .. 36
+I/wpa_supplicant(  307): wlan0: CTRL-EVENT-DISCONNECTED bssid=d0:c2:82:2d:e5:b1 reason=0
+I/wpa_supplicant(  307): wlan0: Trying to associate with d0:c2:82:67:e7:61 (SSID='UB_Secure' freq=2437 MHz)
+I/wpa_supplicant(  307): wlan0: Associated with d0:c2:82:67:e7:61
+I/wpa_supplicant(  307): wlan0: WPA: Key negotiation completed with d0:c2:82:67:e7:61 [PTK=CCMP GTK=TKIP]
+I/wpa_supplicant(  307): wlan0: CTRL-EVENT-CONNECTED - Connection to d0:c2:82:67:e7:61 completed (reauth) [id=1 id_str=]
+D/ConnectivityService(  167): ConnectivityChange for WIFI: CONNECTED/CONNECTED
+D/ConnectivityService(  167): Policy requires mobile teardown
+I/PhoneLab-WiFiReceiver(  605): Wi-Fi is connected!
+I/PhoneLab-WiFiReceiver(  605): SSID: UB_Secure BSSID: d0:c2:82:67:e7:61 RSSI: -200 LinkSpeed: -1
+D/ConnectivityService(  167): ConnectivityChange for mobile: DISCONNECTED/DISCONNECTED
+D/ConnectivityService(  167): Attempting to switch to WIFI
+D/ConnectivityService(  167): Attempting to switch to WIMAX
+D/ConnectivityService(  167): Attempting to switch to BLUETOOTH_TETHER
+D/NetUtils(  167): android_net_utils_resetConnections in env=0x20a9fc8 clazz=0x3c000001 iface=rmnet0 mask=0x3
+D/ConnectivityService(  167): resetConnections(rmnet0, 3)
+W/NetworkStats(  167): dropping UID delta from unknown iface: iface=wlan0 uid=0 set=DEFAULT tag=0x0 rxBytes=0 rxPackets=0 txBytes=140 txPackets=2 operations=0
+W/Smack/Packet(  696): notify conn break (IOEx), close connection
+D/dalvikvm(  167): GC_CONCURRENT freed 1181K, 13% free 14107K/16071K, paused 7ms+5ms
+I/qtaguid (  696): Failed write_ctrl(u 29) res=-1 errno=22
+I/qtaguid (  696): Untagging socket 29 failed errno=-22
+W/NetworkManagementSocketTagger(  696): untagSocket(29) failed with errno -22
+D/ConnectivityService(  167): handleInetConditionChange: net=0 != default=1 - ignore
+D/Tethering(  167): MasterInitialState.processMessage what=3
+I/GTalkService/c(  696): [AndroidEndpoint@1094992480] connect: acct=1000000, state=CONNECTING
+D/OpenGLRenderer( 1052): Flushing caches (mode 2)
+D/OpenGLRenderer( 1608): Flushing caches (mode 2)
+W/ManagedEGLContext( 1052): doTerminate failed: EGL count is 2 but managed count is 1
+D/OpenGLRenderer( 1608): Flushing caches (mode 0)
+W/ManagedEGLContext( 1608): doTerminate failed: EGL count is 2 but managed count is 1

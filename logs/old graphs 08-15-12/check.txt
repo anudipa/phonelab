@@ -1,0 +1,50 @@
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs
+Plugged : /home/anudipa/phonelab/logs/logs
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A286CCA
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A286CCA
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/Graphs ver1
+Plugged : /home/anudipa/phonelab/logs/logs/Graphs ver1
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A28E207
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A28E207
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/power
+Plugged : /home/anudipa/phonelab/logs/logs/power
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A2866B6 
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A2866B6 
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A2866B6 /wifi
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A2866B6 /wifi
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A2866B6
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A2866B6
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A2866B6/wifi
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A2866B6/wifi
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A28660B
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A28660B
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A28660B/wifi
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A28660B/wifi
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/wifi v1
+Plugged : /home/anudipa/phonelab/logs/logs/wifi v1
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A28021D
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A28021D
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/wifi
+Plugged : /home/anudipa/phonelab/logs/logs/wifi
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A2714A6
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A2714A6
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A280141
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A280141
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A27FB17
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A27FB17
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A28C4A1
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A28C4A1
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A28C4AB
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A28C4AB
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A28D8AC
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A28D8AC
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A28D8AC/wifi
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A28D8AC/wifi
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A27881D
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A27881D
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A28E17B
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A28E17B
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A278A00
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A278A00
+Normalised battery stats ---> /home/anudipa/phonelab/logs/logs/A000002A2864F1
+Plugged : /home/anudipa/phonelab/logs/logs/A000002A2864F1
