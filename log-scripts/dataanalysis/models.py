@@ -1,5 +1,4 @@
 import os
-from numpy import arange
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
@@ -285,3 +284,140 @@ def endofday(path):
 	pp6.close()
 	pp7.close()
 	pp8.close()
+
+
+
+
+def connectivity(path):
+        d = os.path.join(path,'models')
+        if not os.path.exists(d):
+                os.makedirs(d)
+        fname = os.path.join(d,'wifiQA.pdf')
+        pp = PdfPages(fname)
+#Dictionaries to store information about bssid
+	ssid_dict = defaultdict(list)		#holds all bssid-s encountered under each ssid
+	bssid_dict = defaultdict(list)		#holds no. of good and bad connxns for each bssid
+#details about all bad connxns: device -> { timestamp -> { bssid, signal} }
+  	device_dict = defaultdict(lambda : defaultdict(list))
+
+#Iterating through the path given to parse all files and collect required data
+	for root,dirs,files in os.walk(path):
+		filelist = []
+#Assumption: Directory name = Device name
+		device = root.split('/')
+		devname = device[-1]
+                for name in files:
+                        filelist.append(os.path.join(root,name))
+                filelist.sort(key=os.path.getmtime)
+#The variables to store data required for intermediary comparison
+		t_ssid = '0'
+		t_bssid = '0'
+		t_signal = 0
+		t_time = datetime.now() 
+#Debugging variable
+		flag = 0
+
+                for filename in filelist:
+                        try:
+                                log = open(filename,'r')
+                        except IOError:
+                                print 'File doesnot exit'
+                                break
+                        for line in log:
+                                data = line.split()
+                                n = len(data)
+                                if n < 8 or data[0].startswith('01') or data[0].startswith('12'):
+#                                               print line + filename
+                                        pass
+                                else:
+                                        tag = data[5]
+					temp = data[7]
+                                        newdate = data[0] + '-12 ' + data[1]
+					try:
+                                        	t = datetime.strptime(newdate,'%m-%d-%y %H:%M:%S.%f')
+					except:
+						print 'Line doesnot start with timestamp'
+                                        if tag.startswith('wpa_supplicant') and data[6].startswith('wlan') and data[7].startswith('Trying'):
+						t_bssid = data[11]
+						t_ = data[12].split('=')
+						t_ssid = t_[-1]
+	#					print 'Current ',t_bssid, t_ssid
+#						t_time = t
+						flag = 0
+					elif tag.startswith('wpa_supplicant') and data[6].startswith('wlan') and data[-1].startswith('out') and data[-2].startswith('timed'):
+						t_ssid = '0'
+						t_bssid = '0'
+						t_time = datetime.now()
+					elif tag.startswith('wpa_supplicant') and data[6].startswith('wlan') and data[7].startswith('CTRL-EVENT-CONNECTED') and data[11].startswith(t_bssid):
+						print 'Connection Established ', t_bssid, t_ssid
+						try:
+							ssid_dict[t_ssid].index(t_bssid)
+						except:
+							ssid_dict[t_ssid].append(t_bssid)
+#Assumption: Every connection is a good connection unless proven otherwise
+						if len(bssid_dict[t_bssid]) == 2:
+							bssid_dict[t_bssid][0] += 1
+						else:
+							bssid_dict[t_bssid].append(1)
+							bssid_dict[t_bssid].append(0)
+						t_time = t
+						flag = 1
+					elif flag == 1 and tag.startswith('wpa_supplicant') and data[6].startswith('wlan') and data[7].startswith('CTRL-EVENT-DISCONNECTED') and t - t_time < timedelta(minutes=10) and data[8].endswith(t_bssid):
+#If connection break within first 10 mins, it is a bad connection
+						print 'Bad Connection'
+						device_dict[devname][t].append(t_bssid)
+						device_dict[devname][t].append(t_signal)
+						try:
+							bssid_dict[t_bssid][0] -= 1
+							bssid_dict[t_bssid][1] += 1
+						except:
+							print 'Error!! Disconnected before connecting',len(bssid_dict[t_bssid]), flag
+							bssid_dict[t_bssid].append(0)
+                                                        bssid_dict[t_bssid].append(1)
+#Flushing all reference variables
+						t_bssid = '0'
+						t_ssid = '0'
+						t_time = datetime.now()
+						flag = 0
+					elif tag.startswith('PhoneLab-StatusMonitorSignal') and data[6].startswith('Signal_Strength'):
+						t_signal = int(data[7])
+						
+			log.close()
+	x = []
+	y = []
+#	for items in bssid_dict:
+#		mylist = bssid_dict[items]
+#		print mylist, '------>',items
+#		if len(mylist) == 2:
+#			x.append(mylist[0])
+#			y.append(mylist[1])
+#	bar(x,y,color = mpl.cm.hsv(random()))
+	
+	print ssid_dict['blue']
+	c=0
+
+	for item1 in ssid_dict:
+		bssid_list = ssid_dict[item1]
+		print item1,ssid_dict[item1]
+		for i in xrange(0,len(bssid_list)):
+			item2 = bssid_list[i]
+			mylist = bssid_dict[item2]
+			if len(mylist) == 2:
+				x.append(mylist[0])
+				y.append(mylist[1])
+				
+		if len(x) > 0:
+			fig = figure(c,dpi=10)
+			n = range(len(x))
+			bar(n,x,color = mpl.cm.hsv(random()))
+			bar(n,y,color = mpl.cm.hsv(random()))
+			legend(["Good","Bad"])
+			title('Quality of connection offered by %s(#%d)' % (item1,len(x)))
+			xlabel('Different BSSIDs', fontsize=15)
+			ylabel('Number of connections', fontsize=15)
+			pp.savefig(fig)
+			close()
+			c = c+1
+		x = []
+		y = []
+	pp.close()
