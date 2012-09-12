@@ -62,7 +62,7 @@ def guessloc(path, bssid):
 							if item1 < t and item1 > flag:
 								sig = signaldict[item1]
 #								print item1, ':', sig
-								if int(sig) > -96:
+								if int(sig) > -105:
 									for item in gpsdict:
 										if item.minute-item1.minute < 2 and item.minute-item1.minute > -2:
 											loc = gpsdict[item]
@@ -128,3 +128,4 @@ def guessloc(path, bssid):
 			xy[2][1] = maxlon
 	print '\nThe devices came across given bssid\n',devicelist,'\n\n'
 	print 'Guessing the 4 corners of the square within which ',bssid,' probably exists--> upper left:',xy[0][0],xy[0][1],' upper right:',xy[1][0],xy[1][1], ' lower right:',xy[2][0],xy[2][1],' lower left:',xy[3][0],xy[3][1]
+	return xy

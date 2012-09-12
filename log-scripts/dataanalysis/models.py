@@ -6,7 +6,7 @@ from pylab import *
 from datetime import datetime, timedelta
 from collections import defaultdict
 from power import getbatterylevel, getlowlevel
-
+from aplocation import guessloc
 
 def powerpred(path):
         d = os.path.join(path,'models')
@@ -294,6 +294,10 @@ def connectivity(path):
                 os.makedirs(d)
         fname = os.path.join(d,'wifiQA.pdf')
         pp = PdfPages(fname)
+	fname1 = os.path.join(d,'wifiQA1.pdf')
+	pp1 = PdfPages(fname1)
+	fname2 = os.path.join(d,'wifiQA2.pdf')
+	pp2 = PdfPages(fname2)
 #Dictionaries to store information about bssid
 	ssid_dict = defaultdict(list)		#holds all bssid-s encountered under each ssid
 	bssid_dict = defaultdict(list)		#holds no. of good and bad connxns for each bssid
@@ -313,6 +317,7 @@ def connectivity(path):
 		t_ssid = '0'
 		t_bssid = '0'
 		t_signal = 0
+		t_loc = [0.0,0.0]
 		t_time = datetime.now() 
 #Debugging variable
 		flag = 0
@@ -362,11 +367,13 @@ def connectivity(path):
 							bssid_dict[t_bssid].append(0)
 						t_time = t
 						flag = 1
-					elif flag == 1 and tag.startswith('wpa_supplicant') and data[6].startswith('wlan') and data[7].startswith('CTRL-EVENT-DISCONNECTED') and t - t_time < timedelta(minutes=10) and data[8].endswith(t_bssid):
+					elif flag == 1 and tag.startswith('wpa_supplicant') and data[6].startswith('wlan') and data[7].startswith('CTRL-EVENT-DISCONNECTED') and t - t_time < timedelta(minutes=5) and data[8].endswith(t_bssid):
 #If connection break within first 10 mins, it is a bad connection
 						print 'Bad Connection'
 						device_dict[devname][t].append(t_bssid)
 						device_dict[devname][t].append(t_signal)
+						device_dict[devname][t].append(t_loc[0])
+						device_dict[devname][t].append(t_loc[1])
 						try:
 							bssid_dict[t_bssid][0] -= 1
 							bssid_dict[t_bssid][1] += 1
@@ -381,6 +388,10 @@ def connectivity(path):
 						flag = 0
 					elif tag.startswith('PhoneLab-StatusMonitorSignal') and data[6].startswith('Signal_Strength'):
 						t_signal = int(data[7])
+					elif tag.startswith('PhoneLab-StatusMonitorLocation') and data[6].startswith('Location_Latitude'):
+                                                t_loc[0] = data[7]
+                                                t_loc[1] = data[9]
+
 						
 			log.close()
 	x = []
@@ -393,7 +404,6 @@ def connectivity(path):
 #			y.append(mylist[1])
 #	bar(x,y,color = mpl.cm.hsv(random()))
 	
-	print ssid_dict['blue']
 	c=0
 
 	for item1 in ssid_dict:
@@ -409,9 +419,9 @@ def connectivity(path):
 		if len(x) > 0:
 			fig = figure(c,dpi=10)
 			n = range(len(x))
-			bar(n,x,color = mpl.cm.hsv(random()))
-			bar(n,y,color = mpl.cm.hsv(random()))
-			legend(["Good","Bad"])
+			p0 = bar(n,x,color = mpl.cm.hsv(random()))
+			p1 = bar(n,y,color = mpl.cm.hsv(random()))
+			legend([p0,p1],["Good","Bad"])
 			title('Quality of connection offered by %s(#%d)' % (item1,len(x)))
 			xlabel('Different BSSIDs', fontsize=15)
 			ylabel('Number of connections', fontsize=15)
@@ -420,4 +430,179 @@ def connectivity(path):
 			c = c+1
 		x = []
 		y = []
+
+	s = []
+	t = []
+	c = 0
+	for item1 in device_dict:
+		name = item1
+		dict_ = device_dict[item1]
+		for item2 in dict_:
+			t.append(item2)
+			s.append(dict_[item2][1])
+		if len(t) > 0:
+			fig = figure(c,dpi=10)
+			plot(t,s,'o',color = mpl.cm.hsv(random()))
+			title('Signal strength @ bad connections for %s' % name)
+			xlabel('Time',fontsize=15)
+			ylabel('Signal Strength in dB',fontsize=15)
+			pp1.savefig(fig)
+			close()
+			c = c+1
+		s = []
+		t = []
+
+#	loc = [[0 for x in xrange(4)] for x in xrange(4)]
+	blist = []
+#	v1 = []
+#	v2 = []
+#	t = []
+	c = 0
+	for item1 in device_dict:
+		dict_ = device_dict[item1]
+		for item2 in dict_:
+			try:
+				blist.index(dict_[item2][0])
+			except:
+				blist.append(dict_[item2][0])
+
+	print blist
+
+#	for i in xrange(0,len(blist)):
+#		loc = guessloc('/home/anudipa/phonelab/logs/logs',blist[i])
+#		for item1 in device_dict:
+#			for item2 in device_dict[item1]:
+#				if device_dict[item1][item2][0] == blist[i]:
+#					if loc[0][0] >= device_dict[item1][item2][2] and loc[2][0] <= device_dict[item1][item2][2]:
+#						if loc[0][1] <= device_dict[item1][item2][3] and loc[2][1] >= device_dict[item1][item2][3]:
+#							v1.append(device_dict[item1][item2][1])
+#					else:
+#						v2.append(device_dict[item1][item2][1])
+#					t.append(item2)
+#			if len(v1) > 0:
+#				fig = figure(c,dpi=10)
+#				p1 = plot(t,v1,'o')
+#				p2 = plot(t,v2,'o')
+#				legend([p1,p2],['Inside Range','Out of Range'])
+#				xlabel('Time',fontsiz=15)
+#				ylabel('Signal Strength in dB',fontsize=15)
+#				title('%s ---> # of bad connxn in reference to AP range' % item1)
+#				pp2.savefig(fig)
+#				close()
+#				c = c+1
+#			v1 = []
+#			v2 = []
+#			t = []
+	for i in xrange(0,len(blist)):
+		lat = []
+		lon = []
+		sig = []
+		if bssid_dict[blist[i]][1] > 25:	
+			for item1 in device_dict:
+				dict_ = device_dict[item1]
+				for item2 in dict_:
+					if dict_[item2][0] == blist[i]:
+						lat.append(float(dict_[item2][2]))
+						lon.append(float(dict_[item2][3]))
+						sig.append(int(dict_[item2][1]))
+						if lat[-1] == 0.0:
+							lat.pop()
+							lon.pop()
+							sig.pop()
+						else:
+							print lat[-1], lon[-1], sig[-1]
+			if len(lat) > 0:
+				fig = figure(c,dpi=10)
+				sequence = [[0 for x in range(4)] for y in range(len(sig))]
+				temp = 0.0000
+			        for j in xrange(0,len(sig)):
+	        		        temp = float(-1 * sig[j])
+        	        		
+		                	sequence[j][0] = 1.0
+			                sequence[j][1] = 0.0
+        			        sequence[j][2] = 0.0
+               				if temp == 0:
+                       				sequence[j][3] = 1.0
+		                	elif temp <100:
+       			                	sequence[j][3] = 1 - float(temp/100)
+					else:
+						sequence[j][3] =  float(temp/1000)
+           			scatter(lon,lat,c=sequence,s=60)
+	                	grid()
+				title('Location-signal plots for bssid %s' % blist[i])
+				pp2.savefig(fig)
+				close()
+				c = c+1
+
 	pp.close()
+	pp1.close()
+	pp2.close()
+
+def dummyplot(path):
+	lat = []
+	lon = []
+	signal = []	
+	for root,dirs,files in os.walk(path):
+		filelist = []
+		for name in files:
+			filelist.append(os.path.join(root,name))
+		filelist.sort(key=os.path.getmtime)
+		t_time = datetime.now()
+		flag = 0
+		for filename in filelist:
+			try:
+				log = open(filename,'r')
+			except IOError:
+				print 'FIle doesnot exist'
+				break
+			for line in log:
+				data = line.split()
+				n = len(data)
+				if n < 10 or data[0].startswith('01') or data[0].startswith('12'):
+					pass
+				else:
+					newdate = data[0] + '-12 ' + data[1]
+					t = datetime.strptime(newdate,'%m-%d-%y %H:%M:%S.%f')
+					if flag == 0 and data[5].startswith('PhoneLab-StatusMonitorLocation') and data[6].startswith('Location_Latitude'):
+						lat.append(float(data[7]))
+						lon.append(float(data[9]))
+						flag = 1
+						t_time = t
+						print 'Checking', lat[-1], lon[-1]
+					elif flag == 1 and data[5].startswith('PhoneLab-StatusMonitorSignal') and data[6].startswith('Signal_Strength'):
+						if t - t_time < timedelta(minutes=1):
+							signal.append(int(data[7]))
+							print 'Added', lat[-1],lon[-1],signal[-1]
+						else:
+							print 'Popped!!', lat[-1], lon[-1]
+							lat.pop()
+							lon.pop()
+							
+						flag = 0
+ 
+			log.close()
+	        if flag == 1:
+        	        lat.pop()
+                	lon.pop()
+ 
+	sequence = [[0 for x in range(4)] for y in range(len(signal))]
+	print lat
+	print lon
+	temp = 0.0000
+	for i in xrange(0,len(signal)):
+		temp = float(-1 * signal[i])
+		print temp, float(temp/1000)
+		sequence[i][0] = 1.0
+		sequence[i][1] = 0.0
+		sequence[i][2] = 0.0
+		if temp == 0:
+			sequence[i][3] = 0.0
+		else:
+			sequence[i][3] = float(temp/1000)
+	if len(lat) == len(sequence):
+		scatter(lon,lat,c=sequence,s=200)
+		grid()
+	else:
+		print len(sequence), len(lat)
+	print sequence
+
