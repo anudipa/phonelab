@@ -1,0 +1,1060 @@
+<?xml version="1.0" ?>
+<root>
+  <!--Generated for tool analysis-->
+  <bssid val="d0:c2:82:66:6b:f0">
+    <device id="A000002A2866B6">
+      <details timestamp="14:01:48.050000">
+        <signal>-106</signal>
+        <latitude>43.0088421</latitude>
+        <longitude>-78.8116481</longitude>
+      </details>
+      <details timestamp="12:01:08.449000">
+        <signal>-86</signal>
+        <latitude>43.0022442</latitude>
+        <longitude>-78.7863586</longitude>
+      </details>
+      <details timestamp="19:01:41.152000">
+        <signal>-106</signal>
+        <latitude>43.0024292</latitude>
+        <longitude>-78.7863504</longitude>
+      </details>
+      <details timestamp="17:48:52.027000">
+        <signal>-106</signal>
+        <latitude>43.0024292</latitude>
+        <longitude>-78.7863504</longitude>
+      </details>
+      <details timestamp="14:00:16.011000">
+        <signal>-106</signal>
+        <latitude>43.0024292</latitude>
+        <longitude>-78.7863504</longitude>
+      </details>
+      <details timestamp="14:43:55.867000">
+        <signal>-106</signal>
+        <latitude>43.0024292</latitude>
+        <longitude>-78.7863504</longitude>
+      </details>
+    </device>
+    <device id="A000002A28021D">
+      <details timestamp="11:40:28.950000">
+        <signal>-96</signal>
+        <latitude>0</latitude>
+        <longitude>0</longitude>
+      </details>
+      <details timestamp="13:01:53.410000">
+        <signal>-106</signal>
+        <latitude>0</latitude>
+        <longitude>0</longitude>
+      </details>
+      <details timestamp="15:08:27.725000">
+        <signal>-96</signal>
+        <latitude>0</latitude>
+        <longitude>0</longitude>
+      </details>
+      <details timestamp="11:44:09.302000">
+        <signal>-76</signal>
+        <latitude>0</latitude>
+        <longitude>0</longitude>
+      </details>
+      <details timestamp="13:59:12.050000">
+        <signal>-76</signal>
+        <latitude>0</latitude>
+        <longitude>0</longitude>
+      </details>
+    </device>
+    <device id="A000002A2714A6">
+      <details timestamp="14:46:06.011000">
+        <signal>-106</signal>
+        <latitude>43.0088426</latitude>
+        <longitude>-78.8120497</longitude>
+      </details>
+    </device>
+    <device id="A000002A28C4A1">
+      <details timestamp="12:05:01.816000">
+        <signal>-96</signal>
+        <latitude>43.0021938</latitude>
+        <longitude>-78.7870619</longitude>
+      </details>
+      <details timestamp="17:06:38.914000">
+        <signal>-96</signal>
+        <latitude>43.0018947</latitude>
+        <longitude>-78.7872397</longitude>
+      </details>
+      <details timestamp="12:47:45.586000">
+        <signal>-96</signal>
+        <latitude>43.0020891</latitude>
+        <longitude>-78.787144</longitude>
+      </details>
+      <details timestamp="14:22:33.015000">
+        <signal>-106</signal>
+        <latitude>43.0052083</latitude>
+        <longitude>-78.7591989</longitude>
+      </details>
+    </device>
+    <device id="A000002A28D8AC">
+      <details timestamp="14:26:57.166000">
+        <signal>-96</signal>
+        <latitude>0</latitude>
+        <longitude>0</longitude>
+      </details>
+      <details timestamp="15:52:38.847000">
+        <signal>-96</signal>
+        <latitude>0</latitude>
+        <longitude>0</longitude>
+      </details>
+      <details timestamp="15:56:45.382000">
+        <signal>-96</signal>
+        <latitude>0</latitude>
+        <longitude>0</longitude>
+      </details>
+      <details timestamp="15:57:14.836000">
+        <signal>-96</signal>
+        <latitude>0</latitude>
+        <longitude>0</longitude>
+      </details>
+      <details timestamp="15:58:22.937000">
+        <signal>-96</signal>
+        <latitude>0</latitude>
+        <longitude>0</longitude>
+      </details>
+      <details timestamp="16:08:45.011000">
+        <signal>-96</signal>
+        <latitude>0</latitude>
+        <longitude>0</longitude>
+      </details>
+      <details timestamp="16:09:20.011000">
+        <signal>-96</signal>
+        <latitude>0</latitude>
+        <longitude>0</longitude>
+      </details>
+      <details timestamp="14:52:05.043000">
+        <signal>-96</signal>
+        <latitude>43.0020996</latitude>
+        <longitude>-78.7871783</longitude>
+      </details>
+      <details timestamp="14:54:33.011000">
+        <signal>-96</signal>
+        <latitude>43.0020996</latitude>
+        <longitude>-78.7871783</longitude>
+      </details>
+      <details timestamp="16:38:10.152000">
+        <signal>-96</signal>
+        <latitude>43.0022301</latitude>
+        <longitude>-78.7871754</longitude>
+      </details>
+      <details timestamp="15:00:33.455000">
+        <signal>-96</signal>
+        <latitude>43.002335</latitude>
+        <longitude>-78.7870995</longitude>
+      </details>
+      <details timestamp="14:55:19.058000">
+        <signal>-106</signal>
+        <latitude>43.0024407</latitude>
+        <longitude>-78.7865308</longitude>
+      </details>
+      <details timestamp="15:05:16.058000">
+        <signal>-86</signal>
+        <latitude>43.0023001</latitude>
+        <longitude>-78.7870757</longitude>
+      </details>
+      <details timestamp="15:41:33.824000">
+        <signal>-96</signal>
+        <latitude>43.0022802</latitude>
+        <longitude>-78.7870811</longitude>
+      </details>
+      <details timestamp="09:52:37.011000">
+        <signal>-76</signal>
+        <latitude>43.0024007</latitude>
+        <longitude>-78.7867058</longitude>
+      </details>
+      <details timestamp="12:47:35.019000">
+        <signal>-96</signal>
+        <latitude>43.002096</latitude>
+        <longitude>-78.7871053</longitude>
+      </details>
+      <details timestamp="12:51:16.011000">
+        <signal>-86</signal>
+        <latitude>43.0021158</latitude>
+        <longitude>-78.78695</longitude>
+      </details>
+      <details timestamp="15:10:13.011000">
+        <signal>-86</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="09:31:06.562000">
+        <signal>-76</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="09:37:29.898000">
+        <signal>-76</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="09:39:38.902000">
+        <signal>-96</signal>
+        <latitude>43.0021786</latitude>
+        <longitude>-78.7870687</longitude>
+      </details>
+      <details timestamp="16:32:12.043000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="10:37:29.679000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="15:00:57.472000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="16:51:31.519000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="16:37:10.519000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="16:39:05.526000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="16:51:27.837000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="17:01:37.472000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="17:05:56.472000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="17:06:10.972000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="10:29:17.636000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="10:46:22.277000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="11:19:44.011000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="11:20:59.027000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="11:25:57.011000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="17:24:53.050000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="10:45:01.359000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="14:11:27.134000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="16:45:01.985000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="17:13:28.958000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+    </device>
+    <device id="A000002A28E17B">
+      <details timestamp="11:04:31.827000">
+        <signal>-106</signal>
+        <latitude>43.0022918</latitude>
+        <longitude>-78.7872691</longitude>
+      </details>
+      <details timestamp="16:27:31.100000">
+        <signal>-96</signal>
+        <latitude>43.0021695</latitude>
+        <longitude>-78.7871752</longitude>
+      </details>
+      <details timestamp="22:29:16.449000">
+        <signal>-106</signal>
+        <latitude>43.0020266</latitude>
+        <longitude>-78.7871147</longitude>
+      </details>
+      <details timestamp="15:06:26.027000">
+        <signal>-106</signal>
+        <latitude>43.0020957</latitude>
+        <longitude>-78.7872073</longitude>
+      </details>
+      <details timestamp="12:40:38.500000">
+        <signal>-96</signal>
+        <latitude>43.0021117</latitude>
+        <longitude>-78.7871927</longitude>
+      </details>
+    </device>
+    <device id="A000002A2864F1">
+      <details timestamp="18:08:00.785000">
+        <signal>-106</signal>
+        <latitude>43.0022715</latitude>
+        <longitude>-78.7871174</longitude>
+      </details>
+      <details timestamp="17:39:26.101000">
+        <signal>-96</signal>
+        <latitude>43.0002156</latitude>
+        <longitude>-78.7887329</longitude>
+      </details>
+      <details timestamp="14:19:14.191000">
+        <signal>-106</signal>
+        <latitude>43.0020991</latitude>
+        <longitude>-78.7869627</longitude>
+      </details>
+      <details timestamp="11:27:17.517000">
+        <signal>-96</signal>
+        <latitude>43.0021251</latitude>
+        <longitude>-78.7870643</longitude>
+      </details>
+      <details timestamp="15:34:33.560000">
+        <signal>-86</signal>
+        <latitude>43.0021128</latitude>
+        <longitude>-78.7869597</longitude>
+      </details>
+      <details timestamp="16:25:50.717000">
+        <signal>-96</signal>
+        <latitude>43.002082</latitude>
+        <longitude>-78.7869205</longitude>
+      </details>
+      <details timestamp="16:42:33.142000">
+        <signal>-76</signal>
+        <latitude>42.955249</latitude>
+        <longitude>-78.8289883</longitude>
+      </details>
+      <details timestamp="16:43:07.537000">
+        <signal>-76</signal>
+        <latitude>42.955249</latitude>
+        <longitude>-78.8289883</longitude>
+      </details>
+    </device>
+  </bssid>
+  <bssid val="00:21:56:ce:40:91">
+    <device id="A000002A28021D">
+      <details timestamp="10:04:19.482000">
+        <signal>-65</signal>
+        <latitude>0</latitude>
+        <longitude>0</longitude>
+      </details>
+    </device>
+    <device id="A000002A2714A6">
+      <details timestamp="11:31:16.422000">
+        <signal>-106</signal>
+        <latitude>43.0088426</latitude>
+        <longitude>-78.8120497</longitude>
+      </details>
+      <details timestamp="17:58:49.011000">
+        <signal>-86</signal>
+        <latitude>43.0051538</latitude>
+        <longitude>-78.7592174</longitude>
+      </details>
+      <details timestamp="11:06:50.066000">
+        <signal>-106</signal>
+        <latitude>43.0051538</latitude>
+        <longitude>-78.7592174</longitude>
+      </details>
+      <details timestamp="11:09:26.734000">
+        <signal>-106</signal>
+        <latitude>43.0051538</latitude>
+        <longitude>-78.7592174</longitude>
+      </details>
+      <details timestamp="19:33:48.011000">
+        <signal>-96</signal>
+        <latitude>43.0021287</latitude>
+        <longitude>-78.7869461</longitude>
+      </details>
+      <details timestamp="19:57:23.027000">
+        <signal>-76</signal>
+        <latitude>43.0047333</latitude>
+        <longitude>-78.7673291</longitude>
+      </details>
+      <details timestamp="18:20:14.035000">
+        <signal>-96</signal>
+        <latitude>43.0023873</latitude>
+        <longitude>-78.7875452</longitude>
+      </details>
+      <details timestamp="10:48:55.562000">
+        <signal>-86</signal>
+        <latitude>43.0051829</latitude>
+        <longitude>-78.7590659</longitude>
+      </details>
+      <details timestamp="12:29:31.011000">
+        <signal>-106</signal>
+        <latitude>43.0020142</latitude>
+        <longitude>-78.7868229</longitude>
+      </details>
+    </device>
+    <device id="A000002A28C4A1">
+      <details timestamp="12:52:51.449000">
+        <signal>-96</signal>
+        <latitude>43.0020593</latitude>
+        <longitude>-78.7869714</longitude>
+      </details>
+      <details timestamp="18:07:23.891000">
+        <signal>-96</signal>
+        <latitude>43.000648</latitude>
+        <longitude>-78.786532</longitude>
+      </details>
+      <details timestamp="15:20:36.140000">
+        <signal>-106</signal>
+        <latitude>43.0021475</latitude>
+        <longitude>-78.7870892</longitude>
+      </details>
+      <details timestamp="17:47:30.406000">
+        <signal>-96</signal>
+        <latitude>43.0022108</latitude>
+        <longitude>-78.7871215</longitude>
+      </details>
+      <details timestamp="17:48:03.582000">
+        <signal>-96</signal>
+        <latitude>43.0022108</latitude>
+        <longitude>-78.7871215</longitude>
+      </details>
+    </device>
+    <device id="A000002A28C4AB">
+      <details timestamp="16:33:34.046000">
+        <signal>-96</signal>
+        <latitude>43.0021032</latitude>
+        <longitude>-78.7869516</longitude>
+      </details>
+    </device>
+    <device id="A000002A28D8AC">
+      <details timestamp="12:40:10.763000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="15:21:50.966000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="15:37:10.278000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="14:56:32.113000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="11:12:50.086000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="16:50:28.011000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="12:09:50.011000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="12:35:06.304000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="12:46:14.480000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="17:36:54.550000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="10:39:03.742000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="10:45:16.554000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="16:35:28.216000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="18:29:36.382000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+    </device>
+    <device id="A000002A27881D">
+      <details timestamp="14:42:52.574000">
+        <signal>-96</signal>
+        <latitude>43.002317</latitude>
+        <longitude>-78.7866488</longitude>
+      </details>
+      <details timestamp="16:51:30.086000">
+        <signal>-106</signal>
+        <latitude>43.0021111</latitude>
+        <longitude>-78.7869801</longitude>
+      </details>
+      <details timestamp="09:59:31.718000">
+        <signal>-86</signal>
+        <latitude>43.0018887</latitude>
+        <longitude>-78.7860621</longitude>
+      </details>
+      <details timestamp="18:14:40.140000">
+        <signal>-106</signal>
+        <latitude>43.0051829</latitude>
+        <longitude>-78.7590659</longitude>
+      </details>
+    </device>
+    <device id="A000002A2864F1">
+      <details timestamp="16:31:00.050000">
+        <signal>-76</signal>
+        <latitude>42.9972628</latitude>
+        <longitude>-78.7961038</longitude>
+      </details>
+      <details timestamp="17:53:55.195000">
+        <signal>-76</signal>
+        <latitude>43.0021351</latitude>
+        <longitude>-78.7877679</longitude>
+      </details>
+    </device>
+  </bssid>
+  <bssid val="d0:c2:82:67:e7:61">
+    <device id="A000002A28021D">
+      <details timestamp="13:18:34.882000">
+        <signal>-76</signal>
+        <latitude>0</latitude>
+        <longitude>0</longitude>
+      </details>
+    </device>
+    <device id="A000002A2714A6">
+      <details timestamp="12:05:06.011000">
+        <signal>-106</signal>
+        <latitude>43.0088426</latitude>
+        <longitude>-78.8120497</longitude>
+      </details>
+      <details timestamp="16:04:42.011000">
+        <signal>-106</signal>
+        <latitude>43.0088426</latitude>
+        <longitude>-78.8120497</longitude>
+      </details>
+      <details timestamp="17:40:11.019000">
+        <signal>-96</signal>
+        <latitude>43.0051538</latitude>
+        <longitude>-78.7592174</longitude>
+      </details>
+      <details timestamp="16:33:37.410000">
+        <signal>-86</signal>
+        <latitude>43.0051829</latitude>
+        <longitude>-78.7590659</longitude>
+      </details>
+      <details timestamp="13:55:53.211000">
+        <signal>-106</signal>
+        <latitude>43.0024355</latitude>
+        <longitude>-78.787568</longitude>
+      </details>
+      <details timestamp="15:06:34.089000">
+        <signal>-96</signal>
+        <latitude>43.0023437</latitude>
+        <longitude>-78.7866092</longitude>
+      </details>
+      <details timestamp="15:24:15.754000">
+        <signal>-96</signal>
+        <latitude>43.0020782</latitude>
+        <longitude>-78.7868915</longitude>
+      </details>
+      <details timestamp="16:25:29.011000">
+        <signal>-106</signal>
+        <latitude>43.0020683</latitude>
+        <longitude>-78.786923</longitude>
+      </details>
+      <details timestamp="19:01:22.011000">
+        <signal>-76</signal>
+        <latitude>42.9972094</latitude>
+        <longitude>-78.7959556</longitude>
+      </details>
+    </device>
+    <device id="A000002A28C4A1">
+      <details timestamp="13:06:49.979000">
+        <signal>-96</signal>
+        <latitude>43.0021689</latitude>
+        <longitude>-78.7871162</longitude>
+      </details>
+      <details timestamp="21:51:29.015000">
+        <signal>-106</signal>
+        <latitude>43.0021081</latitude>
+        <longitude>-78.7869102</longitude>
+      </details>
+      <details timestamp="17:45:20.578000">
+        <signal>-96</signal>
+        <latitude>43.0022108</latitude>
+        <longitude>-78.7871215</longitude>
+      </details>
+      <details timestamp="09:42:17.183000">
+        <signal>-86</signal>
+        <latitude>42.8910763</latitude>
+        <longitude>-78.8747338</longitude>
+      </details>
+      <details timestamp="12:45:02.539000">
+        <signal>-96</signal>
+        <latitude>43.0023807</latitude>
+        <longitude>-78.7865123</longitude>
+      </details>
+    </device>
+    <device id="A000002A28C4AB">
+      <details timestamp="18:01:22.968000">
+        <signal>-96</signal>
+        <latitude>0</latitude>
+        <longitude>0</longitude>
+      </details>
+      <details timestamp="09:57:22.011000">
+        <signal>-106</signal>
+        <latitude>43.0020503</latitude>
+        <longitude>-78.7871364</longitude>
+      </details>
+    </device>
+    <device id="A000002A28D8AC">
+      <details timestamp="11:20:28.917000">
+        <signal>-96</signal>
+        <latitude>43.0020996</latitude>
+        <longitude>-78.7871783</longitude>
+      </details>
+      <details timestamp="09:45:27.380000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="16:40:43.048000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="12:10:33.007000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="14:28:49.011000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="16:04:52.011000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="17:10:00.043000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="10:34:01.054000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="11:57:30.011000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="14:05:38.945000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="16:47:31.390000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="10:16:08.011000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="10:23:11.160000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="11:13:01.043000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="16:19:59.996000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="10:49:15.019000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="10:00:16.822000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="10:53:36.586000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="13:31:04.019000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="14:04:31.691000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="12:43:48.769000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="15:51:20.011000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="17:04:17.179000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="09:44:23.543000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="10:41:15.164000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="11:00:05.964000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="13:51:36.011000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="09:56:36.100000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="10:37:51.535000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="12:45:41.011000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="13:47:12.011000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="14:33:46.019000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="09:41:37.945000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="09:54:41.742000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="13:24:16.285000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="15:25:28.023000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+    </device>
+    <device id="A000002A27881D">
+      <details timestamp="15:01:15.948000">
+        <signal>-96</signal>
+        <latitude>43.002317</latitude>
+        <longitude>-78.7866488</longitude>
+      </details>
+      <details timestamp="18:01:01.035000">
+        <signal>-96</signal>
+        <latitude>43.0021671</latitude>
+        <longitude>-78.7869693</longitude>
+      </details>
+      <details timestamp="14:08:43.238000">
+        <signal>-96</signal>
+        <latitude>43.0021671</latitude>
+        <longitude>-78.7869693</longitude>
+      </details>
+      <details timestamp="12:03:20.203000">
+        <signal>-96</signal>
+        <latitude>43.0021671</latitude>
+        <longitude>-78.7869693</longitude>
+      </details>
+      <details timestamp="14:56:13.011000">
+        <signal>-96</signal>
+        <latitude>43.0021759</latitude>
+        <longitude>-78.7870036</longitude>
+      </details>
+      <details timestamp="16:48:58.011000">
+        <signal>-106</signal>
+        <latitude>43.0021111</latitude>
+        <longitude>-78.7869801</longitude>
+      </details>
+      <details timestamp="11:35:21.011000">
+        <signal>-96</signal>
+        <latitude>42.988525</latitude>
+        <longitude>-78.8070465</longitude>
+      </details>
+      <details timestamp="12:46:27.668000">
+        <signal>-106</signal>
+        <latitude>43.0021321</latitude>
+        <longitude>-78.7869404</longitude>
+      </details>
+      <details timestamp="14:03:29.015000">
+        <signal>-96</signal>
+        <latitude>43.0022755</latitude>
+        <longitude>-78.7872949</longitude>
+      </details>
+      <details timestamp="10:05:08.156000">
+        <signal>-76</signal>
+        <latitude>42.9687081</latitude>
+        <longitude>-78.7962474</longitude>
+      </details>
+      <details timestamp="10:15:16.015000">
+        <signal>-106</signal>
+        <latitude>43.0023579</latitude>
+        <longitude>-78.7867236</longitude>
+      </details>
+      <details timestamp="13:45:19.226000">
+        <signal>-76</signal>
+        <latitude>43.0020331</latitude>
+        <longitude>-78.7987063</longitude>
+      </details>
+      <details timestamp="14:02:56.261000">
+        <signal>-106</signal>
+        <latitude>43.0020946</latitude>
+        <longitude>-78.7868973</longitude>
+      </details>
+      <details timestamp="15:14:07.472000">
+        <signal>-106</signal>
+        <latitude>43.0051829</latitude>
+        <longitude>-78.7590659</longitude>
+      </details>
+      <details timestamp="18:11:19.543000">
+        <signal>-106</signal>
+        <latitude>43.0021362</latitude>
+        <longitude>-78.7869842</longitude>
+      </details>
+      <details timestamp="16:35:38.011000">
+        <signal>-96</signal>
+        <latitude>43.0021843</latitude>
+        <longitude>-78.787118</longitude>
+      </details>
+    </device>
+    <device id="A000002A2864F1">
+      <details timestamp="17:51:52.363000">
+        <signal>-86</signal>
+        <latitude>43.0019953</latitude>
+        <longitude>-78.7870361</longitude>
+      </details>
+    </device>
+  </bssid>
+  <bssid val="98:fc:11:c3:3f:e6"/>
+  <bssid val="00:14:a9:c8:31:11">
+    <device id="A000002A2714A6">
+      <details timestamp="19:46:08.011000">
+        <signal>-106</signal>
+        <latitude>43.0088426</latitude>
+        <longitude>-78.8120497</longitude>
+      </details>
+      <details timestamp="11:27:32.738000">
+        <signal>-106</signal>
+        <latitude>43.0088426</latitude>
+        <longitude>-78.8120497</longitude>
+      </details>
+      <details timestamp="16:29:33.019000">
+        <signal>-96</signal>
+        <latitude>43.0051829</latitude>
+        <longitude>-78.7590659</longitude>
+      </details>
+      <details timestamp="18:56:15.902000">
+        <signal>-106</signal>
+        <latitude>43.0001358</latitude>
+        <longitude>-78.781157</longitude>
+      </details>
+    </device>
+    <device id="A000002A28C4A1">
+      <details timestamp="12:53:13.054000">
+        <signal>-96</signal>
+        <latitude>43.0020593</latitude>
+        <longitude>-78.7869714</longitude>
+      </details>
+      <details timestamp="13:02:40.371000">
+        <signal>-96</signal>
+        <latitude>43.0018</latitude>
+        <longitude>-78.785034</longitude>
+      </details>
+      <details timestamp="18:07:10.043000">
+        <signal>-96</signal>
+        <latitude>42.9972094</latitude>
+        <longitude>-78.7959556</longitude>
+      </details>
+      <details timestamp="22:14:15.136000">
+        <signal>-96</signal>
+        <latitude>43.0006701</latitude>
+        <longitude>-78.7866646</longitude>
+      </details>
+    </device>
+    <device id="A000002A28C4AB">
+      <details timestamp="09:52:26.027000">
+        <signal>-76</signal>
+        <latitude>43.0020686</latitude>
+        <longitude>-78.7861358</longitude>
+      </details>
+      <details timestamp="09:50:23.736000">
+        <signal>-86</signal>
+        <latitude>42.9972094</latitude>
+        <longitude>-78.7959556</longitude>
+      </details>
+    </device>
+    <device id="A000002A28D8AC">
+      <details timestamp="21:15:50.668000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="11:13:34.011000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="13:05:36.011000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="12:36:09.230000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+      <details timestamp="10:38:50.617000">
+        <signal>-106</signal>
+        <latitude>43.0087587</latitude>
+        <longitude>-78.8124697</longitude>
+      </details>
+    </device>
+    <device id="A000002A27881D">
+      <details timestamp="11:54:15.011000">
+        <signal>-76</signal>
+        <latitude>43.009461</latitude>
+        <longitude>-78.81061</longitude>
+      </details>
+      <details timestamp="18:12:08.031000">
+        <signal>-96</signal>
+        <latitude>43.0021671</latitude>
+        <longitude>-78.7869693</longitude>
+      </details>
+      <details timestamp="17:33:14.312000">
+        <signal>-96</signal>
+        <latitude>43.0021671</latitude>
+        <longitude>-78.7869693</longitude>
+      </details>
+      <details timestamp="17:33:59.882000">
+        <signal>-96</signal>
+        <latitude>43.0021671</latitude>
+        <longitude>-78.7869693</longitude>
+      </details>
+      <details timestamp="08:37:21.011000">
+        <signal>-96</signal>
+        <latitude>43.0021671</latitude>
+        <longitude>-78.7869693</longitude>
+      </details>
+      <details timestamp="12:36:11.011000">
+        <signal>-96</signal>
+        <latitude>43.0094208</latitude>
+        <longitude>-78.8107825</longitude>
+      </details>
+      <details timestamp="19:05:19.011000">
+        <signal>-86</signal>
+        <latitude>43.0019152</latitude>
+        <longitude>-78.787402</longitude>
+      </details>
+      <details timestamp="19:08:03.043000">
+        <signal>-86</signal>
+        <latitude>43.0019152</latitude>
+        <longitude>-78.787402</longitude>
+      </details>
+    </device>
+  </bssid>
+</root>
