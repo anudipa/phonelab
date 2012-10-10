@@ -1,0 +1,135 @@
+package edu.buffalo.cse.phonelab.lib;
+
+import java.lang.reflect.Field;
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
+import java.util.HashMap;
+
+import android.content.Context;
+import android.content.pm.ApplicationInfo;
+import android.content.pm.PackageManager;
+import android.content.pm.PackageManager.NameNotFoundException;
+import android.os.IBinder;
+import android.util.Log;
+
+public class ReflectionUtils {
+
+	/*
+	 * stevko: there's no cache eviction. (should we worry about this?)
+	 *
+	 */
+	private static class ClassCache {
+		private HashMap<String, Class<?>> cache;
+	
+		public ClassCache(int initial_capacity) {
+			cache = new HashMap<String, Class<?>>(initial_capacity);
+		}
+	
+		public Class<?> lookup(String targetClassName) throws ClassNotFoundException {
+			Class<?> c;
+			synchronized (cache) {
+				if (cache.containsKey(targetClassName)) {
+					c = cache.get(targetClassName);
+				} else {
+					c = Class.forName(targetClassName);
+					cache.put(targetClassName, c);
+				}
+			}
+		
+			return c;
+		}
+	}
+
+	private static final int CACHE_INITIAL_CAPACITY = 50;
+	
+	/*
+	 * stevko: It turns out that Class.forName() is _real_ slow, so I'm using a cache.
+	 */
+	private static ClassCache classCache = new ClassCache(CACHE_INITIAL_CAPACITY);
+	
+	private static Class<?> getTargetClass(Object target) {
+		Class<?> targetClass;
+
+		if (target instanceof Byte)
+			targetClass = byte.class;
+		else if (target instanceof Short)
+			targetClass = short.class;
+		else if (target instanceof Integer)
+			targetClass = int.class;
+		else if (target instanceof Long)
+			targetClass = long.class;
+		else if (target instanceof Float)
+			targetClass = float.class;
+		else if (target instanceof Double)
+			targetClass = double.class;
+		else if (target instanceof Boolean)
+			targetClass = boolean.class;
+		else if (target instanceof Character)
+			targetClass = char.class;
+		else if (target instanceof IBinder)
+			targetClass = IBinder.class;
+		else
+			targetClass = target.getClass();
+		
+		return targetClass;
+	}
+
+	private static Object getValue(Class<?> targetClass, Object targetObj, String fieldName)
+			throws NoSuchFieldException {
+		final String TAG = "ReflectionUtils.getValue";
+		
+		if (targetClass == null)
+			targetClass = getTargetClass(targetObj);
+		Field f = targetClass.getDeclaredField(fieldName);
+		try {
+			return f.get(targetObj);
+		} catch (IllegalAccessException e) {
+			Log.v(TAG, "IllegalAccessException: Critical exception that should not happen");
+		}
+		
+		return null;
+
+	}
+	
+	public static Object getStaticValue(String targetClassName, String fieldName)
+			throws NoSuchFieldException, ClassNotFoundException {
+		return getValue(classCache.lookup(targetClassName), null, fieldName);
+	}
+
+	public static Object getValue(Object targetObj, String fieldName) throws NoSuchFieldException {
+		return getValue(null, targetObj, fieldName);
+	}
+
+	private static Object invoke(Class<?> targetClass, Object targetObj, String methodName, Object... args)
+			throws NoSuchMethodException, InvocationTargetException, IllegalAccessException {
+		if (targetClass == null)
+			targetClass = getTargetClass(targetObj);
+		Class<?>[] paramTypes = null;
+		if (args != null) {
+			paramTypes = new Class<?>[args.length];
+			int index = 0;
+			for (Object obj: args) {
+				paramTypes[index] = getTargetClass(obj);
+				index++;
+			}
+		}
+		Method m = targetClass.getMethod(methodName, paramTypes);
+		return m.invoke(targetObj, args);
+	}
+	
+	public static Object staticInvoke(String targetClassName, String methodName, Object... args)
+			throws ClassNotFoundException, NoSuchMethodException, InvocationTargetException, IllegalAccessException {
+		return invoke(classCache.lookup(targetClassName), null, methodName, args);
+	}
+
+	public static Object invoke(Object targetObj, String methodName, Object... args)
+			throws NoSuchMethodException, InvocationTargetException, IllegalAccessException {
+		return invoke(null, targetObj, methodName, args);
+	}
+	
+	public static String getAppName(Context context, String packageName) throws NameNotFoundException {
+    	final PackageManager pm = context.getPackageManager();
+    	ApplicationInfo ai = pm.getApplicationInfo(packageName, 0);
+    	return (String) pm.getApplicationLabel(ai);
+	}
+}

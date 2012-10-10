@@ -1,0 +1,13 @@
+import android.app.IntentService;
+import android.content.Intent;
+
+
+public class BatteryIntentService extends IntentService {
+
+	@Override
+	protected void onHandleIntent(Intent intent) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

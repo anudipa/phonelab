@@ -1,0 +1,56 @@
+package com.example.powerstat;
+
+import java.lang.reflect.Field;
+import java.lang.reflect.Method;
+
+import android.os.BatteryManager;
+import android.os.Bundle;
+import android.app.Activity;
+import android.content.BroadcastReceiver;
+import android.content.Context;
+import android.content.Intent;
+import android.content.IntentFilter;
+import android.util.Log;
+import android.view.Menu;
+
+public class MainActivity extends Activity {
+
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        try{
+            Class batterystats = Class.forName("android.internal.app.ActionBarImpl");
+            
+            Log.i("Reflection", "Works");
+            }catch(ClassNotFoundException ex){
+                 	Log.e("Reflection", ex.toString());
+            }catch(Exception ex){
+            	Log.e("Reflection",ex.toString());
+            }
+                
+        BroadcastReceiver batteryReceiver = new BroadcastReceiver() {
+            int state = -1;
+            int level = -1;
+            int temp = -1;
+            int gps = -1;
+            @Override
+            public void onReceive(Context context, Intent intent) {
+                level = intent.getIntExtra(BatteryManager.EXTRA_LEVEL, -1);
+                state = intent.getIntExtra(BatteryManager.EXTRA_PLUGGED, -1);
+                temp = intent.getIntExtra(BatteryManager.EXTRA_TEMPERATURE, -1);
+   
+                
+                Log.i("PowerStat", "level = "+level+", plugged = "+state+", temp = "+temp);
+            }
+        };
+        IntentFilter filter = new IntentFilter(Intent.ACTION_BATTERY_CHANGED);
+        registerReceiver(batteryReceiver, filter);
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.activity_main, menu);
+        return true;
+    }
+}

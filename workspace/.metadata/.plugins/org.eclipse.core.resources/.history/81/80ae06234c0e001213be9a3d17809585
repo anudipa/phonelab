@@ -1,0 +1,90 @@
+package edu.buffalo.cse.phonelab.power;
+
+import java.util.List;
+
+import android.os.Bundle;
+import android.annotation.TargetApi;
+import android.app.Activity;
+import android.app.ActivityManager;
+import android.app.ActivityManager.RunningAppProcessInfo;
+import android.content.Intent;
+import android.util.Log;
+import android.view.Menu;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+
+@TargetApi(16)
+public class StartActivity extends Activity {
+
+	private Button btnStart;
+	private Button btnStop;
+	private Button btnActivity;
+	private ActivityManager mActivity;
+	ActivityManager.MemoryInfo mInfo;
+	
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_start);
+        
+        mInfo = new ActivityManager.MemoryInfo ();
+        mActivity = (ActivityManager) this.getSystemService( ACTIVITY_SERVICE );
+        btnStart = (Button)findViewById(R.id.start);
+        btnStop = (Button)findViewById(R.id.stop);
+        btnActivity = (Button)findViewById(R.id.btActivity);
+        final Intent myIntent = new Intent(this, TestIntentService.class);
+       
+        btnStart.setOnClickListener(new OnClickListener()
+        {
+
+			@Override
+			public void onClick(View v) {
+				Log.i("TAG", "Start Button Clicked");
+				startService(myIntent);
+				
+			}
+        	
+        });
+        
+        btnStop.setOnClickListener(new OnClickListener()
+        {
+
+			@Override
+			public void onClick(View v) {
+				Log.i("TAG", "Stop Button Clicked");
+				stopService(myIntent);
+				
+			}
+        	
+        });
+        
+        
+        btnActivity.setOnClickListener( new OnClickListener()
+        {
+        	public void onClick(View v){
+        		Log.i("RawActivity", "Get Activity Button Clicked");
+        		getActivityData();
+        	}
+        });
+        
+    }
+    
+    public void getActivityData()
+    {
+    	List<ActivityManager.RunningAppProcessInfo> mRunningProcessList = mActivity.getRunningAppProcesses();
+    	for(int i = 0; i < mRunningProcessList.size(); i++ )
+    	{
+    		Log.i("RunningProcessList",mRunningProcessList.get(i).uid + " "+ mRunningProcessList.get(i).pid +" "+mRunningProcessList.get(i).processName + " " +mRunningProcessList.get(i).pkgList );
+    	}
+    	mActivity.getMemoryInfo( mInfo );
+    	Log.i("MemoryInfo", "Available Memory: "+mInfo.availMem+" Total Mmeory Accessible: "+mInfo.totalMem+" Threshold Level: "+mInfo.threshold+" Low on memory? "+mInfo.lowMemory);
+    }
+    
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.activity_start, menu);
+        return true;
+    }
+}

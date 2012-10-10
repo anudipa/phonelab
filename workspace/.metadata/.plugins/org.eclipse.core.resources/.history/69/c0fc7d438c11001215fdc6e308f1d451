@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.buffalo.cse.phonelab.usagemonitor"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="16" />
+
+    <application android:label="@string/app_name"
+        android:icon="@drawable/ic_launcher"
+        android:theme="@style/AppTheme">
+		<service android:name=".BatteryIntentService">
+		    <intent-filter><action android:name="edu.buffalo.cse.phonelab.usagemonitor.service.BatteryIntentService"/></intent-filter>
+		</service>
+    </application>
+
+</manifest>

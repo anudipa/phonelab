@@ -1,0 +1,48 @@
+package edu.buffalo.cse.phonelab.usagemonitor;
+
+import java.lang.reflect.InvocationTargetException;
+
+import edu.buffalo.cse.phonelab.lib.BatteryStatsImpl;
+import edu.buffalo.cse.phonelab.lib.PowerProfile;
+import edu.buffalo.cse.phonelab.lib.ReflectionUtils;
+import android.app.IntentService;
+import android.content.Intent;
+import android.util.Log;
+
+public class BatteryUsageService extends IntentService {
+
+	public BatteryUsageService() {
+		super("BatteryUsageService");
+	}
+
+	@Override
+	protected void onHandleIntent(Intent intent) {
+		String TAG = "BatteryUsageDetails";
+		Log.v(TAG,"Service Started");
+		//Instantiating the objects of phonelablib wrapper classes for further reflection
+		BatteryStatsImpl mStats = new BatteryStatsImpl();
+		PowerProfile mPowerProfile = new PowerProfile(getApplicationContext());
+	
+		try
+		{
+			Object mStatsType = ReflectionUtils.getStaticValue("android.os.BatteryStats", "STATS_SINCE_UNPLUGGED");
+			
+			
+		}catch (NoSuchMethodException e) 
+		{
+			
+			e.printStackTrace();
+		} catch (InvocationTargetException e) 
+		{
+		
+			e.printStackTrace();
+		} catch (IllegalAccessException e) 
+		{
+		
+			e.printStackTrace();
+		}
+		
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;com.android.settings.Settings&apos;" deleteContents="true" description="Delete resource &apos;com.android.settings.Settings&apos;" element1="/com.android.settings.Settings" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1348760573617"/>
+</session>

@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="64dp"
+        android:layout_marginTop="20dp"
+        android:text="Start" />
+
+    <Button
+        android:id="@+id/stop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/start"
+        android:layout_alignBottom="@+id/start"
+        android:layout_marginLeft="28dp"
+        android:layout_toRightOf="@+id/start"
+        android:text="Stop" />
+
+    <Button
+        android:id="@+id/btActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/start"
+        android:layout_alignRight="@+id/stop"
+        android:layout_below="@+id/start"
+        android:layout_marginTop="65dp"
+        android:text="Get Activity Details" />
+
+    <Button
+        android:id="@+id/btConnectivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btActivity"
+        android:layout_alignRight="@+id/btActivity"
+        android:layout_below="@+id/btActivity"
+        android:layout_marginTop="37dp"
+        android:text="Get Connectivity Details" />
+
+    <Button
+        android:id="@+id/btWifi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btConnectivity"
+        android:layout_alignRight="@+id/btConnectivity"
+        android:layout_below="@+id/btConnectivity"
+        android:layout_marginTop="36dp"
+        android:text="Get Wifi Details" />
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/start"
+        android:layout_alignParentTop="true" >
+    </GridLayout>
+
+</RelativeLayout>
